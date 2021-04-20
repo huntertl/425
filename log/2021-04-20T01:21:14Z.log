@@ -1,0 +1,24 @@
+Will not apply HSTS. The HSTS database must be a regular and non-world-writable file.
+ERROR: could not open HSTS store at '/home/hunter/.wget-hsts'. HSTS will be disabled.
+--2021-04-19 21:21:14--  https://www.equityapartments.com/washington-dc/gallery-place-mt-vernon-triangle/425-mass-apartments
+Resolving www.equityapartments.com (www.equityapartments.com)... 192.75.192.40
+Connecting to www.equityapartments.com (www.equityapartments.com)|192.75.192.40|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 612564 (598K) [text/html]
+Saving to: ‘files/2021-04-20T01:21:14Z.html’
+
+     0K .......... .......... .......... .......... ..........  8%  417K 1s
+    50K .......... .......... .......... .......... .......... 16%  681K 1s
+   100K .......... .......... .......... .......... .......... 25%  849K 1s
+   150K .......... .......... .......... .......... .......... 33%  872K 1s
+   200K .......... .......... .......... .......... .......... 41% 1.00M 0s
+   250K .......... .......... .......... .......... .......... 50%  618K 0s
+   300K .......... .......... .......... .......... .......... 58% 1.02M 0s
+   350K .......... .......... .......... .......... .......... 66%  960K 0s
+   400K .......... .......... .......... .......... .......... 75%  653K 0s
+   450K .......... .......... .......... .......... .......... 83%  535K 0s
+   500K .......... .......... .......... .......... .......... 91%  879K 0s
+   550K .......... .......... .......... .......... ........  100% 1.29M=0.8s
+
+2021-04-19 21:21:16 (745 KB/s) - ‘files/2021-04-20T01:21:14Z.html’ saved [612564/612564]
+
