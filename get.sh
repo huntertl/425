@@ -6,4 +6,7 @@ now=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
 
 # wget $url -O files/$now.html -o log/$now.log
 wget $url -O file.html
-curl -s $ia/$url > /dev/null
+#curl -s $ia/$url > /dev/null
+
+#source .venv/bin/activate
+python3 save_json.py
