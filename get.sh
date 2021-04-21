@@ -10,3 +10,5 @@ wget $url -O file.html
 
 #source .venv/bin/activate
 python3 save_json.py
+cat _file.json | jq '.' > file.json
+rm _file.json

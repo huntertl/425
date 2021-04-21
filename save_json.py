@@ -5,7 +5,7 @@ import re
 from pprint import pprint
 
 IN_FILE = "file.html"
-OUT_FILE = "file.json"
+OUT_FILE = "_file.json"
 
 def get_line_from_file(file):
 	global open_tag
@@ -45,4 +45,12 @@ os.remove(IN_FILE)
 # df = pd.concat([pd.DataFrame(x['AvailableUnits']) for x in units['BedroomTypes']])
 # df.sort_values(by=['BuildingId', 'UnitId']).to_csv('table.csv')
 
+
+# prev:
+#    - cron:  '5 0,11,17 * * *'
+#    - cron:  '5 * * * *'
+
+with open(OUT_FILE,'w') as f:
+	# pprint(units, stream=f)
+	f.write(json.dumps(units))
 
