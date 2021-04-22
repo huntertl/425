@@ -553,19 +553,19 @@
             },
             {
               "Length": 6,
-              "Price": 2375
+              "Price": 2380
             },
             {
               "Length": 5,
-              "Price": 2530
+              "Price": 2540
             },
             {
               "Length": 4,
-              "Price": 2695
+              "Price": 2705
             },
             {
               "Length": 3,
-              "Price": 2605
+              "Price": 2610
             }
           ],
           "SqFt": 679,
@@ -788,7 +788,7 @@
             },
             {
               "Length": 6,
-              "Price": 2514
+              "Price": 2509
             },
             {
               "Length": 5,
@@ -869,7 +869,7 @@
             },
             {
               "Length": 6,
-              "Price": 2525
+              "Price": 2520
             },
             {
               "Length": 5,
@@ -999,7 +999,7 @@
             },
             {
               "Length": 6,
-              "Price": 2555
+              "Price": 2550
             },
             {
               "Length": 5,
@@ -1129,7 +1129,7 @@
             },
             {
               "Length": 6,
-              "Price": 2555
+              "Price": 2550
             },
             {
               "Length": 5,
@@ -1502,7 +1502,7 @@
             },
             {
               "Length": 7,
-              "Price": 2985
+              "Price": 2980
             },
             {
               "Length": 6,
@@ -1668,7 +1668,7 @@
             },
             {
               "Length": 7,
-              "Price": 2985
+              "Price": 2980
             },
             {
               "Length": 6,
@@ -1826,11 +1826,11 @@
             },
             {
               "Length": 9,
-              "Price": 3020
+              "Price": 3015
             },
             {
               "Length": 8,
-              "Price": 3300
+              "Price": 3305
             },
             {
               "Length": 7,
@@ -2358,7 +2358,7 @@
             },
             {
               "Length": 7,
-              "Price": 2985
+              "Price": 2980
             },
             {
               "Length": 6,
@@ -2524,7 +2524,7 @@
             },
             {
               "Length": 7,
-              "Price": 2987
+              "Price": 2982
             },
             {
               "Length": 6,
@@ -2678,11 +2678,11 @@
             },
             {
               "Length": 9,
-              "Price": 3197
+              "Price": 3192
             },
             {
               "Length": 8,
-              "Price": 3152
+              "Price": 3137
             },
             {
               "Length": 7,
@@ -2840,7 +2840,7 @@
             },
             {
               "Length": 9,
-              "Price": 2965
+              "Price": 2960
             },
             {
               "Length": 8,
@@ -2848,7 +2848,7 @@
             },
             {
               "Length": 7,
-              "Price": 3060
+              "Price": 3055
             },
             {
               "Length": 6,
@@ -2974,91 +2974,6 @@
               "MediaId": 0
             }
           ],
-          "Zillows": [],
-          "ExcludeFromOll": false,
-          "FurnishAvailable": false
-        },
-        {
-          "LedgerId": "19288",
-          "UnitId": "104A",
-          "BuildingId": "425",
-          "AvailableDate": "6/9/2021",
-          "BestTerm": {
-            "Length": 12,
-            "Price": 2607
-          },
-          "Terms": [
-            {
-              "Length": 12,
-              "Price": 2607
-            },
-            {
-              "Length": 11,
-              "Price": 2647
-            },
-            {
-              "Length": 10,
-              "Price": 2647
-            },
-            {
-              "Length": 9,
-              "Price": 3012
-            },
-            {
-              "Length": 8,
-              "Price": 3032
-            },
-            {
-              "Length": 7,
-              "Price": 2892
-            },
-            {
-              "Length": 6,
-              "Price": 2917
-            },
-            {
-              "Length": 5,
-              "Price": 3012
-            },
-            {
-              "Length": 4,
-              "Price": 3087
-            },
-            {
-              "Length": 3,
-              "Price": 3022
-            }
-          ],
-          "SqFt": 1027,
-          "Bed": 1,
-          "Bath": 1,
-          "FloorplanId": "00002288",
-          "FloorplanName": "One Bedroom B 903",
-          "Floor": "Floor 1",
-          "Description": "This apartment loft style home offers a unique living experience with 18 ft ceilings, floor to ceiling windows, a galley style kitchen plus island, a built in desk, a powder room, and street access through the walk-out patio.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       ",
-          "Amenities": [
-            {
-              "Name": "Private Subterranean Patio",
-              "Icon": ""
-            },
-            {
-              "Name": "Southern Exposure",
-              "Icon": ""
-            },
-            {
-              "Name": "Two Level Loft-style",
-              "Icon": ""
-            }
-          ],
-          "Special": {
-            "Active": false,
-            "Title": null,
-            "Expires": null
-          },
-          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto/3938-FP-00002288-1-1-903",
-          "Photos": [],
-          "Videos": [],
-          "Matterports": [],
           "Zillows": [],
           "ExcludeFromOll": false,
           "FurnishAvailable": false
@@ -3227,6 +3142,91 @@
         },
         {
           "LedgerId": "19288",
+          "UnitId": "104A",
+          "BuildingId": "425",
+          "AvailableDate": "6/9/2021",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 2612
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 2612
+            },
+            {
+              "Length": 11,
+              "Price": 2652
+            },
+            {
+              "Length": 10,
+              "Price": 2652
+            },
+            {
+              "Length": 9,
+              "Price": 3012
+            },
+            {
+              "Length": 8,
+              "Price": 3032
+            },
+            {
+              "Length": 7,
+              "Price": 2892
+            },
+            {
+              "Length": 6,
+              "Price": 2922
+            },
+            {
+              "Length": 5,
+              "Price": 3022
+            },
+            {
+              "Length": 4,
+              "Price": 3097
+            },
+            {
+              "Length": 3,
+              "Price": 3032
+            }
+          ],
+          "SqFt": 1027,
+          "Bed": 1,
+          "Bath": 1,
+          "FloorplanId": "00002288",
+          "FloorplanName": "One Bedroom B 903",
+          "Floor": "Floor 1",
+          "Description": "This apartment loft style home offers a unique living experience with 18 ft ceilings, floor to ceiling windows, a galley style kitchen plus island, a built in desk, a powder room, and street access through the walk-out patio.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       ",
+          "Amenities": [
+            {
+              "Name": "Private Subterranean Patio",
+              "Icon": ""
+            },
+            {
+              "Name": "Southern Exposure",
+              "Icon": ""
+            },
+            {
+              "Name": "Two Level Loft-style",
+              "Icon": ""
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto/3938-FP-00002288-1-1-903",
+          "Photos": [],
+          "Videos": [],
+          "Matterports": [],
+          "Zillows": [],
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "401",
           "BuildingId": "401",
           "AvailableDate": "4/22/2021",
@@ -3346,11 +3346,11 @@
             },
             {
               "Length": 9,
-              "Price": 3141
+              "Price": 3136
             },
             {
               "Length": 8,
-              "Price": 3006
+              "Price": 2991
             },
             {
               "Length": 7,
@@ -3498,28 +3498,28 @@
           "AvailableDate": "4/22/2021",
           "BestTerm": {
             "Length": 12,
-            "Price": 3179
+            "Price": 3164
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 3179
+              "Price": 3164
             },
             {
               "Length": 11,
-              "Price": 3239
+              "Price": 3224
             },
             {
               "Length": 10,
-              "Price": 3239
+              "Price": 3224
             },
             {
               "Length": 9,
-              "Price": 3409
+              "Price": 3404
             },
             {
               "Length": 8,
-              "Price": 3329
+              "Price": 3324
             },
             {
               "Length": 7,
@@ -3773,20 +3773,20 @@
           "AvailableDate": "7/3/2021",
           "BestTerm": {
             "Length": 12,
-            "Price": 3350
+            "Price": 3345
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 3350
+              "Price": 3345
             },
             {
               "Length": 11,
-              "Price": 3415
+              "Price": 3410
             },
             {
               "Length": 10,
-              "Price": 3415
+              "Price": 3410
             },
             {
               "Length": 9,
@@ -3866,20 +3866,20 @@
           "AvailableDate": "5/6/2021",
           "BestTerm": {
             "Length": 12,
-            "Price": 3384
+            "Price": 3369
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 3384
+              "Price": 3369
             },
             {
               "Length": 11,
-              "Price": 3444
+              "Price": 3429
             },
             {
               "Length": 10,
-              "Price": 3444
+              "Price": 3429
             },
             {
               "Length": 9,
@@ -3887,7 +3887,7 @@
             },
             {
               "Length": 8,
-              "Price": 3564
+              "Price": 3574
             },
             {
               "Length": 7,
@@ -4074,28 +4074,28 @@
           "AvailableDate": "4/22/2021",
           "BestTerm": {
             "Length": 12,
-            "Price": 3481
+            "Price": 3466
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 3481
+              "Price": 3466
             },
             {
               "Length": 11,
-              "Price": 3541
+              "Price": 3526
             },
             {
               "Length": 10,
-              "Price": 3541
+              "Price": 3526
             },
             {
               "Length": 9,
-              "Price": 3711
+              "Price": 3706
             },
             {
               "Length": 8,
-              "Price": 3631
+              "Price": 3626
             },
             {
               "Length": 7,
@@ -4167,20 +4167,20 @@
           "AvailableDate": "5/7/2021",
           "BestTerm": {
             "Length": 12,
-            "Price": 3524
+            "Price": 3509
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 3524
+              "Price": 3509
             },
             {
               "Length": 11,
-              "Price": 3584
+              "Price": 3569
             },
             {
               "Length": 10,
-              "Price": 3584
+              "Price": 3569
             },
             {
               "Length": 9,
@@ -4188,7 +4188,7 @@
             },
             {
               "Length": 8,
-              "Price": 3704
+              "Price": 3714
             },
             {
               "Length": 7,
@@ -4260,20 +4260,20 @@
           "AvailableDate": "7/7/2021",
           "BestTerm": {
             "Length": 12,
-            "Price": 3723
+            "Price": 3718
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 3723
+              "Price": 3718
             },
             {
               "Length": 11,
-              "Price": 3788
+              "Price": 3783
             },
             {
               "Length": 10,
-              "Price": 3788
+              "Price": 3783
             },
             {
               "Length": 9,
