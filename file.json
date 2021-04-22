@@ -3483,6 +3483,87 @@
           "Zillows": [],
           "ExcludeFromOll": false,
           "FurnishAvailable": false
+        },
+        {
+          "LedgerId": "19288",
+          "UnitId": "PH203",
+          "BuildingId": "401",
+          "AvailableDate": "5/20/2021",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 2953
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 2953
+            },
+            {
+              "Length": 11,
+              "Price": 3003
+            },
+            {
+              "Length": 10,
+              "Price": 3003
+            },
+            {
+              "Length": 9,
+              "Price": 3278
+            },
+            {
+              "Length": 8,
+              "Price": 3628
+            },
+            {
+              "Length": 7,
+              "Price": 3458
+            },
+            {
+              "Length": 6,
+              "Price": 3488
+            },
+            {
+              "Length": 5,
+              "Price": 3583
+            },
+            {
+              "Length": 4,
+              "Price": 3583
+            },
+            {
+              "Length": 3,
+              "Price": 3583
+            }
+          ],
+          "SqFt": 1050,
+          "Bed": 1,
+          "Bath": 2,
+          "FloorplanId": "00002659",
+          "FloorplanName": "Unit PH203 -J",
+          "Floor": "Penthouse",
+          "Description": "This 1 Bed with Den/ 1 Bath home offers a living room with floor to ceiling windows, an open style kitchen with breakfast bar and an outdoor terrace that spans across the entire home.",
+          "Amenities": [
+            {
+              "Name": "Large Private Terrace",
+              "Icon": ""
+            },
+            {
+              "Name": "Southern Exposure",
+              "Icon": ""
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto/3938-FP-00002659-1-2-962",
+          "Photos": [],
+          "Videos": [],
+          "Matterports": [],
+          "Zillows": [],
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false
         }
       ]
     },
