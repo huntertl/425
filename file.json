@@ -673,6 +673,87 @@
         },
         {
           "LedgerId": "19288",
+          "UnitId": "PH115",
+          "BuildingId": "401",
+          "AvailableDate": "5/8/2021",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 2050
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 2050
+            },
+            {
+              "Length": 11,
+              "Price": 2090
+            },
+            {
+              "Length": 10,
+              "Price": 2090
+            },
+            {
+              "Length": 9,
+              "Price": 2540
+            },
+            {
+              "Length": 8,
+              "Price": 2555
+            },
+            {
+              "Length": 7,
+              "Price": 2400
+            },
+            {
+              "Length": 6,
+              "Price": 2395
+            },
+            {
+              "Length": 5,
+              "Price": 2425
+            },
+            {
+              "Length": 4,
+              "Price": 2480
+            },
+            {
+              "Length": 3,
+              "Price": 2410
+            }
+          ],
+          "SqFt": 655,
+          "Bed": 1,
+          "Bath": 1,
+          "FloorplanId": "00002655",
+          "FloorplanName": "Unit 415",
+          "Floor": "Floor 13",
+          "Description": "This Junior apartment home offers a living space featuring a bed nook with oversized sliding door. The home has a galley style kitchen, generous closet space, and a balcony off of the living room.",
+          "Amenities": [
+            {
+              "Name": "Juliet Balcony",
+              "Icon": ""
+            },
+            {
+              "Name": "Northern Exposure",
+              "Icon": ""
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto/3938-FP-00002655-1-1-655",
+          "Photos": [],
+          "Videos": [],
+          "Matterports": [],
+          "Zillows": [],
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "708",
           "BuildingId": "401",
           "AvailableDate": "7/2/2021",
