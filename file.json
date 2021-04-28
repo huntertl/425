@@ -29,19 +29,19 @@
             },
             {
               "Length": 9,
-              "Price": 1800
+              "Price": 1780
             },
             {
               "Length": 8,
-              "Price": 1810
+              "Price": 1790
             },
             {
               "Length": 7,
-              "Price": 1695
+              "Price": 1680
             },
             {
               "Length": 6,
-              "Price": 1725
+              "Price": 1710
             },
             {
               "Length": 5,
@@ -89,20 +89,20 @@
           "AvailableDate": "5/21/2021",
           "BestTerm": {
             "Length": 12,
-            "Price": 1620
+            "Price": 1615
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 1620
+              "Price": 1615
             },
             {
               "Length": 11,
-              "Price": 1650
+              "Price": 1645
             },
             {
               "Length": 10,
-              "Price": 1650
+              "Price": 1645
             },
             {
               "Length": 9,
@@ -187,19 +187,19 @@
             },
             {
               "Length": 9,
-              "Price": 2032
+              "Price": 2012
             },
             {
               "Length": 8,
-              "Price": 2042
+              "Price": 2022
             },
             {
               "Length": 7,
-              "Price": 1927
+              "Price": 1912
             },
             {
               "Length": 6,
-              "Price": 1957
+              "Price": 1942
             },
             {
               "Length": 5,
@@ -264,19 +264,19 @@
             },
             {
               "Length": 9,
-              "Price": 2065
+              "Price": 2045
             },
             {
               "Length": 8,
-              "Price": 2075
+              "Price": 2055
             },
             {
               "Length": 7,
-              "Price": 1960
+              "Price": 1945
             },
             {
               "Length": 6,
-              "Price": 1990
+              "Price": 1975
             },
             {
               "Length": 5,
@@ -399,19 +399,19 @@
             },
             {
               "Length": 9,
-              "Price": 2138
+              "Price": 2118
             },
             {
               "Length": 8,
-              "Price": 2148
+              "Price": 2128
             },
             {
               "Length": 7,
-              "Price": 2033
+              "Price": 2018
             },
             {
               "Length": 6,
-              "Price": 2063
+              "Price": 2048
             },
             {
               "Length": 5,
@@ -519,9 +519,9 @@
       "AvailableUnits": [
         {
           "LedgerId": "19288",
-          "UnitId": "902",
+          "UnitId": "1102",
           "BuildingId": "401",
-          "AvailableDate": "6/18/2021",
+          "AvailableDate": "5/6/2021",
           "BestTerm": {
             "Length": 12,
             "Price": 2030
@@ -538,83 +538,6 @@
             {
               "Length": 10,
               "Price": 2070
-            },
-            {
-              "Length": 9,
-              "Price": 2295
-            },
-            {
-              "Length": 8,
-              "Price": 2430
-            },
-            {
-              "Length": 7,
-              "Price": 2325
-            },
-            {
-              "Length": 6,
-              "Price": 2365
-            },
-            {
-              "Length": 5,
-              "Price": 2495
-            },
-            {
-              "Length": 4,
-              "Price": 2450
-            },
-            {
-              "Length": 3,
-              "Price": 2480
-            }
-          ],
-          "SqFt": 679,
-          "Bed": 1,
-          "Bath": 1,
-          "FloorplanId": "00002643",
-          "FloorplanName": "Unit 402",
-          "Floor": "Floor 9",
-          "Description": "This Junior apartment/ 1 Bath home offers a living space featuring a bed nook with oversized sliding door. The home has a galley style kitchen, generous closet space and depending on the floor, a Juliette balcony off of the living room.",
-          "Amenities": [
-            {
-              "Name": "Southern Exposure",
-              "Icon": ""
-            }
-          ],
-          "Special": {
-            "Active": false,
-            "Title": null,
-            "Expires": null
-          },
-          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002643-1-1-679",
-          "Photos": [],
-          "Videos": [],
-          "Matterports": [],
-          "Zillows": [],
-          "ExcludeFromOll": false,
-          "FurnishAvailable": false
-        },
-        {
-          "LedgerId": "19288",
-          "UnitId": "1102",
-          "BuildingId": "401",
-          "AvailableDate": "5/6/2021",
-          "BestTerm": {
-            "Length": 12,
-            "Price": 2035
-          },
-          "Terms": [
-            {
-              "Length": 12,
-              "Price": 2035
-            },
-            {
-              "Length": 11,
-              "Price": 2075
-            },
-            {
-              "Length": 10,
-              "Price": 2075
             },
             {
               "Length": 9,
@@ -673,29 +596,106 @@
         },
         {
           "LedgerId": "19288",
+          "UnitId": "902",
+          "BuildingId": "401",
+          "AvailableDate": "6/18/2021",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 2030
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 2030
+            },
+            {
+              "Length": 11,
+              "Price": 2070
+            },
+            {
+              "Length": 10,
+              "Price": 2070
+            },
+            {
+              "Length": 9,
+              "Price": 2295
+            },
+            {
+              "Length": 8,
+              "Price": 2445
+            },
+            {
+              "Length": 7,
+              "Price": 2325
+            },
+            {
+              "Length": 6,
+              "Price": 2355
+            },
+            {
+              "Length": 5,
+              "Price": 2470
+            },
+            {
+              "Length": 4,
+              "Price": 2505
+            },
+            {
+              "Length": 3,
+              "Price": 2455
+            }
+          ],
+          "SqFt": 679,
+          "Bed": 1,
+          "Bath": 1,
+          "FloorplanId": "00002643",
+          "FloorplanName": "Unit 402",
+          "Floor": "Floor 9",
+          "Description": "This Junior apartment/ 1 Bath home offers a living space featuring a bed nook with oversized sliding door. The home has a galley style kitchen, generous closet space and depending on the floor, a Juliette balcony off of the living room.",
+          "Amenities": [
+            {
+              "Name": "Southern Exposure",
+              "Icon": ""
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002643-1-1-679",
+          "Photos": [],
+          "Videos": [],
+          "Matterports": [],
+          "Zillows": [],
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "308",
           "BuildingId": "401",
           "AvailableDate": "7/9/2021",
           "BestTerm": {
             "Length": 12,
-            "Price": 2057
+            "Price": 2052
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 2057
+              "Price": 2052
             },
             {
               "Length": 11,
-              "Price": 2097
+              "Price": 2092
             },
             {
               "Length": 10,
-              "Price": 2097
+              "Price": 2092
             },
             {
               "Length": 9,
-              "Price": 2297
+              "Price": 2292
             },
             {
               "Length": 8,
@@ -728,7 +728,7 @@
           "FloorplanId": "00002647",
           "FloorplanName": "Unit 406/408",
           "Floor": "Floor 3",
-          "Description": "This apartment home offers a living room with floor to ceiling windows, a built-in bookcase and a kitchen that opens out to the living room! The bedroom is spacious queen bed and features a step-in closet and an attached balcony.",
+          "Description": "This apartment home offers a living room with floor to ceiling windows, a built-in bookcase and a kitchen that opens out to the living room! The bedroom is spacious queen bed and features a step-in closet and an attached balcony.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 ",
           "Amenities": [
             {
               "Name": "Balcony",
@@ -759,20 +759,20 @@
           "AvailableDate": "5/8/2021",
           "BestTerm": {
             "Length": 12,
-            "Price": 2080
+            "Price": 2075
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 2080
+              "Price": 2075
             },
             {
               "Length": 11,
-              "Price": 2120
+              "Price": 2115
             },
             {
               "Length": 10,
-              "Price": 2120
+              "Price": 2115
             },
             {
               "Length": 9,
@@ -840,28 +840,28 @@
           "AvailableDate": "7/2/2021",
           "BestTerm": {
             "Length": 12,
-            "Price": 2113
+            "Price": 2108
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 2113
+              "Price": 2108
             },
             {
               "Length": 11,
-              "Price": 2153
+              "Price": 2148
             },
             {
               "Length": 10,
-              "Price": 2153
+              "Price": 2148
             },
             {
               "Length": 9,
-              "Price": 2293
+              "Price": 2288
             },
             {
               "Length": 8,
-              "Price": 2358
+              "Price": 2368
             },
             {
               "Length": 7,
@@ -873,15 +873,15 @@
             },
             {
               "Length": 5,
-              "Price": 2788
+              "Price": 2778
             },
             {
               "Length": 4,
-              "Price": 2823
+              "Price": 2853
             },
             {
               "Length": 3,
-              "Price": 2778
+              "Price": 2768
             }
           ],
           "SqFt": 702,
@@ -921,20 +921,20 @@
           "AvailableDate": "4/28/2021",
           "BestTerm": {
             "Length": 12,
-            "Price": 2189
+            "Price": 2184
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 2189
+              "Price": 2184
             },
             {
               "Length": 11,
-              "Price": 2229
+              "Price": 2224
             },
             {
               "Length": 10,
-              "Price": 2229
+              "Price": 2224
             },
             {
               "Length": 9,
@@ -1002,20 +1002,20 @@
           "AvailableDate": "4/28/2021",
           "BestTerm": {
             "Length": 12,
-            "Price": 2200
+            "Price": 2195
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 2200
+              "Price": 2195
             },
             {
               "Length": 11,
-              "Price": 2240
+              "Price": 2235
             },
             {
               "Length": 10,
-              "Price": 2240
+              "Price": 2235
             },
             {
               "Length": 9,
@@ -1132,20 +1132,20 @@
           "AvailableDate": "4/28/2021",
           "BestTerm": {
             "Length": 12,
-            "Price": 2230
+            "Price": 2225
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 2230
+              "Price": 2225
             },
             {
               "Length": 11,
-              "Price": 2270
+              "Price": 2265
             },
             {
               "Length": 10,
-              "Price": 2270
+              "Price": 2265
             },
             {
               "Length": 9,
@@ -1262,20 +1262,20 @@
           "AvailableDate": "4/28/2021",
           "BestTerm": {
             "Length": 12,
-            "Price": 2230
+            "Price": 2225
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 2230
+              "Price": 2225
             },
             {
               "Length": 11,
-              "Price": 2270
+              "Price": 2265
             },
             {
               "Length": 10,
-              "Price": 2270
+              "Price": 2265
             },
             {
               "Length": 9,
@@ -1392,36 +1392,36 @@
           "AvailableDate": "4/28/2021",
           "BestTerm": {
             "Length": 12,
-            "Price": 2315
+            "Price": 2305
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 2315
+              "Price": 2305
             },
             {
               "Length": 11,
-              "Price": 2360
+              "Price": 2350
             },
             {
               "Length": 10,
-              "Price": 2360
+              "Price": 2350
             },
             {
               "Length": 9,
-              "Price": 2935
+              "Price": 2925
             },
             {
               "Length": 8,
-              "Price": 2955
+              "Price": 2950
             },
             {
               "Length": 7,
-              "Price": 2775
+              "Price": 2765
             },
             {
               "Length": 6,
-              "Price": 2815
+              "Price": 2810
             },
             {
               "Length": 5,
@@ -1558,36 +1558,36 @@
           "AvailableDate": "5/29/2021",
           "BestTerm": {
             "Length": 12,
-            "Price": 2340
+            "Price": 2325
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 2340
+              "Price": 2325
             },
             {
               "Length": 11,
-              "Price": 2390
+              "Price": 2375
             },
             {
               "Length": 10,
-              "Price": 2390
+              "Price": 2375
             },
             {
               "Length": 9,
-              "Price": 2715
+              "Price": 2740
             },
             {
               "Length": 8,
-              "Price": 2815
+              "Price": 2810
             },
             {
               "Length": 7,
-              "Price": 2705
+              "Price": 2700
             },
             {
               "Length": 6,
-              "Price": 2760
+              "Price": 2755
             },
             {
               "Length": 5,
@@ -1639,36 +1639,36 @@
           "AvailableDate": "5/20/2021",
           "BestTerm": {
             "Length": 12,
-            "Price": 2485
+            "Price": 2475
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 2485
+              "Price": 2475
             },
             {
               "Length": 11,
-              "Price": 2535
+              "Price": 2525
             },
             {
               "Length": 10,
-              "Price": 2535
+              "Price": 2525
             },
             {
               "Length": 9,
-              "Price": 2890
+              "Price": 2900
             },
             {
               "Length": 8,
-              "Price": 3160
+              "Price": 3135
             },
             {
               "Length": 7,
-              "Price": 3000
+              "Price": 2990
             },
             {
               "Length": 6,
-              "Price": 3020
+              "Price": 3015
             },
             {
               "Length": 5,
@@ -1805,36 +1805,36 @@
           "AvailableDate": "5/22/2021",
           "BestTerm": {
             "Length": 12,
-            "Price": 2485
+            "Price": 2475
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 2485
+              "Price": 2475
             },
             {
               "Length": 11,
-              "Price": 2535
+              "Price": 2525
             },
             {
               "Length": 10,
-              "Price": 2535
+              "Price": 2525
             },
             {
               "Length": 9,
-              "Price": 2890
+              "Price": 2900
             },
             {
               "Length": 8,
-              "Price": 3160
+              "Price": 3135
             },
             {
               "Length": 7,
-              "Price": 3000
+              "Price": 2990
             },
             {
               "Length": 6,
-              "Price": 3020
+              "Price": 3015
             },
             {
               "Length": 5,
@@ -1971,36 +1971,36 @@
           "AvailableDate": "5/13/2021",
           "BestTerm": {
             "Length": 12,
-            "Price": 2535
+            "Price": 2525
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 2535
+              "Price": 2525
             },
             {
               "Length": 11,
-              "Price": 2580
+              "Price": 2570
             },
             {
               "Length": 10,
-              "Price": 2580
+              "Price": 2570
             },
             {
               "Length": 9,
-              "Price": 3085
+              "Price": 3080
             },
             {
               "Length": 8,
-              "Price": 3315
+              "Price": 3285
             },
             {
               "Length": 7,
-              "Price": 3155
+              "Price": 3140
             },
             {
               "Length": 6,
-              "Price": 3150
+              "Price": 3140
             },
             {
               "Length": 5,
@@ -2137,36 +2137,36 @@
           "AvailableDate": "4/28/2021",
           "BestTerm": {
             "Length": 12,
-            "Price": 2560
+            "Price": 2550
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 2560
+              "Price": 2550
             },
             {
               "Length": 11,
-              "Price": 2605
+              "Price": 2595
             },
             {
               "Length": 10,
-              "Price": 2605
+              "Price": 2595
             },
             {
               "Length": 9,
-              "Price": 3180
+              "Price": 3170
             },
             {
               "Length": 8,
-              "Price": 3200
+              "Price": 3195
             },
             {
               "Length": 7,
-              "Price": 3020
+              "Price": 3010
             },
             {
               "Length": 6,
-              "Price": 3060
+              "Price": 3055
             },
             {
               "Length": 5,
@@ -2333,36 +2333,36 @@
           "AvailableDate": "6/11/2021",
           "BestTerm": {
             "Length": 12,
-            "Price": 2565
+            "Price": 2555
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 2565
+              "Price": 2555
             },
             {
               "Length": 11,
-              "Price": 2615
+              "Price": 2605
             },
             {
               "Length": 10,
-              "Price": 2615
+              "Price": 2605
             },
             {
               "Length": 9,
-              "Price": 3060
+              "Price": 3120
             },
             {
               "Length": 8,
-              "Price": 2930
+              "Price": 2920
             },
             {
               "Length": 7,
-              "Price": 3000
+              "Price": 2990
             },
             {
               "Length": 6,
-              "Price": 3020
+              "Price": 3015
             },
             {
               "Length": 5,
@@ -2499,20 +2499,20 @@
           "AvailableDate": "7/9/2021",
           "BestTerm": {
             "Length": 12,
-            "Price": 2592
+            "Price": 2582
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 2592
+              "Price": 2582
             },
             {
               "Length": 11,
-              "Price": 2642
+              "Price": 2632
             },
             {
               "Length": 10,
-              "Price": 2642
+              "Price": 2632
             },
             {
               "Length": 9,
@@ -2528,7 +2528,7 @@
             },
             {
               "Length": 6,
-              "Price": 3317
+              "Price": 3312
             },
             {
               "Length": 5,
@@ -2661,36 +2661,36 @@
           "AvailableDate": "6/17/2021",
           "BestTerm": {
             "Length": 12,
-            "Price": 2625
+            "Price": 2615
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 2625
+              "Price": 2615
             },
             {
               "Length": 11,
-              "Price": 2675
+              "Price": 2665
             },
             {
               "Length": 10,
-              "Price": 2675
+              "Price": 2665
             },
             {
               "Length": 9,
-              "Price": 3135
+              "Price": 3200
             },
             {
               "Length": 8,
-              "Price": 2995
+              "Price": 2985
             },
             {
               "Length": 7,
-              "Price": 3075
+              "Price": 3065
             },
             {
               "Length": 6,
-              "Price": 3110
+              "Price": 3105
             },
             {
               "Length": 5,
@@ -2823,36 +2823,36 @@
           "AvailableDate": "6/3/2021",
           "BestTerm": {
             "Length": 12,
-            "Price": 2635
+            "Price": 2625
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 2635
+              "Price": 2625
             },
             {
               "Length": 11,
-              "Price": 2685
+              "Price": 2675
             },
             {
               "Length": 10,
-              "Price": 2685
+              "Price": 2675
             },
             {
               "Length": 9,
-              "Price": 3025
+              "Price": 3070
             },
             {
               "Length": 8,
-              "Price": 2975
-            },
-            {
-              "Length": 7,
               "Price": 2970
             },
             {
+              "Length": 7,
+              "Price": 2965
+            },
+            {
               "Length": 6,
-              "Price": 3025
+              "Price": 3020
             },
             {
               "Length": 5,
@@ -2985,20 +2985,20 @@
           "AvailableDate": "6/9/2021",
           "BestTerm": {
             "Length": 12,
-            "Price": 2637
+            "Price": 2632
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 2637
+              "Price": 2632
             },
             {
               "Length": 11,
-              "Price": 2677
+              "Price": 2672
             },
             {
               "Length": 10,
-              "Price": 2677
+              "Price": 2672
             },
             {
               "Length": 9,
@@ -3018,15 +3018,15 @@
             },
             {
               "Length": 5,
-              "Price": 3027
+              "Price": 3022
             },
             {
               "Length": 4,
-              "Price": 3012
+              "Price": 3007
             },
             {
               "Length": 3,
-              "Price": 3017
+              "Price": 3012
             }
           ],
           "SqFt": 1027,
@@ -3070,36 +3070,36 @@
           "AvailableDate": "4/28/2021",
           "BestTerm": {
             "Length": 12,
-            "Price": 2675
+            "Price": 2665
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 2675
+              "Price": 2665
             },
             {
               "Length": 11,
-              "Price": 2720
+              "Price": 2710
             },
             {
               "Length": 10,
-              "Price": 2720
+              "Price": 2710
             },
             {
               "Length": 9,
-              "Price": 3295
+              "Price": 3285
             },
             {
               "Length": 8,
-              "Price": 3315
+              "Price": 3310
             },
             {
               "Length": 7,
-              "Price": 3135
+              "Price": 3125
             },
             {
               "Length": 6,
-              "Price": 3175
+              "Price": 3170
             },
             {
               "Length": 5,
@@ -3174,20 +3174,20 @@
           "AvailableDate": "7/3/2021",
           "BestTerm": {
             "Length": 12,
-            "Price": 3151
+            "Price": 3141
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 3151
+              "Price": 3141
             },
             {
               "Length": 11,
-              "Price": 3216
+              "Price": 3206
             },
             {
               "Length": 10,
-              "Price": 3216
+              "Price": 3206
             },
             {
               "Length": 9,
@@ -3207,7 +3207,7 @@
             },
             {
               "Length": 5,
-              "Price": 3851
+              "Price": 3971
             },
             {
               "Length": 4,
@@ -3259,24 +3259,24 @@
           "AvailableDate": "4/28/2021",
           "BestTerm": {
             "Length": 12,
-            "Price": 3194
+            "Price": 3189
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 3194
+              "Price": 3189
             },
             {
               "Length": 11,
-              "Price": 3254
+              "Price": 3249
             },
             {
               "Length": 10,
-              "Price": 3254
+              "Price": 3249
             },
             {
               "Length": 9,
-              "Price": 3569
+              "Price": 3409
             },
             {
               "Length": 8,
@@ -3352,20 +3352,20 @@
           "AvailableDate": "7/3/2021",
           "BestTerm": {
             "Length": 12,
-            "Price": 3330
+            "Price": 3320
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 3330
+              "Price": 3320
             },
             {
               "Length": 11,
-              "Price": 3395
+              "Price": 3385
             },
             {
               "Length": 10,
-              "Price": 3395
+              "Price": 3385
             },
             {
               "Length": 9,
@@ -3385,7 +3385,7 @@
             },
             {
               "Length": 5,
-              "Price": 4030
+              "Price": 4150
             },
             {
               "Length": 4,
@@ -3445,28 +3445,28 @@
           "AvailableDate": "5/6/2021",
           "BestTerm": {
             "Length": 12,
-            "Price": 3359
+            "Price": 3349
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 3359
+              "Price": 3349
             },
             {
               "Length": 11,
-              "Price": 3419
+              "Price": 3409
             },
             {
               "Length": 10,
-              "Price": 3419
+              "Price": 3409
             },
             {
               "Length": 9,
-              "Price": 3709
+              "Price": 3624
             },
             {
               "Length": 8,
-              "Price": 3549
+              "Price": 3469
             },
             {
               "Length": 7,
@@ -3555,11 +3555,11 @@
             },
             {
               "Length": 9,
-              "Price": 3685
+              "Price": 3665
             },
             {
               "Length": 8,
-              "Price": 3655
+              "Price": 3645
             },
             {
               "Length": 7,
@@ -3653,28 +3653,28 @@
           "AvailableDate": "5/7/2021",
           "BestTerm": {
             "Length": 12,
-            "Price": 3499
+            "Price": 3489
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 3499
+              "Price": 3489
             },
             {
               "Length": 11,
-              "Price": 3559
+              "Price": 3549
             },
             {
               "Length": 10,
-              "Price": 3559
+              "Price": 3549
             },
             {
               "Length": 9,
-              "Price": 3849
+              "Price": 3764
             },
             {
               "Length": 8,
-              "Price": 3689
+              "Price": 3609
             },
             {
               "Length": 7,
@@ -3746,20 +3746,20 @@
           "AvailableDate": "7/7/2021",
           "BestTerm": {
             "Length": 12,
-            "Price": 3703
+            "Price": 3693
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 3703
+              "Price": 3693
             },
             {
               "Length": 11,
-              "Price": 3768
+              "Price": 3758
             },
             {
               "Length": 10,
-              "Price": 3768
+              "Price": 3758
             },
             {
               "Length": 9,
@@ -3779,7 +3779,7 @@
             },
             {
               "Length": 5,
-              "Price": 4403
+              "Price": 4523
             },
             {
               "Length": 4,
@@ -3856,11 +3856,11 @@
             },
             {
               "Length": 9,
-              "Price": 4010
+              "Price": 3995
             },
             {
               "Length": 8,
-              "Price": 3980
+              "Price": 3970
             },
             {
               "Length": 7,
@@ -3876,7 +3876,7 @@
             },
             {
               "Length": 4,
-              "Price": 4790
+              "Price": 4780
             },
             {
               "Length": 3,
@@ -3971,11 +3971,11 @@
             },
             {
               "Length": 9,
-              "Price": 3950
+              "Price": 3940
             },
             {
               "Length": 8,
-              "Price": 3895
+              "Price": 3885
             },
             {
               "Length": 7,
@@ -3987,11 +3987,11 @@
             },
             {
               "Length": 5,
-              "Price": 4615
+              "Price": 4600
             },
             {
               "Length": 4,
-              "Price": 4585
+              "Price": 4580
             },
             {
               "Length": 3,
@@ -4150,11 +4150,11 @@
             },
             {
               "Length": 9,
-              "Price": 3958
+              "Price": 3943
             },
             {
               "Length": 8,
-              "Price": 3913
+              "Price": 3908
             },
             {
               "Length": 7,
@@ -4166,11 +4166,11 @@
             },
             {
               "Length": 5,
-              "Price": 4618
+              "Price": 4608
             },
             {
               "Length": 4,
-              "Price": 4628
+              "Price": 4613
             },
             {
               "Length": 3,
@@ -4265,11 +4265,11 @@
             },
             {
               "Length": 9,
-              "Price": 4058
+              "Price": 4038
             },
             {
               "Length": 8,
-              "Price": 4028
+              "Price": 4018
             },
             {
               "Length": 7,
