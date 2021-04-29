@@ -7,6 +7,87 @@
       "AvailableUnits": [
         {
           "LedgerId": "19288",
+          "UnitId": "612",
+          "BuildingId": "401",
+          "AvailableDate": "5/29/2021",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 1573
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 1573
+            },
+            {
+              "Length": 11,
+              "Price": 1603
+            },
+            {
+              "Length": 10,
+              "Price": 1603
+            },
+            {
+              "Length": 9,
+              "Price": 1778
+            },
+            {
+              "Length": 8,
+              "Price": 1788
+            },
+            {
+              "Length": 7,
+              "Price": 1678
+            },
+            {
+              "Length": 6,
+              "Price": 1708
+            },
+            {
+              "Length": 5,
+              "Price": 1808
+            },
+            {
+              "Length": 4,
+              "Price": 1808
+            },
+            {
+              "Length": 3,
+              "Price": 1808
+            }
+          ],
+          "SqFt": 468,
+          "Bed": 0,
+          "Bath": 1,
+          "FloorplanId": "00002652",
+          "FloorplanName": "Unit 412",
+          "Floor": "Floor 6",
+          "Description": "This Studio home features a fluid living space with two closets, a galley style kitchen, floor to ceiling windows overlooking our private courtyard, and additional storage space in the bathroom.",
+          "Amenities": [
+            {
+              "Name": "Northern Exposure",
+              "Icon": ""
+            },
+            {
+              "Name": "Western Exposure",
+              "Icon": ""
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002652-0-1-485",
+          "Photos": [],
+          "Videos": [],
+          "Matterports": [],
+          "Zillows": [],
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "220B",
           "BuildingId": "425",
           "AvailableDate": "5/5/2021",
