@@ -7,6 +7,83 @@
       "AvailableUnits": [
         {
           "LedgerId": "19288",
+          "UnitId": "220B",
+          "BuildingId": "425",
+          "AvailableDate": "5/5/2021",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 1545
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 1545
+            },
+            {
+              "Length": 11,
+              "Price": 1575
+            },
+            {
+              "Length": 10,
+              "Price": 1575
+            },
+            {
+              "Length": 9,
+              "Price": 1720
+            },
+            {
+              "Length": 8,
+              "Price": 1730
+            },
+            {
+              "Length": 7,
+              "Price": 1630
+            },
+            {
+              "Length": 6,
+              "Price": 1675
+            },
+            {
+              "Length": 5,
+              "Price": 1815
+            },
+            {
+              "Length": 4,
+              "Price": 1900
+            },
+            {
+              "Length": 3,
+              "Price": 1815
+            }
+          ],
+          "SqFt": 497,
+          "Bed": 0,
+          "Bath": 1,
+          "FloorplanId": "00002282",
+          "FloorplanName": "Studio B 497",
+          "Floor": "Floor 2",
+          "Description": "This Studio/ 1 Bath home offers a spacious living area with floor to ceiling windows, a galley style kitchen, walk-in closet and a stand-in shower in the bathroom.",
+          "Amenities": [
+            {
+              "Name": "Northern Exposure",
+              "Icon": ""
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002282-0-1-497",
+          "Photos": [],
+          "Videos": [],
+          "Matterports": [],
+          "Zillows": [],
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "612",
           "BuildingId": "401",
           "AvailableDate": "5/29/2021",
@@ -79,83 +156,6 @@
             "Expires": null
           },
           "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002652-0-1-485",
-          "Photos": [],
-          "Videos": [],
-          "Matterports": [],
-          "Zillows": [],
-          "ExcludeFromOll": false,
-          "FurnishAvailable": false
-        },
-        {
-          "LedgerId": "19288",
-          "UnitId": "220B",
-          "BuildingId": "425",
-          "AvailableDate": "5/5/2021",
-          "BestTerm": {
-            "Length": 12,
-            "Price": 1580
-          },
-          "Terms": [
-            {
-              "Length": 12,
-              "Price": 1580
-            },
-            {
-              "Length": 11,
-              "Price": 1610
-            },
-            {
-              "Length": 10,
-              "Price": 1610
-            },
-            {
-              "Length": 9,
-              "Price": 1780
-            },
-            {
-              "Length": 8,
-              "Price": 1790
-            },
-            {
-              "Length": 7,
-              "Price": 1680
-            },
-            {
-              "Length": 6,
-              "Price": 1710
-            },
-            {
-              "Length": 5,
-              "Price": 1815
-            },
-            {
-              "Length": 4,
-              "Price": 1900
-            },
-            {
-              "Length": 3,
-              "Price": 1815
-            }
-          ],
-          "SqFt": 497,
-          "Bed": 0,
-          "Bath": 1,
-          "FloorplanId": "00002282",
-          "FloorplanName": "Studio B 497",
-          "Floor": "Floor 2",
-          "Description": "This Studio/ 1 Bath home offers a spacious living area with floor to ceiling windows, a galley style kitchen, walk-in closet and a stand-in shower in the bathroom.",
-          "Amenities": [
-            {
-              "Name": "Northern Exposure",
-              "Icon": ""
-            }
-          ],
-          "Special": {
-            "Active": false,
-            "Title": null,
-            "Expires": null
-          },
-          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002282-0-1-497",
           "Photos": [],
           "Videos": [],
           "Matterports": [],
@@ -251,36 +251,36 @@
           "AvailableDate": "5/1/2021",
           "BestTerm": {
             "Length": 12,
-            "Price": 1812
+            "Price": 1777
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 1812
+              "Price": 1777
             },
             {
               "Length": 11,
-              "Price": 1842
+              "Price": 1807
             },
             {
               "Length": 10,
-              "Price": 1842
+              "Price": 1807
             },
             {
               "Length": 9,
-              "Price": 2012
+              "Price": 1952
             },
             {
               "Length": 8,
-              "Price": 2022
+              "Price": 1962
             },
             {
               "Length": 7,
-              "Price": 1912
+              "Price": 1862
             },
             {
               "Length": 6,
-              "Price": 1942
+              "Price": 1907
             },
             {
               "Length": 5,
@@ -328,36 +328,36 @@
           "AvailableDate": "5/1/2021",
           "BestTerm": {
             "Length": 12,
-            "Price": 1845
+            "Price": 1810
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 1845
+              "Price": 1810
             },
             {
               "Length": 11,
-              "Price": 1875
+              "Price": 1840
             },
             {
               "Length": 10,
-              "Price": 1875
+              "Price": 1840
             },
             {
               "Length": 9,
-              "Price": 2045
+              "Price": 1985
             },
             {
               "Length": 8,
-              "Price": 2055
+              "Price": 1995
             },
             {
               "Length": 7,
-              "Price": 1945
+              "Price": 1895
             },
             {
               "Length": 6,
-              "Price": 1975
+              "Price": 1940
             },
             {
               "Length": 5,
@@ -463,36 +463,36 @@
           "AvailableDate": "5/3/2021",
           "BestTerm": {
             "Length": 12,
-            "Price": 1918
+            "Price": 1883
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 1918
+              "Price": 1883
             },
             {
               "Length": 11,
-              "Price": 1948
+              "Price": 1913
             },
             {
               "Length": 10,
-              "Price": 1948
+              "Price": 1913
             },
             {
               "Length": 9,
-              "Price": 2118
+              "Price": 2058
             },
             {
               "Length": 8,
-              "Price": 2128
+              "Price": 2068
             },
             {
               "Length": 7,
-              "Price": 2018
+              "Price": 1968
             },
             {
               "Length": 6,
-              "Price": 2048
+              "Price": 2013
             },
             {
               "Length": 5,
@@ -638,7 +638,7 @@
             },
             {
               "Length": 5,
-              "Price": 2415
+              "Price": 2425
             },
             {
               "Length": 4,
@@ -711,19 +711,19 @@
             },
             {
               "Length": 6,
-              "Price": 2350
+              "Price": 2355
             },
             {
               "Length": 5,
-              "Price": 2445
+              "Price": 2460
             },
             {
               "Length": 4,
-              "Price": 2505
+              "Price": 2500
             },
             {
               "Length": 3,
-              "Price": 2435
+              "Price": 2450
             }
           ],
           "SqFt": 679,
@@ -873,7 +873,7 @@
             },
             {
               "Length": 5,
-              "Price": 2460
+              "Price": 2470
             },
             {
               "Length": 4,
@@ -946,23 +946,23 @@
             },
             {
               "Length": 7,
-              "Price": 2423
+              "Price": 2428
             },
             {
               "Length": 6,
-              "Price": 2508
+              "Price": 2513
             },
             {
               "Length": 5,
-              "Price": 2773
+              "Price": 2778
             },
             {
               "Length": 4,
-              "Price": 2848
+              "Price": 2853
             },
             {
               "Length": 3,
-              "Price": 2763
+              "Price": 2768
             }
           ],
           "SqFt": 702,
@@ -1035,7 +1035,7 @@
             },
             {
               "Length": 5,
-              "Price": 2559
+              "Price": 2569
             },
             {
               "Length": 4,
@@ -1116,7 +1116,7 @@
             },
             {
               "Length": 5,
-              "Price": 2570
+              "Price": 2580
             },
             {
               "Length": 4,
@@ -1246,7 +1246,7 @@
             },
             {
               "Length": 5,
-              "Price": 2600
+              "Price": 2610
             },
             {
               "Length": 4,
@@ -1376,7 +1376,7 @@
             },
             {
               "Length": 5,
-              "Price": 2600
+              "Price": 2610
             },
             {
               "Length": 4,
@@ -1656,11 +1656,11 @@
             },
             {
               "Length": 9,
-              "Price": 2810
+              "Price": 2850
             },
             {
               "Length": 8,
-              "Price": 2850
+              "Price": 2855
             },
             {
               "Length": 7,
@@ -1737,11 +1737,11 @@
             },
             {
               "Length": 9,
-              "Price": 3030
+              "Price": 3090
             },
             {
               "Length": 8,
-              "Price": 3180
+              "Price": 3185
             },
             {
               "Length": 7,
@@ -1903,11 +1903,11 @@
             },
             {
               "Length": 9,
-              "Price": 3030
+              "Price": 3090
             },
             {
               "Length": 8,
-              "Price": 3180
+              "Price": 3185
             },
             {
               "Length": 7,
@@ -2069,11 +2069,11 @@
             },
             {
               "Length": 9,
-              "Price": 3200
+              "Price": 3240
             },
             {
               "Length": 8,
-              "Price": 3345
+              "Price": 3350
             },
             {
               "Length": 7,
@@ -2179,6 +2179,172 @@
               "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-94/425-mass-apartments-living-area",
               "Alt": "425 Mass Apartments - Living Area",
               "Id": 422168,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Living Area",
+              "DisplayOrder": 0,
+              "MediaId": 0
+            }
+          ],
+          "Videos": [
+            {
+              "Key": "_F72Tq7NFiU",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "425 Mass Apartments - Mt Vernon Triangle - Floorplan 1BR+Den J979 Unit PH125",
+              "DisplayOrder": 0,
+              "MediaId": 0
+            }
+          ],
+          "Matterports": [
+            {
+              "Key": "FWq5V9gmnSX",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "3D Floorplan",
+              "DisplayOrder": 0,
+              "MediaId": 0
+            }
+          ],
+          "Zillows": [],
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false
+        },
+        {
+          "LedgerId": "19288",
+          "UnitId": "121",
+          "BuildingId": "425",
+          "AvailableDate": "6/11/2021",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 2550
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 2550
+            },
+            {
+              "Length": 11,
+              "Price": 2600
+            },
+            {
+              "Length": 10,
+              "Price": 2600
+            },
+            {
+              "Length": 9,
+              "Price": 3105
+            },
+            {
+              "Length": 8,
+              "Price": 2970
+            },
+            {
+              "Length": 7,
+              "Price": 3000
+            },
+            {
+              "Length": 6,
+              "Price": 3020
+            },
+            {
+              "Length": 5,
+              "Price": 3125
+            },
+            {
+              "Length": 4,
+              "Price": 3135
+            },
+            {
+              "Length": 3,
+              "Price": 3105
+            }
+          ],
+          "SqFt": 979,
+          "Bed": 1,
+          "Bath": 2,
+          "FloorplanId": "378480",
+          "FloorplanName": "One Bedroom+Den J/979",
+          "Floor": "Floor 1",
+          "Description": "This home offers an extra den, floor to ceiling windows, a subterranean patio, and a built-in bookcase!",
+          "Amenities": [
+            {
+              "Name": "Northern Exposure",
+              "Icon": ""
+            },
+            {
+              "Name": "Private Subterranean Patio",
+              "Icon": ""
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378480-1-2-979",
+          "Photos": [
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-91/425-mass-apartments-bathroom",
+              "Alt": "425 Mass Apartments - Bathroom",
+              "Id": 421796,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Bathroom",
+              "DisplayOrder": 0,
+              "MediaId": 0
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-95/425-mass-apartments-bedroom",
+              "Alt": "425 Mass Apartments - Bedroom",
+              "Id": 421866,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Bedroom",
+              "DisplayOrder": 0,
+              "MediaId": 0
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-90/425-mass-apartments-den",
+              "Alt": "425 Mass Apartments - Den",
+              "Id": 421936,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Den",
+              "DisplayOrder": 0,
+              "MediaId": 0
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-92/425-mass-apartments-kitchen",
+              "Alt": "425 Mass Apartments - Kitchen",
+              "Id": 422017,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Kitchen",
+              "DisplayOrder": 0,
+              "MediaId": 0
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-93/425-mass-apartments-in-home-washer-and-dryer",
+              "Alt": "425 Mass Apartments - In-home Washer and Dryer",
+              "Id": 422087,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "In-home Washer and Dryer",
+              "DisplayOrder": 0,
+              "MediaId": 0
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-94/425-mass-apartments-living-area",
+              "Alt": "425 Mass Apartments - Living Area",
+              "Id": 422157,
               "MediaTags": [
                 "In Unit"
               ],
@@ -2409,191 +2575,25 @@
         },
         {
           "LedgerId": "19288",
-          "UnitId": "121",
-          "BuildingId": "425",
-          "AvailableDate": "6/11/2021",
-          "BestTerm": {
-            "Length": 12,
-            "Price": 2555
-          },
-          "Terms": [
-            {
-              "Length": 12,
-              "Price": 2555
-            },
-            {
-              "Length": 11,
-              "Price": 2605
-            },
-            {
-              "Length": 10,
-              "Price": 2605
-            },
-            {
-              "Length": 9,
-              "Price": 3045
-            },
-            {
-              "Length": 8,
-              "Price": 2965
-            },
-            {
-              "Length": 7,
-              "Price": 3000
-            },
-            {
-              "Length": 6,
-              "Price": 3020
-            },
-            {
-              "Length": 5,
-              "Price": 3125
-            },
-            {
-              "Length": 4,
-              "Price": 3135
-            },
-            {
-              "Length": 3,
-              "Price": 3105
-            }
-          ],
-          "SqFt": 979,
-          "Bed": 1,
-          "Bath": 2,
-          "FloorplanId": "378480",
-          "FloorplanName": "One Bedroom+Den J/979",
-          "Floor": "Floor 1",
-          "Description": "This home offers an extra den, floor to ceiling windows, a subterranean patio, and a built-in bookcase!",
-          "Amenities": [
-            {
-              "Name": "Northern Exposure",
-              "Icon": ""
-            },
-            {
-              "Name": "Private Subterranean Patio",
-              "Icon": ""
-            }
-          ],
-          "Special": {
-            "Active": false,
-            "Title": null,
-            "Expires": null
-          },
-          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378480-1-2-979",
-          "Photos": [
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-91/425-mass-apartments-bathroom",
-              "Alt": "425 Mass Apartments - Bathroom",
-              "Id": 421796,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Bathroom",
-              "DisplayOrder": 0,
-              "MediaId": 0
-            },
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-95/425-mass-apartments-bedroom",
-              "Alt": "425 Mass Apartments - Bedroom",
-              "Id": 421866,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Bedroom",
-              "DisplayOrder": 0,
-              "MediaId": 0
-            },
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-90/425-mass-apartments-den",
-              "Alt": "425 Mass Apartments - Den",
-              "Id": 421936,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Den",
-              "DisplayOrder": 0,
-              "MediaId": 0
-            },
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-92/425-mass-apartments-kitchen",
-              "Alt": "425 Mass Apartments - Kitchen",
-              "Id": 422017,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Kitchen",
-              "DisplayOrder": 0,
-              "MediaId": 0
-            },
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-93/425-mass-apartments-in-home-washer-and-dryer",
-              "Alt": "425 Mass Apartments - In-home Washer and Dryer",
-              "Id": 422087,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "In-home Washer and Dryer",
-              "DisplayOrder": 0,
-              "MediaId": 0
-            },
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-94/425-mass-apartments-living-area",
-              "Alt": "425 Mass Apartments - Living Area",
-              "Id": 422157,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Living Area",
-              "DisplayOrder": 0,
-              "MediaId": 0
-            }
-          ],
-          "Videos": [
-            {
-              "Key": "_F72Tq7NFiU",
-              "Id": 0,
-              "MediaTags": null,
-              "Caption": "425 Mass Apartments - Mt Vernon Triangle - Floorplan 1BR+Den J979 Unit PH125",
-              "DisplayOrder": 0,
-              "MediaId": 0
-            }
-          ],
-          "Matterports": [
-            {
-              "Key": "FWq5V9gmnSX",
-              "Id": 0,
-              "MediaTags": null,
-              "Caption": "3D Floorplan",
-              "DisplayOrder": 0,
-              "MediaId": 0
-            }
-          ],
-          "Zillows": [],
-          "ExcludeFromOll": false,
-          "FurnishAvailable": false
-        },
-        {
-          "LedgerId": "19288",
           "UnitId": "525",
           "BuildingId": "425",
           "AvailableDate": "7/9/2021",
           "BestTerm": {
             "Length": 12,
-            "Price": 2582
+            "Price": 2587
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 2582
+              "Price": 2587
             },
             {
               "Length": 11,
-              "Price": 2632
+              "Price": 2637
             },
             {
               "Length": 10,
-              "Price": 2632
+              "Price": 2637
             },
             {
               "Length": 9,
@@ -2601,7 +2601,7 @@
             },
             {
               "Length": 8,
-              "Price": 3207
+              "Price": 3227
             },
             {
               "Length": 7,
@@ -2609,7 +2609,7 @@
             },
             {
               "Length": 6,
-              "Price": 3242
+              "Price": 3227
             },
             {
               "Length": 5,
@@ -2759,7 +2759,7 @@
             },
             {
               "Length": 9,
-              "Price": 3115
+              "Price": 3180
             },
             {
               "Length": 8,
@@ -2921,11 +2921,11 @@
             },
             {
               "Length": 9,
-              "Price": 3050
+              "Price": 3090
             },
             {
               "Length": 8,
-              "Price": 3020
+              "Price": 3030
             },
             {
               "Length": 7,
@@ -3099,11 +3099,11 @@
             },
             {
               "Length": 5,
-              "Price": 3012
+              "Price": 3017
             },
             {
               "Length": 4,
-              "Price": 3022
+              "Price": 3007
             },
             {
               "Length": 3,
@@ -3357,7 +3357,7 @@
             },
             {
               "Length": 9,
-              "Price": 3474
+              "Price": 3454
             },
             {
               "Length": 8,
@@ -3543,11 +3543,11 @@
             },
             {
               "Length": 9,
-              "Price": 3659
+              "Price": 3649
             },
             {
               "Length": 8,
-              "Price": 3479
+              "Price": 3474
             },
             {
               "Length": 7,
@@ -3755,7 +3755,7 @@
             },
             {
               "Length": 8,
-              "Price": 3673
+              "Price": 3663
             },
             {
               "Length": 7,
@@ -3931,11 +3931,11 @@
             },
             {
               "Length": 9,
-              "Price": 3799
+              "Price": 3789
             },
             {
               "Length": 8,
-              "Price": 3619
+              "Price": 3614
             },
             {
               "Length": 7,
