@@ -3250,6 +3250,91 @@
       "AvailableUnits": [
         {
           "LedgerId": "19288",
+          "UnitId": "620",
+          "BuildingId": "425",
+          "AvailableDate": "7/3/2021",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 3121
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 3121
+            },
+            {
+              "Length": 11,
+              "Price": 3186
+            },
+            {
+              "Length": 10,
+              "Price": 3186
+            },
+            {
+              "Length": 9,
+              "Price": 3416
+            },
+            {
+              "Length": 8,
+              "Price": 3431
+            },
+            {
+              "Length": 7,
+              "Price": 3251
+            },
+            {
+              "Length": 6,
+              "Price": 3391
+            },
+            {
+              "Length": 5,
+              "Price": 3971
+            },
+            {
+              "Length": 4,
+              "Price": 4026
+            },
+            {
+              "Length": 3,
+              "Price": 3811
+            }
+          ],
+          "SqFt": 1340,
+          "Bed": 2,
+          "Bath": 2,
+          "FloorplanId": "378485",
+          "FloorplanName": "Two Bedroom/  Two Bath H/1340",
+          "Floor": "Floor 6",
+          "Description": "This corner home offers an open living room with island kitchen that is perfect for entertaining.",
+          "Amenities": [
+            {
+              "Name": "Corner Unit",
+              "Icon": ""
+            },
+            {
+              "Name": "Eastern Exposure",
+              "Icon": ""
+            },
+            {
+              "Name": "Northern Exposure",
+              "Icon": ""
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378485-2-2-1340",
+          "Photos": [],
+          "Videos": [],
+          "Matterports": [],
+          "Zillows": [],
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "401",
           "BuildingId": "425",
           "AvailableDate": "4/30/2021",
