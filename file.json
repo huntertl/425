@@ -165,6 +165,91 @@
         },
         {
           "LedgerId": "19288",
+          "UnitId": "611",
+          "BuildingId": "401",
+          "AvailableDate": "7/16/2021",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 1741
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 1741
+            },
+            {
+              "Length": 11,
+              "Price": 1776
+            },
+            {
+              "Length": 10,
+              "Price": 1776
+            },
+            {
+              "Length": 9,
+              "Price": 1861
+            },
+            {
+              "Length": 8,
+              "Price": 1881
+            },
+            {
+              "Length": 7,
+              "Price": 1806
+            },
+            {
+              "Length": 6,
+              "Price": 1911
+            },
+            {
+              "Length": 5,
+              "Price": 2271
+            },
+            {
+              "Length": 4,
+              "Price": 2256
+            },
+            {
+              "Length": 3,
+              "Price": 2216
+            }
+          ],
+          "SqFt": 503,
+          "Bed": 0,
+          "Bath": 1,
+          "FloorplanId": "00002651",
+          "FloorplanName": "Unit 411",
+          "Floor": "Floor 6",
+          "Description": "This Studio home features a fluid living space with two closets, a galley style kitchen, floor to ceiling windows and a balcony overlooking our private courtyard.",
+          "Amenities": [
+            {
+              "Name": "Juliet Balcony",
+              "Icon": ""
+            },
+            {
+              "Name": "Northern Exposure",
+              "Icon": ""
+            },
+            {
+              "Name": "Western Exposure",
+              "Icon": ""
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002651-0-1-506",
+          "Photos": [],
+          "Videos": [],
+          "Matterports": [],
+          "Zillows": [],
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "317",
           "BuildingId": "425",
           "AvailableDate": "5/20/2021",
@@ -1506,6 +1591,136 @@
           },
           "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002291-1-1-887",
           "Photos": [],
+          "Videos": [],
+          "Matterports": [],
+          "Zillows": [],
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false
+        },
+        {
+          "LedgerId": "19288",
+          "UnitId": "PH116",
+          "BuildingId": "425",
+          "AvailableDate": "6/19/2021",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 2292
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 2292
+            },
+            {
+              "Length": 11,
+              "Price": 2332
+            },
+            {
+              "Length": 10,
+              "Price": 2332
+            },
+            {
+              "Length": 9,
+              "Price": 2557
+            },
+            {
+              "Length": 8,
+              "Price": 2712
+            },
+            {
+              "Length": 7,
+              "Price": 2587
+            },
+            {
+              "Length": 6,
+              "Price": 2617
+            },
+            {
+              "Length": 5,
+              "Price": 2732
+            },
+            {
+              "Length": 4,
+              "Price": 2802
+            },
+            {
+              "Length": 3,
+              "Price": 2722
+            }
+          ],
+          "SqFt": 773,
+          "Bed": 1,
+          "Bath": 1,
+          "FloorplanId": "378478",
+          "FloorplanName": "One Bedroom E/773",
+          "Floor": "Floor 13",
+          "Description": "This apartment home offers a spacious living room with floor to ceiling windows, an attached balcony, a built-in bookcase and a kitchen that opens out to the living room that is perfect for entertaining!",
+          "Amenities": [
+            {
+              "Name": "Balcony",
+              "Icon": ""
+            },
+            {
+              "Name": "Eastern Exposure",
+              "Icon": ""
+            },
+            {
+              "Name": "Southern Exposure",
+              "Icon": ""
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378478-1-1-773",
+          "Photos": [
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-58/425-mass-apartments-kitchen",
+              "Alt": "425 Mass Apartments - Kitchen",
+              "Id": 267730,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Kitchen with Stainless Steel Appliances",
+              "DisplayOrder": 0,
+              "MediaId": 0
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-60/425-mass-apartments-bathroom-and-in-home-washer-and-dryer",
+              "Alt": "425 Mass Apartments - Bathroom and In-home Washer and Dryer",
+              "Id": 267894,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Bathroom and In-home Washer and Dryer",
+              "DisplayOrder": 0,
+              "MediaId": 0
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-73/425-mass-apartments-living-area",
+              "Alt": "425 Mass Apartments - Living Area",
+              "Id": 304688,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Living Room with Hardwood Flooring",
+              "DisplayOrder": 0,
+              "MediaId": 0
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-72/425-mass-apartments-bedroom",
+              "Alt": "425 Mass Apartments - Bedroom ",
+              "Id": 304742,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Carpeted Bedroom",
+              "DisplayOrder": 0,
+              "MediaId": 0
+            }
+          ],
           "Videos": [],
           "Matterports": [],
           "Zillows": [],
