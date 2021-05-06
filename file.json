@@ -970,6 +970,91 @@
         },
         {
           "LedgerId": "19288",
+          "UnitId": "809",
+          "BuildingId": "401",
+          "AvailableDate": "5/27/2021",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 2077
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 2077
+            },
+            {
+              "Length": 11,
+              "Price": 2117
+            },
+            {
+              "Length": 10,
+              "Price": 2117
+            },
+            {
+              "Length": 9,
+              "Price": 2482
+            },
+            {
+              "Length": 8,
+              "Price": 2502
+            },
+            {
+              "Length": 7,
+              "Price": 2357
+            },
+            {
+              "Length": 6,
+              "Price": 2372
+            },
+            {
+              "Length": 5,
+              "Price": 2452
+            },
+            {
+              "Length": 4,
+              "Price": 2462
+            },
+            {
+              "Length": 3,
+              "Price": 2447
+            }
+          ],
+          "SqFt": 726,
+          "Bed": 1,
+          "Bath": 1,
+          "FloorplanId": "00002649",
+          "FloorplanName": "Unit 409",
+          "Floor": "Floor 8",
+          "Description": "This apartment corner home offers a living room with floor to ceiling windows as well as an attached balcony. Depending on the floor there may be balconies in the bedroom.",
+          "Amenities": [
+            {
+              "Name": "Balcony",
+              "Icon": ""
+            },
+            {
+              "Name": "Corner Unit",
+              "Icon": ""
+            },
+            {
+              "Name": "Eastern Exposure",
+              "Icon": ""
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002649-1-1-726",
+          "Photos": [],
+          "Videos": [],
+          "Matterports": [],
+          "Zillows": [],
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "708",
           "BuildingId": "401",
           "AvailableDate": "7/2/2021",
@@ -1205,136 +1290,6 @@
           },
           "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002647-1-1-702",
           "Photos": [],
-          "Videos": [],
-          "Matterports": [],
-          "Zillows": [],
-          "ExcludeFromOll": false,
-          "FurnishAvailable": false
-        },
-        {
-          "LedgerId": "19288",
-          "UnitId": "1014",
-          "BuildingId": "425",
-          "AvailableDate": "5/5/2021",
-          "BestTerm": {
-            "Length": 12,
-            "Price": 2220
-          },
-          "Terms": [
-            {
-              "Length": 12,
-              "Price": 2220
-            },
-            {
-              "Length": 11,
-              "Price": 2260
-            },
-            {
-              "Length": 10,
-              "Price": 2260
-            },
-            {
-              "Length": 9,
-              "Price": 2755
-            },
-            {
-              "Length": 8,
-              "Price": 2775
-            },
-            {
-              "Length": 7,
-              "Price": 2610
-            },
-            {
-              "Length": 6,
-              "Price": 2600
-            },
-            {
-              "Length": 5,
-              "Price": 2615
-            },
-            {
-              "Length": 4,
-              "Price": 2605
-            },
-            {
-              "Length": 3,
-              "Price": 2605
-            }
-          ],
-          "SqFt": 773,
-          "Bed": 1,
-          "Bath": 1,
-          "FloorplanId": "378478",
-          "FloorplanName": "One Bedroom E/773",
-          "Floor": "Floor 10",
-          "Description": "This apartment home offers a spacious living room with floor to ceiling windows, an attached balcony, a built-in bookcase and a kitchen that opens out to the living room that is perfect for entertaining!",
-          "Amenities": [
-            {
-              "Name": "Balcony",
-              "Icon": ""
-            },
-            {
-              "Name": "Eastern Exposure",
-              "Icon": ""
-            },
-            {
-              "Name": "Southern Exposure",
-              "Icon": ""
-            }
-          ],
-          "Special": {
-            "Active": false,
-            "Title": null,
-            "Expires": null
-          },
-          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378478-1-1-773",
-          "Photos": [
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-58/425-mass-apartments-kitchen",
-              "Alt": "425 Mass Apartments - Kitchen",
-              "Id": 267682,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Kitchen with Stainless Steel Appliances",
-              "DisplayOrder": 0,
-              "MediaId": 0
-            },
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-60/425-mass-apartments-bathroom-and-in-home-washer-and-dryer",
-              "Alt": "425 Mass Apartments - Bathroom and In-home Washer and Dryer",
-              "Id": 267846,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Bathroom and In-home Washer and Dryer",
-              "DisplayOrder": 0,
-              "MediaId": 0
-            },
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-73/425-mass-apartments-living-area",
-              "Alt": "425 Mass Apartments - Living Area",
-              "Id": 304640,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Living Room with Hardwood Flooring",
-              "DisplayOrder": 0,
-              "MediaId": 0
-            },
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-72/425-mass-apartments-bedroom",
-              "Alt": "425 Mass Apartments - Bedroom ",
-              "Id": 304694,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Carpeted Bedroom",
-              "DisplayOrder": 0,
-              "MediaId": 0
-            }
-          ],
           "Videos": [],
           "Matterports": [],
           "Zillows": [],
