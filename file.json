@@ -2067,7 +2067,7 @@
           "LedgerId": "19288",
           "UnitId": "222",
           "BuildingId": "425",
-          "AvailableDate": "5/13/2021",
+          "AvailableDate": "5/12/2021",
           "BestTerm": {
             "Length": 12,
             "Price": 2500
@@ -4499,6 +4499,99 @@
               "MediaId": 0
             }
           ],
+          "Matterports": [],
+          "Zillows": [],
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false
+        },
+        {
+          "LedgerId": "19288",
+          "UnitId": "805",
+          "BuildingId": "425",
+          "AvailableDate": "8/5/2021",
+          "BestTerm": {
+            "Length": 9,
+            "Price": 3740
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 3755
+            },
+            {
+              "Length": 11,
+              "Price": 3820
+            },
+            {
+              "Length": 10,
+              "Price": 3820
+            },
+            {
+              "Length": 9,
+              "Price": 3740
+            },
+            {
+              "Length": 8,
+              "Price": 4035
+            },
+            {
+              "Length": 7,
+              "Price": 3865
+            },
+            {
+              "Length": 6,
+              "Price": 4030
+            },
+            {
+              "Length": 5,
+              "Price": 4195
+            },
+            {
+              "Length": 4,
+              "Price": 4350
+            },
+            {
+              "Length": 3,
+              "Price": 4510
+            }
+          ],
+          "SqFt": 1529,
+          "Bed": 2,
+          "Bath": 2,
+          "FloorplanId": "378490",
+          "FloorplanName": "Two Bedroom+Den B/1529",
+          "Floor": "Floor 8",
+          "Description": "This 2 Bed with Den/ 2 Bath home offers spacious living room, an open style kitchen, a walk-in pantry and a balcony looking onto the city.",
+          "Amenities": [
+            {
+              "Name": "Balcony",
+              "Icon": ""
+            },
+            {
+              "Name": "Southern Exposure",
+              "Icon": ""
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378490-2-2-1529",
+          "Photos": [
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-Unit404FP-9/425-mass-apartments-404fp",
+              "Alt": "425 Mass Apartments - 401FP",
+              "Id": 200029,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Views from the Balcony",
+              "DisplayOrder": 0,
+              "MediaId": 0
+            }
+          ],
+          "Videos": [],
           "Matterports": [],
           "Zillows": [],
           "ExcludeFromOll": false,
