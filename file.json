@@ -1250,6 +1250,95 @@
         },
         {
           "LedgerId": "19288",
+          "UnitId": "809",
+          "BuildingId": "425",
+          "AvailableDate": "7/23/2021",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 2209
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 2209
+            },
+            {
+              "Length": 11,
+              "Price": 2249
+            },
+            {
+              "Length": 10,
+              "Price": 2249
+            },
+            {
+              "Length": 9,
+              "Price": 2394
+            },
+            {
+              "Length": 8,
+              "Price": 2459
+            },
+            {
+              "Length": 7,
+              "Price": 2534
+            },
+            {
+              "Length": 6,
+              "Price": 2619
+            },
+            {
+              "Length": 5,
+              "Price": 2914
+            },
+            {
+              "Length": 4,
+              "Price": 2984
+            },
+            {
+              "Length": 3,
+              "Price": 2884
+            }
+          ],
+          "SqFt": 736,
+          "Bed": 1,
+          "Bath": 1,
+          "FloorplanId": "00002286",
+          "FloorplanName": "One Bedroom E 736",
+          "Floor": "Floor 8",
+          "Description": "This apartment home offers a spacious living room with floor to ceiling windows, an attached balcony and a kitchen that opens out to the living room, which is perfect for entertaining!",
+          "Amenities": [
+            {
+              "Name": "Balcony",
+              "Icon": ""
+            },
+            {
+              "Name": "Eastern Exposure",
+              "Icon": ""
+            },
+            {
+              "Name": "Northern Exposure",
+              "Icon": ""
+            },
+            {
+              "Name": "View of Community Courtyard",
+              "Icon": ""
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002286-1-1-736",
+          "Photos": [],
+          "Videos": [],
+          "Matterports": [],
+          "Zillows": [],
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "806",
           "BuildingId": "401",
           "AvailableDate": "5/15/2021",
@@ -1996,7 +2085,7 @@
           "LedgerId": "19288",
           "UnitId": "125",
           "BuildingId": "425",
-          "AvailableDate": "5/20/2021",
+          "AvailableDate": "5/19/2021",
           "BestTerm": {
             "Length": 12,
             "Price": 2410
