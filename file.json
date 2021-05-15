@@ -2671,6 +2671,99 @@
           "Zillows": [],
           "ExcludeFromOll": false,
           "FurnishAvailable": false
+        },
+        {
+          "LedgerId": "19288",
+          "UnitId": "602",
+          "BuildingId": "425",
+          "AvailableDate": "7/31/2021",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 2813
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 2813
+            },
+            {
+              "Length": 11,
+              "Price": 2863
+            },
+            {
+              "Length": 10,
+              "Price": 2863
+            },
+            {
+              "Length": 9,
+              "Price": 3273
+            },
+            {
+              "Length": 8,
+              "Price": 3293
+            },
+            {
+              "Length": 7,
+              "Price": 3153
+            },
+            {
+              "Length": 6,
+              "Price": 3348
+            },
+            {
+              "Length": 5,
+              "Price": 3778
+            },
+            {
+              "Length": 4,
+              "Price": 3843
+            },
+            {
+              "Length": 3,
+              "Price": 3693
+            }
+          ],
+          "SqFt": 1193,
+          "Bed": 1,
+          "Bath": 2,
+          "FloorplanId": "378481",
+          "FloorplanName": "One Bedroom+Den J/1193",
+          "Floor": "Floor 6",
+          "Description": "This 1 Bed with Den/ 2 Bath home offers floor to ceiling windows, a balcony, and a built-in bookcase!",
+          "Amenities": [
+            {
+              "Name": "Balcony",
+              "Icon": ""
+            },
+            {
+              "Name": "Southern Exposure",
+              "Icon": ""
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378481-1-2-1193",
+          "Photos": [
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-Unit404FP-9/425-mass-apartments-404fp",
+              "Alt": "425 Mass Apartments - 401FP",
+              "Id": 200007,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Views from the Balcony",
+              "DisplayOrder": 0,
+              "MediaId": 0
+            }
+          ],
+          "Videos": [],
+          "Matterports": [],
+          "Zillows": [],
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false
         }
       ]
     },
