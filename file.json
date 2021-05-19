@@ -1011,83 +1011,6 @@
       "AvailableUnits": [
         {
           "LedgerId": "19288",
-          "UnitId": "1102",
-          "BuildingId": "401",
-          "AvailableDate": "5/19/2021",
-          "BestTerm": {
-            "Length": 12,
-            "Price": 2100
-          },
-          "Terms": [
-            {
-              "Length": 12,
-              "Price": 2100
-            },
-            {
-              "Length": 11,
-              "Price": 2140
-            },
-            {
-              "Length": 10,
-              "Price": 2140
-            },
-            {
-              "Length": 9,
-              "Price": 2540
-            },
-            {
-              "Length": 8,
-              "Price": 2560
-            },
-            {
-              "Length": 7,
-              "Price": 2405
-            },
-            {
-              "Length": 6,
-              "Price": 2500
-            },
-            {
-              "Length": 5,
-              "Price": 2510
-            },
-            {
-              "Length": 4,
-              "Price": 2510
-            },
-            {
-              "Length": 3,
-              "Price": 2510
-            }
-          ],
-          "SqFt": 679,
-          "Bed": 1,
-          "Bath": 1,
-          "FloorplanId": "00002643",
-          "FloorplanName": "Unit 402",
-          "Floor": "Floor 11",
-          "Description": "This Junior apartment/ 1 Bath home offers a living space featuring a bed nook with oversized sliding door. The home has a galley style kitchen, generous closet space and depending on the floor, a Juliette balcony off of the living room.",
-          "Amenities": [
-            {
-              "Name": "Southern Exposure",
-              "Icon": ""
-            }
-          ],
-          "Special": {
-            "Active": false,
-            "Title": null,
-            "Expires": null
-          },
-          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002643-1-1-679",
-          "Photos": [],
-          "Videos": [],
-          "Matterports": [],
-          "Zillows": [],
-          "ExcludeFromOll": false,
-          "FurnishAvailable": false
-        },
-        {
-          "LedgerId": "19288",
           "UnitId": "902",
           "BuildingId": "401",
           "AvailableDate": "6/18/2021",
@@ -1156,6 +1079,87 @@
             "Expires": null
           },
           "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002643-1-1-679",
+          "Photos": [],
+          "Videos": [],
+          "Matterports": [],
+          "Zillows": [],
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false
+        },
+        {
+          "LedgerId": "19288",
+          "UnitId": "PH115",
+          "BuildingId": "401",
+          "AvailableDate": "5/21/2021",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 2145
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 2145
+            },
+            {
+              "Length": 11,
+              "Price": 2185
+            },
+            {
+              "Length": 10,
+              "Price": 2185
+            },
+            {
+              "Length": 9,
+              "Price": 2585
+            },
+            {
+              "Length": 8,
+              "Price": 2605
+            },
+            {
+              "Length": 7,
+              "Price": 2450
+            },
+            {
+              "Length": 6,
+              "Price": 2545
+            },
+            {
+              "Length": 5,
+              "Price": 2555
+            },
+            {
+              "Length": 4,
+              "Price": 2555
+            },
+            {
+              "Length": 3,
+              "Price": 2555
+            }
+          ],
+          "SqFt": 655,
+          "Bed": 1,
+          "Bath": 1,
+          "FloorplanId": "00002655",
+          "FloorplanName": "Unit 415",
+          "Floor": "Floor 13",
+          "Description": "This Junior apartment home offers a living space featuring a bed nook with oversized sliding door. The home has a galley style kitchen, generous closet space, and a balcony off of the living room.",
+          "Amenities": [
+            {
+              "Name": "Juliet Balcony",
+              "Icon": ""
+            },
+            {
+              "Name": "Northern Exposure",
+              "Icon": ""
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002655-1-1-655",
           "Photos": [],
           "Videos": [],
           "Matterports": [],
@@ -1237,6 +1241,95 @@
             "Expires": null
           },
           "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002647-1-1-702",
+          "Photos": [],
+          "Videos": [],
+          "Matterports": [],
+          "Zillows": [],
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false
+        },
+        {
+          "LedgerId": "19288",
+          "UnitId": "809",
+          "BuildingId": "425",
+          "AvailableDate": "7/23/2021",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 2234
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 2234
+            },
+            {
+              "Length": 11,
+              "Price": 2274
+            },
+            {
+              "Length": 10,
+              "Price": 2274
+            },
+            {
+              "Length": 9,
+              "Price": 2419
+            },
+            {
+              "Length": 8,
+              "Price": 2484
+            },
+            {
+              "Length": 7,
+              "Price": 2559
+            },
+            {
+              "Length": 6,
+              "Price": 2649
+            },
+            {
+              "Length": 5,
+              "Price": 2944
+            },
+            {
+              "Length": 4,
+              "Price": 3014
+            },
+            {
+              "Length": 3,
+              "Price": 2914
+            }
+          ],
+          "SqFt": 736,
+          "Bed": 1,
+          "Bath": 1,
+          "FloorplanId": "00002286",
+          "FloorplanName": "One Bedroom E 736",
+          "Floor": "Floor 8",
+          "Description": "This apartment home offers a spacious living room with floor to ceiling windows, an attached balcony and a kitchen that opens out to the living room, which is perfect for entertaining!",
+          "Amenities": [
+            {
+              "Name": "Balcony",
+              "Icon": ""
+            },
+            {
+              "Name": "Eastern Exposure",
+              "Icon": ""
+            },
+            {
+              "Name": "Northern Exposure",
+              "Icon": ""
+            },
+            {
+              "Name": "View of Community Courtyard",
+              "Icon": ""
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002286-1-1-736",
           "Photos": [],
           "Videos": [],
           "Matterports": [],
