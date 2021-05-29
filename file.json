@@ -118,6 +118,87 @@
         },
         {
           "LedgerId": "19288",
+          "UnitId": "PH213",
+          "BuildingId": "401",
+          "AvailableDate": "7/30/2021",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 1773
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 1773
+            },
+            {
+              "Length": 11,
+              "Price": 1808
+            },
+            {
+              "Length": 10,
+              "Price": 1808
+            },
+            {
+              "Length": 9,
+              "Price": 1843
+            },
+            {
+              "Length": 8,
+              "Price": 1998
+            },
+            {
+              "Length": 7,
+              "Price": 1898
+            },
+            {
+              "Length": 6,
+              "Price": 1968
+            },
+            {
+              "Length": 5,
+              "Price": 2203
+            },
+            {
+              "Length": 4,
+              "Price": 2218
+            },
+            {
+              "Length": 3,
+              "Price": 2148
+            }
+          ],
+          "SqFt": 475,
+          "Bed": 0,
+          "Bath": 1,
+          "FloorplanId": "00002653",
+          "FloorplanName": "Unit 413",
+          "Floor": "Penthouse",
+          "Description": "This Studio home features a fluid living space with two closets, a galley style kitchen, and floor to ceiling windows overlooking our private courtyard.",
+          "Amenities": [
+            {
+              "Name": "Northern Exposure",
+              "Icon": ""
+            },
+            {
+              "Name": "Western Exposure",
+              "Icon": ""
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002653-0-1-475",
+          "Photos": [],
+          "Videos": [],
+          "Matterports": [],
+          "Zillows": [],
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "PH212",
           "BuildingId": "401",
           "AvailableDate": "7/23/2021",
@@ -2784,99 +2865,6 @@
               "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-401FP-6/425-mass-apartments-401fp",
               "Alt": "425 Mass Apartments - 401FP",
               "Id": 189478,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Views from the Balcony",
-              "DisplayOrder": 0,
-              "MediaId": 0
-            }
-          ],
-          "Videos": [],
-          "Matterports": [],
-          "Zillows": [],
-          "ExcludeFromOll": false,
-          "FurnishAvailable": false
-        },
-        {
-          "LedgerId": "19288",
-          "UnitId": "401",
-          "BuildingId": "425",
-          "AvailableDate": "5/29/2021",
-          "BestTerm": {
-            "Length": 12,
-            "Price": 3179
-          },
-          "Terms": [
-            {
-              "Length": 12,
-              "Price": 3179
-            },
-            {
-              "Length": 11,
-              "Price": 3239
-            },
-            {
-              "Length": 10,
-              "Price": 3239
-            },
-            {
-              "Length": 9,
-              "Price": 3559
-            },
-            {
-              "Length": 8,
-              "Price": 3569
-            },
-            {
-              "Length": 7,
-              "Price": 3369
-            },
-            {
-              "Length": 6,
-              "Price": 3459
-            },
-            {
-              "Length": 5,
-              "Price": 3734
-            },
-            {
-              "Length": 4,
-              "Price": 3734
-            },
-            {
-              "Length": 3,
-              "Price": 3734
-            }
-          ],
-          "SqFt": 1416,
-          "Bed": 2,
-          "Bath": 2,
-          "FloorplanId": "378487",
-          "FloorplanName": "Two Bedroom+Den/  Two Bath B/1493",
-          "Floor": "Floor 4",
-          "Description": "This 1 Bed with 2 Den/ 2 Bath home offers a large living room with floor to ceiling windows and a balcony overlooking the city. The main bedroom has plenty of closet space, double sinks and a stand-in shower in the en-suite bathroom.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ",
-          "Amenities": [
-            {
-              "Name": "Balcony",
-              "Icon": ""
-            },
-            {
-              "Name": "Southern Exposure",
-              "Icon": ""
-            }
-          ],
-          "Special": {
-            "Active": false,
-            "Title": null,
-            "Expires": null
-          },
-          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378487-2-2-1493",
-          "Photos": [
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-Unit404FP-9/425-mass-apartments-404fp",
-              "Alt": "425 Mass Apartments - 401FP",
-              "Id": 199995,
               "MediaTags": [
                 "In Unit"
               ],
