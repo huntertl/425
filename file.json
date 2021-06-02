@@ -90,7 +90,7 @@
           "LedgerId": "19288",
           "UnitId": "PH111",
           "BuildingId": "425",
-          "AvailableDate": "6/1/2021",
+          "AvailableDate": "6/2/2021",
           "BestTerm": {
             "Length": 12,
             "Price": 1812
@@ -271,6 +271,91 @@
             "Expires": null
           },
           "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002652-0-1-485",
+          "Photos": [],
+          "Videos": [],
+          "Matterports": [],
+          "Zillows": [],
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false
+        },
+        {
+          "LedgerId": "19288",
+          "UnitId": "1111",
+          "BuildingId": "401",
+          "AvailableDate": "8/13/2021",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 1853
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 1853
+            },
+            {
+              "Length": 11,
+              "Price": 1888
+            },
+            {
+              "Length": 10,
+              "Price": 1888
+            },
+            {
+              "Length": 9,
+              "Price": 1918
+            },
+            {
+              "Length": 8,
+              "Price": 1993
+            },
+            {
+              "Length": 7,
+              "Price": 1953
+            },
+            {
+              "Length": 6,
+              "Price": 2043
+            },
+            {
+              "Length": 5,
+              "Price": 2383
+            },
+            {
+              "Length": 4,
+              "Price": 2418
+            },
+            {
+              "Length": 3,
+              "Price": 2313
+            }
+          ],
+          "SqFt": 503,
+          "Bed": 0,
+          "Bath": 1,
+          "FloorplanId": "00002651",
+          "FloorplanName": "Unit 411",
+          "Floor": "Floor 11",
+          "Description": "This Studio home features a fluid living space with two closets, a galley style kitchen, floor to ceiling windows and a balcony overlooking our private courtyard.",
+          "Amenities": [
+            {
+              "Name": "Juliet Balcony",
+              "Icon": ""
+            },
+            {
+              "Name": "Northern Exposure",
+              "Icon": ""
+            },
+            {
+              "Name": "Western Exposure",
+              "Icon": ""
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002651-0-1-506",
           "Photos": [],
           "Videos": [],
           "Matterports": [],
@@ -470,7 +555,7 @@
           "LedgerId": "19288",
           "UnitId": "PH217",
           "BuildingId": "425",
-          "AvailableDate": "6/1/2021",
+          "AvailableDate": "6/2/2021",
           "BestTerm": {
             "Length": 12,
             "Price": 2018
@@ -612,7 +697,7 @@
           "LedgerId": "19288",
           "UnitId": "806",
           "BuildingId": "401",
-          "AvailableDate": "6/1/2021",
+          "AvailableDate": "6/2/2021",
           "BestTerm": {
             "Length": 12,
             "Price": 2269
@@ -855,7 +940,7 @@
           "LedgerId": "19288",
           "UnitId": "1016",
           "BuildingId": "425",
-          "AvailableDate": "6/1/2021",
+          "AvailableDate": "6/2/2021",
           "BestTerm": {
             "Length": 12,
             "Price": 2410
@@ -985,7 +1070,7 @@
           "LedgerId": "19288",
           "UnitId": "125",
           "BuildingId": "425",
-          "AvailableDate": "6/1/2021",
+          "AvailableDate": "6/2/2021",
           "BestTerm": {
             "Length": 12,
             "Price": 2605
@@ -1151,7 +1236,7 @@
           "LedgerId": "19288",
           "UnitId": "122",
           "BuildingId": "425",
-          "AvailableDate": "6/5/2021",
+          "AvailableDate": "6/8/2021",
           "BestTerm": {
             "Length": 12,
             "Price": 2605
@@ -1317,7 +1402,7 @@
           "LedgerId": "19288",
           "UnitId": "401",
           "BuildingId": "401",
-          "AvailableDate": "6/1/2021",
+          "AvailableDate": "6/2/2021",
           "BestTerm": {
             "Length": 12,
             "Price": 2665
@@ -1898,7 +1983,7 @@
           "LedgerId": "19288",
           "UnitId": "301",
           "BuildingId": "425",
-          "AvailableDate": "6/1/2021",
+          "AvailableDate": "6/2/2021",
           "BestTerm": {
             "Length": 12,
             "Price": 3399
@@ -1991,7 +2076,7 @@
           "LedgerId": "19288",
           "UnitId": "504",
           "BuildingId": "425",
-          "AvailableDate": "6/1/2021",
+          "AvailableDate": "6/2/2021",
           "BestTerm": {
             "Length": 12,
             "Price": 3950
@@ -2106,7 +2191,7 @@
           "LedgerId": "19288",
           "UnitId": "904",
           "BuildingId": "425",
-          "AvailableDate": "6/1/2021",
+          "AvailableDate": "6/2/2021",
           "BestTerm": {
             "Length": 12,
             "Price": 3993
