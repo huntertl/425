@@ -9,7 +9,7 @@
           "LedgerId": "19288",
           "UnitId": "PH111",
           "BuildingId": "425",
-          "AvailableDate": "6/7/2021",
+          "AvailableDate": "6/8/2021",
           "BestTerm": {
             "Length": 12,
             "Price": 1932
@@ -120,7 +120,7 @@
           "LedgerId": "19288",
           "UnitId": "PH127",
           "BuildingId": "425",
-          "AvailableDate": "6/7/2021",
+          "AvailableDate": "6/30/2021",
           "BestTerm": {
             "Length": 12,
             "Price": 2012
@@ -332,7 +332,7 @@
           "LedgerId": "19288",
           "UnitId": "PH217",
           "BuildingId": "425",
-          "AvailableDate": "6/7/2021",
+          "AvailableDate": "6/8/2021",
           "BestTerm": {
             "Length": 12,
             "Price": 2138
@@ -474,7 +474,7 @@
           "LedgerId": "19288",
           "UnitId": "806",
           "BuildingId": "401",
-          "AvailableDate": "6/7/2021",
+          "AvailableDate": "6/8/2021",
           "BestTerm": {
             "Length": 12,
             "Price": 2309
@@ -555,7 +555,7 @@
           "LedgerId": "19288",
           "UnitId": "1008",
           "BuildingId": "401",
-          "AvailableDate": "6/9/2021",
+          "AvailableDate": "6/30/2021",
           "BestTerm": {
             "Length": 12,
             "Price": 2350
@@ -608,7 +608,7 @@
           "FloorplanId": "00002647",
           "FloorplanName": "Unit 406/408",
           "Floor": "Floor 10",
-          "Description": "This apartment home offers a living room with floor to ceiling windows, a built-in bookcase and a kitchen that opens out to the living room! The bedroom is spacious queen bed and features a step-in closet and an attached balcony.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 ",
+          "Description": "This apartment home offers a living room with floor to ceiling windows, a built-in bookcase and a kitchen that opens out to the living room! The bedroom is spacious queen bed and features a step-in closet and an attached balcony.",
           "Amenities": [
             {
               "Name": "Balcony",
@@ -939,175 +939,9 @@
         },
         {
           "LedgerId": "19288",
-          "UnitId": "125",
-          "BuildingId": "425",
-          "AvailableDate": "6/7/2021",
-          "BestTerm": {
-            "Length": 12,
-            "Price": 2665
-          },
-          "Terms": [
-            {
-              "Length": 12,
-              "Price": 2665
-            },
-            {
-              "Length": 11,
-              "Price": 2715
-            },
-            {
-              "Length": 10,
-              "Price": 2715
-            },
-            {
-              "Length": 9,
-              "Price": 3345
-            },
-            {
-              "Length": 8,
-              "Price": 3335
-            },
-            {
-              "Length": 7,
-              "Price": 3155
-            },
-            {
-              "Length": 6,
-              "Price": 3435
-            },
-            {
-              "Length": 5,
-              "Price": 3180
-            },
-            {
-              "Length": 4,
-              "Price": 3260
-            },
-            {
-              "Length": 3,
-              "Price": 3150
-            }
-          ],
-          "SqFt": 979,
-          "Bed": 1,
-          "Bath": 2,
-          "FloorplanId": "378480",
-          "FloorplanName": "One Bedroom+Den J/979",
-          "Floor": "Floor 1",
-          "Description": "This home offers an extra den, floor to ceiling windows, a subterranean patio, and a built-in bookcase!",
-          "Amenities": [
-            {
-              "Name": "Northern Exposure",
-              "Icon": ""
-            },
-            {
-              "Name": "Private Subterranean Patio",
-              "Icon": ""
-            }
-          ],
-          "Special": {
-            "Active": false,
-            "Title": null,
-            "Expires": null
-          },
-          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378480-1-2-979",
-          "Photos": [
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-91/425-mass-apartments-bathroom",
-              "Alt": "425 Mass Apartments - Bathroom",
-              "Id": 421805,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Bathroom",
-              "DisplayOrder": 0,
-              "MediaId": 0
-            },
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-95/425-mass-apartments-bedroom",
-              "Alt": "425 Mass Apartments - Bedroom",
-              "Id": 421875,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Bedroom",
-              "DisplayOrder": 0,
-              "MediaId": 0
-            },
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-90/425-mass-apartments-den",
-              "Alt": "425 Mass Apartments - Den",
-              "Id": 421945,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Den",
-              "DisplayOrder": 0,
-              "MediaId": 0
-            },
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-92/425-mass-apartments-kitchen",
-              "Alt": "425 Mass Apartments - Kitchen",
-              "Id": 422026,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Kitchen",
-              "DisplayOrder": 0,
-              "MediaId": 0
-            },
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-93/425-mass-apartments-in-home-washer-and-dryer",
-              "Alt": "425 Mass Apartments - In-home Washer and Dryer",
-              "Id": 422096,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "In-home Washer and Dryer",
-              "DisplayOrder": 0,
-              "MediaId": 0
-            },
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-94/425-mass-apartments-living-area",
-              "Alt": "425 Mass Apartments - Living Area",
-              "Id": 422166,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Living Area",
-              "DisplayOrder": 0,
-              "MediaId": 0
-            }
-          ],
-          "Videos": [
-            {
-              "Key": "_F72Tq7NFiU",
-              "Id": 0,
-              "MediaTags": null,
-              "Caption": "425 Mass Apartments - Mt Vernon Triangle - Floorplan 1BR+Den J979 Unit PH125",
-              "DisplayOrder": 0,
-              "MediaId": 0
-            }
-          ],
-          "Matterports": [
-            {
-              "Key": "FWq5V9gmnSX",
-              "Id": 0,
-              "MediaTags": null,
-              "Caption": "3D Floorplan",
-              "DisplayOrder": 0,
-              "MediaId": 0
-            }
-          ],
-          "Zillows": [],
-          "ExcludeFromOll": false,
-          "FurnishAvailable": false
-        },
-        {
-          "LedgerId": "19288",
           "UnitId": "122",
           "BuildingId": "425",
-          "AvailableDate": "6/8/2021",
+          "AvailableDate": "6/30/2021",
           "BestTerm": {
             "Length": 12,
             "Price": 2665
@@ -1237,6 +1071,172 @@
               "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-94/425-mass-apartments-living-area",
               "Alt": "425 Mass Apartments - Living Area",
               "Id": 422158,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Living Area",
+              "DisplayOrder": 0,
+              "MediaId": 0
+            }
+          ],
+          "Videos": [
+            {
+              "Key": "_F72Tq7NFiU",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "425 Mass Apartments - Mt Vernon Triangle - Floorplan 1BR+Den J979 Unit PH125",
+              "DisplayOrder": 0,
+              "MediaId": 0
+            }
+          ],
+          "Matterports": [
+            {
+              "Key": "FWq5V9gmnSX",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "3D Floorplan",
+              "DisplayOrder": 0,
+              "MediaId": 0
+            }
+          ],
+          "Zillows": [],
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false
+        },
+        {
+          "LedgerId": "19288",
+          "UnitId": "125",
+          "BuildingId": "425",
+          "AvailableDate": "6/30/2021",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 2665
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 2665
+            },
+            {
+              "Length": 11,
+              "Price": 2715
+            },
+            {
+              "Length": 10,
+              "Price": 2715
+            },
+            {
+              "Length": 9,
+              "Price": 3345
+            },
+            {
+              "Length": 8,
+              "Price": 3335
+            },
+            {
+              "Length": 7,
+              "Price": 3155
+            },
+            {
+              "Length": 6,
+              "Price": 3435
+            },
+            {
+              "Length": 5,
+              "Price": 3180
+            },
+            {
+              "Length": 4,
+              "Price": 3260
+            },
+            {
+              "Length": 3,
+              "Price": 3150
+            }
+          ],
+          "SqFt": 979,
+          "Bed": 1,
+          "Bath": 2,
+          "FloorplanId": "378480",
+          "FloorplanName": "One Bedroom+Den J/979",
+          "Floor": "Floor 1",
+          "Description": "This home offers an extra den, floor to ceiling windows, a subterranean patio, and a built-in bookcase!",
+          "Amenities": [
+            {
+              "Name": "Northern Exposure",
+              "Icon": ""
+            },
+            {
+              "Name": "Private Subterranean Patio",
+              "Icon": ""
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378480-1-2-979",
+          "Photos": [
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-91/425-mass-apartments-bathroom",
+              "Alt": "425 Mass Apartments - Bathroom",
+              "Id": 421805,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Bathroom",
+              "DisplayOrder": 0,
+              "MediaId": 0
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-95/425-mass-apartments-bedroom",
+              "Alt": "425 Mass Apartments - Bedroom",
+              "Id": 421875,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Bedroom",
+              "DisplayOrder": 0,
+              "MediaId": 0
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-90/425-mass-apartments-den",
+              "Alt": "425 Mass Apartments - Den",
+              "Id": 421945,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Den",
+              "DisplayOrder": 0,
+              "MediaId": 0
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-92/425-mass-apartments-kitchen",
+              "Alt": "425 Mass Apartments - Kitchen",
+              "Id": 422026,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Kitchen",
+              "DisplayOrder": 0,
+              "MediaId": 0
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-93/425-mass-apartments-in-home-washer-and-dryer",
+              "Alt": "425 Mass Apartments - In-home Washer and Dryer",
+              "Id": 422096,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "In-home Washer and Dryer",
+              "DisplayOrder": 0,
+              "MediaId": 0
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-94/425-mass-apartments-living-area",
+              "Alt": "425 Mass Apartments - Living Area",
+              "Id": 422166,
               "MediaTags": [
                 "In Unit"
               ],
@@ -1439,7 +1439,7 @@
           "LedgerId": "19288",
           "UnitId": "1204",
           "BuildingId": "401",
-          "AvailableDate": "6/15/2021",
+          "AvailableDate": "6/30/2021",
           "BestTerm": {
             "Length": 12,
             "Price": 2809
@@ -1639,7 +1639,7 @@
           "LedgerId": "19288",
           "UnitId": "104A",
           "BuildingId": "425",
-          "AvailableDate": "6/11/2021",
+          "AvailableDate": "6/30/2021",
           "BestTerm": {
             "Length": 12,
             "Price": 2847
@@ -1692,7 +1692,7 @@
           "FloorplanId": "00002288",
           "FloorplanName": "One Bedroom B 903",
           "Floor": "Floor 1",
-          "Description": "This apartment loft style home offers a unique living experience with 18 ft ceilings, floor to ceiling windows, a galley style kitchen plus island, a built in desk, a powder room, and street access through the walk-out patio.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       ",
+          "Description": "This apartment loft style home offers a unique living experience with 18 ft ceilings, floor to ceiling windows, a galley style kitchen plus island, a built in desk, a powder room, and street access through the walk-out patio.",
           "Amenities": [
             {
               "Name": "Private Subterranean Patio",
@@ -1731,7 +1731,7 @@
           "LedgerId": "19288",
           "UnitId": "301",
           "BuildingId": "425",
-          "AvailableDate": "6/7/2021",
+          "AvailableDate": "6/30/2021",
           "BestTerm": {
             "Length": 12,
             "Price": 3764
@@ -1784,7 +1784,7 @@
           "FloorplanId": "378487",
           "FloorplanName": "Two Bedroom+Den/  Two Bath B/1493",
           "Floor": "Floor 3",
-          "Description": "This 1 Bed with 2 Den/ 2 Bath home offers a large living room with floor to ceiling windows and a balcony overlooking the city. The main bedroom has plenty of closet space, double sinks and a stand-in shower in the en-suite bathroom.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ",
+          "Description": "This 1 Bed with 2 Den/ 2 Bath home offers a large living room with floor to ceiling windows and a balcony overlooking the city. The main bedroom has plenty of closet space, double sinks and a stand-in shower in the en-suite bathroom.",
           "Amenities": [
             {
               "Name": "Balcony",
@@ -1824,7 +1824,7 @@
           "LedgerId": "19288",
           "UnitId": "504",
           "BuildingId": "425",
-          "AvailableDate": "6/7/2021",
+          "AvailableDate": "6/30/2021",
           "BestTerm": {
             "Length": 12,
             "Price": 3950
@@ -1877,7 +1877,7 @@
           "FloorplanId": "378488",
           "FloorplanName": "Two Bedroom+Den Loft/  Two Bath K/1585",
           "Floor": "Floor 5",
-          "Description": "This 2 Bed with Den/ 2.5 Bath loft style home offers an unique living experience with 18 ft ceilings, floor to ceiling windows, an open kitchen with breakfast bar, a built in desk under the stairs and powder room.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ",
+          "Description": "This 2 Bed with Den/ 2.5 Bath loft style home offers an unique living experience with 18 ft ceilings, floor to ceiling windows, an open kitchen with breakfast bar, a built in desk under the stairs and powder room.",
           "Amenities": [
             {
               "Name": "Balcony",
