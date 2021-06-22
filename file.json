@@ -1327,65 +1327,65 @@
         },
         {
           "LedgerId": "19288",
-          "UnitId": "221",
+          "UnitId": "421",
           "BuildingId": "425",
           "AvailableDate": "7/22/2021",
           "BestTerm": {
             "Length": 12,
-            "Price": 2900
+            "Price": 2880
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 2900
+              "Price": 2880
             },
             {
               "Length": 11,
-              "Price": 2955
+              "Price": 2935
             },
             {
               "Length": 10,
-              "Price": 2955
+              "Price": 2935
             },
             {
               "Length": 9,
-              "Price": 3535
+              "Price": 3515
             },
             {
               "Length": 8,
-              "Price": 3555
+              "Price": 3535
             },
             {
               "Length": 7,
-              "Price": 3355
+              "Price": 3335
             },
             {
               "Length": 6,
-              "Price": 3435
+              "Price": 3415
             },
             {
               "Length": 5,
-              "Price": 3510
+              "Price": 3490
             },
             {
               "Length": 4,
-              "Price": 3715
+              "Price": 3695
             },
             {
               "Length": 3,
-              "Price": 3660
+              "Price": 3640
             }
           ],
-          "SqFt": 991,
+          "SqFt": 1001,
           "Bed": 1,
           "Bath": 2,
           "FloorplanId": "378480",
           "FloorplanName": "One Bedroom+Den J/979",
-          "Floor": "Floor 2",
-          "Description": "This 1 Bed with Den/ 2 Bath home offers floor to ceiling windows, a patio with street access, and a built-in bookcase!",
+          "Floor": "Floor 4",
+          "Description": "This 1 Bed with Den/ 2 Bath home offers floor to ceiling windows, a balcony, and a built-in bookcase!",
           "Amenities": [
             {
-              "Name": "Balcony",
+              "Name": "Juliet Balcony",
               "Icon": ""
             },
             {
@@ -1403,7 +1403,7 @@
             {
               "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-91/425-mass-apartments-bathroom",
               "Alt": "425 Mass Apartments - Bathroom",
-              "Id": 421806,
+              "Id": 421816,
               "MediaTags": [
                 "In Unit"
               ],
@@ -1414,7 +1414,7 @@
             {
               "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-95/425-mass-apartments-bedroom",
               "Alt": "425 Mass Apartments - Bedroom",
-              "Id": 421876,
+              "Id": 421886,
               "MediaTags": [
                 "In Unit"
               ],
@@ -1425,7 +1425,7 @@
             {
               "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-90/425-mass-apartments-den",
               "Alt": "425 Mass Apartments - Den",
-              "Id": 421946,
+              "Id": 421956,
               "MediaTags": [
                 "In Unit"
               ],
@@ -1436,7 +1436,7 @@
             {
               "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-92/425-mass-apartments-kitchen",
               "Alt": "425 Mass Apartments - Kitchen",
-              "Id": 422027,
+              "Id": 422037,
               "MediaTags": [
                 "In Unit"
               ],
@@ -1447,7 +1447,7 @@
             {
               "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-93/425-mass-apartments-in-home-washer-and-dryer",
               "Alt": "425 Mass Apartments - In-home Washer and Dryer",
-              "Id": 422097,
+              "Id": 422107,
               "MediaTags": [
                 "In Unit"
               ],
@@ -1458,7 +1458,7 @@
             {
               "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-94/425-mass-apartments-living-area",
               "Alt": "425 Mass Apartments - Living Area",
-              "Id": 422167,
+              "Id": 422177,
               "MediaTags": [
                 "In Unit"
               ],
