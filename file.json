@@ -2230,7 +2230,7 @@
     }
   ],
   "PremiumUnits": [],
-  "DefaultView": "Test2017",
+  "DefaultView": "Test2021",
   "UnitDisplayCount": 5,
   "PrimaryNeighborhoodUrl": "/washington-dc/mt-vernon-triangle-apartments",
   "MainPhone": "(202) 908-6283",
@@ -2292,7 +2292,7 @@
   "HeaderPricingDisclaimer": "We will not refuse to lease an apartment to a person because they will be using a payment voucher for rental assistance provided by the District of Columbia or federal government.",
   "FilterErrorHeader": "Your selections above returned no available apartments!",
   "FilterErrorInstructions": "Please choose different values above or reset to default values.",
-  "HoldTimeDays": null,
+  "HoldTimeDays": 14,
   "TileInfo": {
     "Order": 6,
     "IsVisible": true
