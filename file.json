@@ -181,6 +181,88 @@
         },
         {
           "LedgerId": "19288",
+          "UnitId": "828",
+          "BuildingId": "425",
+          "AvailableDate": "9/23/2021",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 1989
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 1989
+            },
+            {
+              "Length": 11,
+              "Price": 2029
+            },
+            {
+              "Length": 10,
+              "Price": 2029
+            },
+            {
+              "Length": 9,
+              "Price": 2349
+            },
+            {
+              "Length": 8,
+              "Price": 2364
+            },
+            {
+              "Length": 7,
+              "Price": 2234
+            },
+            {
+              "Length": 6,
+              "Price": 2294
+            },
+            {
+              "Length": 5,
+              "Price": 2554
+            },
+            {
+              "Length": 4,
+              "Price": 2599
+            },
+            {
+              "Length": 3,
+              "Price": 2479
+            }
+          ],
+          "SqFt": 511,
+          "Bed": 0,
+          "Bath": 1,
+          "FloorplanId": "378472",
+          "FloorplanName": "Studio J/504",
+          "Floor": "Floor 8",
+          "Description": "This Studio home offers a long, open space with floor to ceiling windows that let in plenty or natural light. This home also has two closets and a stand-in shower in the bathroom.",
+          "Amenities": [
+            {
+              "Name": "Northern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPN"
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378472-0-1-504",
+          "Photos": [],
+          "Videos": [],
+          "Matterports": [],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 0
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "1127",
           "BuildingId": "425",
           "AvailableDate": "9/7/2021",
@@ -923,6 +1005,98 @@
       "AvailableUnits": [
         {
           "LedgerId": "19288",
+          "UnitId": "209",
+          "BuildingId": "401",
+          "AvailableDate": "8/25/2021",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 2418
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 2418
+            },
+            {
+              "Length": 11,
+              "Price": 2468
+            },
+            {
+              "Length": 10,
+              "Price": 2468
+            },
+            {
+              "Length": 9,
+              "Price": 2778
+            },
+            {
+              "Length": 8,
+              "Price": 2773
+            },
+            {
+              "Length": 7,
+              "Price": 2748
+            },
+            {
+              "Length": 6,
+              "Price": 2983
+            },
+            {
+              "Length": 5,
+              "Price": 3073
+            },
+            {
+              "Length": 4,
+              "Price": 3108
+            },
+            {
+              "Length": 3,
+              "Price": 3073
+            }
+          ],
+          "SqFt": 691,
+          "Bed": 1,
+          "Bath": 1,
+          "FloorplanId": "00002649",
+          "FloorplanName": "Unit 409",
+          "Floor": "Floor 2",
+          "Description": "This apartment home offers an open style kitchen and breakfast bar, as well as a walk-out patio with direct street access from the living room. The bedroom can accommodate up to a Queen size bed and the bathroom is spacious.",
+          "Amenities": [
+            {
+              "Name": "Balcony",
+              "Icon": "",
+              "AmenCode": "U08"
+            },
+            {
+              "Name": "Corner Unit",
+              "Icon": "",
+              "AmenCode": "CU"
+            },
+            {
+              "Name": "Eastern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPE"
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002649-1-1-726",
+          "Photos": [],
+          "Videos": [],
+          "Matterports": [],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 0
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "107",
           "BuildingId": "401",
           "AvailableDate": "9/16/2021",
@@ -1098,6 +1272,158 @@
               "Caption": "Video of 707 sqft One Bedroom Apartment",
               "DisplayOrder": 0,
               "MediaId": 10864
+            }
+          ],
+          "Matterports": [],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 0
+        },
+        {
+          "LedgerId": "19288",
+          "UnitId": "708",
+          "BuildingId": "401",
+          "AvailableDate": "8/19/2021",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 2533
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 2533
+            },
+            {
+              "Length": 11,
+              "Price": 2583
+            },
+            {
+              "Length": 10,
+              "Price": 2583
+            },
+            {
+              "Length": 9,
+              "Price": 2893
+            },
+            {
+              "Length": 8,
+              "Price": 2888
+            },
+            {
+              "Length": 7,
+              "Price": 2863
+            },
+            {
+              "Length": 6,
+              "Price": 3098
+            },
+            {
+              "Length": 5,
+              "Price": 3188
+            },
+            {
+              "Length": 4,
+              "Price": 3223
+            },
+            {
+              "Length": 3,
+              "Price": 3188
+            }
+          ],
+          "SqFt": 702,
+          "Bed": 1,
+          "Bath": 1,
+          "FloorplanId": "00002647",
+          "FloorplanName": "Unit 406/408",
+          "Floor": "Floor 7",
+          "Description": "This apartment home offers a living room with floor to ceiling windows, a built-in bookcase and a kitchen that opens out to the living room! The bedroom is spacious (queen bed) and features a step-in closet and an attached balcony.",
+          "Amenities": [
+            {
+              "Name": "Balcony",
+              "Icon": "",
+              "AmenCode": "U08"
+            },
+            {
+              "Name": "Eastern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPE"
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002647-1-1-702",
+          "Photos": [
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-149/425-mass-apartments-balcony",
+              "Alt": "425 Mass Apartments - Balcony",
+              "Id": 511001,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Balcony",
+              "DisplayOrder": 0,
+              "MediaId": 32424
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-147/425-mass-apartments-bathroom-and-in-home-washer-and-dryer",
+              "Alt": "425 Mass Apartments - Bathroom",
+              "Id": 511023,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Bathroom and In-home washer and Dryer",
+              "DisplayOrder": 0,
+              "MediaId": 32425
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-148/425-mass-apartments-bedroom",
+              "Alt": "425 Mass Apartments - Bedroom",
+              "Id": 511045,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Carpeted Bedroom",
+              "DisplayOrder": 0,
+              "MediaId": 32426
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-145/425-mass-apartments-kitchen",
+              "Alt": "425 Mass Apartments - Kitchen",
+              "Id": 511067,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Kitchen with Stainless Steel Appliances",
+              "DisplayOrder": 0,
+              "MediaId": 32427
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-146/425-mass-apartments-dining-room",
+              "Alt": "425 Mass Apartments - Dining Room",
+              "Id": 511089,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Dining Room with Hard Surface Flooring",
+              "DisplayOrder": 0,
+              "MediaId": 32428
+            }
+          ],
+          "Videos": [
+            {
+              "Key": "MuF_JuVSK-8",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "425 Mass Apartments - Mt. Vernon Triangle - Unit 406 408 Apt 401 806",
+              "DisplayOrder": 0,
+              "MediaId": 33063
             }
           ],
           "Matterports": [],
