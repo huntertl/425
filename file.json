@@ -857,6 +857,93 @@
         },
         {
           "LedgerId": "19288",
+          "UnitId": "707",
+          "BuildingId": "425",
+          "AvailableDate": "11/10/2021",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 2118
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 2118
+            },
+            {
+              "Length": 11,
+              "Price": 2158
+            },
+            {
+              "Length": 10,
+              "Price": 2158
+            },
+            {
+              "Length": 9,
+              "Price": 2443
+            },
+            {
+              "Length": 8,
+              "Price": 2458
+            },
+            {
+              "Length": 7,
+              "Price": 2353
+            },
+            {
+              "Length": 6,
+              "Price": 2463
+            },
+            {
+              "Length": 5,
+              "Price": 2893
+            },
+            {
+              "Length": 4,
+              "Price": 2933
+            },
+            {
+              "Length": 3,
+              "Price": 2798
+            }
+          ],
+          "SqFt": 545,
+          "Bed": 0,
+          "Bath": 1,
+          "FloorplanId": "378473",
+          "FloorplanName": "Studio G/545",
+          "Floor": "Floor 7",
+          "Description": "This studio home offers a living area with a separate bed nook area, a balcony and floor to ceiling windows. The home also has additional storage under the bathroom vanity and a deep coat closet by the front door.",
+          "Amenities": [
+            {
+              "Name": "Balcony",
+              "Icon": "",
+              "AmenCode": "U08"
+            },
+            {
+              "Name": "Northern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPN"
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378473-0-1-545",
+          "Photos": [],
+          "Videos": [],
+          "Matterports": [],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 0
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "1118",
           "BuildingId": "425",
           "AvailableDate": "9/2/2021",
@@ -1751,103 +1838,6 @@
               "MediaId": 23031
             }
           ],
-          "Videos": [],
-          "Matterports": [],
-          "Zillows": [],
-          "AccordionPhoto": null,
-          "ExcludeFromOll": false,
-          "FurnishAvailable": false,
-          "BestTermFurnished": null,
-          "FurnishedTerms": [],
-          "SpecialAmount": 0
-        },
-        {
-          "LedgerId": "19288",
-          "UnitId": "1109",
-          "BuildingId": "425",
-          "AvailableDate": "8/24/2021",
-          "BestTerm": {
-            "Length": 12,
-            "Price": 2625
-          },
-          "Terms": [
-            {
-              "Length": 12,
-              "Price": 2625
-            },
-            {
-              "Length": 11,
-              "Price": 2675
-            },
-            {
-              "Length": 10,
-              "Price": 2675
-            },
-            {
-              "Length": 9,
-              "Price": 3135
-            },
-            {
-              "Length": 8,
-              "Price": 3070
-            },
-            {
-              "Length": 7,
-              "Price": 2990
-            },
-            {
-              "Length": 6,
-              "Price": 3250
-            },
-            {
-              "Length": 5,
-              "Price": 3255
-            },
-            {
-              "Length": 4,
-              "Price": 3255
-            },
-            {
-              "Length": 3,
-              "Price": 3255
-            }
-          ],
-          "SqFt": 736,
-          "Bed": 1,
-          "Bath": 1,
-          "FloorplanId": "00002286",
-          "FloorplanName": "One Bedroom E 736",
-          "Floor": "Floor 11",
-          "Description": "This apartment home offers a spacious living room with floor to ceiling windows, an attached balcony and a kitchen that opens out to the living room, which is perfect for entertaining!",
-          "Amenities": [
-            {
-              "Name": "Balcony",
-              "Icon": "",
-              "AmenCode": "U08"
-            },
-            {
-              "Name": "Eastern Exposure",
-              "Icon": "",
-              "AmenCode": "EXPE"
-            },
-            {
-              "Name": "Northern Exposure",
-              "Icon": "",
-              "AmenCode": "EXPN"
-            },
-            {
-              "Name": "View of Community Courtyard",
-              "Icon": "",
-              "AmenCode": "V04"
-            }
-          ],
-          "Special": {
-            "Active": false,
-            "Title": null,
-            "Expires": null
-          },
-          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002286-1-1-736",
-          "Photos": [],
           "Videos": [],
           "Matterports": [],
           "Zillows": [],
