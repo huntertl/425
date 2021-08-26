@@ -94,6 +94,98 @@
         },
         {
           "LedgerId": "19288",
+          "UnitId": "1111",
+          "BuildingId": "401",
+          "AvailableDate": "8/26/2021",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 1898
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 1898
+            },
+            {
+              "Length": 11,
+              "Price": 1938
+            },
+            {
+              "Length": 10,
+              "Price": 1938
+            },
+            {
+              "Length": 9,
+              "Price": 2303
+            },
+            {
+              "Length": 8,
+              "Price": 2313
+            },
+            {
+              "Length": 7,
+              "Price": 2173
+            },
+            {
+              "Length": 6,
+              "Price": 2218
+            },
+            {
+              "Length": 5,
+              "Price": 2423
+            },
+            {
+              "Length": 4,
+              "Price": 2468
+            },
+            {
+              "Length": 3,
+              "Price": 2353
+            }
+          ],
+          "SqFt": 503,
+          "Bed": 0,
+          "Bath": 1,
+          "FloorplanId": "00002651",
+          "FloorplanName": "Unit 411",
+          "Floor": "Floor 11",
+          "Description": "This Studio home features a fluid living space with two closets, a galley style kitchen, floor to ceiling windows and a balcony overlooking our private courtyard.",
+          "Amenities": [
+            {
+              "Name": "Juliet Balcony",
+              "Icon": "",
+              "AmenCode": "U51"
+            },
+            {
+              "Name": "Northern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPN"
+            },
+            {
+              "Name": "Western Exposure",
+              "Icon": "",
+              "AmenCode": "EXPW"
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002651-0-1-506",
+          "Photos": [],
+          "Videos": [],
+          "Matterports": [],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 100
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "PH113",
           "BuildingId": "401",
           "AvailableDate": "9/7/2021",
@@ -429,98 +521,6 @@
           "BestTermFurnished": null,
           "FurnishedTerms": [],
           "SpecialAmount": 0
-        },
-        {
-          "LedgerId": "19288",
-          "UnitId": "1111",
-          "BuildingId": "401",
-          "AvailableDate": "8/26/2021",
-          "BestTerm": {
-            "Length": 12,
-            "Price": 1998
-          },
-          "Terms": [
-            {
-              "Length": 12,
-              "Price": 1998
-            },
-            {
-              "Length": 11,
-              "Price": 2038
-            },
-            {
-              "Length": 10,
-              "Price": 2038
-            },
-            {
-              "Length": 9,
-              "Price": 2403
-            },
-            {
-              "Length": 8,
-              "Price": 2413
-            },
-            {
-              "Length": 7,
-              "Price": 2273
-            },
-            {
-              "Length": 6,
-              "Price": 2318
-            },
-            {
-              "Length": 5,
-              "Price": 2523
-            },
-            {
-              "Length": 4,
-              "Price": 2568
-            },
-            {
-              "Length": 3,
-              "Price": 2453
-            }
-          ],
-          "SqFt": 503,
-          "Bed": 0,
-          "Bath": 1,
-          "FloorplanId": "00002651",
-          "FloorplanName": "Unit 411",
-          "Floor": "Floor 11",
-          "Description": "This Studio home features a fluid living space with two closets, a galley style kitchen, floor to ceiling windows and a balcony overlooking our private courtyard.",
-          "Amenities": [
-            {
-              "Name": "Juliet Balcony",
-              "Icon": "",
-              "AmenCode": "U51"
-            },
-            {
-              "Name": "Northern Exposure",
-              "Icon": "",
-              "AmenCode": "EXPN"
-            },
-            {
-              "Name": "Western Exposure",
-              "Icon": "",
-              "AmenCode": "EXPW"
-            }
-          ],
-          "Special": {
-            "Active": false,
-            "Title": null,
-            "Expires": null
-          },
-          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002651-0-1-506",
-          "Photos": [],
-          "Videos": [],
-          "Matterports": [],
-          "Zillows": [],
-          "AccordionPhoto": null,
-          "ExcludeFromOll": false,
-          "FurnishAvailable": false,
-          "BestTermFurnished": null,
-          "FurnishedTerms": [],
-          "SpecialAmount": 100
         },
         {
           "LedgerId": "19288",
