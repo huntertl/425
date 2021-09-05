@@ -1000,6 +1000,98 @@
       "AvailableUnits": [
         {
           "LedgerId": "19288",
+          "UnitId": "209",
+          "BuildingId": "401",
+          "AvailableDate": "9/5/2021",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 2263
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 2263
+            },
+            {
+              "Length": 11,
+              "Price": 2308
+            },
+            {
+              "Length": 10,
+              "Price": 2308
+            },
+            {
+              "Length": 9,
+              "Price": 2773
+            },
+            {
+              "Length": 8,
+              "Price": 2803
+            },
+            {
+              "Length": 7,
+              "Price": 2628
+            },
+            {
+              "Length": 6,
+              "Price": 2883
+            },
+            {
+              "Length": 5,
+              "Price": 2813
+            },
+            {
+              "Length": 4,
+              "Price": 2888
+            },
+            {
+              "Length": 3,
+              "Price": 2818
+            }
+          ],
+          "SqFt": 691,
+          "Bed": 1,
+          "Bath": 1,
+          "FloorplanId": "00002649",
+          "FloorplanName": "Unit 409",
+          "Floor": "Floor 2",
+          "Description": "This apartment home offers an open style kitchen and breakfast bar, as well as a walk-out patio with direct street access from the living room. The bedroom can accommodate up to a Queen size bed and the bathroom is spacious.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        ",
+          "Amenities": [
+            {
+              "Name": "Balcony",
+              "Icon": "",
+              "AmenCode": "U08"
+            },
+            {
+              "Name": "Corner Unit",
+              "Icon": "",
+              "AmenCode": "CU"
+            },
+            {
+              "Name": "Eastern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPE"
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002649-1-1-726",
+          "Photos": [],
+          "Videos": [],
+          "Matterports": [],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 100
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "1212",
           "BuildingId": "425",
           "AvailableDate": "9/5/2021",
