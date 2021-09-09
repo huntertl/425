@@ -7,6 +7,175 @@
       "AvailableUnits": [
         {
           "LedgerId": "19288",
+          "UnitId": "PH113",
+          "BuildingId": "401",
+          "AvailableDate": "9/9/2021",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 1747
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 1747
+            },
+            {
+              "Length": 11,
+              "Price": 1782
+            },
+            {
+              "Length": 10,
+              "Price": 1782
+            },
+            {
+              "Length": 9,
+              "Price": 2037
+            },
+            {
+              "Length": 8,
+              "Price": 2047
+            },
+            {
+              "Length": 7,
+              "Price": 1922
+            },
+            {
+              "Length": 6,
+              "Price": 1967
+            },
+            {
+              "Length": 5,
+              "Price": 2147
+            },
+            {
+              "Length": 4,
+              "Price": 2192
+            },
+            {
+              "Length": 3,
+              "Price": 2102
+            }
+          ],
+          "SqFt": 475,
+          "Bed": 0,
+          "Bath": 1,
+          "FloorplanId": "00002653",
+          "FloorplanName": "Unit 413",
+          "Floor": "Floor 13",
+          "Description": "This Studio home features a fluid living space with two closets, a galley style kitchen, and floor to ceiling windows overlooking our private courtyard.",
+          "Amenities": [
+            {
+              "Name": "Northern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPN"
+            },
+            {
+              "Name": "Western Exposure",
+              "Icon": "",
+              "AmenCode": "EXPW"
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002653-0-1-475",
+          "Photos": [],
+          "Videos": [],
+          "Matterports": [],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 100
+        },
+        {
+          "LedgerId": "19288",
+          "UnitId": "1127",
+          "BuildingId": "425",
+          "AvailableDate": "9/9/2021",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 1760
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 1760
+            },
+            {
+              "Length": 11,
+              "Price": 1795
+            },
+            {
+              "Length": 10,
+              "Price": 1795
+            },
+            {
+              "Length": 9,
+              "Price": 2050
+            },
+            {
+              "Length": 8,
+              "Price": 2060
+            },
+            {
+              "Length": 7,
+              "Price": 1935
+            },
+            {
+              "Length": 6,
+              "Price": 1980
+            },
+            {
+              "Length": 5,
+              "Price": 2160
+            },
+            {
+              "Length": 4,
+              "Price": 2205
+            },
+            {
+              "Length": 3,
+              "Price": 2115
+            }
+          ],
+          "SqFt": 504,
+          "Bed": 0,
+          "Bath": 1,
+          "FloorplanId": "378472",
+          "FloorplanName": "Studio J/504",
+          "Floor": "Floor 11",
+          "Description": "This Studio home offers a long, open space with floor to ceiling windows that let in plenty or natural light. This home also has two closets and a stand-in shower in the bathroom.",
+          "Amenities": [
+            {
+              "Name": "Northern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPN"
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378472-0-1-504",
+          "Photos": [],
+          "Videos": [],
+          "Matterports": [],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 100
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "812",
           "BuildingId": "401",
           "AvailableDate": "9/15/2021",
@@ -94,93 +263,6 @@
         },
         {
           "LedgerId": "19288",
-          "UnitId": "PH113",
-          "BuildingId": "401",
-          "AvailableDate": "9/9/2021",
-          "BestTerm": {
-            "Length": 12,
-            "Price": 1847
-          },
-          "Terms": [
-            {
-              "Length": 12,
-              "Price": 1847
-            },
-            {
-              "Length": 11,
-              "Price": 1882
-            },
-            {
-              "Length": 10,
-              "Price": 1882
-            },
-            {
-              "Length": 9,
-              "Price": 2137
-            },
-            {
-              "Length": 8,
-              "Price": 2147
-            },
-            {
-              "Length": 7,
-              "Price": 2022
-            },
-            {
-              "Length": 6,
-              "Price": 2067
-            },
-            {
-              "Length": 5,
-              "Price": 2247
-            },
-            {
-              "Length": 4,
-              "Price": 2292
-            },
-            {
-              "Length": 3,
-              "Price": 2202
-            }
-          ],
-          "SqFt": 475,
-          "Bed": 0,
-          "Bath": 1,
-          "FloorplanId": "00002653",
-          "FloorplanName": "Unit 413",
-          "Floor": "Floor 13",
-          "Description": "This Studio home features a fluid living space with two closets, a galley style kitchen, and floor to ceiling windows overlooking our private courtyard.",
-          "Amenities": [
-            {
-              "Name": "Northern Exposure",
-              "Icon": "",
-              "AmenCode": "EXPN"
-            },
-            {
-              "Name": "Western Exposure",
-              "Icon": "",
-              "AmenCode": "EXPW"
-            }
-          ],
-          "Special": {
-            "Active": false,
-            "Title": null,
-            "Expires": null
-          },
-          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002653-0-1-475",
-          "Photos": [],
-          "Videos": [],
-          "Matterports": [],
-          "Zillows": [],
-          "AccordionPhoto": null,
-          "ExcludeFromOll": false,
-          "FurnishAvailable": false,
-          "BestTermFurnished": null,
-          "FurnishedTerms": [],
-          "SpecialAmount": 0
-        },
-        {
-          "LedgerId": "19288",
           "UnitId": "828",
           "BuildingId": "425",
           "AvailableDate": "9/23/2021",
@@ -236,88 +318,6 @@
           "FloorplanId": "378472",
           "FloorplanName": "Studio J/504",
           "Floor": "Floor 8",
-          "Description": "This Studio home offers a long, open space with floor to ceiling windows that let in plenty or natural light. This home also has two closets and a stand-in shower in the bathroom.",
-          "Amenities": [
-            {
-              "Name": "Northern Exposure",
-              "Icon": "",
-              "AmenCode": "EXPN"
-            }
-          ],
-          "Special": {
-            "Active": false,
-            "Title": null,
-            "Expires": null
-          },
-          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378472-0-1-504",
-          "Photos": [],
-          "Videos": [],
-          "Matterports": [],
-          "Zillows": [],
-          "AccordionPhoto": null,
-          "ExcludeFromOll": false,
-          "FurnishAvailable": false,
-          "BestTermFurnished": null,
-          "FurnishedTerms": [],
-          "SpecialAmount": 0
-        },
-        {
-          "LedgerId": "19288",
-          "UnitId": "1127",
-          "BuildingId": "425",
-          "AvailableDate": "9/9/2021",
-          "BestTerm": {
-            "Length": 12,
-            "Price": 1860
-          },
-          "Terms": [
-            {
-              "Length": 12,
-              "Price": 1860
-            },
-            {
-              "Length": 11,
-              "Price": 1895
-            },
-            {
-              "Length": 10,
-              "Price": 1895
-            },
-            {
-              "Length": 9,
-              "Price": 2150
-            },
-            {
-              "Length": 8,
-              "Price": 2160
-            },
-            {
-              "Length": 7,
-              "Price": 2035
-            },
-            {
-              "Length": 6,
-              "Price": 2080
-            },
-            {
-              "Length": 5,
-              "Price": 2260
-            },
-            {
-              "Length": 4,
-              "Price": 2305
-            },
-            {
-              "Length": 3,
-              "Price": 2215
-            }
-          ],
-          "SqFt": 504,
-          "Bed": 0,
-          "Bath": 1,
-          "FloorplanId": "378472",
-          "FloorplanName": "Studio J/504",
-          "Floor": "Floor 11",
           "Description": "This Studio home offers a long, open space with floor to ceiling windows that let in plenty or natural light. This home also has two closets and a stand-in shower in the bathroom.",
           "Amenities": [
             {
@@ -1005,48 +1005,48 @@
           "AvailableDate": "9/9/2021",
           "BestTerm": {
             "Length": 12,
-            "Price": 2333
+            "Price": 2283
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 2333
+              "Price": 2283
             },
             {
               "Length": 11,
-              "Price": 2383
+              "Price": 2333
             },
             {
               "Length": 10,
-              "Price": 2383
+              "Price": 2333
             },
             {
               "Length": 9,
-              "Price": 2898
+              "Price": 2848
             },
             {
               "Length": 8,
-              "Price": 2923
+              "Price": 2873
             },
             {
               "Length": 7,
-              "Price": 2738
+              "Price": 2688
             },
             {
               "Length": 6,
-              "Price": 2993
+              "Price": 2943
             },
             {
               "Length": 5,
-              "Price": 2958
+              "Price": 2908
             },
             {
               "Length": 4,
-              "Price": 2998
+              "Price": 2948
             },
             {
               "Length": 3,
-              "Price": 2943
+              "Price": 2893
             }
           ],
           "SqFt": 691,
@@ -1088,7 +1088,7 @@
           "FurnishAvailable": false,
           "BestTermFurnished": null,
           "FurnishedTerms": [],
-          "SpecialAmount": 100
+          "SpecialAmount": 150
         },
         {
           "LedgerId": "19288",
@@ -1097,48 +1097,48 @@
           "AvailableDate": "9/9/2021",
           "BestTerm": {
             "Length": 12,
-            "Price": 2402
+            "Price": 2352
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 2402
+              "Price": 2352
             },
             {
               "Length": 11,
-              "Price": 2452
+              "Price": 2402
             },
             {
               "Length": 10,
-              "Price": 2452
+              "Price": 2402
             },
             {
               "Length": 9,
-              "Price": 2967
+              "Price": 2917
             },
             {
               "Length": 8,
-              "Price": 2992
+              "Price": 2942
             },
             {
               "Length": 7,
-              "Price": 2807
+              "Price": 2757
             },
             {
               "Length": 6,
-              "Price": 3062
+              "Price": 3012
             },
             {
               "Length": 5,
-              "Price": 3027
+              "Price": 2977
             },
             {
               "Length": 4,
-              "Price": 3067
+              "Price": 3017
             },
             {
               "Length": 3,
-              "Price": 3012
+              "Price": 2962
             }
           ],
           "SqFt": 707,
@@ -1189,94 +1189,7 @@
           "FurnishAvailable": false,
           "BestTermFurnished": null,
           "FurnishedTerms": [],
-          "SpecialAmount": 100
-        },
-        {
-          "LedgerId": "19288",
-          "UnitId": "107",
-          "BuildingId": "401",
-          "AvailableDate": "10/6/2021",
-          "BestTerm": {
-            "Length": 12,
-            "Price": 2485
-          },
-          "Terms": [
-            {
-              "Length": 12,
-              "Price": 2485
-            },
-            {
-              "Length": 11,
-              "Price": 2535
-            },
-            {
-              "Length": 10,
-              "Price": 2535
-            },
-            {
-              "Length": 9,
-              "Price": 3075
-            },
-            {
-              "Length": 8,
-              "Price": 3100
-            },
-            {
-              "Length": 7,
-              "Price": 2925
-            },
-            {
-              "Length": 6,
-              "Price": 3055
-            },
-            {
-              "Length": 5,
-              "Price": 3230
-            },
-            {
-              "Length": 4,
-              "Price": 3325
-            },
-            {
-              "Length": 3,
-              "Price": 3230
-            }
-          ],
-          "SqFt": 691,
-          "Bed": 1,
-          "Bath": 1,
-          "FloorplanId": "00002665",
-          "FloorplanName": "Unit 106, 107, 108, 206, 207, 208",
-          "Floor": "Floor 1",
-          "Description": "This apartment subterranean home offers an open style kitchen and breakfast bar, as well as private patio access from the living room. The bedroom can accommodate up to a Queen size bed and the bathroom is spacious.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 ",
-          "Amenities": [
-            {
-              "Name": "Eastern Exposure",
-              "Icon": "",
-              "AmenCode": "EXPE"
-            },
-            {
-              "Name": "Private Subterranean Patio",
-              "Icon": "",
-              "AmenCode": "U07"
-            }
-          ],
-          "Special": {
-            "Active": false,
-            "Title": null,
-            "Expires": null
-          },
-          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002665-1-1-691",
-          "Photos": [],
-          "Videos": [],
-          "Matterports": [],
-          "Zillows": [],
-          "AccordionPhoto": null,
-          "ExcludeFromOll": false,
-          "FurnishAvailable": false,
-          "BestTermFurnished": null,
-          "FurnishedTerms": [],
-          "SpecialAmount": 0
+          "SpecialAmount": 150
         },
         {
           "LedgerId": "19288",
@@ -1285,48 +1198,48 @@
           "AvailableDate": "9/9/2021",
           "BestTerm": {
             "Length": 12,
-            "Price": 2548
+            "Price": 2398
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 2548
+              "Price": 2398
             },
             {
               "Length": 11,
-              "Price": 2598
+              "Price": 2448
             },
             {
               "Length": 10,
-              "Price": 2598
+              "Price": 2448
             },
             {
               "Length": 9,
-              "Price": 3113
+              "Price": 2963
             },
             {
               "Length": 8,
-              "Price": 3138
+              "Price": 2988
             },
             {
               "Length": 7,
-              "Price": 2953
+              "Price": 2803
             },
             {
               "Length": 6,
-              "Price": 3208
+              "Price": 3058
             },
             {
               "Length": 5,
-              "Price": 3173
+              "Price": 3023
             },
             {
               "Length": 4,
-              "Price": 3213
+              "Price": 3063
             },
             {
               "Length": 3,
-              "Price": 3158
+              "Price": 3008
             }
           ],
           "SqFt": 702,
@@ -1428,7 +1341,7 @@
           "FurnishAvailable": false,
           "BestTermFurnished": null,
           "FurnishedTerms": [],
-          "SpecialAmount": 0
+          "SpecialAmount": 150
         },
         {
           "LedgerId": "19288",
@@ -1437,48 +1350,48 @@
           "AvailableDate": "9/9/2021",
           "BestTerm": {
             "Length": 12,
-            "Price": 2553
+            "Price": 2403
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 2553
+              "Price": 2403
             },
             {
               "Length": 11,
-              "Price": 2603
+              "Price": 2453
             },
             {
               "Length": 10,
-              "Price": 2603
+              "Price": 2453
             },
             {
               "Length": 9,
-              "Price": 3118
+              "Price": 2968
             },
             {
               "Length": 8,
-              "Price": 3143
+              "Price": 2993
             },
             {
               "Length": 7,
-              "Price": 2958
+              "Price": 2808
             },
             {
               "Length": 6,
-              "Price": 3213
+              "Price": 3063
             },
             {
               "Length": 5,
-              "Price": 3178
+              "Price": 3028
             },
             {
               "Length": 4,
-              "Price": 3218
+              "Price": 3068
             },
             {
               "Length": 3,
-              "Price": 3163
+              "Price": 3013
             }
           ],
           "SqFt": 726,
@@ -1511,6 +1424,93 @@
             "Expires": null
           },
           "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002649-1-1-726",
+          "Photos": [],
+          "Videos": [],
+          "Matterports": [],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 150
+        },
+        {
+          "LedgerId": "19288",
+          "UnitId": "107",
+          "BuildingId": "401",
+          "AvailableDate": "10/6/2021",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 2485
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 2485
+            },
+            {
+              "Length": 11,
+              "Price": 2535
+            },
+            {
+              "Length": 10,
+              "Price": 2535
+            },
+            {
+              "Length": 9,
+              "Price": 3075
+            },
+            {
+              "Length": 8,
+              "Price": 3100
+            },
+            {
+              "Length": 7,
+              "Price": 2925
+            },
+            {
+              "Length": 6,
+              "Price": 3055
+            },
+            {
+              "Length": 5,
+              "Price": 3230
+            },
+            {
+              "Length": 4,
+              "Price": 3325
+            },
+            {
+              "Length": 3,
+              "Price": 3230
+            }
+          ],
+          "SqFt": 691,
+          "Bed": 1,
+          "Bath": 1,
+          "FloorplanId": "00002665",
+          "FloorplanName": "Unit 106, 107, 108, 206, 207, 208",
+          "Floor": "Floor 1",
+          "Description": "This apartment subterranean home offers an open style kitchen and breakfast bar, as well as private patio access from the living room. The bedroom can accommodate up to a Queen size bed and the bathroom is spacious.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 ",
+          "Amenities": [
+            {
+              "Name": "Eastern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPE"
+            },
+            {
+              "Name": "Private Subterranean Patio",
+              "Icon": "",
+              "AmenCode": "U07"
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002665-1-1-691",
           "Photos": [],
           "Videos": [],
           "Matterports": [],
