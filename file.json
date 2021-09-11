@@ -446,6 +446,88 @@
         },
         {
           "LedgerId": "19288",
+          "UnitId": "205",
+          "BuildingId": "401",
+          "AvailableDate": "11/12/2021",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 1960
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 1960
+            },
+            {
+              "Length": 11,
+              "Price": 1995
+            },
+            {
+              "Length": 10,
+              "Price": 1995
+            },
+            {
+              "Length": 9,
+              "Price": 2285
+            },
+            {
+              "Length": 8,
+              "Price": 2295
+            },
+            {
+              "Length": 7,
+              "Price": 2175
+            },
+            {
+              "Length": 6,
+              "Price": 2240
+            },
+            {
+              "Length": 5,
+              "Price": 2505
+            },
+            {
+              "Length": 4,
+              "Price": 2550
+            },
+            {
+              "Length": 3,
+              "Price": 2435
+            }
+          ],
+          "SqFt": 615,
+          "Bed": 0,
+          "Bath": 1,
+          "FloorplanId": "00002664",
+          "FloorplanName": "Unit 205/105",
+          "Floor": "Floor 2",
+          "Description": "This Studio/ 1 Bath home is the largest studio home and offers a spacious living area with a galley style kitchen and large windows. The home also features a large walk in closet, and stand-in shower in the bathroom.",
+          "Amenities": [
+            {
+              "Name": "Eastern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPE"
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002664-0-1-615",
+          "Photos": [],
+          "Videos": [],
+          "Matterports": [],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 0
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "PH214",
           "BuildingId": "401",
           "AvailableDate": "9/17/2021",
