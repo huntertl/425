@@ -94,93 +94,6 @@
         },
         {
           "LedgerId": "19288",
-          "UnitId": "812",
-          "BuildingId": "401",
-          "AvailableDate": "9/17/2021",
-          "BestTerm": {
-            "Length": 12,
-            "Price": 1779
-          },
-          "Terms": [
-            {
-              "Length": 12,
-              "Price": 1779
-            },
-            {
-              "Length": 11,
-              "Price": 1814
-            },
-            {
-              "Length": 10,
-              "Price": 1814
-            },
-            {
-              "Length": 9,
-              "Price": 2069
-            },
-            {
-              "Length": 8,
-              "Price": 2079
-            },
-            {
-              "Length": 7,
-              "Price": 1954
-            },
-            {
-              "Length": 6,
-              "Price": 1999
-            },
-            {
-              "Length": 5,
-              "Price": 2174
-            },
-            {
-              "Length": 4,
-              "Price": 2224
-            },
-            {
-              "Length": 3,
-              "Price": 2134
-            }
-          ],
-          "SqFt": 468,
-          "Bed": 0,
-          "Bath": 1,
-          "FloorplanId": "00002652",
-          "FloorplanName": "Unit 412",
-          "Floor": "Floor 8",
-          "Description": "This Studio home features a fluid living space with two closets, a galley style kitchen, floor to ceiling windows overlooking our private courtyard, and additional storage space in the bathroom.",
-          "Amenities": [
-            {
-              "Name": "Northern Exposure",
-              "Icon": "",
-              "AmenCode": "EXPN"
-            },
-            {
-              "Name": "Western Exposure",
-              "Icon": "",
-              "AmenCode": "EXPW"
-            }
-          ],
-          "Special": {
-            "Active": false,
-            "Title": null,
-            "Expires": null
-          },
-          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002652-0-1-485",
-          "Photos": [],
-          "Videos": [],
-          "Matterports": [],
-          "Zillows": [],
-          "AccordionPhoto": null,
-          "ExcludeFromOll": false,
-          "FurnishAvailable": false,
-          "BestTermFurnished": null,
-          "FurnishedTerms": [],
-          "SpecialAmount": 0
-        },
-        {
-          "LedgerId": "19288",
           "UnitId": "828",
           "BuildingId": "425",
           "AvailableDate": "9/23/2021",
@@ -250,6 +163,93 @@
             "Expires": null
           },
           "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378472-0-1-504",
+          "Photos": [],
+          "Videos": [],
+          "Matterports": [],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 0
+        },
+        {
+          "LedgerId": "19288",
+          "UnitId": "PH112",
+          "BuildingId": "401",
+          "AvailableDate": "9/17/2021",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 1872
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 1872
+            },
+            {
+              "Length": 11,
+              "Price": 1907
+            },
+            {
+              "Length": 10,
+              "Price": 1907
+            },
+            {
+              "Length": 9,
+              "Price": 2162
+            },
+            {
+              "Length": 8,
+              "Price": 2172
+            },
+            {
+              "Length": 7,
+              "Price": 2047
+            },
+            {
+              "Length": 6,
+              "Price": 2092
+            },
+            {
+              "Length": 5,
+              "Price": 2267
+            },
+            {
+              "Length": 4,
+              "Price": 2317
+            },
+            {
+              "Length": 3,
+              "Price": 2227
+            }
+          ],
+          "SqFt": 485,
+          "Bed": 0,
+          "Bath": 1,
+          "FloorplanId": "00002652",
+          "FloorplanName": "Unit 412",
+          "Floor": "Floor 13",
+          "Description": "This Studio home features a fluid living space with two closets, a galley style kitchen, floor to ceiling windows overlooking our private courtyard, and additional storage space in the bathroom.",
+          "Amenities": [
+            {
+              "Name": "Northern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPN"
+            },
+            {
+              "Name": "Western Exposure",
+              "Icon": "",
+              "AmenCode": "EXPW"
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002652-0-1-485",
           "Photos": [],
           "Videos": [],
           "Matterports": [],
