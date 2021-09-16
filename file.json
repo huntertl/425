@@ -176,93 +176,6 @@
         },
         {
           "LedgerId": "19288",
-          "UnitId": "PH112",
-          "BuildingId": "401",
-          "AvailableDate": "9/16/2021",
-          "BestTerm": {
-            "Length": 12,
-            "Price": 1897
-          },
-          "Terms": [
-            {
-              "Length": 12,
-              "Price": 1897
-            },
-            {
-              "Length": 11,
-              "Price": 1932
-            },
-            {
-              "Length": 10,
-              "Price": 1932
-            },
-            {
-              "Length": 9,
-              "Price": 2162
-            },
-            {
-              "Length": 8,
-              "Price": 2172
-            },
-            {
-              "Length": 7,
-              "Price": 2052
-            },
-            {
-              "Length": 6,
-              "Price": 2097
-            },
-            {
-              "Length": 5,
-              "Price": 2287
-            },
-            {
-              "Length": 4,
-              "Price": 2337
-            },
-            {
-              "Length": 3,
-              "Price": 2242
-            }
-          ],
-          "SqFt": 485,
-          "Bed": 0,
-          "Bath": 1,
-          "FloorplanId": "00002652",
-          "FloorplanName": "Unit 412",
-          "Floor": "Floor 13",
-          "Description": "This Studio home features a fluid living space with two closets, a galley style kitchen, floor to ceiling windows overlooking our private courtyard, and additional storage space in the bathroom.",
-          "Amenities": [
-            {
-              "Name": "Northern Exposure",
-              "Icon": "",
-              "AmenCode": "EXPN"
-            },
-            {
-              "Name": "Western Exposure",
-              "Icon": "",
-              "AmenCode": "EXPW"
-            }
-          ],
-          "Special": {
-            "Active": false,
-            "Title": null,
-            "Expires": null
-          },
-          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002652-0-1-485",
-          "Photos": [],
-          "Videos": [],
-          "Matterports": [],
-          "Zillows": [],
-          "AccordionPhoto": null,
-          "ExcludeFromOll": false,
-          "FurnishAvailable": false,
-          "BestTermFurnished": null,
-          "FurnishedTerms": [],
-          "SpecialAmount": 0
-        },
-        {
-          "LedgerId": "19288",
           "UnitId": "205",
           "BuildingId": "401",
           "AvailableDate": "11/12/2021",
@@ -2993,20 +2906,20 @@
       "PhoneNumber": "(844) 855-8751"
     },
     {
-      "IlsId": 110,
-      "PhoneNumber": "(844) 842-1353"
-    },
-    {
-      "IlsId": 115,
-      "PhoneNumber": "(844) 855-8750"
+      "IlsId": 107,
+      "PhoneNumber": "(202) 908-6296"
     },
     {
       "IlsId": 108,
       "PhoneNumber": "(202) 908-6284"
     },
     {
-      "IlsId": 107,
-      "PhoneNumber": "(202) 908-6296"
+      "IlsId": 110,
+      "PhoneNumber": "(844) 842-1353"
+    },
+    {
+      "IlsId": 115,
+      "PhoneNumber": "(844) 855-8750"
     }
   ],
   "PaidSearchPhone": "(202) 908-6292",
