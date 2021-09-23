@@ -1002,6 +1002,93 @@
         },
         {
           "LedgerId": "19288",
+          "UnitId": "106",
+          "BuildingId": "401",
+          "AvailableDate": "11/26/2021",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 2460
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 2460
+            },
+            {
+              "Length": 11,
+              "Price": 2510
+            },
+            {
+              "Length": 10,
+              "Price": 2510
+            },
+            {
+              "Length": 9,
+              "Price": 2940
+            },
+            {
+              "Length": 8,
+              "Price": 2965
+            },
+            {
+              "Length": 7,
+              "Price": 2855
+            },
+            {
+              "Length": 6,
+              "Price": 3040
+            },
+            {
+              "Length": 5,
+              "Price": 3420
+            },
+            {
+              "Length": 4,
+              "Price": 3415
+            },
+            {
+              "Length": 3,
+              "Price": 3600
+            }
+          ],
+          "SqFt": 691,
+          "Bed": 1,
+          "Bath": 1,
+          "FloorplanId": "00002665",
+          "FloorplanName": "Unit 106, 107, 108, 206, 207, 208",
+          "Floor": "Floor 1",
+          "Description": "This apartment subterranean home offers an open style kitchen and breakfast bar, as well as private patio access from the living room. The bedroom can accommodate up to a Queen size bed and the bathroom is spacious.",
+          "Amenities": [
+            {
+              "Name": "Eastern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPE"
+            },
+            {
+              "Name": "Private Subterranean Patio",
+              "Icon": "",
+              "AmenCode": "U07"
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002665-1-1-691",
+          "Photos": [],
+          "Videos": [],
+          "Matterports": [],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 0
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "413",
           "BuildingId": "425",
           "AvailableDate": "9/23/2021",
@@ -3166,6 +3253,105 @@
               "MediaId": 16809
             }
           ],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 0
+        },
+        {
+          "LedgerId": "19288",
+          "UnitId": "1205",
+          "BuildingId": "425",
+          "AvailableDate": "10/1/2021",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 4907
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 4907
+            },
+            {
+              "Length": 11,
+              "Price": 4992
+            },
+            {
+              "Length": 10,
+              "Price": 4992
+            },
+            {
+              "Length": 9,
+              "Price": 5347
+            },
+            {
+              "Length": 8,
+              "Price": 5117
+            },
+            {
+              "Length": 7,
+              "Price": 5082
+            },
+            {
+              "Length": 6,
+              "Price": 5182
+            },
+            {
+              "Length": 5,
+              "Price": 5487
+            },
+            {
+              "Length": 4,
+              "Price": 5487
+            },
+            {
+              "Length": 3,
+              "Price": 5487
+            }
+          ],
+          "SqFt": 1529,
+          "Bed": 2,
+          "Bath": 2,
+          "FloorplanId": "378490",
+          "FloorplanName": "Two Bedroom+Den B/1529",
+          "Floor": "Floor 12",
+          "Description": "This 2 Bed with Den/ 2 Bath home offers spacious living room, an open style kitchen, a walk-in pantry and a balcony looking onto the city.",
+          "Amenities": [
+            {
+              "Name": "Balcony",
+              "Icon": "",
+              "AmenCode": "U08"
+            },
+            {
+              "Name": "Southern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPS"
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378490-2-2-1529",
+          "Photos": [
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-Unit404FP-9/425-mass-apartments-404fp",
+              "Alt": "425 Mass Apartments - 401FP",
+              "Id": 200023,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Views from the Balcony",
+              "DisplayOrder": 0,
+              "MediaId": 14117
+            }
+          ],
+          "Videos": [],
+          "Matterports": [],
           "Zillows": [],
           "AccordionPhoto": null,
           "ExcludeFromOll": false,
