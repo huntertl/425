@@ -3783,6 +3783,221 @@
         },
         {
           "LedgerId": "19288",
+          "UnitId": "801",
+          "BuildingId": "401",
+          "AvailableDate": "10/29/2021",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 3044
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 3044
+            },
+            {
+              "Length": 11,
+              "Price": 3099
+            },
+            {
+              "Length": 10,
+              "Price": 3099
+            },
+            {
+              "Length": 9,
+              "Price": 3564
+            },
+            {
+              "Length": 8,
+              "Price": 3589
+            },
+            {
+              "Length": 7,
+              "Price": 3419
+            },
+            {
+              "Length": 6,
+              "Price": 3534
+            },
+            {
+              "Length": 5,
+              "Price": 3694
+            },
+            {
+              "Length": 4,
+              "Price": 3774
+            },
+            {
+              "Length": 3,
+              "Price": 3889
+            }
+          ],
+          "SqFt": 1050,
+          "Bed": 1,
+          "Bath": 2,
+          "FloorplanId": "00002642",
+          "FloorplanName": "Unit 401",
+          "Floor": "Floor 8",
+          "Description": "This 1 Bed with Den/ 2 Bath corner home offers an open style kitchen and breakfast bar, floor to ceiling windows and a balcony off of the living room. The bedroom features a large closet and en-suite bathroom with stand-in shower.",
+          "Amenities": [
+            {
+              "Name": "Balcony",
+              "Icon": "",
+              "AmenCode": "U08"
+            },
+            {
+              "Name": "Southern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPS"
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002642-1-2-985",
+          "Photos": [
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-401FP-1/425-mass-apartments-401-fp",
+              "Alt": "425 Mass Apartments - 401 FP",
+              "Id": 173869,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Bathroom",
+              "DisplayOrder": 0,
+              "MediaId": 14012
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-401FP-10/425-mass-apartments-401-fp",
+              "Alt": "425 Mass Apartments - 401 FP",
+              "Id": 173876,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Kitchen with Stainless Steel Appliances and Granite Countertops",
+              "DisplayOrder": 0,
+              "MediaId": 14013
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-401FP-11/425-mass-apartments-401-fp",
+              "Alt": "425 Mass Apartments - 401 FP",
+              "Id": 173883,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Kitchen with Stainless Steel Appliances and Granite Countertops ",
+              "DisplayOrder": 0,
+              "MediaId": 14014
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-401FP-2/425-mass-apartments-401-fp",
+              "Alt": "425 Mass Apartments - 401 FP",
+              "Id": 173890,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Carpeted Bedroom",
+              "DisplayOrder": 0,
+              "MediaId": 14015
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-401FP-3/425-mass-apartments-401-fp",
+              "Alt": "425 Mass Apartments - 401 FP",
+              "Id": 173897,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Bathroom with Walk-in Shower",
+              "DisplayOrder": 0,
+              "MediaId": 14016
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-401FP-4/425-mass-apartments-401-fp",
+              "Alt": "425 Mass Apartments - 401 FP",
+              "Id": 173904,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Carpeted Bedroom",
+              "DisplayOrder": 0,
+              "MediaId": 14017
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-401FP-5/425-mass-apartments-401-fp",
+              "Alt": "425 Mass Apartments - 401 FP",
+              "Id": 173911,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Carpeted Bedroom with Balcony",
+              "DisplayOrder": 0,
+              "MediaId": 14018
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-401FP-7/425-mass-apartments-401-fp",
+              "Alt": "425 Mass Apartments - 401 FP",
+              "Id": 173918,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Bedroom with Hardwood Flooring and Balcony",
+              "DisplayOrder": 0,
+              "MediaId": 14020
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-401FP-8/425-mass-apartments-401-fp",
+              "Alt": "425 Mass Apartments - 401 FP",
+              "Id": 173925,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Living Room with Hardwood Flooring",
+              "DisplayOrder": 0,
+              "MediaId": 14021
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-401FP-9/425-mass-apartments-401-fp",
+              "Alt": "425 Mass Apartments - 401 FP",
+              "Id": 173932,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Kitchen with Stainless Steel Appliances and Granite Countertops",
+              "DisplayOrder": 0,
+              "MediaId": 14022
+            }
+          ],
+          "Videos": [
+            {
+              "Key": "u1a4XMo7Ql0",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "425 Mass Apartments - Mt. Vernon Triangle - Unit 401",
+              "DisplayOrder": 0,
+              "MediaId": 33060
+            },
+            {
+              "Key": "P950peKT7lY",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "425 Mass Apartments - Mt. Vernon Triangle - Unit 401 Apt 401 401",
+              "DisplayOrder": 0,
+              "MediaId": 33061
+            }
+          ],
+          "Matterports": [],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 0
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "302",
           "BuildingId": "425",
           "AvailableDate": "11/25/2021",
