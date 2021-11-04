@@ -1271,6 +1271,93 @@
       "AvailableUnits": [
         {
           "LedgerId": "19288",
+          "UnitId": "107",
+          "BuildingId": "401",
+          "AvailableDate": "11/4/2021",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 1955
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 1955
+            },
+            {
+              "Length": 11,
+              "Price": 2000
+            },
+            {
+              "Length": 10,
+              "Price": 2000
+            },
+            {
+              "Length": 9,
+              "Price": 2450
+            },
+            {
+              "Length": 8,
+              "Price": 2475
+            },
+            {
+              "Length": 7,
+              "Price": 2330
+            },
+            {
+              "Length": 6,
+              "Price": 2460
+            },
+            {
+              "Length": 5,
+              "Price": 2630
+            },
+            {
+              "Length": 4,
+              "Price": 2630
+            },
+            {
+              "Length": 3,
+              "Price": 2630
+            }
+          ],
+          "SqFt": 691,
+          "Bed": 1,
+          "Bath": 1,
+          "FloorplanId": "00002665",
+          "FloorplanName": "Unit 106, 107, 108, 206, 207, 208",
+          "Floor": "Floor 1",
+          "Description": "This apartment subterranean home offers an open style kitchen and breakfast bar, as well as private patio access from the living room. The bedroom can accommodate up to a Queen size bed and the bathroom is spacious.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 ",
+          "Amenities": [
+            {
+              "Name": "Eastern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPE"
+            },
+            {
+              "Name": "Private Subterranean Patio",
+              "Icon": "",
+              "AmenCode": "U07"
+            }
+          ],
+          "Special": {
+            "Active": true,
+            "Title": "Up to $500 off move-in costs!",
+            "Expires": "11/15/2021"
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002665-1-1-691",
+          "Photos": [],
+          "Videos": [],
+          "Matterports": [],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 200
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "PH115",
           "BuildingId": "401",
           "AvailableDate": "11/4/2021",
