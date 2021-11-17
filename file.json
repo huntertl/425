@@ -1954,53 +1954,140 @@
         },
         {
           "LedgerId": "19288",
-          "UnitId": "708",
-          "BuildingId": "425",
-          "AvailableDate": "1/14/2022",
+          "UnitId": "1007",
+          "BuildingId": "401",
+          "AvailableDate": "11/26/2021",
           "BestTerm": {
             "Length": 12,
-            "Price": 2323
+            "Price": 2335
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 2323
+              "Price": 2335
             },
             {
               "Length": 11,
-              "Price": 2368
+              "Price": 2375
             },
             {
               "Length": 10,
-              "Price": 2368
+              "Price": 2375
             },
             {
               "Length": 9,
-              "Price": 2743
+              "Price": 2805
             },
             {
               "Length": 8,
-              "Price": 2763
+              "Price": 2830
             },
             {
               "Length": 7,
-              "Price": 2613
+              "Price": 2680
             },
             {
               "Length": 6,
-              "Price": 2668
+              "Price": 2735
             },
             {
               "Length": 5,
-              "Price": 2843
+              "Price": 2915
             },
             {
               "Length": 4,
-              "Price": 2908
+              "Price": 2975
             },
             {
               "Length": 3,
-              "Price": 2843
+              "Price": 2905
+            }
+          ],
+          "SqFt": 694,
+          "Bed": 1,
+          "Bath": 1,
+          "FloorplanId": "00002648",
+          "FloorplanName": "Unit 407",
+          "Floor": "Floor 10",
+          "Description": "This apartment home offers a living room with a built-in bookcase, floor to ceiling windows, as well as an attached balcony. The bedroom is spacious (queen bed) and features a step-in closet.",
+          "Amenities": [
+            {
+              "Name": "Balcony",
+              "Icon": "",
+              "AmenCode": "U08"
+            },
+            {
+              "Name": "Eastern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPE"
+            }
+          ],
+          "Special": {
+            "Active": true,
+            "Title": "Up to $500 off move-in costs!",
+            "Expires": "11/30/2021"
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002648-1-1-694",
+          "Photos": [],
+          "Videos": [],
+          "Matterports": [],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 0
+        },
+        {
+          "LedgerId": "19288",
+          "UnitId": "708",
+          "BuildingId": "425",
+          "AvailableDate": "1/13/2022",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 2378
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 2378
+            },
+            {
+              "Length": 11,
+              "Price": 2423
+            },
+            {
+              "Length": 10,
+              "Price": 2423
+            },
+            {
+              "Length": 9,
+              "Price": 2548
+            },
+            {
+              "Length": 8,
+              "Price": 2758
+            },
+            {
+              "Length": 7,
+              "Price": 2673
+            },
+            {
+              "Length": 6,
+              "Price": 2738
+            },
+            {
+              "Length": 5,
+              "Price": 2948
+            },
+            {
+              "Length": 4,
+              "Price": 2898
+            },
+            {
+              "Length": 3,
+              "Price": 2933
             }
           ],
           "SqFt": 736,
@@ -2090,93 +2177,6 @@
               "MediaId": 34025
             }
           ],
-          "Videos": [],
-          "Matterports": [],
-          "Zillows": [],
-          "AccordionPhoto": null,
-          "ExcludeFromOll": false,
-          "FurnishAvailable": false,
-          "BestTermFurnished": null,
-          "FurnishedTerms": [],
-          "SpecialAmount": 0
-        },
-        {
-          "LedgerId": "19288",
-          "UnitId": "1007",
-          "BuildingId": "401",
-          "AvailableDate": "11/26/2021",
-          "BestTerm": {
-            "Length": 12,
-            "Price": 2335
-          },
-          "Terms": [
-            {
-              "Length": 12,
-              "Price": 2335
-            },
-            {
-              "Length": 11,
-              "Price": 2375
-            },
-            {
-              "Length": 10,
-              "Price": 2375
-            },
-            {
-              "Length": 9,
-              "Price": 2805
-            },
-            {
-              "Length": 8,
-              "Price": 2830
-            },
-            {
-              "Length": 7,
-              "Price": 2680
-            },
-            {
-              "Length": 6,
-              "Price": 2735
-            },
-            {
-              "Length": 5,
-              "Price": 2915
-            },
-            {
-              "Length": 4,
-              "Price": 2975
-            },
-            {
-              "Length": 3,
-              "Price": 2905
-            }
-          ],
-          "SqFt": 694,
-          "Bed": 1,
-          "Bath": 1,
-          "FloorplanId": "00002648",
-          "FloorplanName": "Unit 407",
-          "Floor": "Floor 10",
-          "Description": "This apartment home offers a living room with a built-in bookcase, floor to ceiling windows, as well as an attached balcony. The bedroom is spacious (queen bed) and features a step-in closet.",
-          "Amenities": [
-            {
-              "Name": "Balcony",
-              "Icon": "",
-              "AmenCode": "U08"
-            },
-            {
-              "Name": "Eastern Exposure",
-              "Icon": "",
-              "AmenCode": "EXPE"
-            }
-          ],
-          "Special": {
-            "Active": true,
-            "Title": "Up to $500 off move-in costs!",
-            "Expires": "11/30/2021"
-          },
-          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002648-1-1-694",
-          "Photos": [],
           "Videos": [],
           "Matterports": [],
           "Zillows": [],
