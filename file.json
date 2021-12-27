@@ -1053,6 +1053,88 @@
         },
         {
           "LedgerId": "19288",
+          "UnitId": "626",
+          "BuildingId": "425",
+          "AvailableDate": "1/5/2022",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 2348
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 2348
+            },
+            {
+              "Length": 11,
+              "Price": 2393
+            },
+            {
+              "Length": 10,
+              "Price": 2393
+            },
+            {
+              "Length": 9,
+              "Price": 2543
+            },
+            {
+              "Length": 8,
+              "Price": 2708
+            },
+            {
+              "Length": 7,
+              "Price": 2668
+            },
+            {
+              "Length": 6,
+              "Price": 2723
+            },
+            {
+              "Length": 5,
+              "Price": 2873
+            },
+            {
+              "Length": 4,
+              "Price": 2873
+            },
+            {
+              "Length": 3,
+              "Price": 2873
+            }
+          ],
+          "SqFt": 825,
+          "Bed": 1,
+          "Bath": 1,
+          "FloorplanId": "378479",
+          "FloorplanName": "One Bedroom E/825",
+          "Floor": "Floor 6",
+          "Description": "This apartment home offers a spacious living room with floor to ceiling windows overlooking the city, a built-in bookcase and an open style kitchen with breakfast bar that is perfect for entertaining!",
+          "Amenities": [
+            {
+              "Name": "Northern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPN"
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378479-1-1-825",
+          "Photos": [],
+          "Videos": [],
+          "Matterports": [],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 0
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "PH208",
           "BuildingId": "401",
           "AvailableDate": "1/12/2022",
