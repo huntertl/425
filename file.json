@@ -7,6 +7,88 @@
       "AvailableUnits": [
         {
           "LedgerId": "19288",
+          "UnitId": "205",
+          "BuildingId": "401",
+          "AvailableDate": "12/29/2021",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 1825
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 1825
+            },
+            {
+              "Length": 11,
+              "Price": 1860
+            },
+            {
+              "Length": 10,
+              "Price": 1860
+            },
+            {
+              "Length": 9,
+              "Price": 1945
+            },
+            {
+              "Length": 8,
+              "Price": 2165
+            },
+            {
+              "Length": 7,
+              "Price": 2030
+            },
+            {
+              "Length": 6,
+              "Price": 2060
+            },
+            {
+              "Length": 5,
+              "Price": 2155
+            },
+            {
+              "Length": 4,
+              "Price": 2155
+            },
+            {
+              "Length": 3,
+              "Price": 2155
+            }
+          ],
+          "SqFt": 615,
+          "Bed": 0,
+          "Bath": 1,
+          "FloorplanId": "00002664",
+          "FloorplanName": "Unit 205/105",
+          "Floor": "Floor 2",
+          "Description": "This Studio/ 1 Bath home is the largest studio home and offers a spacious living area with a galley style kitchen and large windows. The home also features a large walk in closet, and stand-in shower in the bathroom.",
+          "Amenities": [
+            {
+              "Name": "Eastern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPE"
+            }
+          ],
+          "Special": {
+            "Active": true,
+            "Title": "Up to $500 off move-in costs!",
+            "Expires": "1/15/2022"
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002664-0-1-615",
+          "Photos": [],
+          "Videos": [],
+          "Matterports": [],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 100
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "PH111",
           "BuildingId": "401",
           "AvailableDate": "1/12/2022",
