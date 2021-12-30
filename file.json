@@ -176,6 +176,88 @@
         },
         {
           "LedgerId": "19288",
+          "UnitId": "427",
+          "BuildingId": "425",
+          "AvailableDate": "2/4/2022",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 1797
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 1797
+            },
+            {
+              "Length": 11,
+              "Price": 1832
+            },
+            {
+              "Length": 10,
+              "Price": 1832
+            },
+            {
+              "Length": 9,
+              "Price": 1922
+            },
+            {
+              "Length": 8,
+              "Price": 1967
+            },
+            {
+              "Length": 7,
+              "Price": 2007
+            },
+            {
+              "Length": 6,
+              "Price": 2037
+            },
+            {
+              "Length": 5,
+              "Price": 2127
+            },
+            {
+              "Length": 4,
+              "Price": 2127
+            },
+            {
+              "Length": 3,
+              "Price": 2127
+            }
+          ],
+          "SqFt": 504,
+          "Bed": 0,
+          "Bath": 1,
+          "FloorplanId": "378472",
+          "FloorplanName": "Studio J/504",
+          "Floor": "Floor 4",
+          "Description": "This Studio home offers a long, open space with floor to ceiling windows that let in plenty or natural light. This home also has two closets and a stand-in shower in the bathroom.",
+          "Amenities": [
+            {
+              "Name": "Northern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPN"
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378472-0-1-504",
+          "Photos": [],
+          "Videos": [],
+          "Matterports": [],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 0
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "PH111",
           "BuildingId": "401",
           "AvailableDate": "1/12/2022",
