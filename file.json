@@ -12,24 +12,24 @@
           "AvailableDate": "12/30/2021",
           "BestTerm": {
             "Length": 12,
-            "Price": 1810
+            "Price": 1775
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 1810
+              "Price": 1775
             },
             {
               "Length": 11,
-              "Price": 1845
+              "Price": 1810
             },
             {
               "Length": 10,
-              "Price": 1845
+              "Price": 1810
             },
             {
               "Length": 9,
-              "Price": 1930
+              "Price": 1920
             },
             {
               "Length": 8,
@@ -99,24 +99,24 @@
           "AvailableDate": "12/30/2021",
           "BestTerm": {
             "Length": 12,
-            "Price": 1825
+            "Price": 1790
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 1825
+              "Price": 1790
             },
             {
               "Length": 11,
-              "Price": 1860
+              "Price": 1825
             },
             {
               "Length": 10,
-              "Price": 1860
+              "Price": 1825
             },
             {
               "Length": 9,
-              "Price": 1945
+              "Price": 1935
             },
             {
               "Length": 8,
@@ -181,24 +181,24 @@
           "AvailableDate": "1/12/2022",
           "BestTerm": {
             "Length": 12,
-            "Price": 1950
+            "Price": 1915
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 1950
+              "Price": 1915
             },
             {
               "Length": 11,
-              "Price": 1985
+              "Price": 1950
             },
             {
               "Length": 10,
-              "Price": 1985
+              "Price": 1950
             },
             {
               "Length": 9,
-              "Price": 2050
+              "Price": 2040
             },
             {
               "Length": 8,
@@ -328,24 +328,24 @@
           "AvailableDate": "12/30/2021",
           "BestTerm": {
             "Length": 12,
-            "Price": 1977
+            "Price": 1942
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 1977
+              "Price": 1942
             },
             {
               "Length": 11,
-              "Price": 2012
+              "Price": 1977
             },
             {
               "Length": 10,
-              "Price": 2012
+              "Price": 1977
             },
             {
               "Length": 9,
-              "Price": 2097
+              "Price": 2087
             },
             {
               "Length": 8,
@@ -480,186 +480,29 @@
         },
         {
           "LedgerId": "19288",
-          "UnitId": "417",
-          "BuildingId": "425",
-          "AvailableDate": "2/26/2022",
-          "BestTerm": {
-            "Length": 12,
-            "Price": 2002
-          },
-          "Terms": [
-            {
-              "Length": 12,
-              "Price": 2002
-            },
-            {
-              "Length": 11,
-              "Price": 2037
-            },
-            {
-              "Length": 10,
-              "Price": 2037
-            },
-            {
-              "Length": 9,
-              "Price": 2117
-            },
-            {
-              "Length": 8,
-              "Price": 2157
-            },
-            {
-              "Length": 7,
-              "Price": 2192
-            },
-            {
-              "Length": 6,
-              "Price": 2362
-            },
-            {
-              "Length": 5,
-              "Price": 2362
-            },
-            {
-              "Length": 4,
-              "Price": 2307
-            },
-            {
-              "Length": 3,
-              "Price": 2307
-            }
-          ],
-          "SqFt": 558,
-          "Bed": 0,
-          "Bath": 1,
-          "FloorplanId": "378474",
-          "FloorplanName": "Studio G/558",
-          "Floor": "Floor 4",
-          "Description": "This studio home offers a fluid living space with a balcony and floor to ceiling windows. The home also has a step-in closet and additional storage in the bathroom.",
-          "Amenities": [
-            {
-              "Name": "Balcony",
-              "Icon": "",
-              "AmenCode": "U08"
-            },
-            {
-              "Name": "Southern Exposure",
-              "Icon": "",
-              "AmenCode": "EXPS"
-            }
-          ],
-          "Special": {
-            "Active": false,
-            "Title": null,
-            "Expires": null
-          },
-          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378474-0-1-558",
-          "Photos": [
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-62/425-mass-apartments-kitchen",
-              "Alt": "425 Mass Apartments - Kitchen",
-              "CropX": 0,
-              "CropY": 0,
-              "Key": null,
-              "SeoName": null,
-              "Id": 267747,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Kitchen with Stainless Steel Appliances",
-              "DisplayOrder": 0,
-              "MediaId": 19596
-            },
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-63/425-mass-apartments-balcony",
-              "Alt": "425 Mass Apartments - Balcony",
-              "CropX": 0,
-              "CropY": 0,
-              "Key": null,
-              "SeoName": null,
-              "Id": 267829,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Balcony",
-              "DisplayOrder": 0,
-              "MediaId": 19598
-            },
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-64/425-mass-apartments-studio-living-area",
-              "Alt": "425 Mass Apartments - Studio Living Area",
-              "CropX": 0,
-              "CropY": 0,
-              "Key": null,
-              "SeoName": null,
-              "Id": 267911,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Studio Living Space",
-              "DisplayOrder": 0,
-              "MediaId": 19600
-            },
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-65/425-mass-apartments-studio-storage",
-              "Alt": "425 Mass Apartments - Studio Storage",
-              "CropX": 0,
-              "CropY": 0,
-              "Key": null,
-              "SeoName": null,
-              "Id": 267993,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Studio Storage Space",
-              "DisplayOrder": 0,
-              "MediaId": 19602
-            }
-          ],
-          "Videos": [
-            {
-              "Key": "rBkAtCi_StI",
-              "Id": 0,
-              "MediaTags": null,
-              "Caption": "425 Mass Apartments - Mt Vernon Triangle - Floorplan Studio G558   Unit 1017",
-              "DisplayOrder": 0,
-              "MediaId": 29083
-            }
-          ],
-          "Matterports": [],
-          "Zillows": [],
-          "AccordionPhoto": null,
-          "ExcludeFromOll": false,
-          "FurnishAvailable": false,
-          "BestTermFurnished": null,
-          "FurnishedTerms": [],
-          "SpecialAmount": 0
-        },
-        {
-          "LedgerId": "19288",
           "UnitId": "717",
           "BuildingId": "425",
           "AvailableDate": "12/30/2021",
           "BestTerm": {
             "Length": 12,
-            "Price": 2008
+            "Price": 1973
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 2008
+              "Price": 1973
             },
             {
               "Length": 11,
-              "Price": 2043
+              "Price": 2008
             },
             {
               "Length": 10,
-              "Price": 2043
+              "Price": 2008
             },
             {
               "Length": 9,
-              "Price": 2128
+              "Price": 2118
             },
             {
               "Length": 8,
@@ -794,29 +637,186 @@
         },
         {
           "LedgerId": "19288",
+          "UnitId": "417",
+          "BuildingId": "425",
+          "AvailableDate": "2/26/2022",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 1987
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 1987
+            },
+            {
+              "Length": 11,
+              "Price": 2022
+            },
+            {
+              "Length": 10,
+              "Price": 2022
+            },
+            {
+              "Length": 9,
+              "Price": 2102
+            },
+            {
+              "Length": 8,
+              "Price": 2147
+            },
+            {
+              "Length": 7,
+              "Price": 2182
+            },
+            {
+              "Length": 6,
+              "Price": 2352
+            },
+            {
+              "Length": 5,
+              "Price": 2362
+            },
+            {
+              "Length": 4,
+              "Price": 2307
+            },
+            {
+              "Length": 3,
+              "Price": 2307
+            }
+          ],
+          "SqFt": 558,
+          "Bed": 0,
+          "Bath": 1,
+          "FloorplanId": "378474",
+          "FloorplanName": "Studio G/558",
+          "Floor": "Floor 4",
+          "Description": "This studio home offers a fluid living space with a balcony and floor to ceiling windows. The home also has a step-in closet and additional storage in the bathroom.",
+          "Amenities": [
+            {
+              "Name": "Balcony",
+              "Icon": "",
+              "AmenCode": "U08"
+            },
+            {
+              "Name": "Southern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPS"
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378474-0-1-558",
+          "Photos": [
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-62/425-mass-apartments-kitchen",
+              "Alt": "425 Mass Apartments - Kitchen",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 267747,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Kitchen with Stainless Steel Appliances",
+              "DisplayOrder": 0,
+              "MediaId": 19596
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-63/425-mass-apartments-balcony",
+              "Alt": "425 Mass Apartments - Balcony",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 267829,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Balcony",
+              "DisplayOrder": 0,
+              "MediaId": 19598
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-64/425-mass-apartments-studio-living-area",
+              "Alt": "425 Mass Apartments - Studio Living Area",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 267911,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Studio Living Space",
+              "DisplayOrder": 0,
+              "MediaId": 19600
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-65/425-mass-apartments-studio-storage",
+              "Alt": "425 Mass Apartments - Studio Storage",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 267993,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Studio Storage Space",
+              "DisplayOrder": 0,
+              "MediaId": 19602
+            }
+          ],
+          "Videos": [
+            {
+              "Key": "rBkAtCi_StI",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "425 Mass Apartments - Mt Vernon Triangle - Floorplan Studio G558   Unit 1017",
+              "DisplayOrder": 0,
+              "MediaId": 29083
+            }
+          ],
+          "Matterports": [],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 0
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "917",
           "BuildingId": "425",
           "AvailableDate": "12/30/2021",
           "BestTerm": {
             "Length": 12,
-            "Price": 2030
+            "Price": 1995
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 2030
+              "Price": 1995
             },
             {
               "Length": 11,
-              "Price": 2065
+              "Price": 2030
             },
             {
               "Length": 10,
-              "Price": 2065
+              "Price": 2030
             },
             {
               "Length": 9,
-              "Price": 2150
+              "Price": 2140
             },
             {
               "Length": 8,
@@ -963,48 +963,48 @@
           "AvailableDate": "1/13/2022",
           "BestTerm": {
             "Length": 12,
-            "Price": 2160
+            "Price": 2210
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 2160
+              "Price": 2210
             },
             {
               "Length": 11,
-              "Price": 2205
+              "Price": 2255
             },
             {
               "Length": 10,
-              "Price": 2205
+              "Price": 2255
             },
             {
               "Length": 9,
-              "Price": 2395
+              "Price": 2460
             },
             {
               "Length": 8,
-              "Price": 2480
+              "Price": 2550
             },
             {
               "Length": 7,
-              "Price": 2535
+              "Price": 2605
             },
             {
               "Length": 6,
-              "Price": 2570
+              "Price": 2630
             },
             {
               "Length": 5,
-              "Price": 2675
+              "Price": 2705
             },
             {
               "Length": 4,
-              "Price": 2675
+              "Price": 2705
             },
             {
               "Length": 3,
-              "Price": 2675
+              "Price": 2705
             }
           ],
           "SqFt": 638,
@@ -1054,48 +1054,48 @@
           "AvailableDate": "12/30/2021",
           "BestTerm": {
             "Length": 12,
-            "Price": 2167
+            "Price": 2217
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 2167
+              "Price": 2217
             },
             {
               "Length": 11,
-              "Price": 2212
+              "Price": 2262
             },
             {
               "Length": 10,
-              "Price": 2212
+              "Price": 2262
             },
             {
               "Length": 9,
-              "Price": 2367
+              "Price": 2432
             },
             {
               "Length": 8,
-              "Price": 2437
+              "Price": 2507
             },
             {
               "Length": 7,
-              "Price": 2492
+              "Price": 2562
             },
             {
               "Length": 6,
-              "Price": 2537
+              "Price": 2597
             },
             {
               "Length": 5,
-              "Price": 2672
+              "Price": 2702
             },
             {
               "Length": 4,
-              "Price": 2672
+              "Price": 2702
             },
             {
               "Length": 3,
-              "Price": 2672
+              "Price": 2702
             }
           ],
           "SqFt": 679,
@@ -1136,48 +1136,48 @@
           "AvailableDate": "1/13/2022",
           "BestTerm": {
             "Length": 12,
-            "Price": 2277
+            "Price": 2327
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 2277
+              "Price": 2327
             },
             {
               "Length": 11,
-              "Price": 2322
+              "Price": 2372
             },
             {
               "Length": 10,
-              "Price": 2322
+              "Price": 2372
             },
             {
               "Length": 9,
-              "Price": 2512
+              "Price": 2577
             },
             {
               "Length": 8,
-              "Price": 2597
+              "Price": 2667
             },
             {
               "Length": 7,
-              "Price": 2652
+              "Price": 2722
             },
             {
               "Length": 6,
-              "Price": 2687
+              "Price": 2747
             },
             {
               "Length": 5,
-              "Price": 2792
+              "Price": 2822
             },
             {
               "Length": 4,
-              "Price": 2792
+              "Price": 2822
             },
             {
               "Length": 3,
-              "Price": 2792
+              "Price": 2822
             }
           ],
           "SqFt": 638,
@@ -1227,48 +1227,48 @@
           "AvailableDate": "1/22/2022",
           "BestTerm": {
             "Length": 12,
-            "Price": 2384
+            "Price": 2429
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 2384
+              "Price": 2429
             },
             {
               "Length": 11,
-              "Price": 2429
+              "Price": 2474
             },
             {
               "Length": 10,
-              "Price": 2429
+              "Price": 2474
             },
             {
               "Length": 9,
-              "Price": 2589
+              "Price": 2644
             },
             {
               "Length": 8,
-              "Price": 2664
-            },
-            {
-              "Length": 7,
               "Price": 2719
             },
             {
+              "Length": 7,
+              "Price": 2774
+            },
+            {
               "Length": 6,
-              "Price": 2764
+              "Price": 2809
             },
             {
               "Length": 5,
-              "Price": 2889
+              "Price": 2919
             },
             {
               "Length": 4,
-              "Price": 2889
+              "Price": 2919
             },
             {
               "Length": 3,
-              "Price": 2889
+              "Price": 2919
             }
           ],
           "SqFt": 823,
@@ -1328,48 +1328,48 @@
           "AvailableDate": "12/30/2021",
           "BestTerm": {
             "Length": 12,
-            "Price": 2401
+            "Price": 2451
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 2401
+              "Price": 2451
             },
             {
               "Length": 11,
-              "Price": 2446
+              "Price": 2496
             },
             {
               "Length": 10,
-              "Price": 2446
+              "Price": 2496
             },
             {
               "Length": 9,
-              "Price": 2601
+              "Price": 2666
             },
             {
               "Length": 8,
-              "Price": 2671
+              "Price": 2741
             },
             {
               "Length": 7,
-              "Price": 2726
+              "Price": 2796
             },
             {
               "Length": 6,
-              "Price": 2771
+              "Price": 2831
             },
             {
               "Length": 5,
-              "Price": 2906
+              "Price": 2936
             },
             {
               "Length": 4,
-              "Price": 2906
+              "Price": 2936
             },
             {
               "Length": 3,
-              "Price": 2906
+              "Price": 2936
             }
           ],
           "SqFt": 657,
@@ -1588,48 +1588,48 @@
           "AvailableDate": "12/30/2021",
           "BestTerm": {
             "Length": 12,
-            "Price": 2435
+            "Price": 2485
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 2435
+              "Price": 2485
             },
             {
               "Length": 11,
-              "Price": 2480
+              "Price": 2530
             },
             {
               "Length": 10,
-              "Price": 2480
+              "Price": 2530
             },
             {
               "Length": 9,
-              "Price": 2635
+              "Price": 2700
             },
             {
               "Length": 8,
-              "Price": 2705
+              "Price": 2775
             },
             {
               "Length": 7,
-              "Price": 2760
+              "Price": 2830
             },
             {
               "Length": 6,
-              "Price": 2805
+              "Price": 2865
             },
             {
               "Length": 5,
-              "Price": 2940
+              "Price": 2970
             },
             {
               "Length": 4,
-              "Price": 2940
+              "Price": 2970
             },
             {
               "Length": 3,
-              "Price": 2940
+              "Price": 2970
             }
           ],
           "SqFt": 1009,
@@ -1741,48 +1741,48 @@
           "AvailableDate": "12/30/2021",
           "BestTerm": {
             "Length": 12,
-            "Price": 2580
+            "Price": 2605
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 2580
+              "Price": 2605
             },
             {
               "Length": 11,
-              "Price": 2630
+              "Price": 2655
             },
             {
               "Length": 10,
-              "Price": 2630
+              "Price": 2655
             },
             {
               "Length": 9,
-              "Price": 3060
+              "Price": 3090
             },
             {
               "Length": 8,
-              "Price": 2950
+              "Price": 2975
             },
             {
               "Length": 7,
-              "Price": 3025
+              "Price": 3055
             },
             {
               "Length": 6,
-              "Price": 3190
+              "Price": 3215
             },
             {
               "Length": 5,
-              "Price": 3290
+              "Price": 3320
             },
             {
               "Length": 4,
-              "Price": 3290
+              "Price": 3320
             },
             {
               "Length": 3,
-              "Price": 3290
+              "Price": 3320
             }
           ],
           "SqFt": 1050,
@@ -1823,48 +1823,48 @@
           "AvailableDate": "12/30/2021",
           "BestTerm": {
             "Length": 12,
-            "Price": 2800
+            "Price": 2825
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 2800
+              "Price": 2825
             },
             {
               "Length": 11,
-              "Price": 2850
+              "Price": 2875
             },
             {
               "Length": 10,
-              "Price": 2850
+              "Price": 2875
             },
             {
               "Length": 9,
-              "Price": 3280
+              "Price": 3310
             },
             {
               "Length": 8,
-              "Price": 3170
+              "Price": 3195
             },
             {
               "Length": 7,
-              "Price": 3245
+              "Price": 3275
             },
             {
               "Length": 6,
-              "Price": 3410
+              "Price": 3435
             },
             {
               "Length": 5,
-              "Price": 3510
+              "Price": 3540
             },
             {
               "Length": 4,
-              "Price": 3510
+              "Price": 3540
             },
             {
               "Length": 3,
-              "Price": 3510
+              "Price": 3540
             }
           ],
           "SqFt": 1050,
@@ -1948,48 +1948,48 @@
           "AvailableDate": "1/25/2022",
           "BestTerm": {
             "Length": 12,
-            "Price": 2830
+            "Price": 2855
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 2830
+              "Price": 2855
             },
             {
               "Length": 11,
-              "Price": 2885
+              "Price": 2910
             },
             {
               "Length": 10,
-              "Price": 2885
+              "Price": 2910
             },
             {
               "Length": 9,
-              "Price": 3440
+              "Price": 3465
             },
             {
               "Length": 8,
-              "Price": 3265
+              "Price": 3295
             },
             {
               "Length": 7,
-              "Price": 3265
+              "Price": 3290
             },
             {
               "Length": 6,
-              "Price": 3470
+              "Price": 3495
             },
             {
               "Length": 5,
-              "Price": 3510
+              "Price": 3540
             },
             {
               "Length": 4,
-              "Price": 3510
+              "Price": 3540
             },
             {
               "Length": 3,
-              "Price": 3510
+              "Price": 3540
             }
           ],
           "SqFt": 1050,
@@ -2205,48 +2205,48 @@
           "AvailableDate": "3/2/2022",
           "BestTerm": {
             "Length": 12,
-            "Price": 3072
+            "Price": 3097
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 3072
+              "Price": 3097
             },
             {
               "Length": 11,
-              "Price": 3127
+              "Price": 3152
             },
             {
               "Length": 10,
-              "Price": 3127
+              "Price": 3152
             },
             {
               "Length": 9,
-              "Price": 3542
+              "Price": 3572
             },
             {
               "Length": 8,
-              "Price": 3652
+              "Price": 3682
             },
             {
               "Length": 7,
-              "Price": 3477
+              "Price": 3507
             },
             {
               "Length": 6,
-              "Price": 3672
+              "Price": 3702
             },
             {
               "Length": 5,
-              "Price": 3772
+              "Price": 3807
             },
             {
               "Length": 4,
-              "Price": 3852
+              "Price": 3882
             },
             {
               "Length": 3,
-              "Price": 3927
+              "Price": 3962
             }
           ],
           "SqFt": 1193,
@@ -2315,48 +2315,48 @@
           "AvailableDate": "12/30/2021",
           "BestTerm": {
             "Length": 12,
-            "Price": 3170
+            "Price": 3140
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 3170
+              "Price": 3140
             },
             {
               "Length": 11,
-              "Price": 3235
+              "Price": 3205
             },
             {
               "Length": 10,
-              "Price": 3235
+              "Price": 3205
             },
             {
               "Length": 9,
-              "Price": 3980
+              "Price": 3945
             },
             {
               "Length": 8,
-              "Price": 4005
+              "Price": 3965
             },
             {
               "Length": 7,
-              "Price": 3765
+              "Price": 3725
             },
             {
               "Length": 6,
-              "Price": 3845
+              "Price": 3805
             },
             {
               "Length": 5,
-              "Price": 4090
+              "Price": 4035
             },
             {
               "Length": 4,
-              "Price": 4090
+              "Price": 4035
             },
             {
               "Length": 3,
-              "Price": 4090
+              "Price": 4035
             }
           ],
           "SqFt": 1284,
@@ -2418,48 +2418,48 @@
           "AvailableDate": "12/30/2021",
           "BestTerm": {
             "Length": 12,
-            "Price": 3435
+            "Price": 3405
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 3435
+              "Price": 3405
             },
             {
               "Length": 11,
-              "Price": 3500
+              "Price": 3470
             },
             {
               "Length": 10,
-              "Price": 3500
+              "Price": 3470
             },
             {
               "Length": 9,
-              "Price": 4245
+              "Price": 4210
             },
             {
               "Length": 8,
-              "Price": 4270
+              "Price": 4230
             },
             {
               "Length": 7,
-              "Price": 4030
+              "Price": 3990
             },
             {
               "Length": 6,
-              "Price": 4110
+              "Price": 4070
             },
             {
               "Length": 5,
-              "Price": 4355
+              "Price": 4300
             },
             {
               "Length": 4,
-              "Price": 4355
+              "Price": 4300
             },
             {
               "Length": 3,
-              "Price": 4355
+              "Price": 4300
             }
           ],
           "SqFt": 1416,
@@ -2530,48 +2530,48 @@
           "AvailableDate": "2/17/2022",
           "BestTerm": {
             "Length": 12,
-            "Price": 3487
+            "Price": 3432
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 3487
+              "Price": 3432
             },
             {
               "Length": 11,
-              "Price": 3557
+              "Price": 3497
             },
             {
               "Length": 10,
-              "Price": 3557
+              "Price": 3497
             },
             {
               "Length": 9,
-              "Price": 3707
+              "Price": 3667
             },
             {
               "Length": 8,
-              "Price": 3782
+              "Price": 3742
             },
             {
               "Length": 7,
-              "Price": 3862
+              "Price": 3822
             },
             {
               "Length": 6,
-              "Price": 3942
+              "Price": 3902
             },
             {
               "Length": 5,
-              "Price": 4307
+              "Price": 4252
             },
             {
               "Length": 4,
-              "Price": 4187
+              "Price": 4132
             },
             {
               "Length": 3,
-              "Price": 4187
+              "Price": 4132
             }
           ],
           "SqFt": 1284,
@@ -2633,48 +2633,48 @@
           "AvailableDate": "12/30/2021",
           "BestTerm": {
             "Length": 12,
-            "Price": 3693
+            "Price": 3663
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 3693
+              "Price": 3663
             },
             {
               "Length": 11,
-              "Price": 3758
+              "Price": 3728
             },
             {
               "Length": 10,
-              "Price": 3758
+              "Price": 3728
             },
             {
               "Length": 9,
-              "Price": 4503
+              "Price": 4468
             },
             {
               "Length": 8,
-              "Price": 4528
+              "Price": 4488
             },
             {
               "Length": 7,
-              "Price": 4288
+              "Price": 4248
             },
             {
               "Length": 6,
-              "Price": 4368
+              "Price": 4328
             },
             {
               "Length": 5,
-              "Price": 4613
+              "Price": 4558
             },
             {
               "Length": 4,
-              "Price": 4613
+              "Price": 4558
             },
             {
               "Length": 3,
-              "Price": 4613
+              "Price": 4558
             }
           ],
           "SqFt": 1529,
@@ -2741,48 +2741,48 @@
           "AvailableDate": "2/12/2022",
           "BestTerm": {
             "Length": 12,
-            "Price": 3872
+            "Price": 3802
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 3872
+              "Price": 3802
             },
             {
               "Length": 11,
-              "Price": 3942
+              "Price": 3867
             },
             {
               "Length": 10,
-              "Price": 3942
+              "Price": 3867
             },
             {
               "Length": 9,
-              "Price": 4097
+              "Price": 4052
             },
             {
               "Length": 8,
-              "Price": 4177
+              "Price": 4137
             },
             {
               "Length": 7,
-              "Price": 4257
+              "Price": 4217
             },
             {
               "Length": 6,
-              "Price": 4337
+              "Price": 4297
             },
             {
               "Length": 5,
-              "Price": 4617
+              "Price": 4562
             },
             {
               "Length": 4,
-              "Price": 4582
+              "Price": 4527
             },
             {
               "Length": 3,
-              "Price": 4582
+              "Price": 4527
             }
           ],
           "SqFt": 1493,
