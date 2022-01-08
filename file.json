@@ -176,6 +176,88 @@
         },
         {
           "LedgerId": "19288",
+          "UnitId": "427",
+          "BuildingId": "425",
+          "AvailableDate": "2/18/2022",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 1822
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 1822
+            },
+            {
+              "Length": 11,
+              "Price": 1857
+            },
+            {
+              "Length": 10,
+              "Price": 1857
+            },
+            {
+              "Length": 9,
+              "Price": 1892
+            },
+            {
+              "Length": 8,
+              "Price": 1917
+            },
+            {
+              "Length": 7,
+              "Price": 1952
+            },
+            {
+              "Length": 6,
+              "Price": 2077
+            },
+            {
+              "Length": 5,
+              "Price": 2157
+            },
+            {
+              "Length": 4,
+              "Price": 2157
+            },
+            {
+              "Length": 3,
+              "Price": 2127
+            }
+          ],
+          "SqFt": 504,
+          "Bed": 0,
+          "Bath": 1,
+          "FloorplanId": "378472",
+          "FloorplanName": "Studio J/504",
+          "Floor": "Floor 4",
+          "Description": "This Studio home offers a long, open space with floor to ceiling windows that let in plenty or natural light. This home also has two closets and a stand-in shower in the bathroom.",
+          "Amenities": [
+            {
+              "Name": "Northern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPN"
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378472-0-1-504",
+          "Photos": [],
+          "Videos": [],
+          "Matterports": [],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 0
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "PH111",
           "BuildingId": "401",
           "AvailableDate": "1/12/2022",
@@ -2431,114 +2513,6 @@
           "BestTermFurnished": null,
           "FurnishedTerms": [],
           "SpecialAmount": 150
-        },
-        {
-          "LedgerId": "19288",
-          "UnitId": "405",
-          "BuildingId": "425",
-          "AvailableDate": "1/8/2022",
-          "BestTerm": {
-            "Length": 12,
-            "Price": 3748
-          },
-          "Terms": [
-            {
-              "Length": 12,
-              "Price": 3748
-            },
-            {
-              "Length": 11,
-              "Price": 3813
-            },
-            {
-              "Length": 10,
-              "Price": 3813
-            },
-            {
-              "Length": 9,
-              "Price": 4468
-            },
-            {
-              "Length": 8,
-              "Price": 4488
-            },
-            {
-              "Length": 7,
-              "Price": 4248
-            },
-            {
-              "Length": 6,
-              "Price": 4328
-            },
-            {
-              "Length": 5,
-              "Price": 4558
-            },
-            {
-              "Length": 4,
-              "Price": 4558
-            },
-            {
-              "Length": 3,
-              "Price": 4558
-            }
-          ],
-          "SqFt": 1529,
-          "Bed": 2,
-          "Bath": 2,
-          "FloorplanId": "378490",
-          "FloorplanName": "Two Bedroom+Den B/1529",
-          "Floor": "Floor 4",
-          "Description": "This 2 Bed with Den/ 2 Bath home offers spacious living room, an open style kitchen, a walk-in pantry and a balcony looking onto the city.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              ",
-          "Amenities": [
-            {
-              "Name": "Balcony",
-              "Icon": "",
-              "AmenCode": "U08"
-            },
-            {
-              "Name": "Eastern Exposure",
-              "Icon": "",
-              "AmenCode": "EXPE"
-            },
-            {
-              "Name": "Southern Exposure",
-              "Icon": "",
-              "AmenCode": "EXPS"
-            }
-          ],
-          "Special": {
-            "Active": false,
-            "Title": null,
-            "Expires": null
-          },
-          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378490-2-2-1529",
-          "Photos": [
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-Unit404FP-9/425-mass-apartments-404fp",
-              "Alt": "425 Mass Apartments - 401FP",
-              "CropX": 0,
-              "CropY": 0,
-              "Key": null,
-              "SeoName": null,
-              "Id": 200025,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Views from the Balcony",
-              "DisplayOrder": 0,
-              "MediaId": 14117
-            }
-          ],
-          "Videos": [],
-          "Matterports": [],
-          "Zillows": [],
-          "AccordionPhoto": null,
-          "ExcludeFromOll": false,
-          "FurnishAvailable": false,
-          "BestTermFurnished": null,
-          "FurnishedTerms": [],
-          "SpecialAmount": 0
         },
         {
           "LedgerId": "19288",
