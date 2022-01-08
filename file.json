@@ -1304,6 +1304,93 @@
         },
         {
           "LedgerId": "19288",
+          "UnitId": "607",
+          "BuildingId": "401",
+          "AvailableDate": "1/22/2022",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 2433
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 2433
+            },
+            {
+              "Length": 11,
+              "Price": 2478
+            },
+            {
+              "Length": 10,
+              "Price": 2478
+            },
+            {
+              "Length": 9,
+              "Price": 2648
+            },
+            {
+              "Length": 8,
+              "Price": 2728
+            },
+            {
+              "Length": 7,
+              "Price": 2783
+            },
+            {
+              "Length": 6,
+              "Price": 2813
+            },
+            {
+              "Length": 5,
+              "Price": 2923
+            },
+            {
+              "Length": 4,
+              "Price": 2913
+            },
+            {
+              "Length": 3,
+              "Price": 2913
+            }
+          ],
+          "SqFt": 694,
+          "Bed": 1,
+          "Bath": 1,
+          "FloorplanId": "00002648",
+          "FloorplanName": "Unit 407",
+          "Floor": "Floor 6",
+          "Description": "This apartment home offers a living room with a built-in bookcase, floor to ceiling windows, as well as an attached balcony. The bedroom is spacious (queen bed) and features a step-in closet.",
+          "Amenities": [
+            {
+              "Name": "Balcony",
+              "Icon": "",
+              "AmenCode": "U08"
+            },
+            {
+              "Name": "Eastern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPE"
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002648-1-1-694",
+          "Photos": [],
+          "Videos": [],
+          "Matterports": [],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 0
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "PH208",
           "BuildingId": "401",
           "AvailableDate": "1/8/2022",
