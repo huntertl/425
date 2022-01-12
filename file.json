@@ -1311,6 +1311,88 @@
       "AvailableUnits": [
         {
           "LedgerId": "19288",
+          "UnitId": "302",
+          "BuildingId": "401",
+          "AvailableDate": "1/12/2022",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 2272
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 2272
+            },
+            {
+              "Length": 11,
+              "Price": 2317
+            },
+            {
+              "Length": 10,
+              "Price": 2317
+            },
+            {
+              "Length": 9,
+              "Price": 2522
+            },
+            {
+              "Length": 8,
+              "Price": 2612
+            },
+            {
+              "Length": 7,
+              "Price": 2667
+            },
+            {
+              "Length": 6,
+              "Price": 2697
+            },
+            {
+              "Length": 5,
+              "Price": 2782
+            },
+            {
+              "Length": 4,
+              "Price": 2782
+            },
+            {
+              "Length": 3,
+              "Price": 2782
+            }
+          ],
+          "SqFt": 679,
+          "Bed": 1,
+          "Bath": 1,
+          "FloorplanId": "00002643",
+          "FloorplanName": "Unit 402",
+          "Floor": "Floor 3",
+          "Description": "This Junior apartment/ 1 Bath home offers a living space featuring a bed nook with oversized sliding door. The home has a galley style kitchen, generous closet space and depending on the floor, a Juliette balcony off of the living room.",
+          "Amenities": [
+            {
+              "Name": "Southern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPS"
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002643-1-1-679",
+          "Photos": [],
+          "Videos": [],
+          "Matterports": [],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 0
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "629",
           "BuildingId": "425",
           "AvailableDate": "3/4/2022",
