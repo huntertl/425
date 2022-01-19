@@ -220,7 +220,16 @@
               "MediaId": 36194
             }
           ],
-          "Matterports": [],
+          "Matterports": [
+            {
+              "Key": "SVMni473rYX",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "3D Floorplan",
+              "DisplayOrder": 0,
+              "MediaId": 36310
+            }
+          ],
           "Zillows": [],
           "AccordionPhoto": null,
           "ExcludeFromOll": false,
@@ -736,7 +745,7 @@
           "LedgerId": "19288",
           "UnitId": "612",
           "BuildingId": "425",
-          "AvailableDate": "7/20/2022",
+          "AvailableDate": "4/12/2022",
           "BestTerm": {
             "Length": 12,
             "Price": 2409
@@ -789,7 +798,7 @@
           "FloorplanId": "378477",
           "FloorplanName": "One Bedroom E/707",
           "Floor": "Floor 6",
-          "Description": "This apartment home offers a unique living room with floor to ceiling windows, an attached balcony and a galley style kitchen. The bedroom is spacious queen bed and features double closets.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         ",
+          "Description": "This apartment home offers a unique living room with floor to ceiling windows, an attached balcony and a galley style kitchen. The bedroom is spacious queen bed and features double closets.",
           "Amenities": [
             {
               "Name": "Eastern Exposure",
@@ -1163,7 +1172,16 @@
               "MediaId": 36192
             }
           ],
-          "Matterports": [],
+          "Matterports": [
+            {
+              "Key": "xA3fRtvbdB5",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "3D Floorplan",
+              "DisplayOrder": 0,
+              "MediaId": 36312
+            }
+          ],
           "Zillows": [],
           "AccordionPhoto": null,
           "ExcludeFromOll": false,
@@ -1576,7 +1594,16 @@
             }
           ],
           "Videos": [],
-          "Matterports": [],
+          "Matterports": [
+            {
+              "Key": "xeTt8tMHCdC",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "3D Floorplan",
+              "DisplayOrder": 0,
+              "MediaId": 36307
+            }
+          ],
           "Zillows": [],
           "AccordionPhoto": null,
           "ExcludeFromOll": false,
@@ -2070,7 +2097,16 @@
               "MediaId": 36196
             }
           ],
-          "Matterports": [],
+          "Matterports": [
+            {
+              "Key": "whZRWCpivjC",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "3D Floorplan",
+              "DisplayOrder": 0,
+              "MediaId": 36308
+            }
+          ],
           "Zillows": [],
           "AccordionPhoto": null,
           "ExcludeFromOll": false,
@@ -2382,6 +2418,98 @@
       "AvailableUnits": [
         {
           "LedgerId": "19288",
+          "UnitId": "219",
+          "BuildingId": "425",
+          "AvailableDate": "3/31/2022",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 3238
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 3238
+            },
+            {
+              "Length": 11,
+              "Price": 3308
+            },
+            {
+              "Length": 10,
+              "Price": 3308
+            },
+            {
+              "Length": 9,
+              "Price": 3428
+            },
+            {
+              "Length": 8,
+              "Price": 3493
+            },
+            {
+              "Length": 7,
+              "Price": 3618
+            },
+            {
+              "Length": 6,
+              "Price": 3873
+            },
+            {
+              "Length": 5,
+              "Price": 4553
+            },
+            {
+              "Length": 4,
+              "Price": 4618
+            },
+            {
+              "Length": 3,
+              "Price": 4353
+            }
+          ],
+          "SqFt": 1090,
+          "Bed": 2,
+          "Bath": 2,
+          "FloorplanId": "378484",
+          "FloorplanName": "Two Bedroom J/1214",
+          "Floor": "Floor 2",
+          "Description": "This apartment corner home offers an open living room with floor to ceiling windows, an open style kitchen with breakfast bar and a balcony. The main bedroom features a large walk-in closet and an en-suite bathroom.",
+          "Amenities": [
+            {
+              "Name": "Balcony",
+              "Icon": "",
+              "AmenCode": "U08"
+            },
+            {
+              "Name": "Corner Unit",
+              "Icon": "",
+              "AmenCode": "CU"
+            },
+            {
+              "Name": "Southern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPS"
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378484-2-2-1214",
+          "Photos": [],
+          "Videos": [],
+          "Matterports": [],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 0
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "820",
           "BuildingId": "425",
           "AvailableDate": "2/4/2022",
@@ -2663,7 +2791,16 @@
             }
           ],
           "Videos": [],
-          "Matterports": [],
+          "Matterports": [
+            {
+              "Key": "ncbBUPbUA7j",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "3D Floorplan",
+              "DisplayOrder": 0,
+              "MediaId": 36311
+            }
+          ],
           "Zillows": [],
           "AccordionPhoto": null,
           "ExcludeFromOll": false,
