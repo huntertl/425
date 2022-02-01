@@ -3025,6 +3025,98 @@
       "AvailableUnits": [
         {
           "LedgerId": "19288",
+          "UnitId": "219",
+          "BuildingId": "425",
+          "AvailableDate": "3/8/2022",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 3293
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 3293
+            },
+            {
+              "Length": 11,
+              "Price": 3353
+            },
+            {
+              "Length": 10,
+              "Price": 3463
+            },
+            {
+              "Length": 9,
+              "Price": 3483
+            },
+            {
+              "Length": 8,
+              "Price": 3543
+            },
+            {
+              "Length": 7,
+              "Price": 3618
+            },
+            {
+              "Length": 6,
+              "Price": 3773
+            },
+            {
+              "Length": 5,
+              "Price": 3983
+            },
+            {
+              "Length": 4,
+              "Price": 3948
+            },
+            {
+              "Length": 3,
+              "Price": 3948
+            }
+          ],
+          "SqFt": 1090,
+          "Bed": 2,
+          "Bath": 2,
+          "FloorplanId": "378484",
+          "FloorplanName": "Two Bedroom J 1214",
+          "Floor": "Floor 2",
+          "Description": "This apartment corner home offers an open living room with floor to ceiling windows, an open style kitchen with breakfast bar and a balcony. The main bedroom features a large walk-in closet and an en-suite bathroom.",
+          "Amenities": [
+            {
+              "Name": "Balcony",
+              "Icon": "",
+              "AmenCode": "U08"
+            },
+            {
+              "Name": "Corner Unit",
+              "Icon": "",
+              "AmenCode": "CU"
+            },
+            {
+              "Name": "Southern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPS"
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378484-2-2-1214",
+          "Photos": [],
+          "Videos": [],
+          "Matterports": [],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 0
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "520",
           "BuildingId": "425",
           "AvailableDate": "3/18/2022",
