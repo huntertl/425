@@ -982,6 +982,97 @@
         },
         {
           "LedgerId": "19288",
+          "UnitId": "1229",
+          "BuildingId": "425",
+          "AvailableDate": "4/15/2022",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 2341
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 2341
+            },
+            {
+              "Length": 11,
+              "Price": 2536
+            },
+            {
+              "Length": 10,
+              "Price": 2551
+            },
+            {
+              "Length": 9,
+              "Price": 3006
+            },
+            {
+              "Length": 8,
+              "Price": 2841
+            },
+            {
+              "Length": 7,
+              "Price": 2846
+            },
+            {
+              "Length": 6,
+              "Price": 3086
+            },
+            {
+              "Length": 5,
+              "Price": 3076
+            },
+            {
+              "Length": 4,
+              "Price": 3121
+            },
+            {
+              "Length": 3,
+              "Price": 3031
+            }
+          ],
+          "SqFt": 638,
+          "Bed": 1,
+          "Bath": 1,
+          "FloorplanId": "378476",
+          "FloorplanName": "One Bedroom F 638",
+          "Floor": "Floor 12",
+          "Description": "This Junior apartment/ 1 Bath home offers a living space featuring a bed nook with oversized sliding door. The home has a galley style kitchen, and generous closet space, including a linen closet unique to this floor plan.",
+          "Amenities": [
+            {
+              "Name": "Northern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPN"
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378476-1-1-638",
+          "Photos": [],
+          "Videos": [],
+          "Matterports": [
+            {
+              "Key": "45PuDTpBa9k",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "3D Floorplan",
+              "DisplayOrder": 0,
+              "MediaId": 16847
+            }
+          ],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 0
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "612",
           "BuildingId": "425",
           "AvailableDate": "4/12/2022",
