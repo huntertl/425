@@ -2739,6 +2739,98 @@
         },
         {
           "LedgerId": "19288",
+          "UnitId": "1110",
+          "BuildingId": "401",
+          "AvailableDate": "3/18/2022",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 2631
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 2631
+            },
+            {
+              "Length": 11,
+              "Price": 2706
+            },
+            {
+              "Length": 10,
+              "Price": 2796
+            },
+            {
+              "Length": 9,
+              "Price": 2886
+            },
+            {
+              "Length": 8,
+              "Price": 2971
+            },
+            {
+              "Length": 7,
+              "Price": 3036
+            },
+            {
+              "Length": 6,
+              "Price": 3291
+            },
+            {
+              "Length": 5,
+              "Price": 3086
+            },
+            {
+              "Length": 4,
+              "Price": 3081
+            },
+            {
+              "Length": 3,
+              "Price": 3081
+            }
+          ],
+          "SqFt": 795,
+          "Bed": 1,
+          "Bath": 1,
+          "FloorplanId": "00002650",
+          "FloorplanName": "Unit 410",
+          "Floor": "Floor 11",
+          "Description": "This apartment corner home offers floor to ceiling windows, a built-in bookcase, an open style kitchen with breakfast bar, and a unique decorative glass window-wall.",
+          "Amenities": [
+            {
+              "Name": "Corner Unit",
+              "Icon": "",
+              "AmenCode": "CU"
+            },
+            {
+              "Name": "Juliet Balcony",
+              "Icon": "",
+              "AmenCode": "U51"
+            },
+            {
+              "Name": "Western Exposure",
+              "Icon": "",
+              "AmenCode": "EXPW"
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002650-1-1-761",
+          "Photos": [],
+          "Videos": [],
+          "Matterports": [],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 0
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "401",
           "BuildingId": "401",
           "AvailableDate": "2/9/2022",
