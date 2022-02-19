@@ -5364,6 +5364,127 @@
           "BestTermFurnished": null,
           "FurnishedTerms": [],
           "SpecialAmount": 0
+        },
+        {
+          "LedgerId": "19288",
+          "UnitId": "902",
+          "BuildingId": "425",
+          "AvailableDate": "3/31/2022",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 3180
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 3180
+            },
+            {
+              "Length": 11,
+              "Price": 3380
+            },
+            {
+              "Length": 10,
+              "Price": 3425
+            },
+            {
+              "Length": 9,
+              "Price": 3755
+            },
+            {
+              "Length": 8,
+              "Price": 3675
+            },
+            {
+              "Length": 7,
+              "Price": 3570
+            },
+            {
+              "Length": 6,
+              "Price": 3625
+            },
+            {
+              "Length": 5,
+              "Price": 3850
+            },
+            {
+              "Length": 4,
+              "Price": 3930
+            },
+            {
+              "Length": 3,
+              "Price": 3795
+            }
+          ],
+          "SqFt": 1193,
+          "Bed": 1,
+          "Bath": 2,
+          "FloorplanId": "378481",
+          "FloorplanName": "One Bedroom+Den J 1193",
+          "Floor": "Floor 9",
+          "Description": "This 1 Bed with Den/ 2 Bath home offers floor to ceiling windows, a balcony, and a built-in bookcase!",
+          "Amenities": [
+            {
+              "Name": "Balcony",
+              "Icon": "",
+              "AmenCode": "U08"
+            },
+            {
+              "Name": "Southern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPS"
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378481-1-2-1193",
+          "Photos": [
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-Unit404FP-9/425-mass-apartments-404fp",
+              "Alt": "425 Mass Apartments - 401FP",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 200010,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Views from the Balcony",
+              "DisplayOrder": 0,
+              "MediaId": 14117
+            }
+          ],
+          "Videos": [
+            {
+              "Key": "X_dzL2COplQ",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "425 Mass Apartments - Mt Vernon Triangle - J 1193 - Unit 425 - 302",
+              "DisplayOrder": 0,
+              "MediaId": 36196
+            }
+          ],
+          "Matterports": [
+            {
+              "Key": "whZRWCpivjC",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "3D Floorplan",
+              "DisplayOrder": 0,
+              "MediaId": 36308
+            }
+          ],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 0
         }
       ]
     },
