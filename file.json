@@ -3293,12 +3293,12 @@
           "AvailableDate": "3/18/2022",
           "BestTerm": {
             "Length": 12,
-            "Price": 2452
+            "Price": 2447
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 2452
+              "Price": 2447
             },
             {
               "Length": 11,
@@ -3306,7 +3306,7 @@
             },
             {
               "Length": 10,
-              "Price": 2617
+              "Price": 2647
             },
             {
               "Length": 9,
@@ -6297,6 +6297,114 @@
           "BestTermFurnished": null,
           "FurnishedTerms": [],
           "SpecialAmount": 200
+        },
+        {
+          "LedgerId": "19288",
+          "UnitId": "503",
+          "BuildingId": "425",
+          "AvailableDate": "3/4/2022",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 4250
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 4250
+            },
+            {
+              "Length": 11,
+              "Price": 4405
+            },
+            {
+              "Length": 10,
+              "Price": 4350
+            },
+            {
+              "Length": 9,
+              "Price": 4400
+            },
+            {
+              "Length": 8,
+              "Price": 4450
+            },
+            {
+              "Length": 7,
+              "Price": 4520
+            },
+            {
+              "Length": 6,
+              "Price": 4600
+            },
+            {
+              "Length": 5,
+              "Price": 4845
+            },
+            {
+              "Length": 4,
+              "Price": 4845
+            },
+            {
+              "Length": 3,
+              "Price": 4845
+            }
+          ],
+          "SqFt": 1526,
+          "Bed": 2,
+          "Bath": 2.5,
+          "FloorplanId": "00002292",
+          "FloorplanName": "Two Bedroom+Den J 1526",
+          "Floor": "Floor 5",
+          "Description": "This 2 Bed with Den/ 2.5 Bath loft style home offers an unique living experience with 18 ft ceilings, floor to ceiling windows, an open kitchen with breakfast bar, a built in desk under the stairs and powder room.",
+          "Amenities": [
+            {
+              "Name": "Balcony",
+              "Icon": "",
+              "AmenCode": "U08"
+            },
+            {
+              "Name": "Southern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPS"
+            },
+            {
+              "Name": "Two Level Loft-style",
+              "Icon": "",
+              "AmenCode": "U19"
+            }
+          ],
+          "Special": {
+            "Active": true,
+            "Title": "Up to $500 off move-in costs!",
+            "Expires": "3/15/2022"
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002292-2-25-1526",
+          "Photos": [
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-Unit404FP-9/425-mass-apartments-404fp",
+              "Alt": "425 Mass Apartments - 401FP",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 200013,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Views from the Balcony",
+              "DisplayOrder": 0,
+              "MediaId": 14117
+            }
+          ],
+          "Videos": [],
+          "Matterports": [],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 0
         },
         {
           "LedgerId": "19288",
