@@ -2102,7 +2102,7 @@
           "LedgerId": "19288",
           "UnitId": "806",
           "BuildingId": "401",
-          "AvailableDate": "3/10/2022",
+          "AvailableDate": "3/11/2022",
           "BestTerm": {
             "Length": 12,
             "Price": 2364
@@ -5261,7 +5261,7 @@
           "LedgerId": "19288",
           "UnitId": "219",
           "BuildingId": "425",
-          "AvailableDate": "3/10/2022",
+          "AvailableDate": "3/11/2022",
           "BestTerm": {
             "Length": 12,
             "Price": 3283
@@ -5333,9 +5333,9 @@
             }
           ],
           "Special": {
-            "Active": false,
-            "Title": null,
-            "Expires": null
+            "Active": true,
+            "Title": "Up to $500 off move-in costs!",
+            "Expires": "3/15/2022"
           },
           "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378484-2-2-1214",
           "Photos": [],
