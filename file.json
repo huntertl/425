@@ -6021,6 +6021,132 @@
           "BestTermFurnished": null,
           "FurnishedTerms": [],
           "SpecialAmount": 0
+        },
+        {
+          "LedgerId": "19288",
+          "UnitId": "704",
+          "BuildingId": "425",
+          "AvailableDate": "4/21/2022",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 4451
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 4451
+            },
+            {
+              "Length": 11,
+              "Price": 4826
+            },
+            {
+              "Length": 10,
+              "Price": 4826
+            },
+            {
+              "Length": 9,
+              "Price": 5011
+            },
+            {
+              "Length": 8,
+              "Price": 5011
+            },
+            {
+              "Length": 7,
+              "Price": 5196
+            },
+            {
+              "Length": 6,
+              "Price": 5196
+            },
+            {
+              "Length": 5,
+              "Price": 5381
+            },
+            {
+              "Length": 4,
+              "Price": 5381
+            },
+            {
+              "Length": 3,
+              "Price": 5496
+            }
+          ],
+          "SqFt": 1585,
+          "Bed": 2,
+          "Bath": 2,
+          "FloorplanId": "378488",
+          "FloorplanName": "Two Bedroom+Den Loft Two Bath K 1585",
+          "Floor": "Floor 7",
+          "Description": "This 2 Bed with Den/ 2.5 Bath loft style home offers an unique living experience with 18 ft ceilings, floor to ceiling windows, an open kitchen with breakfast bar, a built in desk under the stairs and powder room.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ",
+          "Amenities": [
+            {
+              "Name": "Balcony",
+              "Icon": "",
+              "AmenCode": "U08"
+            },
+            {
+              "Name": "Southern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPS"
+            },
+            {
+              "Name": "Two Level Loft-style",
+              "Icon": "",
+              "AmenCode": "U19"
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378488-2-25-1585",
+          "Photos": [
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-Unit404FP-9/425-mass-apartments-404fp",
+              "Alt": "425 Mass Apartments - 401FP",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 200019,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Views from the Balcony",
+              "DisplayOrder": 0,
+              "MediaId": 14117
+            }
+          ],
+          "Videos": [
+            {
+              "Key": "28SfNNNK4a4",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "Video of 1585 sqft 2 bedroom apartment",
+              "DisplayOrder": 0,
+              "MediaId": 8713
+            }
+          ],
+          "Matterports": [
+            {
+              "Key": "CsNhHyuawzQ",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "3D Floorplan",
+              "DisplayOrder": 0,
+              "MediaId": 16809
+            }
+          ],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 0
         }
       ]
     }
