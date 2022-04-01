@@ -94,6 +94,88 @@
         },
         {
           "LedgerId": "19288",
+          "UnitId": "220B",
+          "BuildingId": "425",
+          "AvailableDate": "6/10/2022",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 1800
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 1800
+            },
+            {
+              "Length": 11,
+              "Price": 1980
+            },
+            {
+              "Length": 10,
+              "Price": 1980
+            },
+            {
+              "Length": 9,
+              "Price": 2070
+            },
+            {
+              "Length": 8,
+              "Price": 2070
+            },
+            {
+              "Length": 7,
+              "Price": 2160
+            },
+            {
+              "Length": 6,
+              "Price": 2160
+            },
+            {
+              "Length": 5,
+              "Price": 2250
+            },
+            {
+              "Length": 4,
+              "Price": 2250
+            },
+            {
+              "Length": 3,
+              "Price": 2305
+            }
+          ],
+          "SqFt": 497,
+          "Bed": 0,
+          "Bath": 1,
+          "FloorplanId": "00002282",
+          "FloorplanName": "Studio B 497",
+          "Floor": "Floor 2",
+          "Description": "This Studio/ 1 Bath home offers a spacious living area with floor to ceiling windows, a galley style kitchen, walk-in closet and a stand-in shower in the bathroom.",
+          "Amenities": [
+            {
+              "Name": "Northern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPN"
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002282-0-1-497",
+          "Photos": [],
+          "Videos": [],
+          "Matterports": [],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 0
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "417",
           "BuildingId": "425",
           "AvailableDate": "4/1/2022",
@@ -6786,20 +6868,20 @@
       "PhoneNumber": "(844) 855-8751"
     },
     {
-      "IlsId": 107,
-      "PhoneNumber": "(202) 908-6296"
-    },
-    {
-      "IlsId": 108,
-      "PhoneNumber": "(202) 908-6284"
-    },
-    {
       "IlsId": 110,
       "PhoneNumber": "(844) 842-1353"
     },
     {
       "IlsId": 115,
       "PhoneNumber": "(844) 855-8750"
+    },
+    {
+      "IlsId": 108,
+      "PhoneNumber": "(202) 908-6284"
+    },
+    {
+      "IlsId": 107,
+      "PhoneNumber": "(202) 908-6296"
     }
   ],
   "PaidSearchPhone": "(202) 908-6292",
