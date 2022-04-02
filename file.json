@@ -1790,7 +1790,7 @@
           "FloorplanId": "00002665",
           "FloorplanName": "Unit 106, 107, 108, 206, 207, 208",
           "Floor": "Floor 2",
-          "Description": "This apartment home offers an open style kitchen and breakfast bar, as well as a walk-out patio with direct street access from the living room. The bedroom can accommodate up to a Queen size bed and the bathroom is spacious.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        ",
+          "Description": "This apartment home offers an open style kitchen and breakfast bar, as well as a walk-out patio with direct street access from the living room. The bedroom can accommodate up to a Queen size bed and the bathroom is spacious.",
           "Amenities": [
             {
               "Name": "Balcony",
@@ -2885,7 +2885,7 @@
           "LedgerId": "19288",
           "UnitId": "1216",
           "BuildingId": "425",
-          "AvailableDate": "4/9/2022",
+          "AvailableDate": "4/13/2022",
           "BestTerm": {
             "Length": 12,
             "Price": 2401
@@ -4344,7 +4344,7 @@
           "LedgerId": "19288",
           "UnitId": "PH125",
           "BuildingId": "425",
-          "AvailableDate": "4/7/2022",
+          "AvailableDate": "4/8/2022",
           "BestTerm": {
             "Length": 12,
             "Price": 2987
@@ -5927,8 +5927,111 @@
         {
           "LedgerId": "19288",
           "UnitId": "305",
+          "BuildingId": "425",
+          "AvailableDate": "5/6/2022",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 4193
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 4193
+            },
+            {
+              "Length": 11,
+              "Price": 4558
+            },
+            {
+              "Length": 10,
+              "Price": 4558
+            },
+            {
+              "Length": 9,
+              "Price": 4743
+            },
+            {
+              "Length": 8,
+              "Price": 4743
+            },
+            {
+              "Length": 7,
+              "Price": 4923
+            },
+            {
+              "Length": 6,
+              "Price": 4923
+            },
+            {
+              "Length": 5,
+              "Price": 5108
+            },
+            {
+              "Length": 4,
+              "Price": 5108
+            },
+            {
+              "Length": 3,
+              "Price": 5218
+            }
+          ],
+          "SqFt": 1529,
+          "Bed": 2,
+          "Bath": 2,
+          "FloorplanId": "378490",
+          "FloorplanName": "Two Bedroom+Den B 1529",
+          "Floor": "Floor 3",
+          "Description": "This 2 Bed with Den/ 2 Bath home offers spacious living room, an open style kitchen, a walk-in pantry and a balcony looking onto the city.",
+          "Amenities": [
+            {
+              "Name": "Balcony",
+              "Icon": "",
+              "AmenCode": "U08"
+            },
+            {
+              "Name": "Southern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPS"
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378490-2-2-1529",
+          "Photos": [
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-Unit404FP-9/425-mass-apartments-404fp",
+              "Alt": "425 Mass Apartments - 401FP",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 200024,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Views from the Balcony",
+              "DisplayOrder": 0,
+              "MediaId": 14117
+            }
+          ],
+          "Videos": [],
+          "Matterports": [],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 0
+        },
+        {
+          "LedgerId": "19288",
+          "UnitId": "305",
           "BuildingId": "401",
-          "AvailableDate": "4/1/2022",
+          "AvailableDate": "4/7/2022",
           "BestTerm": {
             "Length": 12,
             "Price": 4292
@@ -6654,7 +6757,7 @@
           "FloorplanId": "378488",
           "FloorplanName": "Two Bedroom+Den Loft Two Bath K 1585",
           "Floor": "Floor 7",
-          "Description": "This 2 Bed with Den/ 2.5 Bath loft style home offers an unique living experience with 18 ft ceilings, floor to ceiling windows, an open kitchen with breakfast bar, a built in desk under the stairs and powder room.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ",
+          "Description": "This 2 Bed with Den/ 2.5 Bath loft style home offers an unique living experience with 18 ft ceilings, floor to ceiling windows, an open kitchen with breakfast bar, a built in desk under the stairs and powder room.",
           "Amenities": [
             {
               "Name": "Balcony",
