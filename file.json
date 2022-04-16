@@ -3236,6 +3236,93 @@
         },
         {
           "LedgerId": "19288",
+          "UnitId": "426",
+          "BuildingId": "425",
+          "AvailableDate": "6/24/2022",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 2380
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 2380
+            },
+            {
+              "Length": 11,
+              "Price": 2595
+            },
+            {
+              "Length": 10,
+              "Price": 2595
+            },
+            {
+              "Length": 9,
+              "Price": 2705
+            },
+            {
+              "Length": 8,
+              "Price": 2705
+            },
+            {
+              "Length": 7,
+              "Price": 2815
+            },
+            {
+              "Length": 6,
+              "Price": 2815
+            },
+            {
+              "Length": 5,
+              "Price": 2925
+            },
+            {
+              "Length": 4,
+              "Price": 2925
+            },
+            {
+              "Length": 3,
+              "Price": 2990
+            }
+          ],
+          "SqFt": 825,
+          "Bed": 1,
+          "Bath": 1,
+          "FloorplanId": "378479",
+          "FloorplanName": "One Bedroom E 825",
+          "Floor": "Floor 4",
+          "Description": "This apartment home offers a spacious living room with floor to ceiling windows overlooking the city, a built-in bookcase and an open style kitchen with breakfast bar that is perfect for entertaining!",
+          "Amenities": [
+            {
+              "Name": "Juliet Balcony",
+              "Icon": "",
+              "AmenCode": "U51"
+            },
+            {
+              "Name": "Northern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPN"
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378479-1-1-825",
+          "Photos": [],
+          "Videos": [],
+          "Matterports": [],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 0
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "913",
           "BuildingId": "425",
           "AvailableDate": "6/3/2022",
