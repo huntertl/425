@@ -1567,6 +1567,192 @@
       "AvailableUnits": [
         {
           "LedgerId": "19288",
+          "UnitId": "209",
+          "BuildingId": "401",
+          "AvailableDate": "4/22/2022",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 2113
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 2113
+            },
+            {
+              "Length": 11,
+              "Price": 2323
+            },
+            {
+              "Length": 10,
+              "Price": 2323
+            },
+            {
+              "Length": 9,
+              "Price": 2428
+            },
+            {
+              "Length": 8,
+              "Price": 2428
+            },
+            {
+              "Length": 7,
+              "Price": 2533
+            },
+            {
+              "Length": 6,
+              "Price": 2533
+            },
+            {
+              "Length": 5,
+              "Price": 2638
+            },
+            {
+              "Length": 4,
+              "Price": 2638
+            },
+            {
+              "Length": 3,
+              "Price": 2698
+            }
+          ],
+          "SqFt": 691,
+          "Bed": 1,
+          "Bath": 1,
+          "FloorplanId": "00002649",
+          "FloorplanName": "Unit 409",
+          "Floor": "Floor 2",
+          "Description": "This apartment home offers an open style kitchen and breakfast bar, as well as a walk-out patio with direct street access from the living room. The bedroom can accommodate up to a Queen size bed and the bathroom is spacious.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        ",
+          "Amenities": [
+            {
+              "Name": "Balcony",
+              "Icon": "",
+              "AmenCode": "U08"
+            },
+            {
+              "Name": "Corner Unit",
+              "Icon": "",
+              "AmenCode": "CU"
+            },
+            {
+              "Name": "Eastern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPE"
+            }
+          ],
+          "Special": {
+            "Active": true,
+            "Title": "Up to $500 off move-in costs!",
+            "Expires": "4/30/2022"
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002649-1-1-726",
+          "Photos": [
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-194/425-mass-apartments-bathroom",
+              "Alt": "425 Mass Apartments - Bathroom",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 541378,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Bathroom",
+              "DisplayOrder": 0,
+              "MediaId": 34215
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-197/425-mass-apartments-bedroom",
+              "Alt": "425 Mass Apartments - Bedroom",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 541392,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Carpeted Bedroom",
+              "DisplayOrder": 0,
+              "MediaId": 34216
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-195/425-mass-apartments-kitchen",
+              "Alt": "425 Mass Apartments - Kitchen",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 541406,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Kitchen with Stainless Steel Appliances",
+              "DisplayOrder": 0,
+              "MediaId": 34217
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-193/425-mass-apartments-in-home-washer-and-dryer",
+              "Alt": "425 Mass Apartments - In-home Washer and Dryer",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 541420,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "In-home Washer and Dryer",
+              "DisplayOrder": 0,
+              "MediaId": 34218
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-196/425-mass-apartments-living-room",
+              "Alt": "425 Mass Apartments - Living Room",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 541434,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Living Room with Balcony and Hard Surface Flooring",
+              "DisplayOrder": 0,
+              "MediaId": 34219
+            }
+          ],
+          "Videos": [
+            {
+              "Key": "ye0Kjekd6DE",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "425 Mass Apartments - Mt  Vernon Triangle - Unit 409 Apt 401 109",
+              "DisplayOrder": 0,
+              "MediaId": 35804
+            }
+          ],
+          "Matterports": [
+            {
+              "Key": "wRFL7FEaSAf",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "3D Floorplan",
+              "DisplayOrder": 0,
+              "MediaId": 34510
+            }
+          ],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 0
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "602",
           "BuildingId": "401",
           "AvailableDate": "6/25/2022",
@@ -6739,109 +6925,6 @@
               "MediaId": 29082
             }
           ],
-          "Matterports": [],
-          "Zillows": [],
-          "AccordionPhoto": null,
-          "ExcludeFromOll": false,
-          "FurnishAvailable": false,
-          "BestTermFurnished": null,
-          "FurnishedTerms": [],
-          "SpecialAmount": 0
-        },
-        {
-          "LedgerId": "19288",
-          "UnitId": "305",
-          "BuildingId": "425",
-          "AvailableDate": "5/6/2022",
-          "BestTerm": {
-            "Length": 12,
-            "Price": 4113
-          },
-          "Terms": [
-            {
-              "Length": 12,
-              "Price": 4113
-            },
-            {
-              "Length": 11,
-              "Price": 4473
-            },
-            {
-              "Length": 10,
-              "Price": 4473
-            },
-            {
-              "Length": 9,
-              "Price": 4648
-            },
-            {
-              "Length": 8,
-              "Price": 4648
-            },
-            {
-              "Length": 7,
-              "Price": 4828
-            },
-            {
-              "Length": 6,
-              "Price": 4828
-            },
-            {
-              "Length": 5,
-              "Price": 5008
-            },
-            {
-              "Length": 4,
-              "Price": 5008
-            },
-            {
-              "Length": 3,
-              "Price": 5118
-            }
-          ],
-          "SqFt": 1529,
-          "Bed": 2,
-          "Bath": 2,
-          "FloorplanId": "378490",
-          "FloorplanName": "Two Bedroom+Den B 1529",
-          "Floor": "Floor 3",
-          "Description": "This 2 Bed with Den/ 2 Bath home offers spacious living room, an open style kitchen, a walk-in pantry and a balcony looking onto the city.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              ",
-          "Amenities": [
-            {
-              "Name": "Balcony",
-              "Icon": "",
-              "AmenCode": "U08"
-            },
-            {
-              "Name": "Southern Exposure",
-              "Icon": "",
-              "AmenCode": "EXPS"
-            }
-          ],
-          "Special": {
-            "Active": false,
-            "Title": null,
-            "Expires": null
-          },
-          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378490-2-2-1529",
-          "Photos": [
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-Unit404FP-9/425-mass-apartments-404fp",
-              "Alt": "425 Mass Apartments - 401FP",
-              "CropX": 0,
-              "CropY": 0,
-              "Key": null,
-              "SeoName": null,
-              "Id": 200024,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Views from the Balcony",
-              "DisplayOrder": 0,
-              "MediaId": 14117
-            }
-          ],
-          "Videos": [],
           "Matterports": [],
           "Zillows": [],
           "AccordionPhoto": null,
