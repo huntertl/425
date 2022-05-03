@@ -1245,7 +1245,7 @@
           "FloorplanId": "00002665",
           "FloorplanName": "Unit 106, 107, 108, 206, 207, 208",
           "Floor": "Floor 2",
-          "Description": "This apartment home offers an open style kitchen and breakfast bar, as well as a walk-out patio with direct street access from the living room. The bedroom can accommodate up to a Queen size bed and the bathroom is spacious.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        ",
+          "Description": "This apartment home offers an open style kitchen and breakfast bar, as well as a walk-out patio with direct street access from the living room. The bedroom can accommodate up to a Queen size bed and the bathroom is spacious.",
           "Amenities": [
             {
               "Name": "Balcony",
@@ -3642,6 +3642,98 @@
       "DisplayName": "2 Bed",
       "BedroomCount": 2,
       "AvailableUnits": [
+        {
+          "LedgerId": "19288",
+          "UnitId": "119",
+          "BuildingId": "425",
+          "AvailableDate": "5/13/2022",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 3498
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 3498
+            },
+            {
+              "Length": 11,
+              "Price": 3863
+            },
+            {
+              "Length": 10,
+              "Price": 3863
+            },
+            {
+              "Length": 9,
+              "Price": 4043
+            },
+            {
+              "Length": 8,
+              "Price": 4043
+            },
+            {
+              "Length": 7,
+              "Price": 4223
+            },
+            {
+              "Length": 6,
+              "Price": 4223
+            },
+            {
+              "Length": 5,
+              "Price": 4403
+            },
+            {
+              "Length": 4,
+              "Price": 4403
+            },
+            {
+              "Length": 3,
+              "Price": 4513
+            }
+          ],
+          "SqFt": 1214,
+          "Bed": 2,
+          "Bath": 2,
+          "FloorplanId": "378484",
+          "FloorplanName": "Two Bedroom J 1214",
+          "Floor": "Floor 1",
+          "Description": "This apartment corner home offers an open living room with floor to ceiling windows, an open style kitchen with breakfast bar and a subterranean patio. The main bedroom features a large walk-in closet and an en-suite bathroom.",
+          "Amenities": [
+            {
+              "Name": "Corner Unit",
+              "Icon": "",
+              "AmenCode": "CU"
+            },
+            {
+              "Name": "Private Subterranean Patio",
+              "Icon": "",
+              "AmenCode": "U07"
+            },
+            {
+              "Name": "Southern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPS"
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378484-2-2-1214",
+          "Photos": [],
+          "Videos": [],
+          "Matterports": [],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 0
+        },
         {
           "LedgerId": "19288",
           "UnitId": "403",
