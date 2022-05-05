@@ -1802,6 +1802,187 @@
         },
         {
           "LedgerId": "19288",
+          "UnitId": "1202",
+          "BuildingId": "401",
+          "AvailableDate": "6/11/2022",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 2254
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 2254
+            },
+            {
+              "Length": 11,
+              "Price": 2469
+            },
+            {
+              "Length": 10,
+              "Price": 2469
+            },
+            {
+              "Length": 9,
+              "Price": 2574
+            },
+            {
+              "Length": 8,
+              "Price": 2574
+            },
+            {
+              "Length": 7,
+              "Price": 2679
+            },
+            {
+              "Length": 6,
+              "Price": 2679
+            },
+            {
+              "Length": 5,
+              "Price": 2789
+            },
+            {
+              "Length": 4,
+              "Price": 2789
+            },
+            {
+              "Length": 3,
+              "Price": 2849
+            }
+          ],
+          "SqFt": 679,
+          "Bed": 1,
+          "Bath": 1,
+          "FloorplanId": "00002643",
+          "FloorplanName": "Unit 402",
+          "Floor": "Floor 12",
+          "Description": "This Junior apartment/ 1 Bath home offers a living space featuring a bed nook with oversized sliding door. The home has a galley style kitchen, generous closet space and depending on the floor, a Juliette balcony off of the living room.",
+          "Amenities": [
+            {
+              "Name": "Juliet Balcony",
+              "Icon": "",
+              "AmenCode": "U51"
+            },
+            {
+              "Name": "Southern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPS"
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002643-1-1-679",
+          "Photos": [
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-222/425-mass-apartments-bathroom",
+              "Alt": "425 Mass Apartments - Bathroom",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 590467,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Bathroom",
+              "DisplayOrder": 0,
+              "MediaId": 36605
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-221/425-mass-apartments-bedroom",
+              "Alt": "425 Mass Apartments - Bedroom",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 590477,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Carpeted Bedroom",
+              "DisplayOrder": 0,
+              "MediaId": 36606
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-223/425-mass-apartments-kitchen",
+              "Alt": "425 Mass Apartments - Kitchen",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 590487,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Kitchen with Stainless Steel Appliances",
+              "DisplayOrder": 0,
+              "MediaId": 36607
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-220/425-mass-apartments-in-home-washer-and-dryer",
+              "Alt": "425 Mass Apartments - In-home Washer and Dryer",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 590497,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "In-home Washer and Dryer",
+              "DisplayOrder": 0,
+              "MediaId": 36608
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-224/425-mass-apartments-living-room",
+              "Alt": "425 Mass Apartments - Living Room",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 590507,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Living Room with Hard Surface Flooring",
+              "DisplayOrder": 0,
+              "MediaId": 36609
+            }
+          ],
+          "Videos": [
+            {
+              "Key": "LaMVo5rbSH4",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "425 Mass Apartments - Mt. Vernon Triangle - Unit 402 Apt#401 302",
+              "DisplayOrder": 0,
+              "MediaId": 36625
+            }
+          ],
+          "Matterports": [
+            {
+              "Key": "ynbqryen32t",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "3D Floorplan",
+              "DisplayOrder": 0,
+              "MediaId": 36986
+            }
+          ],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 0
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "410",
           "BuildingId": "425",
           "AvailableDate": "5/13/2022",
