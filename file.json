@@ -3828,6 +3828,118 @@
         },
         {
           "LedgerId": "19288",
+          "UnitId": "803",
+          "BuildingId": "401",
+          "AvailableDate": "8/19/2022",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 3834
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 3834
+            },
+            {
+              "Length": 11,
+              "Price": 4204
+            },
+            {
+              "Length": 10,
+              "Price": 4204
+            },
+            {
+              "Length": 9,
+              "Price": 4389
+            },
+            {
+              "Length": 8,
+              "Price": 4389
+            },
+            {
+              "Length": 7,
+              "Price": 4569
+            },
+            {
+              "Length": 6,
+              "Price": 4569
+            },
+            {
+              "Length": 5,
+              "Price": 4754
+            },
+            {
+              "Length": 4,
+              "Price": 4754
+            },
+            {
+              "Length": 3,
+              "Price": 4864
+            }
+          ],
+          "SqFt": 1284,
+          "Bed": 2,
+          "Bath": 2,
+          "FloorplanId": "00002644",
+          "FloorplanName": "Unit 403",
+          "Floor": "Floor 8",
+          "Description": "This 2 Bed with Den/ 2.5 Bath home offers an open style kitchen and breakfast bar that is perfect for entertaining, a powder room, and plenty of closet space.",
+          "Amenities": [
+            {
+              "Name": "Balcony",
+              "Icon": "",
+              "AmenCode": "U08"
+            },
+            {
+              "Name": "Southern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPS"
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002644-2-2-1284",
+          "Photos": [
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-401FP-6/425-mass-apartments-401fp",
+              "Alt": "425 Mass Apartments - 401FP",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 189479,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Views from the Balcony",
+              "DisplayOrder": 0,
+              "MediaId": 14116
+            }
+          ],
+          "Videos": [],
+          "Matterports": [
+            {
+              "Key": "ncbBUPbUA7j",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "3D Floorplan",
+              "DisplayOrder": 0,
+              "MediaId": 36311
+            }
+          ],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 0
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "903",
           "BuildingId": "401",
           "AvailableDate": "7/8/2022",
@@ -4457,6 +4569,132 @@
           ],
           "Videos": [],
           "Matterports": [],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 0
+        },
+        {
+          "LedgerId": "19288",
+          "UnitId": "703",
+          "BuildingId": "425",
+          "AvailableDate": "7/21/2022",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 4346
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 4346
+            },
+            {
+              "Length": 11,
+              "Price": 4711
+            },
+            {
+              "Length": 10,
+              "Price": 4711
+            },
+            {
+              "Length": 9,
+              "Price": 4896
+            },
+            {
+              "Length": 8,
+              "Price": 4896
+            },
+            {
+              "Length": 7,
+              "Price": 5081
+            },
+            {
+              "Length": 6,
+              "Price": 5081
+            },
+            {
+              "Length": 5,
+              "Price": 5266
+            },
+            {
+              "Length": 4,
+              "Price": 5266
+            },
+            {
+              "Length": 3,
+              "Price": 5376
+            }
+          ],
+          "SqFt": 1526,
+          "Bed": 2,
+          "Bath": 2.5,
+          "FloorplanId": "00002292",
+          "FloorplanName": "Two Bedroom+Den J 1526",
+          "Floor": "Floor 7",
+          "Description": "This 2 Bed with Den/ 2.5 Bath loft style home offers an unique living experience with 18 ft ceilings, floor to ceiling windows, an open kitchen with breakfast bar, a built in desk under the stairs and powder room.",
+          "Amenities": [
+            {
+              "Name": "Balcony",
+              "Icon": "",
+              "AmenCode": "U08"
+            },
+            {
+              "Name": "Southern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPS"
+            },
+            {
+              "Name": "Two Level Loft-style",
+              "Icon": "",
+              "AmenCode": "U19"
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002292-2-25-1526",
+          "Photos": [
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-Unit404FP-9/425-mass-apartments-404fp",
+              "Alt": "425 Mass Apartments - 401FP",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 200014,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Views from the Balcony",
+              "DisplayOrder": 0,
+              "MediaId": 14117
+            }
+          ],
+          "Videos": [
+            {
+              "Key": "-8G7_NDuVP4",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "425 Mass Apartments - Mt. Vernon Triangle - 2 Bed Den J 1526 Apt 425 503",
+              "DisplayOrder": 0,
+              "MediaId": 38440
+            }
+          ],
+          "Matterports": [
+            {
+              "Key": "cTNtUdoBEEE",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "3D Floorplan",
+              "DisplayOrder": 0,
+              "MediaId": 38576
+            }
+          ],
           "Zillows": [],
           "AccordionPhoto": null,
           "ExcludeFromOll": false,
