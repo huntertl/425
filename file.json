@@ -2670,6 +2670,93 @@
         },
         {
           "LedgerId": "19288",
+          "UnitId": "1126",
+          "BuildingId": "425",
+          "AvailableDate": "7/15/2022",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 2600
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 2600
+            },
+            {
+              "Length": 11,
+              "Price": 2835
+            },
+            {
+              "Length": 10,
+              "Price": 2835
+            },
+            {
+              "Length": 9,
+              "Price": 2950
+            },
+            {
+              "Length": 8,
+              "Price": 2950
+            },
+            {
+              "Length": 7,
+              "Price": 3065
+            },
+            {
+              "Length": 6,
+              "Price": 3065
+            },
+            {
+              "Length": 5,
+              "Price": 3180
+            },
+            {
+              "Length": 4,
+              "Price": 3180
+            },
+            {
+              "Length": 3,
+              "Price": 3250
+            }
+          ],
+          "SqFt": 795,
+          "Bed": 1,
+          "Bath": 1,
+          "FloorplanId": "378479",
+          "FloorplanName": "One Bedroom E 825",
+          "Floor": "Floor 11",
+          "Description": "This apartment home offers a spacious living room with floor to ceiling windows overlooking the city, a built-in bookcase and an open style kitchen with breakfast bar that is perfect for entertaining!",
+          "Amenities": [
+            {
+              "Name": "Balcony",
+              "Icon": "",
+              "AmenCode": "U08"
+            },
+            {
+              "Name": "Northern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPN"
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378479-1-1-825",
+          "Photos": [],
+          "Videos": [],
+          "Matterports": [],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 0
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "PH115",
           "BuildingId": "425",
           "AvailableDate": "7/22/2022",
