@@ -4000,6 +4000,98 @@
       "AvailableUnits": [
         {
           "LedgerId": "19288",
+          "UnitId": "119",
+          "BuildingId": "425",
+          "AvailableDate": "7/2/2022",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 3363
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 3363
+            },
+            {
+              "Length": 11,
+              "Price": 3728
+            },
+            {
+              "Length": 10,
+              "Price": 3728
+            },
+            {
+              "Length": 9,
+              "Price": 3908
+            },
+            {
+              "Length": 8,
+              "Price": 3908
+            },
+            {
+              "Length": 7,
+              "Price": 4093
+            },
+            {
+              "Length": 6,
+              "Price": 4093
+            },
+            {
+              "Length": 5,
+              "Price": 4273
+            },
+            {
+              "Length": 4,
+              "Price": 4273
+            },
+            {
+              "Length": 3,
+              "Price": 4383
+            }
+          ],
+          "SqFt": 1214,
+          "Bed": 2,
+          "Bath": 2,
+          "FloorplanId": "378484",
+          "FloorplanName": "Two Bedroom J 1214",
+          "Floor": "Floor 1",
+          "Description": "This apartment corner home offers an open living room with floor to ceiling windows, an open style kitchen with breakfast bar and a subterranean patio. The main bedroom features a large walk-in closet and an en-suite bathroom.",
+          "Amenities": [
+            {
+              "Name": "Corner Unit",
+              "Icon": "",
+              "AmenCode": "CU"
+            },
+            {
+              "Name": "Private Subterranean Patio",
+              "Icon": "",
+              "AmenCode": "U07"
+            },
+            {
+              "Name": "Southern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPS"
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378484-2-2-1214",
+          "Photos": [],
+          "Videos": [],
+          "Matterports": [],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 150
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "1101",
           "BuildingId": "425",
           "AvailableDate": "7/22/2022",
