@@ -168,6 +168,167 @@
         },
         {
           "LedgerId": "19288",
+          "UnitId": "1227",
+          "BuildingId": "425",
+          "AvailableDate": "8/12/2022",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 2091
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 2091
+            },
+            {
+              "Length": 11,
+              "Price": 2291
+            },
+            {
+              "Length": 10,
+              "Price": 2291
+            },
+            {
+              "Length": 9,
+              "Price": 2391
+            },
+            {
+              "Length": 8,
+              "Price": 2391
+            },
+            {
+              "Length": 7,
+              "Price": 2486
+            },
+            {
+              "Length": 6,
+              "Price": 2486
+            },
+            {
+              "Length": 5,
+              "Price": 2586
+            },
+            {
+              "Length": 4,
+              "Price": 2586
+            },
+            {
+              "Length": 3,
+              "Price": 2646
+            }
+          ],
+          "SqFt": 504,
+          "Bed": 0,
+          "Bath": 1,
+          "FloorplanId": "378472",
+          "FloorplanName": "Studio J 504",
+          "Floor": "Floor 12",
+          "Description": "This Studio home offers a long, open space with floor to ceiling windows that let in plenty or natural light. This home also has two closets and a stand-in shower in the bathroom.",
+          "Amenities": [
+            {
+              "Name": "Northern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPN"
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378472-0-1-504",
+          "Photos": [
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-235/425-mass-apartments-bathroom",
+              "Alt": "425 Mass Apartments - Bathroom",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 623358,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Bathroom",
+              "DisplayOrder": 4,
+              "MediaId": 38241
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-236/425-mass-apartments-kitchen",
+              "Alt": "425 Mass Apartments - Kitchen",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 623382,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Kitchen with Stainless Steel Appliances",
+              "DisplayOrder": 1,
+              "MediaId": 38242
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-237/425-mass-apartments-studio",
+              "Alt": "425 Mass Apartments - Studio",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 623406,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Studio with Hard Surface Flooring ",
+              "DisplayOrder": 3,
+              "MediaId": 38243
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-255/425-mass-apartments-studio",
+              "Alt": "425 Mass Apartments - Studio",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 639558,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Studio with Hard Surface Flooring ",
+              "DisplayOrder": 2,
+              "MediaId": 39258
+            }
+          ],
+          "Videos": [
+            {
+              "Key": "W8OLfNeTvIU",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "425 Mass Apartments - Mt. Vernon Triangle - J504 Unit 425 PH128",
+              "DisplayOrder": 0,
+              "MediaId": 38437
+            }
+          ],
+          "Matterports": [
+            {
+              "Key": "BZ8s5uz4kQc",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "3D Floorplan",
+              "DisplayOrder": 0,
+              "MediaId": 38578
+            }
+          ],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 0
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "105",
           "BuildingId": "401",
           "AvailableDate": "8/12/2022",
@@ -1044,107 +1205,6 @@
           "BestTermFurnished": null,
           "FurnishedTerms": [],
           "SpecialAmount": 0
-        },
-        {
-          "LedgerId": "19288",
-          "UnitId": "410",
-          "BuildingId": "425",
-          "AvailableDate": "7/4/2022",
-          "BestTerm": {
-            "Length": 12,
-            "Price": 2373
-          },
-          "Terms": [
-            {
-              "Length": 12,
-              "Price": 2373
-            },
-            {
-              "Length": 11,
-              "Price": 2603
-            },
-            {
-              "Length": 10,
-              "Price": 2603
-            },
-            {
-              "Length": 9,
-              "Price": 2718
-            },
-            {
-              "Length": 8,
-              "Price": 2718
-            },
-            {
-              "Length": 7,
-              "Price": 2833
-            },
-            {
-              "Length": 6,
-              "Price": 2833
-            },
-            {
-              "Length": 5,
-              "Price": 2948
-            },
-            {
-              "Length": 4,
-              "Price": 2948
-            },
-            {
-              "Length": 3,
-              "Price": 3018
-            }
-          ],
-          "SqFt": 823,
-          "Bed": 1,
-          "Bath": 1,
-          "FloorplanId": "00002287",
-          "FloorplanName": "One Bedroom E 823",
-          "Floor": "Floor 4",
-          "Description": "This apartment home offers hardwood flooring throughout, additional pantry space in the kitchen and a unique bedroom featuring an oversized sliding door.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ",
-          "Amenities": [
-            {
-              "Name": "Eastern Exposure",
-              "Icon": "",
-              "AmenCode": "EXPE"
-            },
-            {
-              "Name": "Large Balcony",
-              "Icon": "",
-              "AmenCode": "U41"
-            },
-            {
-              "Name": "View of Community Courtyard",
-              "Icon": "",
-              "AmenCode": "V04"
-            }
-          ],
-          "Special": {
-            "Active": true,
-            "Title": "Up to $500 off move-in costs!",
-            "Expires": "7/15/2022"
-          },
-          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002287-1-1-823",
-          "Photos": [],
-          "Videos": [
-            {
-              "Key": "jCy6bKw-IMU",
-              "Id": 0,
-              "MediaTags": null,
-              "Caption": "Video of 823 sqft One Bedroom Apartment",
-              "DisplayOrder": 0,
-              "MediaId": 10863
-            }
-          ],
-          "Matterports": [],
-          "Zillows": [],
-          "AccordionPhoto": null,
-          "ExcludeFromOll": false,
-          "FurnishAvailable": false,
-          "BestTermFurnished": null,
-          "FurnishedTerms": [],
-          "SpecialAmount": 100
         },
         {
           "LedgerId": "19288",
