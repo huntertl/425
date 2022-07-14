@@ -2352,6 +2352,93 @@
         },
         {
           "LedgerId": "19288",
+          "UnitId": "120A",
+          "BuildingId": "425",
+          "AvailableDate": "10/4/2022",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 3065
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 3065
+            },
+            {
+              "Length": 11,
+              "Price": 3360
+            },
+            {
+              "Length": 10,
+              "Price": 3360
+            },
+            {
+              "Length": 9,
+              "Price": 3505
+            },
+            {
+              "Length": 8,
+              "Price": 3505
+            },
+            {
+              "Length": 7,
+              "Price": 3650
+            },
+            {
+              "Length": 6,
+              "Price": 3650
+            },
+            {
+              "Length": 5,
+              "Price": 3800
+            },
+            {
+              "Length": 4,
+              "Price": 3800
+            },
+            {
+              "Length": 3,
+              "Price": 3885
+            }
+          ],
+          "SqFt": 1052,
+          "Bed": 1,
+          "Bath": 2,
+          "FloorplanId": "382442",
+          "FloorplanName": "Unit 120A",
+          "Floor": "Floor 1",
+          "Description": "This 1 Bed with Den/ 1.5 Bath home offers floor to ceiling windows, a subterranean patio, a powder room, and an L shape galley style kitchen.",
+          "Amenities": [
+            {
+              "Name": "Northern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPN"
+            },
+            {
+              "Name": "Private Subterranean Patio",
+              "Icon": "",
+              "AmenCode": "U07"
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-382442-1-15-1052",
+          "Photos": [],
+          "Videos": [],
+          "Matterports": [],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 0
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "421",
           "BuildingId": "425",
           "AvailableDate": "8/19/2022",
