@@ -1985,6 +1985,98 @@
         },
         {
           "LedgerId": "19288",
+          "UnitId": "101A",
+          "BuildingId": "425",
+          "AvailableDate": "9/6/2022",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 3182
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 3182
+            },
+            {
+              "Length": 11,
+              "Price": 3432
+            },
+            {
+              "Length": 10,
+              "Price": 3432
+            },
+            {
+              "Length": 9,
+              "Price": 3562
+            },
+            {
+              "Length": 8,
+              "Price": 3562
+            },
+            {
+              "Length": 7,
+              "Price": 3687
+            },
+            {
+              "Length": 6,
+              "Price": 3687
+            },
+            {
+              "Length": 5,
+              "Price": 3812
+            },
+            {
+              "Length": 4,
+              "Price": 3812
+            },
+            {
+              "Length": 3,
+              "Price": 3887
+            }
+          ],
+          "SqFt": 1027,
+          "Bed": 1,
+          "Bath": 1,
+          "FloorplanId": "378482",
+          "FloorplanName": "One Bedroom B 907",
+          "Floor": "Floor 1",
+          "Description": "This apartment loft style home offers a unique living experience with 18 ft ceilings, floor to ceiling windows, a galley style kitchen plus island, a built in desk, a powder room, and street access through the walk-out patio.",
+          "Amenities": [
+            {
+              "Name": "Private Subterranean Patio",
+              "Icon": "",
+              "AmenCode": "U10"
+            },
+            {
+              "Name": "Southern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPS"
+            },
+            {
+              "Name": "Two Level Loft-style",
+              "Icon": "",
+              "AmenCode": "U19"
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378482-1-1-907",
+          "Photos": [],
+          "Videos": [],
+          "Matterports": [],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 0
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "1004",
           "BuildingId": "401",
           "AvailableDate": "7/30/2022",
