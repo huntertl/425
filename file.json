@@ -831,6 +831,163 @@
         },
         {
           "LedgerId": "19288",
+          "UnitId": "618",
+          "BuildingId": "425",
+          "AvailableDate": "10/28/2022",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 2443
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 2443
+            },
+            {
+              "Length": 11,
+              "Price": 2663
+            },
+            {
+              "Length": 10,
+              "Price": 2663
+            },
+            {
+              "Length": 9,
+              "Price": 2778
+            },
+            {
+              "Length": 8,
+              "Price": 2778
+            },
+            {
+              "Length": 7,
+              "Price": 2888
+            },
+            {
+              "Length": 6,
+              "Price": 2888
+            },
+            {
+              "Length": 5,
+              "Price": 2998
+            },
+            {
+              "Length": 4,
+              "Price": 2998
+            },
+            {
+              "Length": 3,
+              "Price": 3063
+            }
+          ],
+          "SqFt": 558,
+          "Bed": 0,
+          "Bath": 1,
+          "FloorplanId": "378474",
+          "FloorplanName": "Studio G 558",
+          "Floor": "Floor 6",
+          "Description": "This studio home offers a fluid living space with a balcony and floor to ceiling windows. The home also has a step-in closet and additional storage in the bathroom.",
+          "Amenities": [
+            {
+              "Name": "Balcony",
+              "Icon": "",
+              "AmenCode": "U08"
+            },
+            {
+              "Name": "Southern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPS"
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378474-0-1-558",
+          "Photos": [
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-62/425-mass-apartments-kitchen",
+              "Alt": "425 Mass Apartments - Kitchen",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 267752,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Kitchen with Stainless Steel Appliances",
+              "DisplayOrder": 0,
+              "MediaId": 19596
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-63/425-mass-apartments-balcony",
+              "Alt": "425 Mass Apartments - Balcony",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 267834,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Balcony",
+              "DisplayOrder": 0,
+              "MediaId": 19598
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-64/425-mass-apartments-studio-living-area",
+              "Alt": "425 Mass Apartments - Studio Living Area",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 267916,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Studio Living Space",
+              "DisplayOrder": 0,
+              "MediaId": 19600
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-65/425-mass-apartments-studio-storage",
+              "Alt": "425 Mass Apartments - Studio Storage",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 267998,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Studio Storage Space",
+              "DisplayOrder": 0,
+              "MediaId": 19602
+            }
+          ],
+          "Videos": [
+            {
+              "Key": "rBkAtCi_StI",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "425 Mass Apartments - Mt Vernon Triangle - Floorplan Studio G558   Unit 1017",
+              "DisplayOrder": 0,
+              "MediaId": 29083
+            }
+          ],
+          "Matterports": [],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 0
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "PH228",
           "BuildingId": "425",
           "AvailableDate": "11/4/2022",
@@ -4068,62 +4225,62 @@
         },
         {
           "LedgerId": "19288",
-          "UnitId": "504",
+          "UnitId": "703",
           "BuildingId": "425",
           "AvailableDate": "9/10/2022",
           "BestTerm": {
             "Length": 12,
-            "Price": 4430
+            "Price": 4356
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 4430
+              "Price": 4356
             },
             {
               "Length": 11,
-              "Price": 4805
+              "Price": 4741
             },
             {
               "Length": 10,
-              "Price": 4805
+              "Price": 4741
             },
             {
               "Length": 9,
-              "Price": 4990
+              "Price": 4931
             },
             {
               "Length": 8,
-              "Price": 4990
+              "Price": 4931
             },
             {
               "Length": 7,
-              "Price": 5175
+              "Price": 5121
             },
             {
               "Length": 6,
-              "Price": 5175
+              "Price": 5121
             },
             {
               "Length": 5,
-              "Price": 5360
+              "Price": 5316
             },
             {
               "Length": 4,
-              "Price": 5360
+              "Price": 5316
             },
             {
               "Length": 3,
-              "Price": 5475
+              "Price": 5431
             }
           ],
-          "SqFt": 1585,
+          "SqFt": 1526,
           "Bed": 2,
-          "Bath": 2,
-          "FloorplanId": "378488",
-          "FloorplanName": "Two Bedroom+Den Loft Two Bath K 1585",
-          "Floor": "Floor 5",
-          "Description": "This 2 Bed with Den/ 2.5 Bath loft style home offers an unique living experience with 18 ft ceilings, floor to ceiling windows, an open kitchen with breakfast bar, a built in desk under the stairs and powder room.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ",
+          "Bath": 2.5,
+          "FloorplanId": "00002292",
+          "FloorplanName": "Two Bedroom+Den J 1526",
+          "Floor": "Floor 7",
+          "Description": "This 2 Bed with Den/ 2.5 Bath loft style home offers an unique living experience with 18 ft ceilings, floor to ceiling windows, an open kitchen with breakfast bar, a built in desk under the stairs and powder room.",
           "Amenities": [
             {
               "Name": "Balcony",
@@ -4146,7 +4303,7 @@
             "Title": null,
             "Expires": null
           },
-          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378488-2-25-1585",
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002292-2-25-1526",
           "Photos": [
             {
               "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-Unit404FP-9/425-mass-apartments-404fp",
@@ -4155,7 +4312,7 @@
               "CropY": 0,
               "Key": null,
               "SeoName": null,
-              "Id": 200018,
+              "Id": 200014,
               "MediaTags": [
                 "In Unit"
               ],
@@ -4166,22 +4323,22 @@
           ],
           "Videos": [
             {
-              "Key": "28SfNNNK4a4",
+              "Key": "-8G7_NDuVP4",
               "Id": 0,
               "MediaTags": null,
-              "Caption": "Video of 1585 sqft 2 bedroom apartment",
+              "Caption": "425 Mass Apartments - Mt. Vernon Triangle - 2 Bed Den J 1526 Apt 425 503",
               "DisplayOrder": 0,
-              "MediaId": 8713
+              "MediaId": 38440
             }
           ],
           "Matterports": [
             {
-              "Key": "CsNhHyuawzQ",
+              "Key": "cTNtUdoBEEE",
               "Id": 0,
               "MediaTags": null,
               "Caption": "3D Floorplan",
               "DisplayOrder": 0,
-              "MediaId": 16809
+              "MediaId": 38576
             }
           ],
           "Zillows": [],
@@ -4190,7 +4347,7 @@
           "FurnishAvailable": false,
           "BestTermFurnished": null,
           "FurnishedTerms": [],
-          "SpecialAmount": 0
+          "SpecialAmount": 150
         }
       ]
     }
