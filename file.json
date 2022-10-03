@@ -1322,77 +1322,77 @@
         },
         {
           "LedgerId": "19288",
-          "UnitId": "415",
+          "UnitId": "610",
           "BuildingId": "425",
           "AvailableDate": "10/3/2022",
           "BestTerm": {
             "Length": 12,
-            "Price": 2277
+            "Price": 2274
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 2277
+              "Price": 2274
             },
             {
               "Length": 11,
-              "Price": 2507
+              "Price": 2504
             },
             {
               "Length": 10,
-              "Price": 2507
+              "Price": 2504
             },
             {
               "Length": 9,
-              "Price": 2617
+              "Price": 2614
             },
             {
               "Length": 8,
-              "Price": 2617
+              "Price": 2614
             },
             {
               "Length": 7,
-              "Price": 2732
+              "Price": 2729
             },
             {
               "Length": 6,
-              "Price": 2732
+              "Price": 2729
             },
             {
               "Length": 5,
-              "Price": 2847
+              "Price": 2844
             },
             {
               "Length": 4,
-              "Price": 2847
+              "Price": 2844
             },
             {
               "Length": 3,
-              "Price": 2912
+              "Price": 2909
             }
           ],
-          "SqFt": 773,
+          "SqFt": 823,
           "Bed": 1,
           "Bath": 1,
-          "FloorplanId": "378478",
-          "FloorplanName": "One Bedroom E 773",
-          "Floor": "Floor 4",
-          "Description": "This apartment home offers a spacious living room with floor to ceiling windows, an attached balcony, a built-in bookcase and a kitchen that opens out to the living room that is perfect for entertaining!",
+          "FloorplanId": "00002287",
+          "FloorplanName": "One Bedroom E 823",
+          "Floor": "Floor 6",
+          "Description": "This apartment home offers hardwood flooring throughout, additional pantry space in the kitchen and a unique bedroom featuring an oversized sliding door.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ",
           "Amenities": [
-            {
-              "Name": "Balcony",
-              "Icon": "",
-              "AmenCode": "U08"
-            },
             {
               "Name": "Eastern Exposure",
               "Icon": "",
               "AmenCode": "EXPE"
             },
             {
-              "Name": "Southern Exposure",
+              "Name": "Large Balcony",
               "Icon": "",
-              "AmenCode": "EXPS"
+              "AmenCode": "U41"
+            },
+            {
+              "Name": "View of Community Courtyard",
+              "Icon": "",
+              "AmenCode": "V04"
             }
           ],
           "Special": {
@@ -1400,80 +1400,19 @@
             "Title": null,
             "Expires": null
           },
-          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378478-1-1-773",
-          "Photos": [
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002287-1-1-823",
+          "Photos": [],
+          "Videos": [
             {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-58/425-mass-apartments-kitchen",
-              "Alt": "425 Mass Apartments - Kitchen",
-              "CropX": 0,
-              "CropY": 0,
-              "Key": null,
-              "SeoName": null,
-              "Id": 267705,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Kitchen with Stainless Steel Appliances",
-              "DisplayOrder": 0,
-              "MediaId": 19595
-            },
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-60/425-mass-apartments-bathroom-and-in-home-washer-and-dryer",
-              "Alt": "425 Mass Apartments - Bathroom and In-home Washer and Dryer",
-              "CropX": 0,
-              "CropY": 0,
-              "Key": null,
-              "SeoName": null,
-              "Id": 267869,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Bathroom and In-home Washer and Dryer",
-              "DisplayOrder": 0,
-              "MediaId": 19599
-            },
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-73/425-mass-apartments-living-area",
-              "Alt": "425 Mass Apartments - Living Area",
-              "CropX": 0,
-              "CropY": 0,
-              "Key": null,
-              "SeoName": null,
-              "Id": 304663,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Living Room with Hardwood Flooring",
-              "DisplayOrder": 0,
-              "MediaId": 23032
-            },
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-72/425-mass-apartments-bedroom",
-              "Alt": "425 Mass Apartments - Bedroom ",
-              "CropX": 0,
-              "CropY": 0,
-              "Key": null,
-              "SeoName": null,
-              "Id": 304717,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Carpeted Bedroom",
-              "DisplayOrder": 0,
-              "MediaId": 23031
-            }
-          ],
-          "Videos": [],
-          "Matterports": [
-            {
-              "Key": "xeTt8tMHCdC",
+              "Key": "jCy6bKw-IMU",
               "Id": 0,
               "MediaTags": null,
-              "Caption": "3D Floorplan",
+              "Caption": "Video of 823 sqft One Bedroom Apartment",
               "DisplayOrder": 0,
-              "MediaId": 36307
+              "MediaId": 10863
             }
           ],
+          "Matterports": [],
           "Zillows": [],
           "AccordionPhoto": null,
           "ExcludeFromOll": false,
