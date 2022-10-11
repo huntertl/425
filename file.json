@@ -1421,6 +1421,157 @@
         },
         {
           "LedgerId": "19288",
+          "UnitId": "PH207",
+          "BuildingId": "425",
+          "AvailableDate": "10/21/2022",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 1983
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 1983
+            },
+            {
+              "Length": 11,
+              "Price": 2153
+            },
+            {
+              "Length": 10,
+              "Price": 2153
+            },
+            {
+              "Length": 9,
+              "Price": 2238
+            },
+            {
+              "Length": 8,
+              "Price": 2238
+            },
+            {
+              "Length": 7,
+              "Price": 2323
+            },
+            {
+              "Length": 6,
+              "Price": 2323
+            },
+            {
+              "Length": 5,
+              "Price": 2408
+            },
+            {
+              "Length": 4,
+              "Price": 2408
+            },
+            {
+              "Length": 3,
+              "Price": 2458
+            }
+          ],
+          "SqFt": 545,
+          "Bed": 0,
+          "Bath": 1,
+          "FloorplanId": "378473",
+          "FloorplanName": "Studio G 545",
+          "Floor": "Penthouse",
+          "Description": "This studio home offers a living area with a separate bed nook area, a balcony and floor to ceiling windows. The home also has additional storage under the bathroom vanity and a deep coat closet by the front door.",
+          "Amenities": [
+            {
+              "Name": "Balcony",
+              "Icon": "",
+              "AmenCode": "U08"
+            },
+            {
+              "Name": "Northern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPN"
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378473-0-1-545",
+          "Photos": [
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-245/425-mass-apartments-bathroom",
+              "Alt": "425 Mass Apartments - Bathroom",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 623234,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Bathroom",
+              "DisplayOrder": 3,
+              "MediaId": 38223
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-246/425-mass-apartments-kitchen",
+              "Alt": "425 Mass Apartments - Kitchen",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 623254,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Kitchen with Stainless Steel Appliances",
+              "DisplayOrder": 1,
+              "MediaId": 38231
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-247/425-mass-apartments-studio",
+              "Alt": "425 Mass Apartments - Studio",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 623266,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Studio with Hard Surface Flooring ",
+              "DisplayOrder": 2,
+              "MediaId": 38232
+            }
+          ],
+          "Videos": [
+            {
+              "Key": "R8Y3ZC-AWqg",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "425 Mass Apartments - Mt. Vernon Triangle - G 545 Apt 425 407",
+              "DisplayOrder": 0,
+              "MediaId": 38439
+            }
+          ],
+          "Matterports": [
+            {
+              "Key": "Ss2QVu5P3DR",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "3D Floorplan",
+              "DisplayOrder": 0,
+              "MediaId": 38574
+            }
+          ],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 0
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "PH218",
           "BuildingId": "425",
           "AvailableDate": "12/22/2022",
@@ -4990,109 +5141,6 @@
               "MediaId": 16810
             }
           ],
-          "Zillows": [],
-          "AccordionPhoto": null,
-          "ExcludeFromOll": false,
-          "FurnishAvailable": false,
-          "BestTermFurnished": null,
-          "FurnishedTerms": [],
-          "SpecialAmount": 0
-        },
-        {
-          "LedgerId": "19288",
-          "UnitId": "806",
-          "BuildingId": "425",
-          "AvailableDate": "10/15/2022",
-          "BestTerm": {
-            "Length": 12,
-            "Price": 3279
-          },
-          "Terms": [
-            {
-              "Length": 12,
-              "Price": 3279
-            },
-            {
-              "Length": 11,
-              "Price": 3554
-            },
-            {
-              "Length": 10,
-              "Price": 3554
-            },
-            {
-              "Length": 9,
-              "Price": 3694
-            },
-            {
-              "Length": 8,
-              "Price": 3694
-            },
-            {
-              "Length": 7,
-              "Price": 3829
-            },
-            {
-              "Length": 6,
-              "Price": 3829
-            },
-            {
-              "Length": 5,
-              "Price": 3969
-            },
-            {
-              "Length": 4,
-              "Price": 3969
-            },
-            {
-              "Length": 3,
-              "Price": 4049
-            }
-          ],
-          "SqFt": 1293,
-          "Bed": 1,
-          "Bath": 2,
-          "FloorplanId": "378483",
-          "FloorplanName": "One Bedroom+Den J 1293",
-          "Floor": "Floor 8",
-          "Description": "This 1 Bed with Den/ 2 Bath home offers floor to ceiling windows, a balcony, and a built-in bookcase. The den in this home is especially spacious (king bed) making it perfect for a guest room or home-office.",
-          "Amenities": [
-            {
-              "Name": "Balcony",
-              "Icon": "",
-              "AmenCode": "U08"
-            },
-            {
-              "Name": "Southern Exposure",
-              "Icon": "",
-              "AmenCode": "EXPS"
-            }
-          ],
-          "Special": {
-            "Active": false,
-            "Title": null,
-            "Expires": null
-          },
-          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378483-1-2-1293",
-          "Photos": [
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-Unit404FP-9/425-mass-apartments-404fp",
-              "Alt": "425 Mass Apartments - 401FP",
-              "CropX": 0,
-              "CropY": 0,
-              "Key": null,
-              "SeoName": null,
-              "Id": 200039,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Views from the Balcony",
-              "DisplayOrder": 0,
-              "MediaId": 14117
-            }
-          ],
-          "Videos": [],
-          "Matterports": [],
           "Zillows": [],
           "AccordionPhoto": null,
           "ExcludeFromOll": false,
