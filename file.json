@@ -7,6 +7,101 @@
       "AvailableUnits": [
         {
           "LedgerId": "19288",
+          "UnitId": "PH213",
+          "BuildingId": "401",
+          "AvailableDate": "10/26/2022",
+          "BestTerm": {
+            "Length": 18,
+            "Price": 1638
+          },
+          "Terms": [
+            {
+              "Length": 18,
+              "Price": 1638
+            },
+            {
+              "Length": 17,
+              "Price": 1638
+            },
+            {
+              "Length": 12,
+              "Price": 1688
+            },
+            {
+              "Length": 11,
+              "Price": 1838
+            },
+            {
+              "Length": 10,
+              "Price": 1838
+            },
+            {
+              "Length": 9,
+              "Price": 1923
+            },
+            {
+              "Length": 8,
+              "Price": 1923
+            },
+            {
+              "Length": 7,
+              "Price": 2008
+            },
+            {
+              "Length": 6,
+              "Price": 2008
+            },
+            {
+              "Length": 5,
+              "Price": 2088
+            },
+            {
+              "Length": 4,
+              "Price": 2088
+            },
+            {
+              "Length": 3,
+              "Price": 2138
+            }
+          ],
+          "SqFt": 475,
+          "Bed": 0,
+          "Bath": 1,
+          "FloorplanId": "00002653",
+          "FloorplanName": "Unit 413",
+          "Floor": "Penthouse",
+          "Description": "This Studio home features a fluid living space with two closets, a galley style kitchen, and floor to ceiling windows overlooking our private courtyard.",
+          "Amenities": [
+            {
+              "Name": "Northern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPN"
+            },
+            {
+              "Name": "Western Exposure",
+              "Icon": "",
+              "AmenCode": "EXPW"
+            }
+          ],
+          "Special": {
+            "Active": true,
+            "Title": "Up to $500 off move-in costs!",
+            "Expires": "10/31/2022"
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002653-0-1-475",
+          "Photos": [],
+          "Videos": [],
+          "Matterports": [],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 100
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "307",
           "BuildingId": "425",
           "AvailableDate": "11/15/2022",
@@ -6351,20 +6446,20 @@
       "PhoneNumber": "(844) 855-8751"
     },
     {
-      "IlsId": 110,
-      "PhoneNumber": "(844) 842-1353"
-    },
-    {
-      "IlsId": 115,
-      "PhoneNumber": "(844) 855-8750"
+      "IlsId": 107,
+      "PhoneNumber": "(202) 908-6296"
     },
     {
       "IlsId": 108,
       "PhoneNumber": "(202) 908-6284"
     },
     {
-      "IlsId": 107,
-      "PhoneNumber": "(202) 908-6296"
+      "IlsId": 110,
+      "PhoneNumber": "(844) 842-1353"
+    },
+    {
+      "IlsId": 115,
+      "PhoneNumber": "(844) 855-8750"
     }
   ],
   "PaidSearchPhone": "(202) 908-6292",
