@@ -12,56 +12,56 @@
           "AvailableDate": "10/27/2022",
           "BestTerm": {
             "Length": 18,
-            "Price": 1623
+            "Price": 1573
           },
           "Terms": [
             {
               "Length": 18,
-              "Price": 1623
+              "Price": 1573
             },
             {
               "Length": 17,
-              "Price": 1623
+              "Price": 1573
             },
             {
               "Length": 12,
-              "Price": 1673
+              "Price": 1623
             },
             {
               "Length": 11,
-              "Price": 1823
+              "Price": 1773
             },
             {
               "Length": 10,
-              "Price": 1823
+              "Price": 1773
             },
             {
               "Length": 9,
-              "Price": 1908
+              "Price": 1858
             },
             {
               "Length": 8,
-              "Price": 1908
+              "Price": 1858
             },
             {
               "Length": 7,
-              "Price": 1988
+              "Price": 1938
             },
             {
               "Length": 6,
-              "Price": 1988
+              "Price": 1938
             },
             {
               "Length": 5,
-              "Price": 2073
+              "Price": 2023
             },
             {
               "Length": 4,
-              "Price": 2073
+              "Price": 2023
             },
             {
               "Length": 3,
-              "Price": 2118
+              "Price": 2068
             }
           ],
           "SqFt": 475,
@@ -92,6 +92,165 @@
           "Photos": [],
           "Videos": [],
           "Matterports": [],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 150
+        },
+        {
+          "LedgerId": "19288",
+          "UnitId": "105",
+          "BuildingId": "401",
+          "AvailableDate": "10/27/2022",
+          "BestTerm": {
+            "Length": 18,
+            "Price": 1650
+          },
+          "Terms": [
+            {
+              "Length": 18,
+              "Price": 1650
+            },
+            {
+              "Length": 17,
+              "Price": 1650
+            },
+            {
+              "Length": 12,
+              "Price": 1700
+            },
+            {
+              "Length": 11,
+              "Price": 1850
+            },
+            {
+              "Length": 10,
+              "Price": 1850
+            },
+            {
+              "Length": 9,
+              "Price": 1935
+            },
+            {
+              "Length": 8,
+              "Price": 1935
+            },
+            {
+              "Length": 7,
+              "Price": 2015
+            },
+            {
+              "Length": 6,
+              "Price": 2015
+            },
+            {
+              "Length": 5,
+              "Price": 2100
+            },
+            {
+              "Length": 4,
+              "Price": 2100
+            },
+            {
+              "Length": 3,
+              "Price": 2145
+            }
+          ],
+          "SqFt": 615,
+          "Bed": 0,
+          "Bath": 1,
+          "FloorplanId": "00002664",
+          "FloorplanName": "Unit 205, 105",
+          "Floor": "Floor 1",
+          "Description": "This Studio/ 1 Bath home is the largest studio home and offers a spacious living area with a galley style kitchen, large walk in closet, stand-in shower in the bathroom and access to a private outdoor patio.",
+          "Amenities": [
+            {
+              "Name": "Eastern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPE"
+            },
+            {
+              "Name": "Private Subterranean Patio",
+              "Icon": "",
+              "AmenCode": "U07"
+            }
+          ],
+          "Special": {
+            "Active": true,
+            "Title": "Up to $500 off move-in costs!",
+            "Expires": "10/31/2022"
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002664-0-1-615",
+          "Photos": [
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-207/425-mass-apartments-bathroom",
+              "Alt": "425 Mass Apartments - Bathroom",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 583238,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Bathroom and In-home Washer and Dryer",
+              "DisplayOrder": 3,
+              "MediaId": 36249
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-206/425-mass-apartments-kitchen",
+              "Alt": "425 Mass Apartments - Kitchen",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 583240,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Kitchen with Stainless Steel Appliances",
+              "DisplayOrder": 1,
+              "MediaId": 36250
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-205/425-mass-apartments-studio",
+              "Alt": "425 Mass Apartments - Studio",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 583242,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Studio with Hard Surface Flooring",
+              "DisplayOrder": 2,
+              "MediaId": 36251
+            }
+          ],
+          "Videos": [
+            {
+              "Key": "zWkppFHqDiI",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "425 Mass Apartments - Mt Vernon Triangle - Unit 205:105 Unit 401 - 205",
+              "DisplayOrder": 0,
+              "MediaId": 36194
+            }
+          ],
+          "Matterports": [
+            {
+              "Key": "SVMni473rYX",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "3D Floorplan",
+              "DisplayOrder": 0,
+              "MediaId": 36310
+            }
+          ],
           "Zillows": [],
           "AccordionPhoto": null,
           "ExcludeFromOll": false,
@@ -258,165 +417,6 @@
           "BestTermFurnished": null,
           "FurnishedTerms": [],
           "SpecialAmount": 0
-        },
-        {
-          "LedgerId": "19288",
-          "UnitId": "105",
-          "BuildingId": "401",
-          "AvailableDate": "10/27/2022",
-          "BestTerm": {
-            "Length": 18,
-            "Price": 1800
-          },
-          "Terms": [
-            {
-              "Length": 18,
-              "Price": 1800
-            },
-            {
-              "Length": 17,
-              "Price": 1800
-            },
-            {
-              "Length": 12,
-              "Price": 1850
-            },
-            {
-              "Length": 11,
-              "Price": 2000
-            },
-            {
-              "Length": 10,
-              "Price": 2000
-            },
-            {
-              "Length": 9,
-              "Price": 2085
-            },
-            {
-              "Length": 8,
-              "Price": 2085
-            },
-            {
-              "Length": 7,
-              "Price": 2165
-            },
-            {
-              "Length": 6,
-              "Price": 2165
-            },
-            {
-              "Length": 5,
-              "Price": 2250
-            },
-            {
-              "Length": 4,
-              "Price": 2250
-            },
-            {
-              "Length": 3,
-              "Price": 2295
-            }
-          ],
-          "SqFt": 615,
-          "Bed": 0,
-          "Bath": 1,
-          "FloorplanId": "00002664",
-          "FloorplanName": "Unit 205, 105",
-          "Floor": "Floor 1",
-          "Description": "This Studio/ 1 Bath home is the largest studio home and offers a spacious living area with a galley style kitchen, large walk in closet, stand-in shower in the bathroom and access to a private outdoor patio.",
-          "Amenities": [
-            {
-              "Name": "Eastern Exposure",
-              "Icon": "",
-              "AmenCode": "EXPE"
-            },
-            {
-              "Name": "Private Subterranean Patio",
-              "Icon": "",
-              "AmenCode": "U07"
-            }
-          ],
-          "Special": {
-            "Active": true,
-            "Title": "Up to $500 off move-in costs!",
-            "Expires": "10/31/2022"
-          },
-          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002664-0-1-615",
-          "Photos": [
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-207/425-mass-apartments-bathroom",
-              "Alt": "425 Mass Apartments - Bathroom",
-              "CropX": 0,
-              "CropY": 0,
-              "Key": null,
-              "SeoName": null,
-              "Id": 583238,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Bathroom and In-home Washer and Dryer",
-              "DisplayOrder": 3,
-              "MediaId": 36249
-            },
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-206/425-mass-apartments-kitchen",
-              "Alt": "425 Mass Apartments - Kitchen",
-              "CropX": 0,
-              "CropY": 0,
-              "Key": null,
-              "SeoName": null,
-              "Id": 583240,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Kitchen with Stainless Steel Appliances",
-              "DisplayOrder": 1,
-              "MediaId": 36250
-            },
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-205/425-mass-apartments-studio",
-              "Alt": "425 Mass Apartments - Studio",
-              "CropX": 0,
-              "CropY": 0,
-              "Key": null,
-              "SeoName": null,
-              "Id": 583242,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Studio with Hard Surface Flooring",
-              "DisplayOrder": 2,
-              "MediaId": 36251
-            }
-          ],
-          "Videos": [
-            {
-              "Key": "zWkppFHqDiI",
-              "Id": 0,
-              "MediaTags": null,
-              "Caption": "425 Mass Apartments - Mt Vernon Triangle - Unit 205:105 Unit 401 - 205",
-              "DisplayOrder": 0,
-              "MediaId": 36194
-            }
-          ],
-          "Matterports": [
-            {
-              "Key": "SVMni473rYX",
-              "Id": 0,
-              "MediaTags": null,
-              "Caption": "3D Floorplan",
-              "DisplayOrder": 0,
-              "MediaId": 36310
-            }
-          ],
-          "Zillows": [],
-          "AccordionPhoto": null,
-          "ExcludeFromOll": false,
-          "FurnishAvailable": false,
-          "BestTermFurnished": null,
-          "FurnishedTerms": [],
-          "SpecialAmount": 150
         },
         {
           "LedgerId": "19288",
@@ -2034,6 +2034,269 @@
               "MediaId": 36986
             }
           ],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 0
+        },
+        {
+          "LedgerId": "19288",
+          "UnitId": "508",
+          "BuildingId": "401",
+          "AvailableDate": "12/10/2022",
+          "BestTerm": {
+            "Length": 18,
+            "Price": 2292
+          },
+          "Terms": [
+            {
+              "Length": 18,
+              "Price": 2292
+            },
+            {
+              "Length": 17,
+              "Price": 2292
+            },
+            {
+              "Length": 12,
+              "Price": 2362
+            },
+            {
+              "Length": 11,
+              "Price": 2562
+            },
+            {
+              "Length": 10,
+              "Price": 2562
+            },
+            {
+              "Length": 9,
+              "Price": 2672
+            },
+            {
+              "Length": 8,
+              "Price": 2672
+            },
+            {
+              "Length": 7,
+              "Price": 2782
+            },
+            {
+              "Length": 6,
+              "Price": 2782
+            },
+            {
+              "Length": 5,
+              "Price": 2892
+            },
+            {
+              "Length": 4,
+              "Price": 2892
+            },
+            {
+              "Length": 3,
+              "Price": 2962
+            }
+          ],
+          "SqFt": 702,
+          "Bed": 1,
+          "Bath": 1,
+          "FloorplanId": "00002647",
+          "FloorplanName": "Unit 406, 408",
+          "Floor": "Floor 5",
+          "Description": "This apartment home offers a living room with floor to ceiling windows, a built-in bookcase and a kitchen that opens out to the living room! The bedroom is spacious (queen bed) and features a step-in closet and an attached balcony.",
+          "Amenities": [
+            {
+              "Name": "Balcony",
+              "Icon": "",
+              "AmenCode": "U08"
+            },
+            {
+              "Name": "Eastern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPE"
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002647-1-1-702",
+          "Photos": [
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-149/425-mass-apartments-balcony",
+              "Alt": "425 Mass Apartments - Balcony",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 510997,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Balcony",
+              "DisplayOrder": 10,
+              "MediaId": 32424
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-147/425-mass-apartments-bathroom-and-in-home-washer-and-dryer",
+              "Alt": "425 Mass Apartments - Bathroom",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 511019,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Bathroom and In-home washer and Dryer",
+              "DisplayOrder": 7,
+              "MediaId": 32425
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-148/425-mass-apartments-bedroom",
+              "Alt": "425 Mass Apartments - Bedroom",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 511041,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Carpeted Bedroom",
+              "DisplayOrder": 5,
+              "MediaId": 32426
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-145/425-mass-apartments-kitchen",
+              "Alt": "425 Mass Apartments - Kitchen",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 511063,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Kitchen with Stainless Steel Appliances",
+              "DisplayOrder": 2,
+              "MediaId": 32427
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-146/425-mass-apartments-dining-room",
+              "Alt": "425 Mass Apartments - Dining Room",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 511085,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Dining Room with Hard Surface Flooring",
+              "DisplayOrder": 4,
+              "MediaId": 32428
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-164/425-mass-apartments-balcony",
+              "Alt": "425 Mass Apartments - Balcony",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 537716,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Balcony",
+              "DisplayOrder": 9,
+              "MediaId": 34026
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-162/425-mass-apartments-bathroom",
+              "Alt": "425 Mass Apartments - Bathroom",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 537738,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Bathroom with In-home Washer and Dryer",
+              "DisplayOrder": 8,
+              "MediaId": 34027
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-163/425-mass-apartments-bedroom",
+              "Alt": "425 Mass Apartments - Bedroom",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 537760,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Carpeted Bedroom",
+              "DisplayOrder": 6,
+              "MediaId": 34028
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-160/425-mass-apartments-kitchen",
+              "Alt": "425 Mass Apartments - Kitchen",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 537782,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Kitchen with Stainless Steel Appliances",
+              "DisplayOrder": 1,
+              "MediaId": 34029
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-161/425-mass-apartments-living-room",
+              "Alt": "425 Mass Apartments - Living Room",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 537804,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Living Room with Hard Surface Flooring",
+              "DisplayOrder": 3,
+              "MediaId": 34030
+            }
+          ],
+          "Videos": [
+            {
+              "Key": "MuF_JuVSK-8",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "425 Mass Apartments - Mt. Vernon Triangle - Unit 406 408 Apt 401 806",
+              "DisplayOrder": 0,
+              "MediaId": 33063
+            },
+            {
+              "Key": "AZ72uAl1p24",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "425 Mass Apartments - Mt  Vernon Triangle - Unit 406 - 408 - Apt 401 708",
+              "DisplayOrder": 0,
+              "MediaId": 35690
+            }
+          ],
+          "Matterports": [],
           "Zillows": [],
           "AccordionPhoto": null,
           "ExcludeFromOll": false,
@@ -4066,6 +4329,205 @@
         },
         {
           "LedgerId": "19288",
+          "UnitId": "PH125",
+          "BuildingId": "425",
+          "AvailableDate": "10/27/2022",
+          "BestTerm": {
+            "Length": 18,
+            "Price": 2872
+          },
+          "Terms": [
+            {
+              "Length": 18,
+              "Price": 2872
+            },
+            {
+              "Length": 17,
+              "Price": 2872
+            },
+            {
+              "Length": 12,
+              "Price": 2957
+            },
+            {
+              "Length": 11,
+              "Price": 3202
+            },
+            {
+              "Length": 10,
+              "Price": 3202
+            },
+            {
+              "Length": 9,
+              "Price": 3342
+            },
+            {
+              "Length": 8,
+              "Price": 3342
+            },
+            {
+              "Length": 7,
+              "Price": 3482
+            },
+            {
+              "Length": 6,
+              "Price": 3482
+            },
+            {
+              "Length": 5,
+              "Price": 3617
+            },
+            {
+              "Length": 4,
+              "Price": 3617
+            },
+            {
+              "Length": 3,
+              "Price": 3702
+            }
+          ],
+          "SqFt": 1000,
+          "Bed": 1,
+          "Bath": 2,
+          "FloorplanId": "378480",
+          "FloorplanName": "One Bedroom+Den J 979",
+          "Floor": "Floor 13",
+          "Description": "This 1 Bed with Den/ 2 Bath home offers a spacious living room with floor to ceiling windows, a built-in bookcase and a kitchen that opens out to the living room that is perfect for entertaining!",
+          "Amenities": [
+            {
+              "Name": "Northern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPN"
+            }
+          ],
+          "Special": {
+            "Active": true,
+            "Title": "Up to $500 off move-in costs!",
+            "Expires": "10/31/2022"
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378480-1-2-979",
+          "Photos": [
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-91/425-mass-apartments-bathroom",
+              "Alt": "425 Mass Apartments - Bathroom",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 421850,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Bathroom",
+              "DisplayOrder": 0,
+              "MediaId": 28452
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-95/425-mass-apartments-bedroom",
+              "Alt": "425 Mass Apartments - Bedroom",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 421920,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Bedroom",
+              "DisplayOrder": 0,
+              "MediaId": 28453
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-90/425-mass-apartments-den",
+              "Alt": "425 Mass Apartments - Den",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 421990,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Den",
+              "DisplayOrder": 0,
+              "MediaId": 28454
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-92/425-mass-apartments-kitchen",
+              "Alt": "425 Mass Apartments - Kitchen",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 422071,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Kitchen",
+              "DisplayOrder": 0,
+              "MediaId": 28456
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-93/425-mass-apartments-in-home-washer-and-dryer",
+              "Alt": "425 Mass Apartments - In-home Washer and Dryer",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 422141,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "In-home Washer and Dryer",
+              "DisplayOrder": 0,
+              "MediaId": 28457
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-94/425-mass-apartments-living-area",
+              "Alt": "425 Mass Apartments - Living Area",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 422211,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Living Area",
+              "DisplayOrder": 0,
+              "MediaId": 28458
+            }
+          ],
+          "Videos": [
+            {
+              "Key": "_F72Tq7NFiU",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "425 Mass Apartments - Mt Vernon Triangle - Floorplan 1BR+Den J979 Unit PH125",
+              "DisplayOrder": 0,
+              "MediaId": 29081
+            }
+          ],
+          "Matterports": [
+            {
+              "Key": "FWq5V9gmnSX",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "3D Floorplan",
+              "DisplayOrder": 0,
+              "MediaId": 16810
+            }
+          ],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 150
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "523",
           "BuildingId": "425",
           "AvailableDate": "11/10/2022",
@@ -4665,205 +5127,6 @@
           "BestTermFurnished": null,
           "FurnishedTerms": [],
           "SpecialAmount": 0
-        },
-        {
-          "LedgerId": "19288",
-          "UnitId": "PH125",
-          "BuildingId": "425",
-          "AvailableDate": "10/27/2022",
-          "BestTerm": {
-            "Length": 18,
-            "Price": 3022
-          },
-          "Terms": [
-            {
-              "Length": 18,
-              "Price": 3022
-            },
-            {
-              "Length": 17,
-              "Price": 3022
-            },
-            {
-              "Length": 12,
-              "Price": 3107
-            },
-            {
-              "Length": 11,
-              "Price": 3352
-            },
-            {
-              "Length": 10,
-              "Price": 3352
-            },
-            {
-              "Length": 9,
-              "Price": 3492
-            },
-            {
-              "Length": 8,
-              "Price": 3492
-            },
-            {
-              "Length": 7,
-              "Price": 3632
-            },
-            {
-              "Length": 6,
-              "Price": 3632
-            },
-            {
-              "Length": 5,
-              "Price": 3767
-            },
-            {
-              "Length": 4,
-              "Price": 3767
-            },
-            {
-              "Length": 3,
-              "Price": 3852
-            }
-          ],
-          "SqFt": 1000,
-          "Bed": 1,
-          "Bath": 2,
-          "FloorplanId": "378480",
-          "FloorplanName": "One Bedroom+Den J 979",
-          "Floor": "Floor 13",
-          "Description": "This 1 Bed with Den/ 2 Bath home offers a spacious living room with floor to ceiling windows, a built-in bookcase and a kitchen that opens out to the living room that is perfect for entertaining!",
-          "Amenities": [
-            {
-              "Name": "Northern Exposure",
-              "Icon": "",
-              "AmenCode": "EXPN"
-            }
-          ],
-          "Special": {
-            "Active": true,
-            "Title": "Up to $500 off move-in costs!",
-            "Expires": "10/31/2022"
-          },
-          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378480-1-2-979",
-          "Photos": [
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-91/425-mass-apartments-bathroom",
-              "Alt": "425 Mass Apartments - Bathroom",
-              "CropX": 0,
-              "CropY": 0,
-              "Key": null,
-              "SeoName": null,
-              "Id": 421850,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Bathroom",
-              "DisplayOrder": 0,
-              "MediaId": 28452
-            },
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-95/425-mass-apartments-bedroom",
-              "Alt": "425 Mass Apartments - Bedroom",
-              "CropX": 0,
-              "CropY": 0,
-              "Key": null,
-              "SeoName": null,
-              "Id": 421920,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Bedroom",
-              "DisplayOrder": 0,
-              "MediaId": 28453
-            },
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-90/425-mass-apartments-den",
-              "Alt": "425 Mass Apartments - Den",
-              "CropX": 0,
-              "CropY": 0,
-              "Key": null,
-              "SeoName": null,
-              "Id": 421990,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Den",
-              "DisplayOrder": 0,
-              "MediaId": 28454
-            },
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-92/425-mass-apartments-kitchen",
-              "Alt": "425 Mass Apartments - Kitchen",
-              "CropX": 0,
-              "CropY": 0,
-              "Key": null,
-              "SeoName": null,
-              "Id": 422071,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Kitchen",
-              "DisplayOrder": 0,
-              "MediaId": 28456
-            },
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-93/425-mass-apartments-in-home-washer-and-dryer",
-              "Alt": "425 Mass Apartments - In-home Washer and Dryer",
-              "CropX": 0,
-              "CropY": 0,
-              "Key": null,
-              "SeoName": null,
-              "Id": 422141,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "In-home Washer and Dryer",
-              "DisplayOrder": 0,
-              "MediaId": 28457
-            },
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-94/425-mass-apartments-living-area",
-              "Alt": "425 Mass Apartments - Living Area",
-              "CropX": 0,
-              "CropY": 0,
-              "Key": null,
-              "SeoName": null,
-              "Id": 422211,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Living Area",
-              "DisplayOrder": 0,
-              "MediaId": 28458
-            }
-          ],
-          "Videos": [
-            {
-              "Key": "_F72Tq7NFiU",
-              "Id": 0,
-              "MediaTags": null,
-              "Caption": "425 Mass Apartments - Mt Vernon Triangle - Floorplan 1BR+Den J979 Unit PH125",
-              "DisplayOrder": 0,
-              "MediaId": 29081
-            }
-          ],
-          "Matterports": [
-            {
-              "Key": "FWq5V9gmnSX",
-              "Id": 0,
-              "MediaTags": null,
-              "Caption": "3D Floorplan",
-              "DisplayOrder": 0,
-              "MediaId": 16810
-            }
-          ],
-          "Zillows": [],
-          "AccordionPhoto": null,
-          "ExcludeFromOll": false,
-          "FurnishAvailable": false,
-          "BestTermFurnished": null,
-          "FurnishedTerms": [],
-          "SpecialAmount": 150
         },
         {
           "LedgerId": "19288",
