@@ -7,156 +7,61 @@
       "AvailableUnits": [
         {
           "LedgerId": "19288",
-          "UnitId": "913",
-          "BuildingId": "401",
-          "AvailableDate": "11/28/2022",
-          "BestTerm": {
-            "Length": 18,
-            "Price": 1755
-          },
-          "Terms": [
-            {
-              "Length": 18,
-              "Price": 1755
-            },
-            {
-              "Length": 17,
-              "Price": 1755
-            },
-            {
-              "Length": 12,
-              "Price": 1810
-            },
-            {
-              "Length": 11,
-              "Price": 1965
-            },
-            {
-              "Length": 10,
-              "Price": 1965
-            },
-            {
-              "Length": 9,
-              "Price": 2055
-            },
-            {
-              "Length": 8,
-              "Price": 2055
-            },
-            {
-              "Length": 7,
-              "Price": 2145
-            },
-            {
-              "Length": 6,
-              "Price": 2145
-            },
-            {
-              "Length": 5,
-              "Price": 2230
-            },
-            {
-              "Length": 4,
-              "Price": 2230
-            },
-            {
-              "Length": 3,
-              "Price": 2285
-            }
-          ],
-          "SqFt": 458,
-          "Bed": 0,
-          "Bath": 1,
-          "FloorplanId": "00002653",
-          "FloorplanName": "Unit 413",
-          "Floor": "Floor 9",
-          "Description": "This Studio home features a fluid living space with two closets, a galley style kitchen, and floor to ceiling windows overlooking our private courtyard.",
-          "Amenities": [
-            {
-              "Name": "Northern Exposure",
-              "Icon": "",
-              "AmenCode": "EXPN"
-            },
-            {
-              "Name": "Western Exposure",
-              "Icon": "",
-              "AmenCode": "EXPW"
-            }
-          ],
-          "Special": {
-            "Active": true,
-            "Title": "Up to $500 off move-in costs!",
-            "Expires": "12/15/2022"
-          },
-          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002653-0-1-475",
-          "Photos": [],
-          "Videos": [],
-          "Matterports": [],
-          "Zillows": [],
-          "AccordionPhoto": null,
-          "ExcludeFromOll": false,
-          "FurnishAvailable": false,
-          "BestTermFurnished": null,
-          "FurnishedTerms": [],
-          "SpecialAmount": 0
-        },
-        {
-          "LedgerId": "19288",
           "UnitId": "PH228",
           "BuildingId": "425",
-          "AvailableDate": "11/28/2022",
+          "AvailableDate": "11/22/2022",
           "BestTerm": {
             "Length": 18,
-            "Price": 1993
+            "Price": 1983
           },
           "Terms": [
             {
               "Length": 18,
-              "Price": 1993
+              "Price": 1983
             },
             {
               "Length": 17,
-              "Price": 1993
+              "Price": 1983
             },
             {
               "Length": 12,
-              "Price": 2048
+              "Price": 2038
             },
             {
               "Length": 11,
-              "Price": 2203
+              "Price": 2193
             },
             {
               "Length": 10,
-              "Price": 2203
+              "Price": 2193
             },
             {
               "Length": 9,
-              "Price": 2293
+              "Price": 2283
             },
             {
               "Length": 8,
-              "Price": 2293
+              "Price": 2283
             },
             {
               "Length": 7,
-              "Price": 2383
+              "Price": 2368
             },
             {
               "Length": 6,
-              "Price": 2383
+              "Price": 2368
             },
             {
               "Length": 5,
-              "Price": 2468
+              "Price": 2458
             },
             {
               "Length": 4,
-              "Price": 2468
+              "Price": 2458
             },
             {
               "Length": 3,
-              "Price": 2523
+              "Price": 2508
             }
           ],
           "SqFt": 511,
@@ -176,7 +81,7 @@
           "Special": {
             "Active": true,
             "Title": "Up to $500 off move-in costs!",
-            "Expires": "12/15/2022"
+            "Expires": "11/30/2022"
           },
           "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378472-0-1-504",
           "Photos": [
@@ -271,61 +176,226 @@
         },
         {
           "LedgerId": "19288",
+          "UnitId": "PH118",
+          "BuildingId": "425",
+          "AvailableDate": "1/27/2023",
+          "BestTerm": {
+            "Length": 18,
+            "Price": 2042
+          },
+          "Terms": [
+            {
+              "Length": 18,
+              "Price": 2042
+            },
+            {
+              "Length": 17,
+              "Price": 2042
+            },
+            {
+              "Length": 12,
+              "Price": 2097
+            },
+            {
+              "Length": 11,
+              "Price": 2252
+            },
+            {
+              "Length": 10,
+              "Price": 2252
+            },
+            {
+              "Length": 9,
+              "Price": 2342
+            },
+            {
+              "Length": 8,
+              "Price": 2342
+            },
+            {
+              "Length": 7,
+              "Price": 2432
+            },
+            {
+              "Length": 6,
+              "Price": 2432
+            },
+            {
+              "Length": 5,
+              "Price": 2517
+            },
+            {
+              "Length": 4,
+              "Price": 2517
+            },
+            {
+              "Length": 3,
+              "Price": 2572
+            }
+          ],
+          "SqFt": 558,
+          "Bed": 0,
+          "Bath": 1,
+          "FloorplanId": "378474",
+          "FloorplanName": "Studio G 558",
+          "Floor": "Floor 13",
+          "Description": "This studio home offers a fluid living space with a balcony and floor to ceiling windows. The home also has a step-in closet and additional storage in the bathroom.",
+          "Amenities": [
+            {
+              "Name": "Balcony",
+              "Icon": "",
+              "AmenCode": "U08"
+            },
+            {
+              "Name": "Southern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPS"
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378474-0-1-558",
+          "Photos": [
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-62/425-mass-apartments-kitchen",
+              "Alt": "425 Mass Apartments - Kitchen",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 267760,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Kitchen with Stainless Steel Appliances",
+              "DisplayOrder": 1,
+              "MediaId": 19596
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-63/425-mass-apartments-balcony",
+              "Alt": "425 Mass Apartments - Balcony",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 267842,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Balcony",
+              "DisplayOrder": 4,
+              "MediaId": 19598
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-64/425-mass-apartments-studio-living-area",
+              "Alt": "425 Mass Apartments - Studio Living Area",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 267924,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Studio Living Space",
+              "DisplayOrder": 2,
+              "MediaId": 19600
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-65/425-mass-apartments-studio-storage",
+              "Alt": "425 Mass Apartments - Studio Storage",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 268006,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Studio Storage Space",
+              "DisplayOrder": 3,
+              "MediaId": 19602
+            }
+          ],
+          "Videos": [
+            {
+              "Key": "rBkAtCi_StI",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "425 Mass Apartments - Mt Vernon Triangle - Floorplan Studio G558   Unit 1017",
+              "DisplayOrder": 0,
+              "MediaId": 29083
+            }
+          ],
+          "Matterports": [],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 0
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "PH218",
           "BuildingId": "425",
           "AvailableDate": "12/22/2022",
           "BestTerm": {
             "Length": 18,
-            "Price": 2073
+            "Price": 2063
           },
           "Terms": [
             {
               "Length": 18,
-              "Price": 2073
+              "Price": 2063
             },
             {
               "Length": 17,
-              "Price": 2073
+              "Price": 2063
             },
             {
               "Length": 12,
-              "Price": 2128
+              "Price": 2118
             },
             {
               "Length": 11,
-              "Price": 2283
+              "Price": 2273
             },
             {
               "Length": 10,
-              "Price": 2283
+              "Price": 2273
             },
             {
               "Length": 9,
-              "Price": 2373
+              "Price": 2363
             },
             {
               "Length": 8,
-              "Price": 2373
+              "Price": 2363
             },
             {
               "Length": 7,
-              "Price": 2463
+              "Price": 2448
             },
             {
               "Length": 6,
-              "Price": 2463
+              "Price": 2448
             },
             {
               "Length": 5,
-              "Price": 2553
+              "Price": 2538
             },
             {
               "Length": 4,
-              "Price": 2553
+              "Price": 2538
             },
             {
               "Length": 3,
-              "Price": 2603
+              "Price": 2593
             }
           ],
           "SqFt": 558,
@@ -448,56 +518,56 @@
           "AvailableDate": "12/28/2022",
           "BestTerm": {
             "Length": 18,
-            "Price": 2129
+            "Price": 2139
           },
           "Terms": [
             {
               "Length": 18,
-              "Price": 2129
+              "Price": 2139
             },
             {
               "Length": 17,
-              "Price": 2129
+              "Price": 2139
             },
             {
               "Length": 12,
-              "Price": 2189
+              "Price": 2199
             },
             {
               "Length": 11,
-              "Price": 2384
+              "Price": 2394
             },
             {
               "Length": 10,
-              "Price": 2384
+              "Price": 2394
             },
             {
               "Length": 9,
-              "Price": 2489
+              "Price": 2499
             },
             {
               "Length": 8,
-              "Price": 2489
+              "Price": 2499
             },
             {
               "Length": 7,
-              "Price": 2594
+              "Price": 2604
             },
             {
               "Length": 6,
-              "Price": 2594
+              "Price": 2604
             },
             {
               "Length": 5,
-              "Price": 2699
+              "Price": 2714
             },
             {
               "Length": 4,
-              "Price": 2699
+              "Price": 2714
             },
             {
               "Length": 3,
-              "Price": 2764
+              "Price": 2779
             }
           ],
           "SqFt": 679,
@@ -662,56 +732,56 @@
           "AvailableDate": "12/21/2022",
           "BestTerm": {
             "Length": 18,
-            "Price": 2272
+            "Price": 2292
           },
           "Terms": [
             {
               "Length": 18,
-              "Price": 2272
+              "Price": 2292
             },
             {
               "Length": 17,
-              "Price": 2272
+              "Price": 2292
             },
             {
               "Length": 12,
-              "Price": 2332
+              "Price": 2352
             },
             {
               "Length": 11,
-              "Price": 2522
+              "Price": 2542
             },
             {
               "Length": 10,
-              "Price": 2522
+              "Price": 2542
             },
             {
               "Length": 9,
-              "Price": 2627
+              "Price": 2652
             },
             {
               "Length": 8,
-              "Price": 2627
+              "Price": 2652
             },
             {
               "Length": 7,
-              "Price": 2732
+              "Price": 2757
             },
             {
               "Length": 6,
-              "Price": 2732
+              "Price": 2757
             },
             {
               "Length": 5,
-              "Price": 2837
+              "Price": 2862
             },
             {
               "Length": 4,
-              "Price": 2837
+              "Price": 2862
             },
             {
               "Length": 3,
-              "Price": 2902
+              "Price": 2927
             }
           ],
           "SqFt": 702,
@@ -925,56 +995,56 @@
           "AvailableDate": "12/23/2022",
           "BestTerm": {
             "Length": 18,
-            "Price": 2298
+            "Price": 2308
           },
           "Terms": [
             {
               "Length": 18,
-              "Price": 2298
+              "Price": 2308
             },
             {
               "Length": 17,
-              "Price": 2298
+              "Price": 2308
             },
             {
               "Length": 12,
-              "Price": 2358
+              "Price": 2368
             },
             {
               "Length": 11,
-              "Price": 2553
+              "Price": 2563
             },
             {
               "Length": 10,
-              "Price": 2553
+              "Price": 2563
             },
             {
               "Length": 9,
-              "Price": 2658
+              "Price": 2668
             },
             {
               "Length": 8,
-              "Price": 2658
+              "Price": 2668
             },
             {
               "Length": 7,
-              "Price": 2763
+              "Price": 2773
             },
             {
               "Length": 6,
-              "Price": 2763
+              "Price": 2773
             },
             {
               "Length": 5,
-              "Price": 2868
+              "Price": 2883
             },
             {
               "Length": 4,
-              "Price": 2868
+              "Price": 2883
             },
             {
               "Length": 3,
-              "Price": 2933
+              "Price": 2948
             }
           ],
           "SqFt": 702,
@@ -1188,56 +1258,56 @@
           "AvailableDate": "12/7/2022",
           "BestTerm": {
             "Length": 18,
-            "Price": 2336
+            "Price": 2341
           },
           "Terms": [
             {
               "Length": 18,
-              "Price": 2336
+              "Price": 2341
             },
             {
               "Length": 17,
-              "Price": 2336
+              "Price": 2341
             },
             {
               "Length": 12,
-              "Price": 2396
+              "Price": 2401
             },
             {
               "Length": 11,
-              "Price": 2586
+              "Price": 2591
             },
             {
               "Length": 10,
-              "Price": 2586
+              "Price": 2591
             },
             {
               "Length": 9,
-              "Price": 2696
+              "Price": 2701
             },
             {
               "Length": 8,
-              "Price": 2696
+              "Price": 2701
             },
             {
               "Length": 7,
-              "Price": 2801
+              "Price": 2806
             },
             {
               "Length": 6,
-              "Price": 2801
+              "Price": 2806
             },
             {
               "Length": 5,
-              "Price": 2906
+              "Price": 2911
             },
             {
               "Length": 4,
-              "Price": 2906
+              "Price": 2911
             },
             {
               "Length": 3,
-              "Price": 2971
+              "Price": 2976
             }
           ],
           "SqFt": 773,
@@ -1363,56 +1433,56 @@
           "AvailableDate": "12/13/2022",
           "BestTerm": {
             "Length": 18,
-            "Price": 2345
+            "Price": 2360
           },
           "Terms": [
             {
               "Length": 18,
-              "Price": 2345
+              "Price": 2360
             },
             {
               "Length": 17,
-              "Price": 2345
+              "Price": 2360
             },
             {
               "Length": 12,
-              "Price": 2405
+              "Price": 2420
             },
             {
               "Length": 11,
-              "Price": 2595
+              "Price": 2615
             },
             {
               "Length": 10,
-              "Price": 2595
+              "Price": 2615
             },
             {
               "Length": 9,
-              "Price": 2700
+              "Price": 2720
             },
             {
               "Length": 8,
-              "Price": 2700
+              "Price": 2720
             },
             {
               "Length": 7,
-              "Price": 2805
+              "Price": 2825
             },
             {
               "Length": 6,
-              "Price": 2805
+              "Price": 2825
             },
             {
               "Length": 5,
-              "Price": 2915
+              "Price": 2930
             },
             {
               "Length": 4,
-              "Price": 2915
+              "Price": 2930
             },
             {
               "Length": 3,
-              "Price": 2975
+              "Price": 2995
             }
           ],
           "SqFt": 773,
@@ -1533,56 +1603,56 @@
           "AvailableDate": "12/7/2022",
           "BestTerm": {
             "Length": 18,
-            "Price": 2383
+            "Price": 2388
           },
           "Terms": [
             {
               "Length": 18,
-              "Price": 2383
+              "Price": 2388
             },
             {
               "Length": 17,
-              "Price": 2383
+              "Price": 2388
             },
             {
               "Length": 12,
-              "Price": 2443
+              "Price": 2448
             },
             {
               "Length": 11,
-              "Price": 2633
+              "Price": 2638
             },
             {
               "Length": 10,
-              "Price": 2633
+              "Price": 2638
             },
             {
               "Length": 9,
-              "Price": 2743
+              "Price": 2748
             },
             {
               "Length": 8,
-              "Price": 2743
+              "Price": 2748
             },
             {
               "Length": 7,
-              "Price": 2848
+              "Price": 2853
             },
             {
               "Length": 6,
-              "Price": 2848
+              "Price": 2853
             },
             {
               "Length": 5,
-              "Price": 2953
+              "Price": 2958
             },
             {
               "Length": 4,
-              "Price": 2953
+              "Price": 2958
             },
             {
               "Length": 3,
-              "Price": 3018
+              "Price": 3023
             }
           ],
           "SqFt": 795,
@@ -1633,56 +1703,56 @@
           "AvailableDate": "12/31/2022",
           "BestTerm": {
             "Length": 18,
-            "Price": 2398
+            "Price": 2403
           },
           "Terms": [
             {
               "Length": 18,
-              "Price": 2398
+              "Price": 2403
             },
             {
               "Length": 17,
-              "Price": 2398
+              "Price": 2403
             },
             {
               "Length": 12,
-              "Price": 2463
+              "Price": 2468
             },
             {
               "Length": 11,
-              "Price": 2658
+              "Price": 2663
             },
             {
               "Length": 10,
-              "Price": 2658
+              "Price": 2663
             },
             {
               "Length": 9,
-              "Price": 2768
+              "Price": 2773
             },
             {
               "Length": 8,
-              "Price": 2768
+              "Price": 2773
             },
             {
               "Length": 7,
-              "Price": 2873
+              "Price": 2878
             },
             {
               "Length": 6,
-              "Price": 2873
+              "Price": 2878
             },
             {
               "Length": 5,
-              "Price": 2983
+              "Price": 2988
             },
             {
               "Length": 4,
-              "Price": 2983
+              "Price": 2988
             },
             {
               "Length": 3,
-              "Price": 3048
+              "Price": 3053
             }
           ],
           "SqFt": 736,
@@ -1813,61 +1883,231 @@
         },
         {
           "LedgerId": "19288",
+          "UnitId": "PH216",
+          "BuildingId": "425",
+          "AvailableDate": "12/9/2022",
+          "BestTerm": {
+            "Length": 18,
+            "Price": 2423
+          },
+          "Terms": [
+            {
+              "Length": 18,
+              "Price": 2423
+            },
+            {
+              "Length": 17,
+              "Price": 2423
+            },
+            {
+              "Length": 12,
+              "Price": 2483
+            },
+            {
+              "Length": 11,
+              "Price": 2678
+            },
+            {
+              "Length": 10,
+              "Price": 2678
+            },
+            {
+              "Length": 9,
+              "Price": 2783
+            },
+            {
+              "Length": 8,
+              "Price": 2783
+            },
+            {
+              "Length": 7,
+              "Price": 2888
+            },
+            {
+              "Length": 6,
+              "Price": 2888
+            },
+            {
+              "Length": 5,
+              "Price": 2993
+            },
+            {
+              "Length": 4,
+              "Price": 2993
+            },
+            {
+              "Length": 3,
+              "Price": 3058
+            }
+          ],
+          "SqFt": 773,
+          "Bed": 1,
+          "Bath": 1,
+          "FloorplanId": "378478",
+          "FloorplanName": "One Bedroom E 773",
+          "Floor": "Penthouse",
+          "Description": "This apartment home offers a spacious living room with floor to ceiling windows, an attached balcony, a built-in bookcase and a kitchen that opens out to the living room that is perfect for entertaining!",
+          "Amenities": [
+            {
+              "Name": "Balcony",
+              "Icon": "",
+              "AmenCode": "U08"
+            },
+            {
+              "Name": "Eastern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPE"
+            },
+            {
+              "Name": "Southern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPS"
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378478-1-1-773",
+          "Photos": [
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-58/425-mass-apartments-kitchen",
+              "Alt": "425 Mass Apartments - Kitchen",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 267734,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Kitchen with Stainless Steel Appliances",
+              "DisplayOrder": 1,
+              "MediaId": 19595
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-60/425-mass-apartments-bathroom-and-in-home-washer-and-dryer",
+              "Alt": "425 Mass Apartments - Bathroom and In-home Washer and Dryer",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 267898,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Bathroom and In-home Washer and Dryer",
+              "DisplayOrder": 4,
+              "MediaId": 19599
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-73/425-mass-apartments-living-area",
+              "Alt": "425 Mass Apartments - Living Area",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 304692,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Living Room with Hardwood Flooring",
+              "DisplayOrder": 2,
+              "MediaId": 23032
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-72/425-mass-apartments-bedroom",
+              "Alt": "425 Mass Apartments - Bedroom ",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 304746,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Carpeted Bedroom",
+              "DisplayOrder": 3,
+              "MediaId": 23031
+            }
+          ],
+          "Videos": [],
+          "Matterports": [
+            {
+              "Key": "xeTt8tMHCdC",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "3D Floorplan",
+              "DisplayOrder": 0,
+              "MediaId": 36307
+            }
+          ],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 0
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "108",
           "BuildingId": "425",
           "AvailableDate": "12/28/2022",
           "BestTerm": {
             "Length": 18,
-            "Price": 2435
+            "Price": 2445
           },
           "Terms": [
             {
               "Length": 18,
-              "Price": 2435
+              "Price": 2445
             },
             {
               "Length": 17,
-              "Price": 2435
+              "Price": 2445
             },
             {
               "Length": 12,
-              "Price": 2495
+              "Price": 2505
             },
             {
               "Length": 11,
-              "Price": 2690
+              "Price": 2700
             },
             {
               "Length": 10,
-              "Price": 2690
+              "Price": 2700
             },
             {
               "Length": 9,
-              "Price": 2795
+              "Price": 2805
             },
             {
               "Length": 8,
-              "Price": 2795
+              "Price": 2805
             },
             {
               "Length": 7,
-              "Price": 2900
+              "Price": 2910
             },
             {
               "Length": 6,
-              "Price": 2900
+              "Price": 2910
             },
             {
               "Length": 5,
-              "Price": 3005
+              "Price": 3020
             },
             {
               "Length": 4,
-              "Price": 3005
+              "Price": 3020
             },
             {
               "Length": 3,
-              "Price": 3070
+              "Price": 3085
             }
           ],
           "SqFt": 921,
@@ -1913,56 +2153,56 @@
           "AvailableDate": "12/2/2022",
           "BestTerm": {
             "Length": 18,
-            "Price": 2690
+            "Price": 2695
           },
           "Terms": [
             {
               "Length": 18,
-              "Price": 2690
+              "Price": 2695
             },
             {
               "Length": 17,
-              "Price": 2690
+              "Price": 2695
             },
             {
               "Length": 12,
-              "Price": 2765
+              "Price": 2770
             },
             {
               "Length": 11,
-              "Price": 3005
+              "Price": 3010
             },
             {
               "Length": 10,
-              "Price": 3005
+              "Price": 3010
             },
             {
               "Length": 9,
-              "Price": 3135
+              "Price": 3140
             },
             {
               "Length": 8,
-              "Price": 3135
+              "Price": 3140
             },
             {
               "Length": 7,
-              "Price": 3265
+              "Price": 3270
             },
             {
               "Length": 6,
-              "Price": 3265
+              "Price": 3270
             },
             {
               "Length": 5,
-              "Price": 3400
+              "Price": 3405
             },
             {
               "Length": 4,
-              "Price": 3400
+              "Price": 3405
             },
             {
               "Length": 3,
-              "Price": 3475
+              "Price": 3485
             }
           ],
           "SqFt": 979,
@@ -2114,7 +2354,7 @@
           "LedgerId": "19288",
           "UnitId": "101A",
           "BuildingId": "425",
-          "AvailableDate": "11/28/2022",
+          "AvailableDate": "11/22/2022",
           "BestTerm": {
             "Length": 18,
             "Price": 2737
@@ -2196,7 +2436,7 @@
           "Special": {
             "Active": true,
             "Title": "Up to $500 off move-in costs!",
-            "Expires": "12/15/2022"
+            "Expires": "11/30/2022"
           },
           "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378482-1-1-907",
           "Photos": [],
@@ -2217,56 +2457,56 @@
           "AvailableDate": "1/7/2023",
           "BestTerm": {
             "Length": 18,
-            "Price": 2850
+            "Price": 2855
           },
           "Terms": [
             {
               "Length": 18,
-              "Price": 2850
+              "Price": 2855
             },
             {
               "Length": 17,
-              "Price": 2850
+              "Price": 2855
             },
             {
               "Length": 12,
-              "Price": 2930
+              "Price": 2940
             },
             {
               "Length": 11,
-              "Price": 3175
+              "Price": 3180
             },
             {
               "Length": 10,
-              "Price": 3175
+              "Price": 3180
             },
             {
               "Length": 9,
-              "Price": 3310
+              "Price": 3320
             },
             {
               "Length": 8,
-              "Price": 3310
+              "Price": 3320
             },
             {
               "Length": 7,
-              "Price": 3445
+              "Price": 3455
             },
             {
               "Length": 6,
-              "Price": 3445
+              "Price": 3455
             },
             {
               "Length": 5,
-              "Price": 3585
+              "Price": 3590
             },
             {
               "Length": 4,
-              "Price": 3585
+              "Price": 3590
             },
             {
               "Length": 3,
-              "Price": 3665
+              "Price": 3670
             }
           ],
           "SqFt": 1000,
@@ -2413,7 +2653,7 @@
           "LedgerId": "19288",
           "UnitId": "1101",
           "BuildingId": "401",
-          "AvailableDate": "11/30/2022",
+          "AvailableDate": "11/26/2022",
           "BestTerm": {
             "Length": 18,
             "Price": 2935
@@ -2490,7 +2730,7 @@
           "Special": {
             "Active": true,
             "Title": "Up to $500 off move-in costs!",
-            "Expires": "12/15/2022"
+            "Expires": "11/30/2022"
           },
           "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002642-1-2-985",
           "Photos": [
@@ -2875,7 +3115,7 @@
           "LedgerId": "19288",
           "UnitId": "PH123",
           "BuildingId": "425",
-          "AvailableDate": "11/28/2022",
+          "AvailableDate": "11/22/2022",
           "BestTerm": {
             "Length": 18,
             "Price": 2972
@@ -2952,7 +3192,7 @@
           "Special": {
             "Active": true,
             "Title": "Up to $500 off move-in costs!",
-            "Expires": "12/15/2022"
+            "Expires": "11/30/2022"
           },
           "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378480-1-2-979",
           "Photos": [
@@ -3079,7 +3319,7 @@
           "LedgerId": "19288",
           "UnitId": "1206",
           "BuildingId": "425",
-          "AvailableDate": "11/28/2022",
+          "AvailableDate": "11/22/2022",
           "BestTerm": {
             "Length": 18,
             "Price": 3146
@@ -3156,7 +3396,7 @@
           "Special": {
             "Active": true,
             "Title": "Up to $500 off move-in costs!",
-            "Expires": "12/15/2022"
+            "Expires": "11/30/2022"
           },
           "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378483-1-2-1293",
           "Photos": [
@@ -3200,56 +3440,56 @@
           "AvailableDate": "12/9/2022",
           "BestTerm": {
             "Length": 18,
-            "Price": 3305
+            "Price": 3210
           },
           "Terms": [
             {
               "Length": 18,
-              "Price": 3305
+              "Price": 3210
             },
             {
               "Length": 17,
-              "Price": 3305
+              "Price": 3210
             },
             {
               "Length": 12,
-              "Price": 3410
+              "Price": 3310
             },
             {
               "Length": 11,
-              "Price": 3720
+              "Price": 3610
             },
             {
               "Length": 10,
-              "Price": 3720
+              "Price": 3610
             },
             {
               "Length": 9,
-              "Price": 3890
+              "Price": 3775
             },
             {
               "Length": 8,
-              "Price": 3890
+              "Price": 3775
             },
             {
               "Length": 7,
-              "Price": 4060
+              "Price": 3940
             },
             {
               "Length": 6,
-              "Price": 4060
+              "Price": 3940
             },
             {
               "Length": 5,
-              "Price": 4230
+              "Price": 4105
             },
             {
               "Length": 4,
-              "Price": 4230
+              "Price": 4105
             },
             {
               "Length": 3,
-              "Price": 4335
+              "Price": 4205
             }
           ],
           "SqFt": 1340,
@@ -3466,59 +3706,59 @@
           "LedgerId": "19288",
           "UnitId": "1020",
           "BuildingId": "425",
-          "AvailableDate": "11/28/2022",
+          "AvailableDate": "11/26/2022",
           "BestTerm": {
             "Length": 18,
-            "Price": 3378
+            "Price": 3263
           },
           "Terms": [
             {
               "Length": 18,
-              "Price": 3378
+              "Price": 3263
             },
             {
               "Length": 17,
-              "Price": 3378
+              "Price": 3263
             },
             {
               "Length": 12,
-              "Price": 3483
+              "Price": 3363
             },
             {
               "Length": 11,
-              "Price": 3793
+              "Price": 3658
             },
             {
               "Length": 10,
-              "Price": 3793
+              "Price": 3658
             },
             {
               "Length": 9,
-              "Price": 3963
+              "Price": 3823
             },
             {
               "Length": 8,
-              "Price": 3963
+              "Price": 3823
             },
             {
               "Length": 7,
-              "Price": 4133
+              "Price": 3988
             },
             {
               "Length": 6,
-              "Price": 4133
+              "Price": 3988
             },
             {
               "Length": 5,
-              "Price": 4303
+              "Price": 4153
             },
             {
               "Length": 4,
-              "Price": 4303
+              "Price": 4153
             },
             {
               "Length": 3,
-              "Price": 4408
+              "Price": 4253
             }
           ],
           "SqFt": 1340,
@@ -3548,7 +3788,7 @@
           "Special": {
             "Active": true,
             "Title": "Up to $500 off move-in costs!",
-            "Expires": "12/15/2022"
+            "Expires": "11/30/2022"
           },
           "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378485-2-2-1340",
           "Photos": [
@@ -3733,61 +3973,340 @@
         },
         {
           "LedgerId": "19288",
+          "UnitId": "1120",
+          "BuildingId": "425",
+          "AvailableDate": "11/22/2022",
+          "BestTerm": {
+            "Length": 18,
+            "Price": 3313
+          },
+          "Terms": [
+            {
+              "Length": 18,
+              "Price": 3313
+            },
+            {
+              "Length": 17,
+              "Price": 3313
+            },
+            {
+              "Length": 12,
+              "Price": 3413
+            },
+            {
+              "Length": 11,
+              "Price": 3708
+            },
+            {
+              "Length": 10,
+              "Price": 3708
+            },
+            {
+              "Length": 9,
+              "Price": 3873
+            },
+            {
+              "Length": 8,
+              "Price": 3873
+            },
+            {
+              "Length": 7,
+              "Price": 4038
+            },
+            {
+              "Length": 6,
+              "Price": 4038
+            },
+            {
+              "Length": 5,
+              "Price": 4203
+            },
+            {
+              "Length": 4,
+              "Price": 4203
+            },
+            {
+              "Length": 3,
+              "Price": 4303
+            }
+          ],
+          "SqFt": 1345,
+          "Bed": 2,
+          "Bath": 2,
+          "FloorplanId": "378485",
+          "FloorplanName": "Two Bedroom Two Bath H 1340",
+          "Floor": "Floor 11",
+          "Description": "This apartment corner home offers an open living room with an island kitchen that is perfect for entertaining.",
+          "Amenities": [
+            {
+              "Name": "Additional Private Balcony",
+              "Icon": "",
+              "AmenCode": "U11"
+            },
+            {
+              "Name": "Balcony",
+              "Icon": "",
+              "AmenCode": "U08"
+            },
+            {
+              "Name": "Corner Unit",
+              "Icon": "",
+              "AmenCode": "CU"
+            },
+            {
+              "Name": "Eastern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPE"
+            },
+            {
+              "Name": "Northern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPN"
+            }
+          ],
+          "Special": {
+            "Active": true,
+            "Title": "Up to $500 off move-in costs!",
+            "Expires": "11/30/2022"
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378485-2-2-1340",
+          "Photos": [
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-244/425-mass-apartments-bathroom",
+              "Alt": "425 Mass Apartments - Bathroom",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 623271,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Bathroom with Double Vanity",
+              "DisplayOrder": 8,
+              "MediaId": 38234
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-238/425-mass-apartments-bathroom",
+              "Alt": "425 Mass Apartments - Bathroom",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 623283,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Bathroom",
+              "DisplayOrder": 9,
+              "MediaId": 38235
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-239/425-mass-apartments-bedroom",
+              "Alt": "425 Mass Apartments - Bedroom",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 623295,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Carpeted Bedroom",
+              "DisplayOrder": 5,
+              "MediaId": 38236
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-243/425-mass-apartments-bedroom",
+              "Alt": "425 Mass Apartments - Bedroom",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 623307,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Carpeted Bedroom",
+              "DisplayOrder": 7,
+              "MediaId": 38237
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-241/425-mass-apartments-kitchen",
+              "Alt": "425 Mass Apartments - Kitchen",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 623319,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Kitchen with Stainless Steel Appliances",
+              "DisplayOrder": 1,
+              "MediaId": 38238
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-240/425-mass-apartments-in-home-washer-and-dryer",
+              "Alt": "425 Mass Apartments - In-home Washer and Dryer",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 623331,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "In-home Washer and Dryer",
+              "DisplayOrder": 10,
+              "MediaId": 38239
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-242/425-mass-apartments-living-room",
+              "Alt": "425 Mass Apartments - Living Room",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 623343,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Living Room with Balcony and Hard Surface Flooring",
+              "DisplayOrder": 3,
+              "MediaId": 38240
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-252/425-mass-apartments-bedroom",
+              "Alt": "425 Mass Apartments - Bedroom",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 639469,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Carpeted Bedroom",
+              "DisplayOrder": 6,
+              "MediaId": 39250
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-253/425-mass-apartments-living-room",
+              "Alt": "425 Mass Apartments - Living Room",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 639531,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Living Room with Balcony and Hard Surface Flooring",
+              "DisplayOrder": 2,
+              "MediaId": 39256
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-254/425-mass-apartments-bedroom",
+              "Alt": "425 Mass Apartments - Bedroom",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 639543,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Carpeted Bedroom",
+              "DisplayOrder": 4,
+              "MediaId": 39257
+            }
+          ],
+          "Videos": [
+            {
+              "Key": "JqdIFyNjTsk",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "425 Mass Apartments - Mt. Vernon Triangle - H 1340 Apt 425 520",
+              "DisplayOrder": 0,
+              "MediaId": 38438
+            }
+          ],
+          "Matterports": [
+            {
+              "Key": "waDZAJ7TR42",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "3D Floorplan",
+              "DisplayOrder": 0,
+              "MediaId": 38575
+            }
+          ],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 200
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "303",
           "BuildingId": "401",
           "AvailableDate": "1/27/2023",
           "BestTerm": {
             "Length": 18,
-            "Price": 3507
+            "Price": 3462
           },
           "Terms": [
             {
               "Length": 18,
-              "Price": 3507
+              "Price": 3462
             },
             {
               "Length": 17,
-              "Price": 3507
+              "Price": 3462
             },
             {
               "Length": 12,
-              "Price": 3612
+              "Price": 3567
             },
             {
               "Length": 11,
-              "Price": 3927
+              "Price": 3877
             },
             {
               "Length": 10,
-              "Price": 3927
+              "Price": 3877
             },
             {
               "Length": 9,
-              "Price": 4097
+              "Price": 4047
             },
             {
               "Length": 8,
-              "Price": 4097
+              "Price": 4047
             },
             {
               "Length": 7,
-              "Price": 4272
+              "Price": 4217
             },
             {
               "Length": 6,
-              "Price": 4272
+              "Price": 4217
             },
             {
               "Length": 5,
-              "Price": 4447
+              "Price": 4392
             },
             {
               "Length": 4,
-              "Price": 4447
+              "Price": 4392
             },
             {
               "Length": 3,
-              "Price": 4552
+              "Price": 4492
             }
           ],
           "SqFt": 1284,
@@ -3858,56 +4377,56 @@
           "AvailableDate": "1/13/2023",
           "BestTerm": {
             "Length": 18,
-            "Price": 3575
+            "Price": 3525
           },
           "Terms": [
             {
               "Length": 18,
-              "Price": 3575
+              "Price": 3525
             },
             {
               "Length": 17,
-              "Price": 3575
+              "Price": 3525
             },
             {
               "Length": 12,
-              "Price": 3680
+              "Price": 3630
             },
             {
               "Length": 11,
-              "Price": 3995
+              "Price": 3940
             },
             {
               "Length": 10,
-              "Price": 3995
+              "Price": 3940
             },
             {
               "Length": 9,
-              "Price": 4165
+              "Price": 4110
             },
             {
               "Length": 8,
-              "Price": 4165
+              "Price": 4110
             },
             {
               "Length": 7,
-              "Price": 4340
+              "Price": 4280
             },
             {
               "Length": 6,
-              "Price": 4340
+              "Price": 4280
             },
             {
               "Length": 5,
-              "Price": 4515
+              "Price": 4450
             },
             {
               "Length": 4,
-              "Price": 4515
+              "Price": 4450
             },
             {
               "Length": 3,
-              "Price": 4620
+              "Price": 4555
             }
           ],
           "SqFt": 1284,
@@ -3978,56 +4497,56 @@
           "AvailableDate": "12/13/2022",
           "BestTerm": {
             "Length": 18,
-            "Price": 3811
+            "Price": 3716
           },
           "Terms": [
             {
               "Length": 18,
-              "Price": 3811
+              "Price": 3716
             },
             {
               "Length": 17,
-              "Price": 3811
+              "Price": 3716
             },
             {
               "Length": 12,
-              "Price": 3916
+              "Price": 3816
             },
             {
               "Length": 11,
-              "Price": 4226
+              "Price": 4116
             },
             {
               "Length": 10,
-              "Price": 4226
+              "Price": 4116
             },
             {
               "Length": 9,
-              "Price": 4396
+              "Price": 4281
             },
             {
               "Length": 8,
-              "Price": 4396
+              "Price": 4281
             },
             {
               "Length": 7,
-              "Price": 4566
+              "Price": 4446
             },
             {
               "Length": 6,
-              "Price": 4566
+              "Price": 4446
             },
             {
               "Length": 5,
-              "Price": 4736
+              "Price": 4611
             },
             {
               "Length": 4,
-              "Price": 4736
+              "Price": 4611
             },
             {
               "Length": 3,
-              "Price": 4841
+              "Price": 4711
             }
           ],
           "SqFt": 1416,
