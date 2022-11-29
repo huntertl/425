@@ -1,4 +1,6 @@
 #!/bin/bash
+export OPENSSL_CONF="$(pwd)/openssl.cnf"
+
 mkdir -p files log
 url="https://www.equityapartments.com/washington-dc/gallery-place-mt-vernon-triangle/425-mass-apartments"
 ia="https://web.archive.org/save"
