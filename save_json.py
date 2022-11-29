@@ -1,41 +1,30 @@
 import json
-import os
 import re
-
-from pprint import pprint
+import urllib.request
 
 IN_FILE = "file.html"
 OUT_FILE = "_file.json"
 
-def get_line_from_file(file):
-	global open_tag
-	with open(IN_FILE) as f:
-	 lines = f.readlines()
-	for l in lines:
-		if open_tag in l:
-			return l
-
+URL = "https://www.equityapartments.com/washington-dc/gallery-place-mt-vernon-triangle/425-mass-apartments"
 
 open_tag = '    ea5.unitAvailability = '
 close_tag = ';'
 pattern = f"{open_tag}(.*?){close_tag}"
-blob = re.search(pattern, get_line_from_file(IN_FILE)).group(1)	
-
-units = json.loads(blob)
-
-with open(OUT_FILE,'w') as f:
-	pprint(units, stream=f)
 
 
-os.remove(IN_FILE)
+def get_units_from_url(url=URL):
+    resp = urllib.request.urlopen(url)
+    html = resp.read().decode()
+    units_line = next(line for line in html.splitlines() if open_tag in line)
+    blob = re.search(pattern, units_line).group(1)
+    return json.loads(blob)
 
 
-# # w/ requests:
-# 
-# import requests
-# 
-# url="https://www.equityapartments.com/washington-dc/gallery-place-mt-vernon-triangle/425-mass-apartments"
-# r = requests.get(url)
+if __name__ == '__main__':
+    units = get_units_from_url(url=URL)
+
+    with open(OUT_FILE, 'w') as f:
+        f.write(json.dumps(units))
 
 
 # # todo: implement
@@ -50,7 +39,4 @@ os.remove(IN_FILE)
 #    - cron:  '5 0,11,17 * * *'
 #    - cron:  '5 * * * *'
 
-with open(OUT_FILE,'w') as f:
-	# pprint(units, stream=f)
-	f.write(json.dumps(units))
 
