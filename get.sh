@@ -10,6 +10,6 @@ now=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
 # wget $url -O file.html
 # curl -s $ia/$url > /dev/null
 
-python3 save_json.py || (echo "exiting early"; exit 0)
+python3 save_json.py || (echo "Saving json failed, exiting early"; exit 1)
 cat _file.json | jq '.' > file.json
 rm _file.json
