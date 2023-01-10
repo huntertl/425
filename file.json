@@ -98,6 +98,147 @@
         },
         {
           "LedgerId": "19288",
+          "UnitId": "311",
+          "BuildingId": "425",
+          "AvailableDate": "3/11/2023",
+          "BestTerm": {
+            "Length": 15,
+            "Price": 1902
+          },
+          "Terms": [
+            {
+              "Length": 15,
+              "Price": 1902
+            },
+            {
+              "Length": 12,
+              "Price": 1957
+            },
+            {
+              "Length": 11,
+              "Price": 2122
+            },
+            {
+              "Length": 10,
+              "Price": 2122
+            },
+            {
+              "Length": 9,
+              "Price": 2212
+            },
+            {
+              "Length": 8,
+              "Price": 2212
+            },
+            {
+              "Length": 7,
+              "Price": 2302
+            },
+            {
+              "Length": 6,
+              "Price": 2302
+            },
+            {
+              "Length": 5,
+              "Price": 2392
+            },
+            {
+              "Length": 4,
+              "Price": 2392
+            },
+            {
+              "Length": 3,
+              "Price": 2447
+            }
+          ],
+          "SqFt": 569,
+          "Bed": 0,
+          "Bath": 1,
+          "FloorplanId": "378475",
+          "FloorplanName": "Studio G 569",
+          "Floor": "Floor 3",
+          "Description": "This Studio/ 1 Bath home is one of our largest studio layouts and offers a spacious living area with floor to ceiling windows that let in plenty of direct natural light.",
+          "Amenities": [
+            {
+              "Name": "Eastern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPE"
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378475-0-1-569",
+          "Photos": [
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-110/425-mass-apartments-bathroom",
+              "Alt": "425 Mass Apartments - Bathroom",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 480294,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Bathroom",
+              "DisplayOrder": 3,
+              "MediaId": 31042
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-111/425-mass-apartments-kitchen",
+              "Alt": "425 Mass Apartments - Kitchen",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 480306,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Kitchen with Stainless Steel Appliances",
+              "DisplayOrder": 1,
+              "MediaId": 31043
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-112/425-mass-apartments-studio",
+              "Alt": "425 Mass Apartments - Studio",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 480318,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Studio with Hard Surface Flooring ",
+              "DisplayOrder": 2,
+              "MediaId": 31044
+            }
+          ],
+          "Videos": [
+            {
+              "Key": "CXgitNtxvy0",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "425 Mass Apartments - Mt. Vernon Triangle - Studio G569 Unit PH111",
+              "DisplayOrder": 0,
+              "MediaId": 33059
+            }
+          ],
+          "Matterports": [],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 0
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "711",
           "BuildingId": "425",
           "AvailableDate": "2/11/2023",
@@ -522,167 +663,6 @@
               "Caption": "425 Mass Apartments - Mt. Vernon Triangle - Studio G569 Unit PH111",
               "DisplayOrder": 0,
               "MediaId": 33059
-            }
-          ],
-          "Matterports": [],
-          "Zillows": [],
-          "AccordionPhoto": null,
-          "ExcludeFromOll": false,
-          "FurnishAvailable": false,
-          "BestTermFurnished": null,
-          "FurnishedTerms": [],
-          "SpecialAmount": 0
-        },
-        {
-          "LedgerId": "19288",
-          "UnitId": "818",
-          "BuildingId": "425",
-          "AvailableDate": "1/10/2023",
-          "BestTerm": {
-            "Length": 15,
-            "Price": 2014
-          },
-          "Terms": [
-            {
-              "Length": 15,
-              "Price": 2014
-            },
-            {
-              "Length": 12,
-              "Price": 2069
-            },
-            {
-              "Length": 11,
-              "Price": 2229
-            },
-            {
-              "Length": 10,
-              "Price": 2229
-            },
-            {
-              "Length": 9,
-              "Price": 2319
-            },
-            {
-              "Length": 8,
-              "Price": 2319
-            },
-            {
-              "Length": 7,
-              "Price": 2409
-            },
-            {
-              "Length": 6,
-              "Price": 2409
-            },
-            {
-              "Length": 5,
-              "Price": 2499
-            },
-            {
-              "Length": 4,
-              "Price": 2499
-            },
-            {
-              "Length": 3,
-              "Price": 2554
-            }
-          ],
-          "SqFt": 558,
-          "Bed": 0,
-          "Bath": 1,
-          "FloorplanId": "378474",
-          "FloorplanName": "Studio G 558",
-          "Floor": "Floor 8",
-          "Description": "This studio home offers a fluid living space with a balcony and floor to ceiling windows. The home also has a step-in closet and additional storage in the bathroom.",
-          "Amenities": [
-            {
-              "Name": "Balcony",
-              "Icon": "",
-              "AmenCode": "U08"
-            },
-            {
-              "Name": "Southern Exposure",
-              "Icon": "",
-              "AmenCode": "EXPS"
-            }
-          ],
-          "Special": {
-            "Active": false,
-            "Title": null,
-            "Expires": null
-          },
-          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378474-0-1-558",
-          "Photos": [
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-62/425-mass-apartments-kitchen",
-              "Alt": "425 Mass Apartments - Kitchen",
-              "CropX": 0,
-              "CropY": 0,
-              "Key": null,
-              "SeoName": null,
-              "Id": 267756,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Kitchen with Stainless Steel Appliances",
-              "DisplayOrder": 1,
-              "MediaId": 19596
-            },
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-63/425-mass-apartments-balcony",
-              "Alt": "425 Mass Apartments - Balcony",
-              "CropX": 0,
-              "CropY": 0,
-              "Key": null,
-              "SeoName": null,
-              "Id": 267838,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Balcony",
-              "DisplayOrder": 4,
-              "MediaId": 19598
-            },
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-64/425-mass-apartments-studio-living-area",
-              "Alt": "425 Mass Apartments - Studio Living Area",
-              "CropX": 0,
-              "CropY": 0,
-              "Key": null,
-              "SeoName": null,
-              "Id": 267920,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Studio Living Space",
-              "DisplayOrder": 2,
-              "MediaId": 19600
-            },
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-65/425-mass-apartments-studio-storage",
-              "Alt": "425 Mass Apartments - Studio Storage",
-              "CropX": 0,
-              "CropY": 0,
-              "Key": null,
-              "SeoName": null,
-              "Id": 268002,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Studio Storage Space",
-              "DisplayOrder": 3,
-              "MediaId": 19602
-            }
-          ],
-          "Videos": [
-            {
-              "Key": "rBkAtCi_StI",
-              "Id": 0,
-              "MediaTags": null,
-              "Caption": "425 Mass Apartments - Mt Vernon Triangle - Floorplan Studio G558   Unit 1017",
-              "DisplayOrder": 0,
-              "MediaId": 29083
             }
           ],
           "Matterports": [],
@@ -3604,6 +3584,236 @@
         },
         {
           "LedgerId": "19288",
+          "UnitId": "1005",
+          "BuildingId": "401",
+          "AvailableDate": "3/16/2023",
+          "BestTerm": {
+            "Length": 15,
+            "Price": 4290
+          },
+          "Terms": [
+            {
+              "Length": 15,
+              "Price": 4290
+            },
+            {
+              "Length": 12,
+              "Price": 4405
+            },
+            {
+              "Length": 11,
+              "Price": 4740
+            },
+            {
+              "Length": 10,
+              "Price": 4740
+            },
+            {
+              "Length": 9,
+              "Price": 4925
+            },
+            {
+              "Length": 8,
+              "Price": 4925
+            },
+            {
+              "Length": 7,
+              "Price": 5110
+            },
+            {
+              "Length": 6,
+              "Price": 5110
+            },
+            {
+              "Length": 5,
+              "Price": 5295
+            },
+            {
+              "Length": 4,
+              "Price": 5295
+            },
+            {
+              "Length": 3,
+              "Price": 5410
+            }
+          ],
+          "SqFt": 1740,
+          "Bed": 2,
+          "Bath": 2,
+          "FloorplanId": "00002646",
+          "FloorplanName": "Unit 405",
+          "Floor": "Floor 10",
+          "Description": "This apartment home offers a unique living experience with wrap around floor to ceiling windows in the living room. The kitchen features an island and breakfast bar that is perfect for entertaining.",
+          "Amenities": [
+            {
+              "Name": "Balcony",
+              "Icon": "",
+              "AmenCode": "U08"
+            },
+            {
+              "Name": "Premium View of 4th & Mass Ave",
+              "Icon": "",
+              "AmenCode": "V82"
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002646-2-2-1740",
+          "Photos": [
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-405FP-1/425-mass-apartments-405-fp",
+              "Alt": "425 Mass Apartments - 405 FP",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 173934,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Carpeted Bedroom with Walk-In Closet",
+              "DisplayOrder": 6,
+              "MediaId": 14023
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-405FP-2/425-mass-apartments-405-fp",
+              "Alt": "425 Mass Apartments - 405 FP",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 173944,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Bathroom with Double Vanity and Walk-In Shower",
+              "DisplayOrder": 7,
+              "MediaId": 14024
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-405FP-3/425-mass-apartments-405-fp",
+              "Alt": "425 Mass Apartments - 405 FP",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 173954,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Kitchen with Stainless Steel Appliances and Granite Countertops",
+              "DisplayOrder": 2,
+              "MediaId": 14025
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-405FP-4/425-mass-apartments-405-fp",
+              "Alt": "425 Mass Apartments - 405 FP",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 173964,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Living Room with Hardwood Floors and Floor-to-Ceiling Windows",
+              "DisplayOrder": 3,
+              "MediaId": 14026
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-405FP-5/425-mass-apartments-405-fp",
+              "Alt": "425 Mass Apartments - 405 FP",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 173974,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Living Room with Hardwood Floors and Floor-to-Ceiling Windows",
+              "DisplayOrder": 4,
+              "MediaId": 14027
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-405FP-6/425-mass-apartments-405-fp",
+              "Alt": "425 Mass Apartments - 405 FP",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 173984,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Kitchen with Stainless Steel Appliances and Granite Countertops",
+              "DisplayOrder": 1,
+              "MediaId": 14028
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-405FP-7/425-mass-apartments-405-fp",
+              "Alt": "425 Mass Apartments - 405 FP",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 173994,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Bathroom",
+              "DisplayOrder": 8,
+              "MediaId": 14029
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-405FP-8/425-mass-apartments-405-fp",
+              "Alt": "425 Mass Apartments - 405 FP",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 174004,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Carpeted Bedroom",
+              "DisplayOrder": 5,
+              "MediaId": 14030
+            }
+          ],
+          "Videos": [
+            {
+              "Key": "Bjnt9Og3mGk",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "Video of 1740 sqft 2 bedroom apartment",
+              "DisplayOrder": 0,
+              "MediaId": 8722
+            }
+          ],
+          "Matterports": [
+            {
+              "Key": "WdhRqd51yrm",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "3D Floorplan",
+              "DisplayOrder": 0,
+              "MediaId": 38577
+            }
+          ],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 0
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "1205",
           "BuildingId": "401",
           "AvailableDate": "3/9/2023",
@@ -3824,6 +4034,102 @@
               "MediaId": 38577
             }
           ],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 0
+        },
+        {
+          "LedgerId": "19288",
+          "UnitId": "PH101",
+          "BuildingId": "425",
+          "AvailableDate": "3/22/2023",
+          "BestTerm": {
+            "Length": 15,
+            "Price": 5035
+          },
+          "Terms": [
+            {
+              "Length": 15,
+              "Price": 5035
+            },
+            {
+              "Length": 12,
+              "Price": 5150
+            },
+            {
+              "Length": 11,
+              "Price": 5485
+            },
+            {
+              "Length": 10,
+              "Price": 5485
+            },
+            {
+              "Length": 9,
+              "Price": 5670
+            },
+            {
+              "Length": 8,
+              "Price": 5670
+            },
+            {
+              "Length": 7,
+              "Price": 5855
+            },
+            {
+              "Length": 6,
+              "Price": 5855
+            },
+            {
+              "Length": 5,
+              "Price": 6040
+            },
+            {
+              "Length": 4,
+              "Price": 6040
+            },
+            {
+              "Length": 3,
+              "Price": 6155
+            }
+          ],
+          "SqFt": 1964,
+          "Bed": 2,
+          "Bath": 2,
+          "FloorplanId": "00002247",
+          "FloorplanName": "Two Bedroom+Den PH B 1964",
+          "Floor": "Floor 13",
+          "Description": "This 3 Bed/ 2.5 Bath home offers spacious living room with wrap around floor to ceiling windows, and an outdoor terrace that spans the entire apartment.",
+          "Amenities": [
+            {
+              "Name": "3 Bedroom/3Bath",
+              "Icon": "",
+              "AmenCode": "B55"
+            },
+            {
+              "Name": "Large Private Terrace",
+              "Icon": "",
+              "AmenCode": "U52"
+            },
+            {
+              "Name": "Southern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPS"
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002247-2-25-1964",
+          "Photos": [],
+          "Videos": [],
+          "Matterports": [],
           "Zillows": [],
           "AccordionPhoto": null,
           "ExcludeFromOll": false,
