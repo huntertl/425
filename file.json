@@ -2749,6 +2749,101 @@
         },
         {
           "LedgerId": "19288",
+          "UnitId": "PH203",
+          "BuildingId": "425",
+          "AvailableDate": "4/28/2023",
+          "BestTerm": {
+            "Length": 14,
+            "Price": 4165
+          },
+          "Terms": [
+            {
+              "Length": 14,
+              "Price": 4165
+            },
+            {
+              "Length": 13,
+              "Price": 4165
+            },
+            {
+              "Length": 12,
+              "Price": 4280
+            },
+            {
+              "Length": 11,
+              "Price": 4630
+            },
+            {
+              "Length": 10,
+              "Price": 4630
+            },
+            {
+              "Length": 9,
+              "Price": 4825
+            },
+            {
+              "Length": 8,
+              "Price": 4825
+            },
+            {
+              "Length": 7,
+              "Price": 5020
+            },
+            {
+              "Length": 6,
+              "Price": 5020
+            },
+            {
+              "Length": 5,
+              "Price": 5215
+            },
+            {
+              "Length": 4,
+              "Price": 5215
+            },
+            {
+              "Length": 3,
+              "Price": 5330
+            }
+          ],
+          "SqFt": 1128,
+          "Bed": 2,
+          "Bath": 2,
+          "FloorplanId": "00002294",
+          "FloorplanName": "PH Two Bedroom H 1128",
+          "Floor": "Penthouse",
+          "Description": "This apartment home offers spacious living room with floor to ceiling windows, an open style kitchen with breakfast bar, and an outdoor terrace that spans the entire apartment.",
+          "Amenities": [
+            {
+              "Name": "Large Private Terrace",
+              "Icon": "",
+              "AmenCode": "U52"
+            },
+            {
+              "Name": "Southern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPS"
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002294-2-2-1128",
+          "Photos": [],
+          "Videos": [],
+          "Matterports": [],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 0
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "PH101",
           "BuildingId": "425",
           "AvailableDate": "3/22/2023",
