@@ -1241,61 +1241,260 @@
         },
         {
           "LedgerId": "19288",
+          "UnitId": "310",
+          "BuildingId": "425",
+          "AvailableDate": "3/16/2023",
+          "BestTerm": {
+            "Length": 14,
+            "Price": 2473
+          },
+          "Terms": [
+            {
+              "Length": 14,
+              "Price": 2473
+            },
+            {
+              "Length": 13,
+              "Price": 2473
+            },
+            {
+              "Length": 12,
+              "Price": 2543
+            },
+            {
+              "Length": 11,
+              "Price": 2748
+            },
+            {
+              "Length": 10,
+              "Price": 2748
+            },
+            {
+              "Length": 9,
+              "Price": 2868
+            },
+            {
+              "Length": 8,
+              "Price": 2868
+            },
+            {
+              "Length": 7,
+              "Price": 2983
+            },
+            {
+              "Length": 6,
+              "Price": 2983
+            },
+            {
+              "Length": 5,
+              "Price": 3098
+            },
+            {
+              "Length": 4,
+              "Price": 3098
+            },
+            {
+              "Length": 3,
+              "Price": 3168
+            }
+          ],
+          "SqFt": 823,
+          "Bed": 1,
+          "Bath": 1,
+          "FloorplanId": "00002287",
+          "FloorplanName": "One Bedroom E 823",
+          "Floor": "Floor 3",
+          "Description": "This apartment home offers hardwood flooring throughout, additional pantry space in the kitchen and a unique bedroom featuring an oversized sliding door.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ",
+          "Amenities": [
+            {
+              "Name": "Eastern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPE"
+            },
+            {
+              "Name": "Large Balcony",
+              "Icon": "",
+              "AmenCode": "U41"
+            },
+            {
+              "Name": "Smart Home",
+              "Icon": "",
+              "AmenCode": "Z75"
+            },
+            {
+              "Name": "View of Community Courtyard",
+              "Icon": "",
+              "AmenCode": "V04"
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002287-1-1-823",
+          "Photos": [
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-274/425-mass-apartments-bathroom",
+              "Alt": "425 Mass Apartments - Bathroom",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 687515,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Bathroom",
+              "DisplayOrder": 3,
+              "MediaId": 42396
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-273/425-mass-apartments-bedroom",
+              "Alt": "425 Mass Apartments - Bedroom",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 687527,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Bedroom with Hard Surface Flooring",
+              "DisplayOrder": 5,
+              "MediaId": 42397
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-271/425-mass-apartments-kitchen",
+              "Alt": "425 Mass Apartments - Kitchen",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 687539,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Kitchen with Stainless Steel Appliances",
+              "DisplayOrder": 1,
+              "MediaId": 42398
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-270/425-mass-apartments-in-home-washer-and-dryer",
+              "Alt": "425 Mass Apartments - In-home Washer and Dryer",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 687551,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "In-home Washer and Dryer",
+              "DisplayOrder": 4,
+              "MediaId": 42399
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-272/425-mass-apartments-living-room",
+              "Alt": "425 Mass Apartments - Living Room",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 687563,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Living Room with Balcony and Hard Surface Flooring",
+              "DisplayOrder": 2,
+              "MediaId": 42400
+            }
+          ],
+          "Videos": [
+            {
+              "Key": "jCy6bKw-IMU",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "Video of 823 sqft One Bedroom Apartment",
+              "DisplayOrder": 0,
+              "MediaId": 10863
+            }
+          ],
+          "Matterports": [
+            {
+              "Key": "ruy6H4xs8SL",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "3D Floor plan",
+              "DisplayOrder": 0,
+              "MediaId": 43029
+            }
+          ],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 0
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "829",
           "BuildingId": "425",
           "AvailableDate": "6/23/2023",
           "BestTerm": {
             "Length": 14,
-            "Price": 2474
+            "Price": 2479
           },
           "Terms": [
             {
               "Length": 14,
-              "Price": 2474
+              "Price": 2479
             },
             {
               "Length": 13,
-              "Price": 2474
+              "Price": 2479
             },
             {
               "Length": 12,
-              "Price": 2549
+              "Price": 2554
             },
             {
               "Length": 11,
-              "Price": 2779
+              "Price": 2784
             },
             {
               "Length": 10,
-              "Price": 2779
+              "Price": 2784
             },
             {
               "Length": 9,
-              "Price": 2904
+              "Price": 2909
             },
             {
               "Length": 8,
-              "Price": 2904
+              "Price": 2909
             },
             {
               "Length": 7,
-              "Price": 3029
+              "Price": 3034
             },
             {
               "Length": 6,
-              "Price": 3029
+              "Price": 3034
             },
             {
               "Length": 5,
-              "Price": 3159
+              "Price": 3164
             },
             {
               "Length": 4,
-              "Price": 3159
+              "Price": 3164
             },
             {
               "Length": 3,
-              "Price": 3234
+              "Price": 3239
             }
           ],
           "SqFt": 638,
@@ -1447,205 +1646,6 @@
               "Caption": "3D Floorplan",
               "DisplayOrder": 0,
               "MediaId": 36987
-            }
-          ],
-          "Zillows": [],
-          "AccordionPhoto": null,
-          "ExcludeFromOll": false,
-          "FurnishAvailable": false,
-          "BestTermFurnished": null,
-          "FurnishedTerms": [],
-          "SpecialAmount": 0
-        },
-        {
-          "LedgerId": "19288",
-          "UnitId": "310",
-          "BuildingId": "425",
-          "AvailableDate": "3/16/2023",
-          "BestTerm": {
-            "Length": 14,
-            "Price": 2478
-          },
-          "Terms": [
-            {
-              "Length": 14,
-              "Price": 2478
-            },
-            {
-              "Length": 13,
-              "Price": 2478
-            },
-            {
-              "Length": 12,
-              "Price": 2548
-            },
-            {
-              "Length": 11,
-              "Price": 2758
-            },
-            {
-              "Length": 10,
-              "Price": 2758
-            },
-            {
-              "Length": 9,
-              "Price": 2873
-            },
-            {
-              "Length": 8,
-              "Price": 2873
-            },
-            {
-              "Length": 7,
-              "Price": 2988
-            },
-            {
-              "Length": 6,
-              "Price": 2988
-            },
-            {
-              "Length": 5,
-              "Price": 3103
-            },
-            {
-              "Length": 4,
-              "Price": 3103
-            },
-            {
-              "Length": 3,
-              "Price": 3173
-            }
-          ],
-          "SqFt": 823,
-          "Bed": 1,
-          "Bath": 1,
-          "FloorplanId": "00002287",
-          "FloorplanName": "One Bedroom E 823",
-          "Floor": "Floor 3",
-          "Description": "This apartment home offers hardwood flooring throughout, additional pantry space in the kitchen and a unique bedroom featuring an oversized sliding door.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ",
-          "Amenities": [
-            {
-              "Name": "Eastern Exposure",
-              "Icon": "",
-              "AmenCode": "EXPE"
-            },
-            {
-              "Name": "Large Balcony",
-              "Icon": "",
-              "AmenCode": "U41"
-            },
-            {
-              "Name": "Smart Home",
-              "Icon": "",
-              "AmenCode": "Z75"
-            },
-            {
-              "Name": "View of Community Courtyard",
-              "Icon": "",
-              "AmenCode": "V04"
-            }
-          ],
-          "Special": {
-            "Active": false,
-            "Title": null,
-            "Expires": null
-          },
-          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002287-1-1-823",
-          "Photos": [
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-274/425-mass-apartments-bathroom",
-              "Alt": "425 Mass Apartments - Bathroom",
-              "CropX": 0,
-              "CropY": 0,
-              "Key": null,
-              "SeoName": null,
-              "Id": 687515,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Bathroom",
-              "DisplayOrder": 3,
-              "MediaId": 42396
-            },
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-273/425-mass-apartments-bedroom",
-              "Alt": "425 Mass Apartments - Bedroom",
-              "CropX": 0,
-              "CropY": 0,
-              "Key": null,
-              "SeoName": null,
-              "Id": 687527,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Bedroom with Hard Surface Flooring",
-              "DisplayOrder": 5,
-              "MediaId": 42397
-            },
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-271/425-mass-apartments-kitchen",
-              "Alt": "425 Mass Apartments - Kitchen",
-              "CropX": 0,
-              "CropY": 0,
-              "Key": null,
-              "SeoName": null,
-              "Id": 687539,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Kitchen with Stainless Steel Appliances",
-              "DisplayOrder": 1,
-              "MediaId": 42398
-            },
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-270/425-mass-apartments-in-home-washer-and-dryer",
-              "Alt": "425 Mass Apartments - In-home Washer and Dryer",
-              "CropX": 0,
-              "CropY": 0,
-              "Key": null,
-              "SeoName": null,
-              "Id": 687551,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "In-home Washer and Dryer",
-              "DisplayOrder": 4,
-              "MediaId": 42399
-            },
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-272/425-mass-apartments-living-room",
-              "Alt": "425 Mass Apartments - Living Room",
-              "CropX": 0,
-              "CropY": 0,
-              "Key": null,
-              "SeoName": null,
-              "Id": 687563,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Living Room with Balcony and Hard Surface Flooring",
-              "DisplayOrder": 2,
-              "MediaId": 42400
-            }
-          ],
-          "Videos": [
-            {
-              "Key": "jCy6bKw-IMU",
-              "Id": 0,
-              "MediaTags": null,
-              "Caption": "Video of 823 sqft One Bedroom Apartment",
-              "DisplayOrder": 0,
-              "MediaId": 10863
-            }
-          ],
-          "Matterports": [
-            {
-              "Key": "ruy6H4xs8SL",
-              "Id": 0,
-              "MediaTags": null,
-              "Caption": "3D Floor plan",
-              "DisplayOrder": 0,
-              "MediaId": 43029
             }
           ],
           "Zillows": [],
@@ -1863,111 +1863,6 @@
         },
         {
           "LedgerId": "19288",
-          "UnitId": "102",
-          "BuildingId": "401",
-          "AvailableDate": "4/14/2023",
-          "BestTerm": {
-            "Length": 14,
-            "Price": 2927
-          },
-          "Terms": [
-            {
-              "Length": 14,
-              "Price": 2927
-            },
-            {
-              "Length": 13,
-              "Price": 2927
-            },
-            {
-              "Length": 12,
-              "Price": 3002
-            },
-            {
-              "Length": 11,
-              "Price": 3227
-            },
-            {
-              "Length": 10,
-              "Price": 3227
-            },
-            {
-              "Length": 9,
-              "Price": 3352
-            },
-            {
-              "Length": 8,
-              "Price": 3352
-            },
-            {
-              "Length": 7,
-              "Price": 3472
-            },
-            {
-              "Length": 6,
-              "Price": 3472
-            },
-            {
-              "Length": 5,
-              "Price": 3597
-            },
-            {
-              "Length": 4,
-              "Price": 3597
-            },
-            {
-              "Length": 3,
-              "Price": 3672
-            }
-          ],
-          "SqFt": 845,
-          "Bed": 1,
-          "Bath": 1,
-          "FloorplanId": "00002662",
-          "FloorplanName": "Unit 102",
-          "Floor": "Floor 1",
-          "Description": "This 1 Bed/ 1.5 Bath loft style home offers 18 ft ceilings, floor to ceiling windows, a galley style kitchen, a built in desk, powder room and street access through the walk-out patio.",
-          "Amenities": [
-            {
-              "Name": "Private Subterranean Patio",
-              "Icon": "",
-              "AmenCode": "U10"
-            },
-            {
-              "Name": "Smart Home",
-              "Icon": "",
-              "AmenCode": "Z75"
-            },
-            {
-              "Name": "Southern Exposure",
-              "Icon": "",
-              "AmenCode": "EXPS"
-            },
-            {
-              "Name": "Two Level Loft-style",
-              "Icon": "",
-              "AmenCode": "U19"
-            }
-          ],
-          "Special": {
-            "Active": false,
-            "Title": null,
-            "Expires": null
-          },
-          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002662-1-1-911",
-          "Photos": [],
-          "Videos": [],
-          "Matterports": [],
-          "Zillows": [],
-          "AccordionPhoto": null,
-          "ExcludeFromOll": false,
-          "FurnishAvailable": false,
-          "BestTermFurnished": null,
-          "FurnishedTerms": [],
-          "SpecialAmount": 0
-        },
-        {
-          "LedgerId": "19288",
           "UnitId": "103A",
           "BuildingId": "425",
           "AvailableDate": "4/7/2023",
@@ -2060,6 +1955,111 @@
             "Expires": null
           },
           "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002290-1-1-891",
+          "Photos": [],
+          "Videos": [],
+          "Matterports": [],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 0
+        },
+        {
+          "LedgerId": "19288",
+          "UnitId": "102",
+          "BuildingId": "401",
+          "AvailableDate": "4/14/2023",
+          "BestTerm": {
+            "Length": 14,
+            "Price": 2932
+          },
+          "Terms": [
+            {
+              "Length": 14,
+              "Price": 2932
+            },
+            {
+              "Length": 13,
+              "Price": 2932
+            },
+            {
+              "Length": 12,
+              "Price": 3007
+            },
+            {
+              "Length": 11,
+              "Price": 3232
+            },
+            {
+              "Length": 10,
+              "Price": 3232
+            },
+            {
+              "Length": 9,
+              "Price": 3357
+            },
+            {
+              "Length": 8,
+              "Price": 3357
+            },
+            {
+              "Length": 7,
+              "Price": 3482
+            },
+            {
+              "Length": 6,
+              "Price": 3482
+            },
+            {
+              "Length": 5,
+              "Price": 3607
+            },
+            {
+              "Length": 4,
+              "Price": 3607
+            },
+            {
+              "Length": 3,
+              "Price": 3682
+            }
+          ],
+          "SqFt": 845,
+          "Bed": 1,
+          "Bath": 1,
+          "FloorplanId": "00002662",
+          "FloorplanName": "Unit 102",
+          "Floor": "Floor 1",
+          "Description": "This 1 Bed/ 1.5 Bath loft style home offers 18 ft ceilings, floor to ceiling windows, a galley style kitchen, a built in desk, powder room and street access through the walk-out patio.",
+          "Amenities": [
+            {
+              "Name": "Private Subterranean Patio",
+              "Icon": "",
+              "AmenCode": "U10"
+            },
+            {
+              "Name": "Smart Home",
+              "Icon": "",
+              "AmenCode": "Z75"
+            },
+            {
+              "Name": "Southern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPS"
+            },
+            {
+              "Name": "Two Level Loft-style",
+              "Icon": "",
+              "AmenCode": "U19"
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002662-1-1-911",
           "Photos": [],
           "Videos": [],
           "Matterports": [],
@@ -2183,56 +2183,56 @@
           "AvailableDate": "4/1/2023",
           "BestTerm": {
             "Length": 14,
-            "Price": 3183
+            "Price": 3208
           },
           "Terms": [
             {
               "Length": 14,
-              "Price": 3183
+              "Price": 3208
             },
             {
               "Length": 13,
-              "Price": 3183
+              "Price": 3208
             },
             {
               "Length": 12,
-              "Price": 3273
+              "Price": 3298
             },
             {
               "Length": 11,
-              "Price": 3533
+              "Price": 3563
             },
             {
               "Length": 10,
-              "Price": 3533
+              "Price": 3563
             },
             {
               "Length": 9,
-              "Price": 3678
+              "Price": 3708
             },
             {
               "Length": 8,
-              "Price": 3678
+              "Price": 3708
             },
             {
               "Length": 7,
-              "Price": 3823
+              "Price": 3853
             },
             {
               "Length": 6,
-              "Price": 3823
+              "Price": 3853
             },
             {
               "Length": 5,
-              "Price": 3973
+              "Price": 4003
             },
             {
               "Length": 4,
-              "Price": 3973
+              "Price": 4003
             },
             {
               "Length": 3,
-              "Price": 4058
+              "Price": 4088
             }
           ],
           "SqFt": 1050,
@@ -2458,56 +2458,56 @@
           "AvailableDate": "3/8/2023",
           "BestTerm": {
             "Length": 14,
-            "Price": 3898
+            "Price": 3828
           },
           "Terms": [
             {
               "Length": 14,
-              "Price": 3898
+              "Price": 3828
             },
             {
               "Length": 13,
-              "Price": 3898
+              "Price": 3828
             },
             {
               "Length": 12,
-              "Price": 4008
+              "Price": 3933
             },
             {
               "Length": 11,
-              "Price": 4338
+              "Price": 4258
             },
             {
               "Length": 10,
-              "Price": 4338
+              "Price": 4258
             },
             {
               "Length": 9,
-              "Price": 4523
+              "Price": 4438
             },
             {
               "Length": 8,
-              "Price": 4523
+              "Price": 4438
             },
             {
               "Length": 7,
-              "Price": 4708
+              "Price": 4618
             },
             {
               "Length": 6,
-              "Price": 4708
+              "Price": 4618
             },
             {
               "Length": 5,
-              "Price": 4893
+              "Price": 4798
             },
             {
               "Length": 4,
-              "Price": 4893
+              "Price": 4798
             },
             {
               "Length": 3,
-              "Price": 5003
+              "Price": 4903
             }
           ],
           "SqFt": 1345,
@@ -2742,56 +2742,56 @@
           "AvailableDate": "3/24/2023",
           "BestTerm": {
             "Length": 14,
-            "Price": 3940
+            "Price": 3935
           },
           "Terms": [
             {
               "Length": 14,
-              "Price": 3940
+              "Price": 3935
             },
             {
               "Length": 13,
-              "Price": 3940
+              "Price": 3935
             },
             {
               "Length": 12,
-              "Price": 4050
+              "Price": 4040
             },
             {
               "Length": 11,
-              "Price": 4380
+              "Price": 4370
             },
             {
               "Length": 10,
-              "Price": 4380
+              "Price": 4370
             },
             {
               "Length": 9,
-              "Price": 4565
+              "Price": 4550
             },
             {
               "Length": 8,
-              "Price": 4565
+              "Price": 4550
             },
             {
               "Length": 7,
-              "Price": 4745
+              "Price": 4735
             },
             {
               "Length": 6,
-              "Price": 4745
+              "Price": 4735
             },
             {
               "Length": 5,
-              "Price": 4930
+              "Price": 4915
             },
             {
               "Length": 4,
-              "Price": 4930
+              "Price": 4915
             },
             {
               "Length": 3,
-              "Price": 5040
+              "Price": 5025
             }
           ],
           "SqFt": 1493,
@@ -2972,56 +2972,56 @@
           "AvailableDate": "3/8/2023",
           "BestTerm": {
             "Length": 14,
-            "Price": 4137
+            "Price": 4067
           },
           "Terms": [
             {
               "Length": 14,
-              "Price": 4137
+              "Price": 4067
             },
             {
               "Length": 13,
-              "Price": 4137
+              "Price": 4067
             },
             {
               "Length": 12,
-              "Price": 4247
+              "Price": 4172
             },
             {
               "Length": 11,
-              "Price": 4577
+              "Price": 4497
             },
             {
               "Length": 10,
-              "Price": 4577
+              "Price": 4497
             },
             {
               "Length": 9,
-              "Price": 4762
+              "Price": 4677
             },
             {
               "Length": 8,
-              "Price": 4762
+              "Price": 4677
             },
             {
               "Length": 7,
-              "Price": 4947
+              "Price": 4857
             },
             {
               "Length": 6,
-              "Price": 4947
+              "Price": 4857
             },
             {
               "Length": 5,
-              "Price": 5132
+              "Price": 5037
             },
             {
               "Length": 4,
-              "Price": 5132
+              "Price": 5037
             },
             {
               "Length": 3,
-              "Price": 5242
+              "Price": 5142
             }
           ],
           "SqFt": 1493,
@@ -3202,56 +3202,56 @@
           "AvailableDate": "4/6/2023",
           "BestTerm": {
             "Length": 14,
-            "Price": 4143
+            "Price": 4133
           },
           "Terms": [
             {
               "Length": 14,
-              "Price": 4143
+              "Price": 4133
             },
             {
               "Length": 13,
-              "Price": 4143
+              "Price": 4133
             },
             {
               "Length": 12,
-              "Price": 4258
+              "Price": 4248
             },
             {
               "Length": 11,
-              "Price": 4598
+              "Price": 4588
             },
             {
               "Length": 10,
-              "Price": 4598
+              "Price": 4588
             },
             {
               "Length": 9,
-              "Price": 4788
+              "Price": 4778
             },
             {
               "Length": 8,
-              "Price": 4788
+              "Price": 4778
             },
             {
               "Length": 7,
-              "Price": 4978
+              "Price": 4963
             },
             {
               "Length": 6,
-              "Price": 4978
+              "Price": 4963
             },
             {
               "Length": 5,
-              "Price": 5168
+              "Price": 5153
             },
             {
               "Length": 4,
-              "Price": 5168
+              "Price": 5153
             },
             {
               "Length": 3,
-              "Price": 5283
+              "Price": 5268
             }
           ],
           "SqFt": 1493,
