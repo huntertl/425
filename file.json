@@ -655,80 +655,85 @@
         },
         {
           "LedgerId": "19288",
-          "UnitId": "PH128",
+          "UnitId": "217",
           "BuildingId": "425",
-          "AvailableDate": "4/28/2023",
+          "AvailableDate": "5/6/2023",
           "BestTerm": {
             "Length": 14,
-            "Price": 2292
+            "Price": 2255
           },
           "Terms": [
             {
               "Length": 14,
-              "Price": 2292
+              "Price": 2255
             },
             {
               "Length": 13,
-              "Price": 2292
+              "Price": 2255
             },
             {
               "Length": 12,
-              "Price": 2352
+              "Price": 2315
             },
             {
               "Length": 11,
-              "Price": 2537
+              "Price": 2505
             },
             {
               "Length": 10,
-              "Price": 2537
+              "Price": 2505
             },
             {
               "Length": 9,
-              "Price": 2642
+              "Price": 2610
             },
             {
               "Length": 8,
-              "Price": 2642
+              "Price": 2610
             },
             {
               "Length": 7,
-              "Price": 2747
+              "Price": 2710
             },
             {
               "Length": 6,
-              "Price": 2747
+              "Price": 2710
             },
             {
               "Length": 5,
-              "Price": 2847
+              "Price": 2815
             },
             {
               "Length": 4,
-              "Price": 2847
+              "Price": 2815
             },
             {
               "Length": 3,
-              "Price": 2912
+              "Price": 2880
             }
           ],
-          "SqFt": 511,
+          "SqFt": 558,
           "Bed": 0,
           "Bath": 1,
-          "FloorplanId": "378472",
-          "FloorplanName": "Studio J 504",
-          "Floor": "Floor 13",
-          "Description": "This Studio home offers a long, open space with floor to ceiling windows that let in plenty or natural light. This home also has two closets and a stand-in shower in the bathroom.",
+          "FloorplanId": "378474",
+          "FloorplanName": "Studio G 558",
+          "Floor": "Floor 2",
+          "Description": "This studio home offers a fluid living space with a balcony and floor to ceiling windows. The home also has a step-in closet and additional storage in the bathroom.",
           "Amenities": [
             {
-              "Name": "Northern Exposure",
+              "Name": "Balcony",
               "Icon": "",
-              "AmenCode": "EXPN"
+              "AmenCode": "U08"
             },
             {
               "Name": "Smart Home",
               "Icon": "",
               "AmenCode": "Z75"
+            },
+            {
+              "Name": "Southern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPS"
             }
           ],
           "Special": {
@@ -736,89 +741,80 @@
             "Title": null,
             "Expires": null
           },
-          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378472-0-1-504",
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378474-0-1-558",
           "Photos": [
             {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-235/425-mass-apartments-bathroom",
-              "Alt": "425 Mass Apartments - Bathroom",
-              "CropX": 0,
-              "CropY": 0,
-              "Key": null,
-              "SeoName": null,
-              "Id": 623375,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Bathroom",
-              "DisplayOrder": 4,
-              "MediaId": 38241
-            },
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-236/425-mass-apartments-kitchen",
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-62/425-mass-apartments-kitchen",
               "Alt": "425 Mass Apartments - Kitchen",
               "CropX": 0,
               "CropY": 0,
               "Key": null,
               "SeoName": null,
-              "Id": 623399,
+              "Id": 267743,
               "MediaTags": [
                 "In Unit"
               ],
               "Caption": "Kitchen with Stainless Steel Appliances",
               "DisplayOrder": 1,
-              "MediaId": 38242
+              "MediaId": 19596
             },
             {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-237/425-mass-apartments-studio",
-              "Alt": "425 Mass Apartments - Studio",
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-63/425-mass-apartments-balcony",
+              "Alt": "425 Mass Apartments - Balcony",
               "CropX": 0,
               "CropY": 0,
               "Key": null,
               "SeoName": null,
-              "Id": 623423,
+              "Id": 267825,
               "MediaTags": [
                 "In Unit"
               ],
-              "Caption": "Studio with Hard Surface Flooring ",
-              "DisplayOrder": 3,
-              "MediaId": 38243
+              "Caption": "Balcony",
+              "DisplayOrder": 4,
+              "MediaId": 19598
             },
             {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-255/425-mass-apartments-studio",
-              "Alt": "425 Mass Apartments - Studio",
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-64/425-mass-apartments-studio-living-area",
+              "Alt": "425 Mass Apartments - Studio Living Area",
               "CropX": 0,
               "CropY": 0,
               "Key": null,
               "SeoName": null,
-              "Id": 639575,
+              "Id": 267907,
               "MediaTags": [
                 "In Unit"
               ],
-              "Caption": "Studio with Hard Surface Flooring ",
+              "Caption": "Studio Living Space",
               "DisplayOrder": 2,
-              "MediaId": 39258
+              "MediaId": 19600
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-65/425-mass-apartments-studio-storage",
+              "Alt": "425 Mass Apartments - Studio Storage",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 267989,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Studio Storage Space",
+              "DisplayOrder": 3,
+              "MediaId": 19602
             }
           ],
           "Videos": [
             {
-              "Key": "W8OLfNeTvIU",
+              "Key": "rBkAtCi_StI",
               "Id": 0,
               "MediaTags": null,
-              "Caption": "425 Mass Apartments - Mt. Vernon Triangle - J504 Unit 425 PH128",
+              "Caption": "425 Mass Apartments - Mt Vernon Triangle - Floorplan Studio G558   Unit 1017",
               "DisplayOrder": 0,
-              "MediaId": 38437
+              "MediaId": 29083
             }
           ],
-          "Matterports": [
-            {
-              "Key": "BZ8s5uz4kQc",
-              "Id": 0,
-              "MediaTags": null,
-              "Caption": "3D Floorplan",
-              "DisplayOrder": 0,
-              "MediaId": 38578
-            }
-          ],
+          "Matterports": [],
           "Zillows": [],
           "AccordionPhoto": null,
           "ExcludeFromOll": false,
