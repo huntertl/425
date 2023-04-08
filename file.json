@@ -302,148 +302,6 @@
           "BestTermFurnished": null,
           "FurnishedTerms": [],
           "SpecialAmount": 0
-        },
-        {
-          "LedgerId": "19288",
-          "UnitId": "811",
-          "BuildingId": "425",
-          "AvailableDate": "4/8/2023",
-          "BestTerm": {
-            "Length": 12,
-            "Price": 1984
-          },
-          "Terms": [
-            {
-              "Length": 12,
-              "Price": 1984
-            },
-            {
-              "Length": 11,
-              "Price": 2164
-            },
-            {
-              "Length": 10,
-              "Price": 2164
-            },
-            {
-              "Length": 9,
-              "Price": 2254
-            },
-            {
-              "Length": 8,
-              "Price": 2254
-            },
-            {
-              "Length": 7,
-              "Price": 2344
-            },
-            {
-              "Length": 6,
-              "Price": 2344
-            },
-            {
-              "Length": 5,
-              "Price": 2434
-            },
-            {
-              "Length": 4,
-              "Price": 2434
-            },
-            {
-              "Length": 3,
-              "Price": 2484
-            }
-          ],
-          "SqFt": 569,
-          "Bed": 0,
-          "Bath": 1,
-          "FloorplanId": "378475",
-          "FloorplanName": "Studio G 569",
-          "Floor": "Floor 8",
-          "Description": "This Studio/ 1 Bath home is one of our largest studio layouts and offers a spacious living area with floor to ceiling windows that let in plenty of direct natural light.",
-          "Amenities": [
-            {
-              "Name": "Eastern Exposure",
-              "Icon": "",
-              "AmenCode": "EXPE"
-            },
-            {
-              "Name": "Smart Home",
-              "Icon": "",
-              "AmenCode": "Z75"
-            }
-          ],
-          "Special": {
-            "Active": false,
-            "Title": null,
-            "Expires": null
-          },
-          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378475-0-1-569",
-          "Photos": [
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-110/425-mass-apartments-bathroom",
-              "Alt": "425 Mass Apartments - Bathroom",
-              "CropX": 0,
-              "CropY": 0,
-              "Key": null,
-              "SeoName": null,
-              "Id": 480299,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Bathroom",
-              "DisplayOrder": 3,
-              "MediaId": 31042
-            },
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-111/425-mass-apartments-kitchen",
-              "Alt": "425 Mass Apartments - Kitchen",
-              "CropX": 0,
-              "CropY": 0,
-              "Key": null,
-              "SeoName": null,
-              "Id": 480311,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Kitchen with Stainless Steel Appliances",
-              "DisplayOrder": 1,
-              "MediaId": 31043
-            },
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-112/425-mass-apartments-studio",
-              "Alt": "425 Mass Apartments - Studio",
-              "CropX": 0,
-              "CropY": 0,
-              "Key": null,
-              "SeoName": null,
-              "Id": 480323,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Studio with Hard Surface Flooring ",
-              "DisplayOrder": 2,
-              "MediaId": 31044
-            }
-          ],
-          "Videos": [
-            {
-              "Key": "CXgitNtxvy0",
-              "Id": 0,
-              "MediaTags": null,
-              "Caption": "425 Mass Apartments - Mt. Vernon Triangle - Studio G569 Unit PH111",
-              "DisplayOrder": 0,
-              "MediaId": 33059
-            }
-          ],
-          "Matterports": [],
-          "Zillows": [],
-          "AccordionPhoto": null,
-          "ExcludeFromOll": false,
-          "FurnishAvailable": false,
-          "BestTermFurnished": null,
-          "FurnishedTerms": [],
-          "SpecialAmount": 0
         }
       ]
     },
@@ -1032,72 +890,72 @@
         },
         {
           "LedgerId": "19288",
-          "UnitId": "1115",
+          "UnitId": "207",
           "BuildingId": "401",
-          "AvailableDate": "5/11/2023",
+          "AvailableDate": "6/7/2023",
           "BestTerm": {
             "Length": 12,
-            "Price": 2278
+            "Price": 2295
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 2278
+              "Price": 2295
             },
             {
               "Length": 11,
-              "Price": 2493
+              "Price": 2515
             },
             {
               "Length": 10,
-              "Price": 2493
+              "Price": 2515
             },
             {
               "Length": 9,
-              "Price": 2603
+              "Price": 2625
             },
             {
               "Length": 8,
-              "Price": 2603
+              "Price": 2625
             },
             {
               "Length": 7,
-              "Price": 2713
+              "Price": 2730
             },
             {
               "Length": 6,
-              "Price": 2713
+              "Price": 2730
             },
             {
               "Length": 5,
-              "Price": 2818
+              "Price": 2840
             },
             {
               "Length": 4,
-              "Price": 2818
+              "Price": 2840
             },
             {
               "Length": 3,
-              "Price": 2883
+              "Price": 2905
             }
           ],
-          "SqFt": 655,
+          "SqFt": 691,
           "Bed": 1,
           "Bath": 1,
-          "FloorplanId": "00002655",
-          "FloorplanName": "Unit 415",
-          "Floor": "Floor 11",
-          "Description": "This Junior apartment home offers a living space featuring a bed nook with oversized sliding door. The home has a galley style kitchen, generous closet space, and a balcony off of the living room.",
+          "FloorplanId": "00002665",
+          "FloorplanName": "Unit 106, 107, 108, 206, 207, 208",
+          "Floor": "Floor 2",
+          "Description": "This apartment home offers an open style kitchen and breakfast bar, as well as a walk-out patio with direct street access from the living room. The bedroom can accommodate up to a Queen size bed and the bathroom is spacious.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        ",
           "Amenities": [
             {
-              "Name": "Juliet Balcony",
+              "Name": "Balcony",
               "Icon": "",
-              "AmenCode": "U51"
+              "AmenCode": "U08"
             },
             {
-              "Name": "Northern Exposure",
+              "Name": "Eastern Exposure",
               "Icon": "",
-              "AmenCode": "EXPN"
+              "AmenCode": "EXPE"
             },
             {
               "Name": "Smart Home",
@@ -1110,95 +968,104 @@
             "Title": null,
             "Expires": null
           },
-          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002655-1-1-655",
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002665-1-1-691",
           "Photos": [
             {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-144/425-mass-apartments-bathroom",
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-210/425-mass-apartments-bathroom",
               "Alt": "425 Mass Apartments - Bathroom",
               "CropX": 0,
               "CropY": 0,
               "Key": null,
               "SeoName": null,
-              "Id": 511207,
+              "Id": 583212,
               "MediaTags": [
                 "In Unit"
               ],
-              "Caption": "Bathroom",
+              "Caption": "Bathroom and In-home Washer and Dryer",
               "DisplayOrder": 4,
-              "MediaId": 32569
+              "MediaId": 36244
             },
             {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-142/425-mass-apartments-bedroom",
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-211/425-mass-apartments-bedroom",
               "Alt": "425 Mass Apartments - Bedroom",
               "CropX": 0,
               "CropY": 0,
               "Key": null,
               "SeoName": null,
-              "Id": 511219,
+              "Id": 583218,
               "MediaTags": [
                 "In Unit"
               ],
-              "Caption": "Bedroom with Hard Surface Flooring",
+              "Caption": "Carpeted Bedroom",
               "DisplayOrder": 3,
-              "MediaId": 32570
+              "MediaId": 36245
             },
             {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-140/425-mass-apartments-kitchen",
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-208/425-mass-apartments-kitchen",
               "Alt": "425 Mass Apartments - Kitchen",
               "CropX": 0,
               "CropY": 0,
               "Key": null,
               "SeoName": null,
-              "Id": 511231,
+              "Id": 583224,
               "MediaTags": [
                 "In Unit"
               ],
               "Caption": "Kitchen with Stainless Steel Appliances",
               "DisplayOrder": 1,
-              "MediaId": 32571
+              "MediaId": 36246
             },
             {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-143/425-mass-apartments-in-home-washer-and-dryer",
-              "Alt": "425 Mass Apartments - In-home Washer and Dryer",
-              "CropX": 0,
-              "CropY": 0,
-              "Key": null,
-              "SeoName": null,
-              "Id": 511243,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "In-home Washer and Dryer",
-              "DisplayOrder": 5,
-              "MediaId": 32572
-            },
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-141/425-mass-apartments-living-room",
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-209/425-mass-apartments-living-room",
               "Alt": "425 Mass Apartments - Living Room",
               "CropX": 0,
               "CropY": 0,
               "Key": null,
               "SeoName": null,
-              "Id": 511255,
+              "Id": 583230,
               "MediaTags": [
                 "In Unit"
               ],
-              "Caption": "Living Room with Hard Surface Flooring",
+              "Caption": "Living Room with Patio and Hard Surface Flooring",
               "DisplayOrder": 2,
-              "MediaId": 32573
+              "MediaId": 36247
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-212/425-mass-apartments-patio",
+              "Alt": "425 Mass Apartments - Patio",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 583236,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Patio",
+              "DisplayOrder": 5,
+              "MediaId": 36248
             }
           ],
           "Videos": [
             {
-              "Key": "5TBPkgGj5Vo",
+              "Key": "km8sAgQjLLo",
               "Id": 0,
               "MediaTags": null,
-              "Caption": "425 Mass Apartments - Mt. Vernon Triangle - Unit 415 Apt 401 PH115",
+              "Caption": "425 Mass Apartments - Mt Vernon Triangle - Unit 106 - Unit 401 - 106",
               "DisplayOrder": 0,
-              "MediaId": 33055
+              "MediaId": 36195
             }
           ],
-          "Matterports": [],
+          "Matterports": [
+            {
+              "Key": "A5qUurmHBy3",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "3D Floorplan",
+              "DisplayOrder": 0,
+              "MediaId": 36309
+            }
+          ],
           "Zillows": [],
           "AccordionPhoto": null,
           "ExcludeFromOll": false,
