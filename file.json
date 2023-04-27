@@ -3362,73 +3362,63 @@
       "AvailableUnits": [
         {
           "LedgerId": "19288",
-          "UnitId": "1120",
+          "UnitId": "720",
           "BuildingId": "425",
-          "AvailableDate": "4/26/2023",
+          "AvailableDate": "4/28/2023",
           "BestTerm": {
             "Length": 12,
-            "Price": 3483
+            "Price": 3351
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 3483
+              "Price": 3351
             },
             {
               "Length": 11,
-              "Price": 3818
+              "Price": 3686
             },
             {
               "Length": 10,
-              "Price": 3818
+              "Price": 3686
             },
             {
               "Length": 9,
-              "Price": 3983
+              "Price": 3851
             },
             {
               "Length": 8,
-              "Price": 3983
+              "Price": 3851
             },
             {
               "Length": 7,
-              "Price": 4148
+              "Price": 4016
             },
             {
               "Length": 6,
-              "Price": 4148
+              "Price": 4016
             },
             {
               "Length": 5,
-              "Price": 4318
+              "Price": 4186
             },
             {
               "Length": 4,
-              "Price": 4318
+              "Price": 4186
             },
             {
               "Length": 3,
-              "Price": 4418
+              "Price": 4286
             }
           ],
-          "SqFt": 1345,
+          "SqFt": 1340,
           "Bed": 2,
           "Bath": 2,
           "FloorplanId": "378485",
           "FloorplanName": "Two Bedroom Two Bath H 1340",
-          "Floor": "Floor 11",
-          "Description": "This apartment corner home offers an open living room with an island kitchen that is perfect for entertaining.",
+          "Floor": "Floor 7",
+          "Description": "This corner home offers an open living room with island kitchen that is perfect for entertaining.",
           "Amenities": [
-            {
-              "Name": "Additional Private Balcony",
-              "Icon": "",
-              "AmenCode": "U11"
-            },
-            {
-              "Name": "Balcony",
-              "Icon": "",
-              "AmenCode": "U08"
-            },
             {
               "Name": "Corner Unit",
               "Icon": "",
@@ -3464,7 +3454,7 @@
               "CropY": 0,
               "Key": null,
               "SeoName": null,
-              "Id": 623271,
+              "Id": 623277,
               "MediaTags": [
                 "In Unit"
               ],
@@ -3479,7 +3469,7 @@
               "CropY": 0,
               "Key": null,
               "SeoName": null,
-              "Id": 623283,
+              "Id": 623289,
               "MediaTags": [
                 "In Unit"
               ],
@@ -3494,7 +3484,7 @@
               "CropY": 0,
               "Key": null,
               "SeoName": null,
-              "Id": 623295,
+              "Id": 623301,
               "MediaTags": [
                 "In Unit"
               ],
@@ -3509,7 +3499,7 @@
               "CropY": 0,
               "Key": null,
               "SeoName": null,
-              "Id": 623307,
+              "Id": 623313,
               "MediaTags": [
                 "In Unit"
               ],
@@ -3524,7 +3514,7 @@
               "CropY": 0,
               "Key": null,
               "SeoName": null,
-              "Id": 623319,
+              "Id": 623325,
               "MediaTags": [
                 "In Unit"
               ],
@@ -3539,7 +3529,7 @@
               "CropY": 0,
               "Key": null,
               "SeoName": null,
-              "Id": 623331,
+              "Id": 623337,
               "MediaTags": [
                 "In Unit"
               ],
@@ -3554,7 +3544,7 @@
               "CropY": 0,
               "Key": null,
               "SeoName": null,
-              "Id": 623343,
+              "Id": 623349,
               "MediaTags": [
                 "In Unit"
               ],
@@ -3569,7 +3559,7 @@
               "CropY": 0,
               "Key": null,
               "SeoName": null,
-              "Id": 639469,
+              "Id": 639475,
               "MediaTags": [
                 "In Unit"
               ],
@@ -3584,7 +3574,7 @@
               "CropY": 0,
               "Key": null,
               "SeoName": null,
-              "Id": 639531,
+              "Id": 639537,
               "MediaTags": [
                 "In Unit"
               ],
@@ -3599,7 +3589,7 @@
               "CropY": 0,
               "Key": null,
               "SeoName": null,
-              "Id": 639543,
+              "Id": 639549,
               "MediaTags": [
                 "In Unit"
               ],
@@ -3634,7 +3624,7 @@
           "FurnishAvailable": false,
           "BestTermFurnished": null,
           "FurnishedTerms": [],
-          "SpecialAmount": 150
+          "SpecialAmount": 0
         },
         {
           "LedgerId": "19288",
