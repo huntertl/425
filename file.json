@@ -514,168 +514,6 @@
         },
         {
           "LedgerId": "19288",
-          "UnitId": "517",
-          "BuildingId": "425",
-          "AvailableDate": "8/19/2023",
-          "BestTerm": {
-            "Length": 12,
-            "Price": 2167
-          },
-          "Terms": [
-            {
-              "Length": 12,
-              "Price": 2167
-            },
-            {
-              "Length": 11,
-              "Price": 2362
-            },
-            {
-              "Length": 10,
-              "Price": 2362
-            },
-            {
-              "Length": 9,
-              "Price": 2457
-            },
-            {
-              "Length": 8,
-              "Price": 2457
-            },
-            {
-              "Length": 7,
-              "Price": 2552
-            },
-            {
-              "Length": 6,
-              "Price": 2552
-            },
-            {
-              "Length": 5,
-              "Price": 2647
-            },
-            {
-              "Length": 4,
-              "Price": 2647
-            },
-            {
-              "Length": 3,
-              "Price": 2707
-            }
-          ],
-          "SqFt": 558,
-          "Bed": 0,
-          "Bath": 1,
-          "FloorplanId": "378474",
-          "FloorplanName": "Studio G 558",
-          "Floor": "Floor 5",
-          "Description": "This studio home offers a fluid living space with a balcony and floor to ceiling windows. The home also has a step-in closet and additional storage in the bathroom.",
-          "Amenities": [
-            {
-              "Name": "Balcony",
-              "Icon": "",
-              "AmenCode": "U08"
-            },
-            {
-              "Name": "Smart Home",
-              "Icon": "",
-              "AmenCode": "Z75"
-            },
-            {
-              "Name": "Southern Exposure",
-              "Icon": "",
-              "AmenCode": "EXPS"
-            }
-          ],
-          "Special": {
-            "Active": false,
-            "Title": null,
-            "Expires": null
-          },
-          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378474-0-1-558",
-          "Photos": [
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-62/425-mass-apartments-kitchen",
-              "Alt": "425 Mass Apartments - Kitchen",
-              "CropX": 0,
-              "CropY": 0,
-              "Key": null,
-              "SeoName": null,
-              "Id": 267749,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Kitchen with Stainless Steel Appliances",
-              "DisplayOrder": 1,
-              "MediaId": 19596
-            },
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-63/425-mass-apartments-balcony",
-              "Alt": "425 Mass Apartments - Balcony",
-              "CropX": 0,
-              "CropY": 0,
-              "Key": null,
-              "SeoName": null,
-              "Id": 267831,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Balcony",
-              "DisplayOrder": 4,
-              "MediaId": 19598
-            },
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-64/425-mass-apartments-studio-living-area",
-              "Alt": "425 Mass Apartments - Studio Living Area",
-              "CropX": 0,
-              "CropY": 0,
-              "Key": null,
-              "SeoName": null,
-              "Id": 267913,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Studio Living Space",
-              "DisplayOrder": 2,
-              "MediaId": 19600
-            },
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-65/425-mass-apartments-studio-storage",
-              "Alt": "425 Mass Apartments - Studio Storage",
-              "CropX": 0,
-              "CropY": 0,
-              "Key": null,
-              "SeoName": null,
-              "Id": 267995,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Studio Storage Space",
-              "DisplayOrder": 3,
-              "MediaId": 19602
-            }
-          ],
-          "Videos": [
-            {
-              "Key": "rBkAtCi_StI",
-              "Id": 0,
-              "MediaTags": null,
-              "Caption": "425 Mass Apartments - Mt Vernon Triangle - Floorplan Studio G558   Unit 1017",
-              "DisplayOrder": 0,
-              "MediaId": 29083
-            }
-          ],
-          "Matterports": [],
-          "Zillows": [],
-          "AccordionPhoto": null,
-          "ExcludeFromOll": false,
-          "FurnishAvailable": false,
-          "BestTermFurnished": null,
-          "FurnishedTerms": [],
-          "SpecialAmount": 0
-        },
-        {
-          "LedgerId": "19288",
           "UnitId": "1218",
           "BuildingId": "425",
           "AvailableDate": "6/16/2023",
@@ -4153,6 +3991,123 @@
       "DisplayName": "2 Bed",
       "BedroomCount": 2,
       "AvailableUnits": [
+        {
+          "LedgerId": "19288",
+          "UnitId": "301",
+          "BuildingId": "425",
+          "AvailableDate": "7/8/2023",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 3854
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 3854
+            },
+            {
+              "Length": 11,
+              "Price": 4209
+            },
+            {
+              "Length": 10,
+              "Price": 4209
+            },
+            {
+              "Length": 9,
+              "Price": 4384
+            },
+            {
+              "Length": 8,
+              "Price": 4384
+            },
+            {
+              "Length": 7,
+              "Price": 4564
+            },
+            {
+              "Length": 6,
+              "Price": 4564
+            },
+            {
+              "Length": 5,
+              "Price": 4739
+            },
+            {
+              "Length": 4,
+              "Price": 4739
+            },
+            {
+              "Length": 3,
+              "Price": 4844
+            }
+          ],
+          "SqFt": 1416,
+          "Bed": 2,
+          "Bath": 2,
+          "FloorplanId": "378487",
+          "FloorplanName": "Two Bedroom+Den Two Bath B 1493",
+          "Floor": "Floor 3",
+          "Description": "This 1 Bed with 2 Den/ 2 Bath home offers a large living room with floor to ceiling windows and a balcony overlooking the city. The main bedroom has plenty of closet space, double sinks and a stand-in shower in the en-suite bathroom.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ",
+          "Amenities": [
+            {
+              "Name": "Balcony",
+              "Icon": "",
+              "AmenCode": "U08"
+            },
+            {
+              "Name": "Smart Home",
+              "Icon": "",
+              "AmenCode": "Z75"
+            },
+            {
+              "Name": "Southern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPS"
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378487-2-2-1493",
+          "Photos": [
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-Unit404FP-9/425-mass-apartments-404fp",
+              "Alt": "425 Mass Apartments - 401FP",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 199994,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Views from the Balcony",
+              "DisplayOrder": 0,
+              "MediaId": 14117
+            }
+          ],
+          "Videos": [
+            {
+              "Key": "ZB7nmAygVoM",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "425 Mass Apartments - Mt. Vernon Triangle - 2BR w Den 2BA B1493 Unit 901",
+              "DisplayOrder": 0,
+              "MediaId": 33057
+            }
+          ],
+          "Matterports": [],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 0
+        },
         {
           "LedgerId": "19288",
           "UnitId": "1105",
