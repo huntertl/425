@@ -3932,53 +3932,53 @@
         },
         {
           "LedgerId": "19288",
-          "UnitId": "506",
+          "UnitId": "406",
           "BuildingId": "425",
-          "AvailableDate": "6/5/2023",
+          "AvailableDate": "7/14/2023",
           "BestTerm": {
             "Length": 12,
-            "Price": 3262
+            "Price": 3307
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 3262
+              "Price": 3307
             },
             {
               "Length": 11,
-              "Price": 3537
+              "Price": 3587
             },
             {
               "Length": 10,
-              "Price": 3537
+              "Price": 3587
             },
             {
               "Length": 9,
-              "Price": 3672
+              "Price": 3727
             },
             {
               "Length": 8,
-              "Price": 3672
+              "Price": 3727
             },
             {
               "Length": 7,
-              "Price": 3812
+              "Price": 3867
             },
             {
               "Length": 6,
-              "Price": 3812
+              "Price": 3867
             },
             {
               "Length": 5,
-              "Price": 3947
+              "Price": 4007
             },
             {
               "Length": 4,
-              "Price": 3947
+              "Price": 4007
             },
             {
               "Length": 3,
-              "Price": 4032
+              "Price": 4092
             }
           ],
           "SqFt": 1293,
@@ -3986,7 +3986,7 @@
           "Bath": 2,
           "FloorplanId": "378483",
           "FloorplanName": "One Bedroom+Den J 1293",
-          "Floor": "Floor 5",
+          "Floor": "Floor 4",
           "Description": "This 1 Bed with Den/ 2 Bath home offers floor to ceiling windows, a balcony, and a built-in bookcase. The den in this home is especially spacious (king bed) making it perfect for a guest room or home-office.",
           "Amenities": [
             {
@@ -4006,9 +4006,9 @@
             }
           ],
           "Special": {
-            "Active": true,
-            "Title": "Up to $500 off move-in costs!",
-            "Expires": "6/15/2023"
+            "Active": false,
+            "Title": null,
+            "Expires": null
           },
           "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378483-1-2-1293",
           "Photos": [
@@ -4019,7 +4019,7 @@
               "CropY": 0,
               "Key": null,
               "SeoName": null,
-              "Id": 200036,
+              "Id": 200035,
               "MediaTags": [
                 "In Unit"
               ],
