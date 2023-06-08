@@ -4998,92 +4998,70 @@
           "BestTermFurnished": null,
           "FurnishedTerms": [],
           "SpecialAmount": 0
-        }
-      ]
-    },
-    {
-      "Id": 2,
-      "DisplayName": "2 Bed",
-      "BedroomCount": 2,
-      "AvailableUnits": [
+        },
         {
           "LedgerId": "19288",
-          "UnitId": "919",
+          "UnitId": "506",
           "BuildingId": "425",
-          "AvailableDate": "6/16/2023",
+          "AvailableDate": "6/8/2023",
           "BestTerm": {
             "Length": 12,
-            "Price": 4098
+            "Price": 3287
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 4098
+              "Price": 3287
             },
             {
               "Length": 11,
-              "Price": 4458
+              "Price": 3562
             },
             {
               "Length": 10,
-              "Price": 4458
+              "Price": 3562
             },
             {
               "Length": 9,
-              "Price": 4633
+              "Price": 3702
             },
             {
               "Length": 8,
-              "Price": 4633
+              "Price": 3702
             },
             {
               "Length": 7,
-              "Price": 4813
+              "Price": 3842
             },
             {
               "Length": 6,
-              "Price": 4813
+              "Price": 3842
             },
             {
               "Length": 5,
-              "Price": 4993
+              "Price": 3977
             },
             {
               "Length": 4,
-              "Price": 4993
+              "Price": 3977
             },
             {
               "Length": 3,
-              "Price": 5103
+              "Price": 4062
             }
           ],
-          "SqFt": 1493,
-          "Bed": 2,
+          "SqFt": 1293,
+          "Bed": 1,
           "Bath": 2,
-          "FloorplanId": "378486",
-          "FloorplanName": "Two Bedroom Two Bath H 1493",
-          "Floor": "Floor 9",
-          "Description": "This apartment corner home offers a long and open living room with plenty of windows, and a balcony with access from the living room and main bedroom.",
+          "FloorplanId": "378483",
+          "FloorplanName": "One Bedroom+Den J 1293",
+          "Floor": "Floor 5",
+          "Description": "This 1 Bed with Den/ 2 Bath home offers floor to ceiling windows, a balcony, and a built-in bookcase. The den in this home is especially spacious (king bed) making it perfect for a guest room or home-office.",
           "Amenities": [
             {
               "Name": "Balcony",
               "Icon": "",
               "AmenCode": "U08"
-            },
-            {
-              "Name": "Corner Unit",
-              "Icon": "",
-              "AmenCode": "CU"
-            },
-            {
-              "Name": "Eastern Exposure",
-              "Icon": "",
-              "AmenCode": "EXPE"
-            },
-            {
-              "Name": "Hard Surface Flooring",
-              "Icon": "",
-              "AmenCode": "C15"
             },
             {
               "Name": "Smart Home",
@@ -5097,128 +5075,29 @@
             }
           ],
           "Special": {
-            "Active": false,
-            "Title": null,
-            "Expires": null
+            "Active": true,
+            "Title": "Up to $500 off move-in costs!",
+            "Expires": "6/15/2023"
           },
-          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378486-2-2-1493",
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378483-1-2-1293",
           "Photos": [
             {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-100/425-mass-apartments-bathroom",
-              "Alt": "425 Mass Apartments - Bathroom",
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-Unit404FP-9/425-mass-apartments-404fp",
+              "Alt": "425 Mass Apartments - 401FP",
               "CropX": 0,
               "CropY": 0,
               "Key": null,
               "SeoName": null,
-              "Id": 421711,
+              "Id": 200036,
               "MediaTags": [
                 "In Unit"
               ],
-              "Caption": "Bathroom",
-              "DisplayOrder": 5,
-              "MediaId": 28445
-            },
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-99/425-mass-apartments-bathroom",
-              "Alt": "425 Mass Apartments - Bathroom",
-              "CropX": 0,
-              "CropY": 0,
-              "Key": null,
-              "SeoName": null,
-              "Id": 421723,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Bathroom",
-              "DisplayOrder": 6,
-              "MediaId": 28446
-            },
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-102/425-mass-apartments-bedroom",
-              "Alt": "425 Mass Apartments - Bedroom",
-              "CropX": 0,
-              "CropY": 0,
-              "Key": null,
-              "SeoName": null,
-              "Id": 421735,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Bedroom",
-              "DisplayOrder": 3,
-              "MediaId": 28447
-            },
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-101/425-mass-apartments-bedroom",
-              "Alt": "425 Mass Apartments - Bedroom",
-              "CropX": 0,
-              "CropY": 0,
-              "Key": null,
-              "SeoName": null,
-              "Id": 421747,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Bedroom",
-              "DisplayOrder": 4,
-              "MediaId": 28448
-            },
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-96/425-mass-apartments-kitchen",
-              "Alt": "425 Mass Apartments - Kitchen",
-              "CropX": 0,
-              "CropY": 0,
-              "Key": null,
-              "SeoName": null,
-              "Id": 421759,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Kitchen",
-              "DisplayOrder": 1,
-              "MediaId": 28449
-            },
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-98/425-mass-apartments-in-home-washer-and-dryer",
-              "Alt": "425 Mass Apartments - In-home Washer and Dryer",
-              "CropX": 0,
-              "CropY": 0,
-              "Key": null,
-              "SeoName": null,
-              "Id": 421771,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "In-home Washer and Dryer",
-              "DisplayOrder": 7,
-              "MediaId": 28450
-            },
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-97/425-mass-apartments-living-area",
-              "Alt": "425 Mass Apartments - Living Area",
-              "CropX": 0,
-              "CropY": 0,
-              "Key": null,
-              "SeoName": null,
-              "Id": 421783,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Living Area",
-              "DisplayOrder": 2,
-              "MediaId": 28451
-            }
-          ],
-          "Videos": [
-            {
-              "Key": "YDIex-U02j8",
-              "Id": 0,
-              "MediaTags": null,
-              "Caption": "425 Mass Apartments - Mt  Vernon Triangle - Floorplan 2BR H1493 Unit PH219",
+              "Caption": "Views from the Balcony",
               "DisplayOrder": 0,
-              "MediaId": 29082
+              "MediaId": 14117
             }
           ],
+          "Videos": [],
           "Matterports": [],
           "Zillows": [],
           "AccordionPhoto": null,
@@ -5227,7 +5106,14 @@
           "BestTermFurnished": null,
           "FurnishedTerms": [],
           "SpecialAmount": 0
-        },
+        }
+      ]
+    },
+    {
+      "Id": 2,
+      "DisplayName": "2 Bed",
+      "BedroomCount": 2,
+      "AvailableUnits": [
         {
           "LedgerId": "19288",
           "UnitId": "1105",
