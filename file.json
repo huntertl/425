@@ -5097,6 +5097,237 @@
       "AvailableUnits": [
         {
           "LedgerId": "19288",
+          "UnitId": "1105",
+          "BuildingId": "401",
+          "AvailableDate": "6/15/2023",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 4390
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 4390
+            },
+            {
+              "Length": 11,
+              "Price": 4780
+            },
+            {
+              "Length": 10,
+              "Price": 4780
+            },
+            {
+              "Length": 9,
+              "Price": 4975
+            },
+            {
+              "Length": 8,
+              "Price": 4975
+            },
+            {
+              "Length": 7,
+              "Price": 5170
+            },
+            {
+              "Length": 6,
+              "Price": 5170
+            },
+            {
+              "Length": 5,
+              "Price": 5370
+            },
+            {
+              "Length": 4,
+              "Price": 5370
+            },
+            {
+              "Length": 3,
+              "Price": 5485
+            }
+          ],
+          "SqFt": 1740,
+          "Bed": 2,
+          "Bath": 2,
+          "FloorplanId": "00002646",
+          "FloorplanName": "Unit 405",
+          "Floor": "Floor 11",
+          "Description": "This apartment home offers a unique living experience with wrap around floor to ceiling windows in the living room. The kitchen features an island and breakfast bar that is perfect for entertaining.",
+          "Amenities": [
+            {
+              "Name": "Balcony",
+              "Icon": "",
+              "AmenCode": "U08"
+            },
+            {
+              "Name": "Premium View of 4th & Mass Ave",
+              "Icon": "",
+              "AmenCode": "V82"
+            },
+            {
+              "Name": "Smart Home",
+              "Icon": "",
+              "AmenCode": "Z75"
+            }
+          ],
+          "Special": {
+            "Active": true,
+            "Title": "Up to $500 off move-in costs!",
+            "Expires": "6/30/2023"
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002646-2-2-1740",
+          "Photos": [
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-405FP-1/425-mass-apartments-405-fp",
+              "Alt": "425 Mass Apartments - 405 FP",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 173935,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Carpeted Bedroom with Walk-In Closet",
+              "DisplayOrder": 6,
+              "MediaId": 14023
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-405FP-2/425-mass-apartments-405-fp",
+              "Alt": "425 Mass Apartments - 405 FP",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 173945,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Bathroom with Double Vanity and Walk-In Shower",
+              "DisplayOrder": 7,
+              "MediaId": 14024
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-405FP-3/425-mass-apartments-405-fp",
+              "Alt": "425 Mass Apartments - 405 FP",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 173955,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Kitchen with Stainless Steel Appliances and Granite Countertops",
+              "DisplayOrder": 2,
+              "MediaId": 14025
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-405FP-4/425-mass-apartments-405-fp",
+              "Alt": "425 Mass Apartments - 405 FP",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 173965,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Living Room with Hardwood Floors and Floor-to-Ceiling Windows",
+              "DisplayOrder": 3,
+              "MediaId": 14026
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-405FP-5/425-mass-apartments-405-fp",
+              "Alt": "425 Mass Apartments - 405 FP",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 173975,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Living Room with Hardwood Floors and Floor-to-Ceiling Windows",
+              "DisplayOrder": 4,
+              "MediaId": 14027
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-405FP-6/425-mass-apartments-405-fp",
+              "Alt": "425 Mass Apartments - 405 FP",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 173985,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Kitchen with Stainless Steel Appliances and Granite Countertops",
+              "DisplayOrder": 1,
+              "MediaId": 14028
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-405FP-7/425-mass-apartments-405-fp",
+              "Alt": "425 Mass Apartments - 405 FP",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 173995,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Bathroom",
+              "DisplayOrder": 8,
+              "MediaId": 14029
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-405FP-8/425-mass-apartments-405-fp",
+              "Alt": "425 Mass Apartments - 405 FP",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 174005,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Carpeted Bedroom",
+              "DisplayOrder": 5,
+              "MediaId": 14030
+            }
+          ],
+          "Videos": [
+            {
+              "Key": "Bjnt9Og3mGk",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "Video of 1740 sqft 2 bedroom apartment",
+              "DisplayOrder": 0,
+              "MediaId": 8722
+            }
+          ],
+          "Matterports": [
+            {
+              "Key": "WdhRqd51yrm",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "3D Floorplan",
+              "DisplayOrder": 0,
+              "MediaId": 38577
+            }
+          ],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 200
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "904",
           "BuildingId": "425",
           "AvailableDate": "6/16/2023",
