@@ -2059,7 +2059,7 @@
           "FloorplanId": "00002287",
           "FloorplanName": "One Bedroom E 823",
           "Floor": "Floor 4",
-          "Description": "This apartment home offers hardwood flooring throughout, additional pantry space in the kitchen and a unique bedroom featuring an oversized sliding door.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ",
+          "Description": "This apartment home offers hardwood flooring throughout, additional pantry space in the kitchen and a unique bedroom featuring an oversized sliding door.",
           "Amenities": [
             {
               "Name": "Eastern Exposure",
@@ -2083,9 +2083,9 @@
             }
           ],
           "Special": {
-            "Active": false,
-            "Title": null,
-            "Expires": null
+            "Active": true,
+            "Title": "Up to $500 off move-in costs!",
+            "Expires": "7/31/2023"
           },
           "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002287-1-1-823",
           "Photos": [
@@ -4521,20 +4521,20 @@
       "PhoneNumber": "(844) 855-8751"
     },
     {
-      "IlsId": 107,
-      "PhoneNumber": "(202) 908-6296"
-    },
-    {
-      "IlsId": 108,
-      "PhoneNumber": "(202) 908-6284"
-    },
-    {
       "IlsId": 110,
       "PhoneNumber": "(844) 842-1353"
     },
     {
       "IlsId": 115,
       "PhoneNumber": "(844) 855-8750"
+    },
+    {
+      "IlsId": 108,
+      "PhoneNumber": "(202) 908-6284"
+    },
+    {
+      "IlsId": 107,
+      "PhoneNumber": "(202) 908-6296"
     }
   ],
   "PaidSearchPhone": "(202) 908-6292",
