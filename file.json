@@ -1772,7 +1772,7 @@
           "FloorplanId": "00002647",
           "FloorplanName": "Unit 406, 408",
           "Floor": "Floor 12",
-          "Description": "This apartment home offers a living room with floor to ceiling windows, a built-in bookcase and a kitchen that opens out to the living room! The bedroom is spacious queen bed and features a step-in closet and an attached balcony.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 ",
+          "Description": "This apartment home offers a living room with floor to ceiling windows, a built-in bookcase and a kitchen that opens out to the living room! The bedroom is spacious queen bed and features a step-in closet and an attached balcony.",
           "Amenities": [
             {
               "Name": "Balcony",
@@ -2036,7 +2036,7 @@
           "FloorplanId": "381602",
           "FloorplanName": "One Bedroom E 921",
           "Floor": "Floor 1",
-          "Description": "This 1 Bed/ 1 Bath courtyard level home offers a plenty of closet space, double kitchen counters and an attached patio. A glass stand in shower in the bathroom and a spacious bedroom for a queen size bed.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            ",
+          "Description": "This 1 Bed/ 1 Bath courtyard level home offers a plenty of closet space, double kitchen counters and an attached patio. A glass stand in shower in the bathroom and a spacious bedroom for a queen size bed.",
           "Amenities": [
             {
               "Name": "Eastern Exposure",
@@ -2060,6 +2060,107 @@
             "Expires": "10/15/2023"
           },
           "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-381602-1-1-921",
+          "Photos": [],
+          "Videos": [],
+          "Matterports": [],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 0
+        },
+        {
+          "LedgerId": "19288",
+          "UnitId": "101B",
+          "BuildingId": "425",
+          "AvailableDate": "9/28/2023",
+          "BestTerm": {
+            "Length": 18,
+            "Price": 2937
+          },
+          "Terms": [
+            {
+              "Length": 18,
+              "Price": 2937
+            },
+            {
+              "Length": 12,
+              "Price": 2982
+            },
+            {
+              "Length": 11,
+              "Price": 3212
+            },
+            {
+              "Length": 10,
+              "Price": 3212
+            },
+            {
+              "Length": 9,
+              "Price": 3327
+            },
+            {
+              "Length": 8,
+              "Price": 3327
+            },
+            {
+              "Length": 7,
+              "Price": 3442
+            },
+            {
+              "Length": 6,
+              "Price": 3442
+            },
+            {
+              "Length": 5,
+              "Price": 3557
+            },
+            {
+              "Length": 4,
+              "Price": 3557
+            },
+            {
+              "Length": 3,
+              "Price": 3622
+            }
+          ],
+          "SqFt": 1048,
+          "Bed": 1,
+          "Bath": 1,
+          "FloorplanId": "378482",
+          "FloorplanName": "One Bedroom B 907",
+          "Floor": "Floor 1",
+          "Description": "This apartment loft style home offers a unique living experience with 18 ft ceilings, floor to ceiling windows, a galley style kitchen plus island, a built in desk, a powder room, and street access through the walk-out patio.",
+          "Amenities": [
+            {
+              "Name": "Private Subterranean Patio",
+              "Icon": "",
+              "AmenCode": "U10"
+            },
+            {
+              "Name": "Smart Home",
+              "Icon": "",
+              "AmenCode": "Z75"
+            },
+            {
+              "Name": "Southern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPS"
+            },
+            {
+              "Name": "Two Level Loft-style",
+              "Icon": "",
+              "AmenCode": "U19"
+            }
+          ],
+          "Special": {
+            "Active": true,
+            "Title": "Up to $500 off move-in costs!",
+            "Expires": "10/15/2023"
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378482-1-1-907",
           "Photos": [],
           "Videos": [],
           "Matterports": [],
@@ -2654,7 +2755,7 @@
           "FloorplanId": "00002642",
           "FloorplanName": "Unit 401",
           "Floor": "Floor 3",
-          "Description": "This 1 Bed with Den/ 2 Bath corner home offers an open style kitchen and breakfast bar, floor to ceiling windows and a balcony off of the living room. The bedroom features a large closet and en-suite bathroom with stand-in shower.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  ",
+          "Description": "This 1 Bed with Den/ 2 Bath corner home offers an open style kitchen and breakfast bar, floor to ceiling windows and a balcony off of the living room. The bedroom features a large closet and en-suite bathroom with stand-in shower.",
           "Amenities": [
             {
               "Name": "Balcony",
@@ -2919,7 +3020,7 @@
           "FloorplanId": "378484",
           "FloorplanName": "Two Bedroom J 1214",
           "Floor": "Floor 1",
-          "Description": "This apartment corner home offers an open living room with floor to ceiling windows, an open style kitchen with breakfast bar and a subterranean patio. The main bedroom features a large walk-in closet and an en-suite bathroom.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      ",
+          "Description": "This apartment corner home offers an open living room with floor to ceiling windows, an open style kitchen with breakfast bar and a subterranean patio. The main bedroom features a large walk-in closet and an en-suite bathroom.",
           "Amenities": [
             {
               "Name": "Corner Unit",
