@@ -7,153 +7,57 @@
       "AvailableUnits": [
         {
           "LedgerId": "19288",
-          "UnitId": "613",
-          "BuildingId": "401",
-          "AvailableDate": "12/22/2023",
-          "BestTerm": {
-            "Length": 18,
-            "Price": 1798
-          },
-          "Terms": [
-            {
-              "Length": 18,
-              "Price": 1798
-            },
-            {
-              "Length": 12,
-              "Price": 1833
-            },
-            {
-              "Length": 11,
-              "Price": 2013
-            },
-            {
-              "Length": 10,
-              "Price": 2013
-            },
-            {
-              "Length": 9,
-              "Price": 2103
-            },
-            {
-              "Length": 8,
-              "Price": 2103
-            },
-            {
-              "Length": 7,
-              "Price": 2193
-            },
-            {
-              "Length": 6,
-              "Price": 2193
-            },
-            {
-              "Length": 5,
-              "Price": 2288
-            },
-            {
-              "Length": 4,
-              "Price": 2288
-            },
-            {
-              "Length": 3,
-              "Price": 2338
-            }
-          ],
-          "SqFt": 458,
-          "Bed": 0,
-          "Bath": 1,
-          "FloorplanId": "00002653",
-          "FloorplanName": "Unit 413",
-          "Floor": "Floor 6",
-          "Description": "This Studio home features a fluid living space with two closets, a galley style kitchen, and floor to ceiling windows overlooking our private courtyard.",
-          "Amenities": [
-            {
-              "Name": "Northern Exposure",
-              "Icon": "",
-              "AmenCode": "EXPN"
-            },
-            {
-              "Name": "Smart Home",
-              "Icon": "",
-              "AmenCode": "Z75"
-            },
-            {
-              "Name": "Western Exposure",
-              "Icon": "",
-              "AmenCode": "EXPW"
-            }
-          ],
-          "Special": {
-            "Active": false,
-            "Title": null,
-            "Expires": null
-          },
-          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002653-0-1-475",
-          "Photos": [],
-          "Videos": [],
-          "Matterports": [],
-          "Zillows": [],
-          "AccordionPhoto": null,
-          "ExcludeFromOll": false,
-          "FurnishAvailable": false,
-          "BestTermFurnished": null,
-          "FurnishedTerms": [],
-          "SpecialAmount": 0
-        },
-        {
-          "LedgerId": "19288",
           "UnitId": "713",
           "BuildingId": "401",
           "AvailableDate": "3/9/2024",
           "BestTerm": {
             "Length": 18,
-            "Price": 1808
+            "Price": 1803
           },
           "Terms": [
             {
               "Length": 18,
-              "Price": 1808
+              "Price": 1803
             },
             {
               "Length": 12,
-              "Price": 1843
+              "Price": 1838
             },
             {
               "Length": 11,
-              "Price": 2023
+              "Price": 2018
             },
             {
               "Length": 10,
-              "Price": 2023
+              "Price": 2018
             },
             {
               "Length": 9,
-              "Price": 2113
+              "Price": 2108
             },
             {
               "Length": 8,
-              "Price": 2113
+              "Price": 2108
             },
             {
               "Length": 7,
-              "Price": 2203
+              "Price": 2198
             },
             {
               "Length": 6,
-              "Price": 2203
+              "Price": 2198
             },
             {
               "Length": 5,
-              "Price": 2298
+              "Price": 2288
             },
             {
               "Length": 4,
-              "Price": 2298
+              "Price": 2288
             },
             {
               "Length": 3,
-              "Price": 2348
+              "Price": 2343
             }
           ],
           "SqFt": 458,
@@ -199,57 +103,153 @@
         },
         {
           "LedgerId": "19288",
+          "UnitId": "613",
+          "BuildingId": "401",
+          "AvailableDate": "12/22/2023",
+          "BestTerm": {
+            "Length": 18,
+            "Price": 1808
+          },
+          "Terms": [
+            {
+              "Length": 18,
+              "Price": 1808
+            },
+            {
+              "Length": 12,
+              "Price": 1843
+            },
+            {
+              "Length": 11,
+              "Price": 2023
+            },
+            {
+              "Length": 10,
+              "Price": 2023
+            },
+            {
+              "Length": 9,
+              "Price": 2118
+            },
+            {
+              "Length": 8,
+              "Price": 2118
+            },
+            {
+              "Length": 7,
+              "Price": 2208
+            },
+            {
+              "Length": 6,
+              "Price": 2208
+            },
+            {
+              "Length": 5,
+              "Price": 2298
+            },
+            {
+              "Length": 4,
+              "Price": 2298
+            },
+            {
+              "Length": 3,
+              "Price": 2353
+            }
+          ],
+          "SqFt": 458,
+          "Bed": 0,
+          "Bath": 1,
+          "FloorplanId": "00002653",
+          "FloorplanName": "Unit 413",
+          "Floor": "Floor 6",
+          "Description": "This Studio home features a fluid living space with two closets, a galley style kitchen, and floor to ceiling windows overlooking our private courtyard.",
+          "Amenities": [
+            {
+              "Name": "Northern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPN"
+            },
+            {
+              "Name": "Smart Home",
+              "Icon": "",
+              "AmenCode": "Z75"
+            },
+            {
+              "Name": "Western Exposure",
+              "Icon": "",
+              "AmenCode": "EXPW"
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002653-0-1-475",
+          "Photos": [],
+          "Videos": [],
+          "Matterports": [],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 0
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "120B",
           "BuildingId": "425",
           "AvailableDate": "10/31/2023",
           "BestTerm": {
             "Length": 18,
-            "Price": 1830
+            "Price": 1840
           },
           "Terms": [
             {
               "Length": 18,
-              "Price": 1830
+              "Price": 1840
             },
             {
               "Length": 12,
-              "Price": 1865
+              "Price": 1875
             },
             {
               "Length": 11,
-              "Price": 2045
+              "Price": 2055
             },
             {
               "Length": 10,
-              "Price": 2045
+              "Price": 2055
             },
             {
               "Length": 9,
-              "Price": 2135
+              "Price": 2145
             },
             {
               "Length": 8,
-              "Price": 2135
+              "Price": 2145
             },
             {
               "Length": 7,
-              "Price": 2225
+              "Price": 2235
             },
             {
               "Length": 6,
-              "Price": 2225
+              "Price": 2235
             },
             {
               "Length": 5,
-              "Price": 2315
+              "Price": 2330
             },
             {
               "Length": 4,
-              "Price": 2315
+              "Price": 2330
             },
             {
               "Length": 3,
-              "Price": 2370
+              "Price": 2380
             }
           ],
           "SqFt": 495,
@@ -300,52 +300,52 @@
           "AvailableDate": "10/31/2023",
           "BestTerm": {
             "Length": 18,
-            "Price": 1938
+            "Price": 1948
           },
           "Terms": [
             {
               "Length": 18,
-              "Price": 1938
+              "Price": 1948
             },
             {
               "Length": 12,
-              "Price": 1973
+              "Price": 1983
             },
             {
               "Length": 11,
-              "Price": 2153
+              "Price": 2163
             },
             {
               "Length": 10,
-              "Price": 2153
+              "Price": 2163
             },
             {
               "Length": 9,
-              "Price": 2243
+              "Price": 2253
             },
             {
               "Length": 8,
-              "Price": 2243
+              "Price": 2253
             },
             {
               "Length": 7,
-              "Price": 2333
+              "Price": 2343
             },
             {
               "Length": 6,
-              "Price": 2333
+              "Price": 2343
             },
             {
               "Length": 5,
-              "Price": 2423
+              "Price": 2438
             },
             {
               "Length": 4,
-              "Price": 2423
+              "Price": 2438
             },
             {
               "Length": 3,
-              "Price": 2478
+              "Price": 2488
             }
           ],
           "SqFt": 569,
@@ -446,52 +446,52 @@
           "AvailableDate": "10/31/2023",
           "BestTerm": {
             "Length": 18,
-            "Price": 1968
+            "Price": 1978
           },
           "Terms": [
             {
               "Length": 18,
-              "Price": 1968
+              "Price": 1978
             },
             {
               "Length": 12,
-              "Price": 2003
+              "Price": 2013
             },
             {
               "Length": 11,
-              "Price": 2183
+              "Price": 2193
             },
             {
               "Length": 10,
-              "Price": 2183
+              "Price": 2193
             },
             {
               "Length": 9,
-              "Price": 2273
+              "Price": 2283
             },
             {
               "Length": 8,
-              "Price": 2273
+              "Price": 2283
             },
             {
               "Length": 7,
-              "Price": 2363
+              "Price": 2373
             },
             {
               "Length": 6,
-              "Price": 2363
+              "Price": 2373
             },
             {
               "Length": 5,
-              "Price": 2453
+              "Price": 2468
             },
             {
               "Length": 4,
-              "Price": 2453
+              "Price": 2468
             },
             {
               "Length": 3,
-              "Price": 2508
+              "Price": 2518
             }
           ],
           "SqFt": 545,
@@ -606,52 +606,52 @@
           "AvailableDate": "12/1/2023",
           "BestTerm": {
             "Length": 18,
-            "Price": 2030
+            "Price": 2045
           },
           "Terms": [
             {
               "Length": 18,
-              "Price": 2030
+              "Price": 2045
             },
             {
               "Length": 12,
-              "Price": 2065
+              "Price": 2080
             },
             {
               "Length": 11,
-              "Price": 2245
+              "Price": 2260
             },
             {
               "Length": 10,
-              "Price": 2245
+              "Price": 2260
             },
             {
               "Length": 9,
-              "Price": 2335
+              "Price": 2355
             },
             {
               "Length": 8,
-              "Price": 2335
+              "Price": 2355
             },
             {
               "Length": 7,
-              "Price": 2425
+              "Price": 2445
             },
             {
               "Length": 6,
-              "Price": 2425
+              "Price": 2445
             },
             {
               "Length": 5,
-              "Price": 2515
+              "Price": 2535
             },
             {
               "Length": 4,
-              "Price": 2515
+              "Price": 2535
             },
             {
               "Length": 3,
-              "Price": 2570
+              "Price": 2590
             }
           ],
           "SqFt": 650,
@@ -772,52 +772,52 @@
           "AvailableDate": "10/31/2023",
           "BestTerm": {
             "Length": 18,
-            "Price": 2070
+            "Price": 2080
           },
           "Terms": [
             {
               "Length": 18,
-              "Price": 2070
+              "Price": 2080
             },
             {
               "Length": 12,
-              "Price": 2105
+              "Price": 2115
             },
             {
               "Length": 11,
-              "Price": 2285
+              "Price": 2295
             },
             {
               "Length": 10,
-              "Price": 2285
+              "Price": 2295
             },
             {
               "Length": 9,
-              "Price": 2375
+              "Price": 2385
             },
             {
               "Length": 8,
-              "Price": 2375
+              "Price": 2385
             },
             {
               "Length": 7,
-              "Price": 2465
+              "Price": 2475
             },
             {
               "Length": 6,
-              "Price": 2465
+              "Price": 2475
             },
             {
               "Length": 5,
-              "Price": 2555
+              "Price": 2570
             },
             {
               "Length": 4,
-              "Price": 2555
+              "Price": 2570
             },
             {
               "Length": 3,
-              "Price": 2610
+              "Price": 2620
             }
           ],
           "SqFt": 558,
@@ -945,52 +945,52 @@
           "AvailableDate": "2/10/2024",
           "BestTerm": {
             "Length": 18,
-            "Price": 2092
+            "Price": 2097
           },
           "Terms": [
             {
               "Length": 18,
-              "Price": 2092
+              "Price": 2097
             },
             {
               "Length": 12,
-              "Price": 2132
+              "Price": 2137
             },
             {
               "Length": 11,
-              "Price": 2342
+              "Price": 2347
             },
             {
               "Length": 10,
-              "Price": 2342
+              "Price": 2347
             },
             {
               "Length": 9,
-              "Price": 2447
+              "Price": 2457
             },
             {
               "Length": 8,
-              "Price": 2447
+              "Price": 2457
             },
             {
               "Length": 7,
-              "Price": 2552
+              "Price": 2562
             },
             {
               "Length": 6,
-              "Price": 2552
+              "Price": 2562
             },
             {
               "Length": 5,
-              "Price": 2662
+              "Price": 2667
             },
             {
               "Length": 4,
-              "Price": 2662
+              "Price": 2667
             },
             {
               "Length": 3,
-              "Price": 2722
+              "Price": 2732
             }
           ],
           "SqFt": 679,
@@ -1799,7 +1799,7 @@
           "FloorplanId": "00002647",
           "FloorplanName": "Unit 406, 408",
           "Floor": "Floor 12",
-          "Description": "This apartment home offers a living room with floor to ceiling windows, a built-in bookcase and a kitchen that opens out to the living room! The bedroom is spacious queen bed and features a step-in closet and an attached balcony.",
+          "Description": "This apartment home offers a living room with floor to ceiling windows, a built-in bookcase and a kitchen that opens out to the living room! The bedroom is spacious queen bed and features a step-in closet and an attached balcony.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 ",
           "Amenities": [
             {
               "Name": "Balcony",
@@ -2327,7 +2327,7 @@
           "FloorplanId": "00002647",
           "FloorplanName": "Unit 406, 408",
           "Floor": "Floor 12",
-          "Description": "This apartment home offers a living room with floor to ceiling windows, a built-in bookcase and a kitchen that opens out to the living room! The bedroom is spacious queen bed and features a step-in closet and an attached balcony.",
+          "Description": "This apartment home offers a living room with floor to ceiling windows, a built-in bookcase and a kitchen that opens out to the living room! The bedroom is spacious queen bed and features a step-in closet and an attached balcony.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 ",
           "Amenities": [
             {
               "Name": "Balcony",
@@ -2591,7 +2591,7 @@
           "FloorplanId": "381602",
           "FloorplanName": "One Bedroom E 921",
           "Floor": "Floor 1",
-          "Description": "This 1 Bed/ 1 Bath courtyard level home offers a plenty of closet space, double kitchen counters and an attached patio. A glass stand in shower in the bathroom and a spacious bedroom for a queen size bed.",
+          "Description": "This 1 Bed/ 1 Bath courtyard level home offers a plenty of closet space, double kitchen counters and an attached patio. A glass stand in shower in the bathroom and a spacious bedroom for a queen size bed.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            ",
           "Amenities": [
             {
               "Name": "Eastern Exposure",
@@ -2687,7 +2687,7 @@
           "FloorplanId": "382112",
           "FloorplanName": "Unit 101",
           "Floor": "Floor 1",
-          "Description": "This 1 Bed/ 1.5 Bath loft style home offers 18 ft ceilings, floor to ceiling windows, a galley style kitchen, a built in desk, powder room and street access through the walk-out patio.",
+          "Description": "This 1 Bed/ 1.5 Bath loft style home offers 18 ft ceilings, floor to ceiling windows, a galley style kitchen, a built in desk, powder room and street access through the walk-out patio.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ",
           "Amenities": [
             {
               "Name": "Private Subterranean Patio",
@@ -2788,7 +2788,7 @@
           "FloorplanId": "378482",
           "FloorplanName": "One Bedroom B 907",
           "Floor": "Floor 1",
-          "Description": "This apartment loft style home offers a unique living experience with 18 ft ceilings, floor to ceiling windows, a galley style kitchen plus island, a built in desk, a powder room, and street access through the walk-out patio.",
+          "Description": "This apartment loft style home offers a unique living experience with 18 ft ceilings, floor to ceiling windows, a galley style kitchen plus island, a built in desk, a powder room, and street access through the walk-out patio.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       ",
           "Amenities": [
             {
               "Name": "Private Subterranean Patio",
@@ -3616,7 +3616,7 @@
           "FloorplanId": "00002642",
           "FloorplanName": "Unit 401",
           "Floor": "Floor 3",
-          "Description": "This 1 Bed with Den/ 2 Bath corner home offers an open style kitchen and breakfast bar, floor to ceiling windows and a balcony off of the living room. The bedroom features a large closet and en-suite bathroom with stand-in shower.",
+          "Description": "This 1 Bed with Den/ 2 Bath corner home offers an open style kitchen and breakfast bar, floor to ceiling windows and a balcony off of the living room. The bedroom features a large closet and en-suite bathroom with stand-in shower.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  ",
           "Amenities": [
             {
               "Name": "Balcony",
@@ -3745,7 +3745,7 @@
           "FloorplanId": "00002642",
           "FloorplanName": "Unit 401",
           "Floor": "Floor 5",
-          "Description": "This 1 Bed with Den/ 2 Bath corner home offers an open style kitchen and breakfast bar, floor to ceiling windows and a balcony off of the living room. The bedroom features a large closet and en-suite bathroom with stand-in shower.",
+          "Description": "This 1 Bed with Den/ 2 Bath corner home offers an open style kitchen and breakfast bar, floor to ceiling windows and a balcony off of the living room. The bedroom features a large closet and en-suite bathroom with stand-in shower.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  ",
           "Amenities": [
             {
               "Name": "Balcony",
@@ -3827,52 +3827,52 @@
           "AvailableDate": "10/31/2023",
           "BestTerm": {
             "Length": 18,
-            "Price": 3348
+            "Price": 3343
           },
           "Terms": [
             {
               "Length": 18,
-              "Price": 3348
+              "Price": 3343
             },
             {
               "Length": 12,
-              "Price": 3418
+              "Price": 3413
             },
             {
               "Length": 11,
-              "Price": 3768
+              "Price": 3763
             },
             {
               "Length": 10,
-              "Price": 3768
+              "Price": 3763
             },
             {
               "Length": 9,
-              "Price": 3948
+              "Price": 3938
             },
             {
               "Length": 8,
-              "Price": 3948
+              "Price": 3938
             },
             {
               "Length": 7,
-              "Price": 4123
+              "Price": 4113
             },
             {
               "Length": 6,
-              "Price": 4123
+              "Price": 4113
             },
             {
               "Length": 5,
-              "Price": 4298
+              "Price": 4293
             },
             {
               "Length": 4,
-              "Price": 4298
+              "Price": 4293
             },
             {
               "Length": 3,
-              "Price": 4403
+              "Price": 4398
             }
           ],
           "SqFt": 1214,
@@ -3881,7 +3881,7 @@
           "FloorplanId": "378484",
           "FloorplanName": "Two Bedroom J 1214",
           "Floor": "Floor 1",
-          "Description": "This apartment corner home offers an open living room with floor to ceiling windows, an open style kitchen with breakfast bar and a subterranean patio. The main bedroom features a large walk-in closet and an en-suite bathroom.",
+          "Description": "This apartment corner home offers an open living room with floor to ceiling windows, an open style kitchen with breakfast bar and a subterranean patio. The main bedroom features a large walk-in closet and an en-suite bathroom.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      ",
           "Amenities": [
             {
               "Name": "Corner Unit",
@@ -4112,52 +4112,52 @@
           "AvailableDate": "11/7/2023",
           "BestTerm": {
             "Length": 18,
-            "Price": 3525
+            "Price": 3520
           },
           "Terms": [
             {
               "Length": 18,
-              "Price": 3525
+              "Price": 3520
             },
             {
               "Length": 12,
-              "Price": 3595
+              "Price": 3590
             },
             {
               "Length": 11,
-              "Price": 3945
+              "Price": 3940
             },
             {
               "Length": 10,
-              "Price": 3945
+              "Price": 3940
             },
             {
               "Length": 9,
-              "Price": 4125
+              "Price": 4115
             },
             {
               "Length": 8,
-              "Price": 4125
+              "Price": 4115
             },
             {
               "Length": 7,
-              "Price": 4300
+              "Price": 4290
             },
             {
               "Length": 6,
-              "Price": 4300
+              "Price": 4290
             },
             {
               "Length": 5,
-              "Price": 4475
+              "Price": 4470
             },
             {
               "Length": 4,
-              "Price": 4475
+              "Price": 4470
             },
             {
               "Length": 3,
-              "Price": 4580
+              "Price": 4575
             }
           ],
           "SqFt": 1345,
@@ -4662,7 +4662,7 @@
           "FloorplanId": "378490",
           "FloorplanName": "Two Bedroom+Den B 1529",
           "Floor": "Floor 12",
-          "Description": "This 2 Bed with Den/ 2 Bath home offers spacious living room, an open style kitchen, a walk-in pantry and a balcony looking onto the city.",
+          "Description": "This 2 Bed with Den/ 2 Bath home offers spacious living room, an open style kitchen, a walk-in pantry and a balcony looking onto the city.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              ",
           "Amenities": [
             {
               "Name": "Balcony",
