@@ -703,106 +703,6 @@
         },
         {
           "LedgerId": "19288",
-          "UnitId": "108",
-          "BuildingId": "425",
-          "AvailableDate": "11/27/2023",
-          "BestTerm": {
-            "Length": 18,
-            "Price": 2235
-          },
-          "Terms": [
-            {
-              "Length": 18,
-              "Price": 2235
-            },
-            {
-              "Length": 17,
-              "Price": 2235
-            },
-            {
-              "Length": 12,
-              "Price": 2275
-            },
-            {
-              "Length": 11,
-              "Price": 2485
-            },
-            {
-              "Length": 10,
-              "Price": 2485
-            },
-            {
-              "Length": 9,
-              "Price": 2590
-            },
-            {
-              "Length": 8,
-              "Price": 2590
-            },
-            {
-              "Length": 7,
-              "Price": 2695
-            },
-            {
-              "Length": 6,
-              "Price": 2695
-            },
-            {
-              "Length": 5,
-              "Price": 2800
-            },
-            {
-              "Length": 4,
-              "Price": 2800
-            },
-            {
-              "Length": 3,
-              "Price": 2860
-            }
-          ],
-          "SqFt": 921,
-          "Bed": 1,
-          "Bath": 1,
-          "FloorplanId": "381602",
-          "FloorplanName": "One Bedroom E 921",
-          "Floor": "Floor 1",
-          "Description": "This 1 Bed/ 1 Bath courtyard level home offers a plenty of closet space, double kitchen counters and an attached patio. A glass stand in shower in the bathroom and a spacious bedroom for a queen size bed.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            ",
-          "Amenities": [
-            {
-              "Name": "Eastern Exposure",
-              "Icon": "",
-              "AmenCode": "EXPE"
-            },
-            {
-              "Name": "Private Subterranean Patio",
-              "Icon": "",
-              "AmenCode": "U10"
-            },
-            {
-              "Name": "Smart Home",
-              "Icon": "",
-              "AmenCode": "Z75"
-            }
-          ],
-          "Special": {
-            "Active": true,
-            "Title": "Up to $1500 off move-in costs! Offer is for new residents only - Onsite transfers excluded.",
-            "Expires": "11/30/2023"
-          },
-          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-381602-1-1-921",
-          "Photos": [],
-          "Videos": [],
-          "Matterports": [],
-          "Zillows": [],
-          "AccordionPhoto": null,
-          "ExcludeFromOll": false,
-          "FurnishAvailable": false,
-          "BestTermFurnished": null,
-          "FurnishedTerms": [],
-          "SpecialAmount": 200
-        },
-        {
-          "LedgerId": "19288",
           "UnitId": "1209",
           "BuildingId": "425",
           "AvailableDate": "2/16/2024",
@@ -4128,20 +4028,20 @@
       "PhoneNumber": "(844) 855-8751"
     },
     {
-      "IlsId": 107,
-      "PhoneNumber": "(202) 908-6296"
-    },
-    {
-      "IlsId": 108,
-      "PhoneNumber": "(202) 908-6284"
-    },
-    {
       "IlsId": 110,
       "PhoneNumber": "(844) 842-1353"
     },
     {
       "IlsId": 115,
       "PhoneNumber": "(844) 855-8750"
+    },
+    {
+      "IlsId": 108,
+      "PhoneNumber": "(202) 908-6284"
+    },
+    {
+      "IlsId": 107,
+      "PhoneNumber": "(202) 908-6296"
     }
   ],
   "PaidSearchPhone": "(202) 908-6292",
