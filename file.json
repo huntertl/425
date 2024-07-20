@@ -7,53 +7,205 @@
       "AvailableUnits": [
         {
           "LedgerId": "19288",
+          "UnitId": "611",
+          "BuildingId": "401",
+          "AvailableDate": "7/26/2024",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 2261
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 2261
+            },
+            {
+              "Length": 11,
+              "Price": 2476
+            },
+            {
+              "Length": 10,
+              "Price": 2476
+            },
+            {
+              "Length": 9,
+              "Price": 2586
+            },
+            {
+              "Length": 8,
+              "Price": 2586
+            },
+            {
+              "Length": 7,
+              "Price": 2691
+            },
+            {
+              "Length": 6,
+              "Price": 2691
+            },
+            {
+              "Length": 5,
+              "Price": 2801
+            },
+            {
+              "Length": 4,
+              "Price": 2801
+            },
+            {
+              "Length": 3,
+              "Price": 2861
+            }
+          ],
+          "SqFt": 503,
+          "Bed": 0,
+          "Bath": 1,
+          "FloorplanId": "00002651",
+          "FloorplanName": "Unit 411",
+          "Floor": "Floor 6",
+          "Description": "This Studio home features a fluid living space with two closets, a galley style kitchen, floor to ceiling windows and a balcony overlooking our private courtyard.",
+          "Amenities": [
+            {
+              "Name": "Juliet Balcony",
+              "Icon": "",
+              "AmenCode": "U51"
+            },
+            {
+              "Name": "Northern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPN"
+            },
+            {
+              "Name": "Smart Home",
+              "Icon": "",
+              "AmenCode": "Z75"
+            },
+            {
+              "Name": "Western Exposure",
+              "Icon": "",
+              "AmenCode": "EXPW"
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002651-0-1-506",
+          "Photos": [
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-165/425-mass-apartments-bathroom",
+              "Alt": "425 Mass Apartments - Bathroom",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 537822,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Bathroom",
+              "DisplayOrder": 3,
+              "MediaId": 34031
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-166/425-mass-apartments-kitchen",
+              "Alt": "425 Mass Apartments - Kitchen",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 537835,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Kitchen with Stainless Steel Appliances and In-home Washer and Dryer",
+              "DisplayOrder": 1,
+              "MediaId": 34032
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-167/425-mass-apartments-studio",
+              "Alt": "425 Mass Apartments - Studio",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 537848,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Studio with Balcony and Hard Surface Flooring",
+              "DisplayOrder": 2,
+              "MediaId": 34033
+            }
+          ],
+          "Videos": [
+            {
+              "Key": "JYBSO5Dmyv0",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "425 Mass Apartments - Mt  Vernon Triangle - Unit 411 Apt 401 1111",
+              "DisplayOrder": 0,
+              "MediaId": 35691
+            }
+          ],
+          "Matterports": [],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 0
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "1227",
           "BuildingId": "425",
           "AvailableDate": "9/28/2024",
           "BestTerm": {
             "Length": 12,
-            "Price": 2371
+            "Price": 2366
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 2371
+              "Price": 2366
             },
             {
               "Length": 11,
-              "Price": 2596
+              "Price": 2591
             },
             {
               "Length": 10,
-              "Price": 2596
+              "Price": 2591
             },
             {
               "Length": 9,
-              "Price": 2706
+              "Price": 2701
             },
             {
               "Length": 8,
-              "Price": 2706
+              "Price": 2701
             },
             {
               "Length": 7,
-              "Price": 2816
+              "Price": 2811
             },
             {
               "Length": 6,
-              "Price": 2816
+              "Price": 2811
             },
             {
               "Length": 5,
-              "Price": 2931
+              "Price": 2926
             },
             {
               "Length": 4,
-              "Price": 2931
+              "Price": 2926
             },
             {
               "Length": 3,
-              "Price": 2996
+              "Price": 2991
             }
           ],
           "SqFt": 504,
@@ -178,48 +330,48 @@
           "AvailableDate": "8/7/2024",
           "BestTerm": {
             "Length": 12,
-            "Price": 2405
+            "Price": 2395
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 2405
+              "Price": 2395
             },
             {
               "Length": 11,
-              "Price": 2630
+              "Price": 2615
             },
             {
               "Length": 10,
-              "Price": 2630
+              "Price": 2615
             },
             {
               "Length": 9,
-              "Price": 2740
+              "Price": 2730
             },
             {
               "Length": 8,
-              "Price": 2740
+              "Price": 2730
             },
             {
               "Length": 7,
-              "Price": 2850
+              "Price": 2840
             },
             {
               "Length": 6,
-              "Price": 2850
+              "Price": 2840
             },
             {
               "Length": 5,
-              "Price": 2960
+              "Price": 2950
             },
             {
               "Length": 4,
-              "Price": 2960
+              "Price": 2950
             },
             {
               "Length": 3,
-              "Price": 3030
+              "Price": 3015
             }
           ],
           "SqFt": 615,
@@ -242,9 +394,9 @@
             }
           ],
           "Special": {
-            "Active": false,
-            "Title": null,
-            "Expires": null
+            "Active": true,
+            "Title": "Get up to a half month free on new homes! Offer available to new residents only.",
+            "Expires": "8/2/2024"
           },
           "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002664-0-1-615",
           "Photos": [
@@ -329,48 +481,48 @@
           "AvailableDate": "8/15/2024",
           "BestTerm": {
             "Length": 12,
-            "Price": 2490
+            "Price": 2475
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 2490
+              "Price": 2475
             },
             {
               "Length": 11,
-              "Price": 2720
+              "Price": 2700
             },
             {
               "Length": 10,
-              "Price": 2720
+              "Price": 2700
             },
             {
               "Length": 9,
-              "Price": 2830
+              "Price": 2815
             },
             {
               "Length": 8,
-              "Price": 2830
+              "Price": 2815
             },
             {
               "Length": 7,
-              "Price": 2945
+              "Price": 2925
             },
             {
               "Length": 6,
-              "Price": 2945
+              "Price": 2925
             },
             {
               "Length": 5,
-              "Price": 3060
+              "Price": 3040
             },
             {
               "Length": 4,
-              "Price": 3060
+              "Price": 3040
             },
             {
               "Length": 3,
-              "Price": 3125
+              "Price": 3110
             }
           ],
           "SqFt": 615,
@@ -398,9 +550,9 @@
             }
           ],
           "Special": {
-            "Active": false,
-            "Title": null,
-            "Expires": null
+            "Active": true,
+            "Title": "Get up to a half month free on new homes! Offer available to new residents only.",
+            "Expires": "8/2/2024"
           },
           "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002664-0-1-615",
           "Photos": [
@@ -485,48 +637,48 @@
           "AvailableDate": "9/11/2024",
           "BestTerm": {
             "Length": 12,
-            "Price": 2505
+            "Price": 2490
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 2505
+              "Price": 2490
             },
             {
               "Length": 11,
-              "Price": 2730
+              "Price": 2715
             },
             {
               "Length": 10,
-              "Price": 2730
+              "Price": 2715
             },
             {
               "Length": 9,
-              "Price": 2845
+              "Price": 2830
             },
             {
               "Length": 8,
-              "Price": 2845
+              "Price": 2830
             },
             {
               "Length": 7,
-              "Price": 2960
+              "Price": 2940
             },
             {
               "Length": 6,
-              "Price": 2960
+              "Price": 2940
             },
             {
               "Length": 5,
-              "Price": 3075
+              "Price": 3055
             },
             {
               "Length": 4,
-              "Price": 3075
+              "Price": 3055
             },
             {
               "Length": 3,
-              "Price": 3140
+              "Price": 3120
             }
           ],
           "SqFt": 545,
@@ -648,48 +800,48 @@
           "AvailableDate": "9/6/2024",
           "BestTerm": {
             "Length": 12,
-            "Price": 2415
+            "Price": 2430
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 2415
+              "Price": 2430
             },
             {
               "Length": 11,
-              "Price": 2655
+              "Price": 2670
             },
             {
               "Length": 10,
-              "Price": 2655
+              "Price": 2670
             },
             {
               "Length": 9,
-              "Price": 2770
+              "Price": 2790
             },
             {
               "Length": 8,
-              "Price": 2770
+              "Price": 2790
             },
             {
               "Length": 7,
-              "Price": 2890
+              "Price": 2910
             },
             {
               "Length": 6,
-              "Price": 2890
+              "Price": 2910
             },
             {
               "Length": 5,
-              "Price": 3010
+              "Price": 3030
             },
             {
               "Length": 4,
-              "Price": 3010
+              "Price": 3030
             },
             {
               "Length": 3,
-              "Price": 3080
+              "Price": 3100
             }
           ],
           "SqFt": 655,
@@ -825,48 +977,48 @@
           "AvailableDate": "8/21/2024",
           "BestTerm": {
             "Length": 12,
-            "Price": 2416
+            "Price": 2431
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 2416
+              "Price": 2431
             },
             {
               "Length": 11,
-              "Price": 2656
+              "Price": 2671
             },
             {
               "Length": 10,
-              "Price": 2656
+              "Price": 2671
             },
             {
               "Length": 9,
-              "Price": 2771
+              "Price": 2791
             },
             {
               "Length": 8,
-              "Price": 2771
+              "Price": 2791
             },
             {
               "Length": 7,
-              "Price": 2891
+              "Price": 2911
             },
             {
               "Length": 6,
-              "Price": 2891
+              "Price": 2911
             },
             {
               "Length": 5,
-              "Price": 3011
+              "Price": 3031
             },
             {
               "Length": 4,
-              "Price": 3011
+              "Price": 3031
             },
             {
               "Length": 3,
-              "Price": 3081
+              "Price": 3101
             }
           ],
           "SqFt": 638,
@@ -889,9 +1041,9 @@
             }
           ],
           "Special": {
-            "Active": false,
-            "Title": null,
-            "Expires": null
+            "Active": true,
+            "Title": "Get up to a half month free on new homes! Offer available to new residents only.",
+            "Expires": "8/2/2024"
           },
           "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378476-1-1-638",
           "Photos": [
@@ -1035,48 +1187,48 @@
           "AvailableDate": "9/10/2024",
           "BestTerm": {
             "Length": 12,
-            "Price": 2425
+            "Price": 2440
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 2425
+              "Price": 2440
             },
             {
               "Length": 11,
-              "Price": 2665
+              "Price": 2680
             },
             {
               "Length": 10,
-              "Price": 2665
+              "Price": 2680
             },
             {
               "Length": 9,
-              "Price": 2780
+              "Price": 2800
             },
             {
               "Length": 8,
-              "Price": 2780
+              "Price": 2800
             },
             {
               "Length": 7,
-              "Price": 2900
+              "Price": 2920
             },
             {
               "Length": 6,
-              "Price": 2900
+              "Price": 2920
             },
             {
               "Length": 5,
-              "Price": 3020
+              "Price": 3040
             },
             {
               "Length": 4,
-              "Price": 3020
+              "Price": 3040
             },
             {
               "Length": 3,
-              "Price": 3090
+              "Price": 3110
             }
           ],
           "SqFt": 655,
@@ -1207,53 +1359,239 @@
         },
         {
           "LedgerId": "19288",
+          "UnitId": "208",
+          "BuildingId": "401",
+          "AvailableDate": "9/20/2024",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 2495
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 2495
+            },
+            {
+              "Length": 11,
+              "Price": 2735
+            },
+            {
+              "Length": 10,
+              "Price": 2735
+            },
+            {
+              "Length": 9,
+              "Price": 2855
+            },
+            {
+              "Length": 8,
+              "Price": 2855
+            },
+            {
+              "Length": 7,
+              "Price": 2970
+            },
+            {
+              "Length": 6,
+              "Price": 2970
+            },
+            {
+              "Length": 5,
+              "Price": 3090
+            },
+            {
+              "Length": 4,
+              "Price": 3090
+            },
+            {
+              "Length": 3,
+              "Price": 3165
+            }
+          ],
+          "SqFt": 691,
+          "Bed": 1,
+          "Bath": 1,
+          "FloorplanId": "00002665",
+          "FloorplanName": "Unit 106, 107, 108, 206, 207, 208",
+          "Floor": "Floor 2",
+          "Description": "This apartment home offers an open style kitchen and breakfast bar, as well as a walk-out patio with direct street access from the living room. The bedroom can accommodate up to a Queen size bed and the bathroom is spacious.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        ",
+          "Amenities": [
+            {
+              "Name": "Balcony",
+              "Icon": "",
+              "AmenCode": "U08"
+            },
+            {
+              "Name": "Eastern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPE"
+            },
+            {
+              "Name": "Smart Home",
+              "Icon": "",
+              "AmenCode": "Z75"
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002665-1-1-691",
+          "Photos": [
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-210/425-mass-apartments-bathroom",
+              "Alt": "425 Mass Apartments - Bathroom",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 583213,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Bathroom and In-home Washer and Dryer",
+              "DisplayOrder": 4,
+              "MediaId": 36244
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-211/425-mass-apartments-bedroom",
+              "Alt": "425 Mass Apartments - Bedroom",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 583219,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Carpeted Bedroom",
+              "DisplayOrder": 3,
+              "MediaId": 36245
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-208/425-mass-apartments-kitchen",
+              "Alt": "425 Mass Apartments - Kitchen",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 583225,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Kitchen with Stainless Steel Appliances",
+              "DisplayOrder": 1,
+              "MediaId": 36246
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-209/425-mass-apartments-living-room",
+              "Alt": "425 Mass Apartments - Living Room",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 583231,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Living Room with Patio and Hard Surface Flooring",
+              "DisplayOrder": 2,
+              "MediaId": 36247
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-212/425-mass-apartments-patio",
+              "Alt": "425 Mass Apartments - Patio",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 583237,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Patio",
+              "DisplayOrder": 5,
+              "MediaId": 36248
+            }
+          ],
+          "Videos": [
+            {
+              "Key": "km8sAgQjLLo",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "425 Mass Apartments - Mt Vernon Triangle - Unit 106 - Unit 401 - 106",
+              "DisplayOrder": 0,
+              "MediaId": 36195
+            }
+          ],
+          "Matterports": [
+            {
+              "Key": "A5qUurmHBy3",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "3D Floorplan",
+              "DisplayOrder": 0,
+              "MediaId": 36309
+            }
+          ],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 0
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "407",
           "BuildingId": "401",
           "AvailableDate": "9/20/2024",
           "BestTerm": {
             "Length": 12,
-            "Price": 2545
+            "Price": 2555
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 2545
+              "Price": 2555
             },
             {
               "Length": 11,
-              "Price": 2785
+              "Price": 2795
             },
             {
               "Length": 10,
-              "Price": 2785
+              "Price": 2795
             },
             {
               "Length": 9,
-              "Price": 2900
+              "Price": 2915
             },
             {
               "Length": 8,
-              "Price": 2900
+              "Price": 2915
             },
             {
               "Length": 7,
-              "Price": 3020
+              "Price": 3030
             },
             {
               "Length": 6,
-              "Price": 3020
+              "Price": 3030
             },
             {
               "Length": 5,
-              "Price": 3140
+              "Price": 3150
             },
             {
               "Length": 4,
-              "Price": 3140
+              "Price": 3150
             },
             {
               "Length": 3,
-              "Price": 3210
+              "Price": 3225
             }
           ],
           "SqFt": 694,
@@ -1398,313 +1736,53 @@
         },
         {
           "LedgerId": "19288",
-          "UnitId": "1108",
-          "BuildingId": "401",
-          "AvailableDate": "9/13/2024",
-          "BestTerm": {
-            "Length": 12,
-            "Price": 2590
-          },
-          "Terms": [
-            {
-              "Length": 12,
-              "Price": 2590
-            },
-            {
-              "Length": 11,
-              "Price": 2830
-            },
-            {
-              "Length": 10,
-              "Price": 2830
-            },
-            {
-              "Length": 9,
-              "Price": 2950
-            },
-            {
-              "Length": 8,
-              "Price": 2950
-            },
-            {
-              "Length": 7,
-              "Price": 3065
-            },
-            {
-              "Length": 6,
-              "Price": 3065
-            },
-            {
-              "Length": 5,
-              "Price": 3185
-            },
-            {
-              "Length": 4,
-              "Price": 3185
-            },
-            {
-              "Length": 3,
-              "Price": 3260
-            }
-          ],
-          "SqFt": 702,
-          "Bed": 1,
-          "Bath": 1,
-          "FloorplanId": "00002647",
-          "FloorplanName": "Unit 406, 408",
-          "Floor": "Floor 11",
-          "Description": "This apartment home offers a living room with floor to ceiling windows, a built-in bookcase and a kitchen that opens out to the living room! The bedroom is spacious queen bed and features a step-in closet and an attached balcony.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 ",
-          "Amenities": [
-            {
-              "Name": "Balcony",
-              "Icon": "",
-              "AmenCode": "U08"
-            },
-            {
-              "Name": "Eastern Exposure",
-              "Icon": "",
-              "AmenCode": "EXPE"
-            },
-            {
-              "Name": "Smart Home",
-              "Icon": "",
-              "AmenCode": "Z75"
-            }
-          ],
-          "Special": {
-            "Active": false,
-            "Title": null,
-            "Expires": null
-          },
-          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002647-1-1-702",
-          "Photos": [
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-149/425-mass-apartments-balcony",
-              "Alt": "425 Mass Apartments - Balcony",
-              "CropX": 0,
-              "CropY": 0,
-              "Key": null,
-              "SeoName": null,
-              "Id": 510989,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Balcony",
-              "DisplayOrder": 10,
-              "MediaId": 32424
-            },
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-147/425-mass-apartments-bathroom-and-in-home-washer-and-dryer",
-              "Alt": "425 Mass Apartments - Bathroom",
-              "CropX": 0,
-              "CropY": 0,
-              "Key": null,
-              "SeoName": null,
-              "Id": 511011,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Bathroom and In-home washer and Dryer",
-              "DisplayOrder": 7,
-              "MediaId": 32425
-            },
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-148/425-mass-apartments-bedroom",
-              "Alt": "425 Mass Apartments - Bedroom",
-              "CropX": 0,
-              "CropY": 0,
-              "Key": null,
-              "SeoName": null,
-              "Id": 511033,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Carpeted Bedroom",
-              "DisplayOrder": 5,
-              "MediaId": 32426
-            },
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-145/425-mass-apartments-kitchen",
-              "Alt": "425 Mass Apartments - Kitchen",
-              "CropX": 0,
-              "CropY": 0,
-              "Key": null,
-              "SeoName": null,
-              "Id": 511055,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Kitchen with Stainless Steel Appliances",
-              "DisplayOrder": 2,
-              "MediaId": 32427
-            },
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-146/425-mass-apartments-dining-room",
-              "Alt": "425 Mass Apartments - Dining Room",
-              "CropX": 0,
-              "CropY": 0,
-              "Key": null,
-              "SeoName": null,
-              "Id": 511077,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Dining Room with Hard Surface Flooring",
-              "DisplayOrder": 4,
-              "MediaId": 32428
-            },
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-164/425-mass-apartments-balcony",
-              "Alt": "425 Mass Apartments - Balcony",
-              "CropX": 0,
-              "CropY": 0,
-              "Key": null,
-              "SeoName": null,
-              "Id": 537708,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Balcony",
-              "DisplayOrder": 9,
-              "MediaId": 34026
-            },
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-162/425-mass-apartments-bathroom",
-              "Alt": "425 Mass Apartments - Bathroom",
-              "CropX": 0,
-              "CropY": 0,
-              "Key": null,
-              "SeoName": null,
-              "Id": 537730,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Bathroom with In-home Washer and Dryer",
-              "DisplayOrder": 8,
-              "MediaId": 34027
-            },
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-163/425-mass-apartments-bedroom",
-              "Alt": "425 Mass Apartments - Bedroom",
-              "CropX": 0,
-              "CropY": 0,
-              "Key": null,
-              "SeoName": null,
-              "Id": 537752,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Carpeted Bedroom",
-              "DisplayOrder": 6,
-              "MediaId": 34028
-            },
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-160/425-mass-apartments-kitchen",
-              "Alt": "425 Mass Apartments - Kitchen",
-              "CropX": 0,
-              "CropY": 0,
-              "Key": null,
-              "SeoName": null,
-              "Id": 537774,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Kitchen with Stainless Steel Appliances",
-              "DisplayOrder": 1,
-              "MediaId": 34029
-            },
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-161/425-mass-apartments-living-room",
-              "Alt": "425 Mass Apartments - Living Room",
-              "CropX": 0,
-              "CropY": 0,
-              "Key": null,
-              "SeoName": null,
-              "Id": 537796,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Living Room with Hard Surface Flooring",
-              "DisplayOrder": 3,
-              "MediaId": 34030
-            }
-          ],
-          "Videos": [
-            {
-              "Key": "MuF_JuVSK-8",
-              "Id": 0,
-              "MediaTags": null,
-              "Caption": "425 Mass Apartments - Mt. Vernon Triangle - Unit 406 408 Apt 401 806",
-              "DisplayOrder": 0,
-              "MediaId": 33063
-            },
-            {
-              "Key": "AZ72uAl1p24",
-              "Id": 0,
-              "MediaTags": null,
-              "Caption": "425 Mass Apartments - Mt  Vernon Triangle - Unit 406 - 408 - Apt 401 708",
-              "DisplayOrder": 0,
-              "MediaId": 35690
-            }
-          ],
-          "Matterports": [],
-          "Zillows": [],
-          "AccordionPhoto": null,
-          "ExcludeFromOll": false,
-          "FurnishAvailable": false,
-          "BestTermFurnished": null,
-          "FurnishedTerms": [],
-          "SpecialAmount": 0
-        },
-        {
-          "LedgerId": "19288",
           "UnitId": "1009",
           "BuildingId": "401",
           "AvailableDate": "8/21/2024",
           "BestTerm": {
             "Length": 12,
-            "Price": 2628
+            "Price": 2643
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 2628
+              "Price": 2643
             },
             {
               "Length": 11,
-              "Price": 2868
+              "Price": 2883
             },
             {
               "Length": 10,
-              "Price": 2868
+              "Price": 2883
             },
             {
               "Length": 9,
-              "Price": 2983
+              "Price": 3003
             },
             {
               "Length": 8,
-              "Price": 2983
+              "Price": 3003
             },
             {
               "Length": 7,
-              "Price": 3103
+              "Price": 3123
             },
             {
               "Length": 6,
-              "Price": 3103
+              "Price": 3123
             },
             {
               "Length": 5,
-              "Price": 3223
+              "Price": 3243
             },
             {
               "Length": 4,
-              "Price": 3223
+              "Price": 3243
             },
             {
               "Length": 3,
-              "Price": 3293
+              "Price": 3313
             }
           ],
           "SqFt": 726,
@@ -1742,9 +1820,9 @@
             }
           ],
           "Special": {
-            "Active": false,
-            "Title": null,
-            "Expires": null
+            "Active": true,
+            "Title": "Get up to a half month free on new homes! Offer available to new residents only.",
+            "Expires": "8/2/2024"
           },
           "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002649-1-1-726",
           "Photos": [
@@ -1859,48 +1937,48 @@
           "AvailableDate": "8/8/2024",
           "BestTerm": {
             "Length": 12,
-            "Price": 2656
+            "Price": 2666
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 2656
+              "Price": 2666
             },
             {
               "Length": 11,
-              "Price": 2896
+              "Price": 2906
             },
             {
               "Length": 10,
-              "Price": 2896
+              "Price": 2906
             },
             {
               "Length": 9,
-              "Price": 3016
+              "Price": 3026
             },
             {
               "Length": 8,
-              "Price": 3016
+              "Price": 3026
             },
             {
               "Length": 7,
-              "Price": 3131
+              "Price": 3146
             },
             {
               "Length": 6,
-              "Price": 3131
+              "Price": 3146
             },
             {
               "Length": 5,
-              "Price": 3251
+              "Price": 3266
             },
             {
               "Length": 4,
-              "Price": 3251
+              "Price": 3266
             },
             {
               "Length": 3,
-              "Price": 3326
+              "Price": 3336
             }
           ],
           "SqFt": 823,
@@ -1933,9 +2011,9 @@
             }
           ],
           "Special": {
-            "Active": false,
-            "Title": null,
-            "Expires": null
+            "Active": true,
+            "Title": "Get up to a half month free on new homes! Offer available to new residents only.",
+            "Expires": "8/2/2024"
           },
           "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002287-1-1-823",
           "Photos": [
@@ -2050,48 +2128,48 @@
           "AvailableDate": "8/10/2024",
           "BestTerm": {
             "Length": 12,
-            "Price": 2777
+            "Price": 2787
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 2777
+              "Price": 2787
             },
             {
               "Length": 11,
-              "Price": 3017
+              "Price": 3027
             },
             {
               "Length": 10,
-              "Price": 3017
+              "Price": 3027
             },
             {
               "Length": 9,
-              "Price": 3137
+              "Price": 3147
             },
             {
               "Length": 8,
-              "Price": 3137
+              "Price": 3147
             },
             {
               "Length": 7,
-              "Price": 3252
+              "Price": 3267
             },
             {
               "Length": 6,
-              "Price": 3252
+              "Price": 3267
             },
             {
               "Length": 5,
-              "Price": 3372
+              "Price": 3387
             },
             {
               "Length": 4,
-              "Price": 3372
+              "Price": 3387
             },
             {
               "Length": 3,
-              "Price": 3447
+              "Price": 3457
             }
           ],
           "SqFt": 825,
@@ -2114,9 +2192,9 @@
             }
           ],
           "Special": {
-            "Active": false,
-            "Title": null,
-            "Expires": null
+            "Active": true,
+            "Title": "Get up to a half month free on new homes! Offer available to new residents only.",
+            "Expires": "8/2/2024"
           },
           "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378479-1-1-825",
           "Photos": [],
@@ -2137,48 +2215,48 @@
           "AvailableDate": "7/25/2024",
           "BestTerm": {
             "Length": 12,
-            "Price": 2887
+            "Price": 2892
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 2887
+              "Price": 2892
             },
             {
               "Length": 11,
-              "Price": 3122
+              "Price": 3127
             },
             {
               "Length": 10,
-              "Price": 3122
+              "Price": 3127
             },
             {
               "Length": 9,
-              "Price": 3237
+              "Price": 3247
             },
             {
               "Length": 8,
-              "Price": 3237
+              "Price": 3247
             },
             {
               "Length": 7,
-              "Price": 3357
+              "Price": 3362
             },
             {
               "Length": 6,
-              "Price": 3357
+              "Price": 3362
             },
             {
               "Length": 5,
-              "Price": 3472
+              "Price": 3482
             },
             {
               "Length": 4,
-              "Price": 3472
+              "Price": 3482
             },
             {
               "Length": 3,
-              "Price": 3542
+              "Price": 3552
             }
           ],
           "SqFt": 891,
@@ -2211,9 +2289,9 @@
             }
           ],
           "Special": {
-            "Active": false,
-            "Title": null,
-            "Expires": null
+            "Active": true,
+            "Title": "Get up to a half month free on new homes! Offer available to new residents only.",
+            "Expires": "8/2/2024"
           },
           "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002290-1-1-891",
           "Photos": [],
@@ -2234,48 +2312,48 @@
           "AvailableDate": "7/20/2024",
           "BestTerm": {
             "Length": 12,
-            "Price": 2912
+            "Price": 2917
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 2912
+              "Price": 2917
             },
             {
               "Length": 11,
-              "Price": 3147
+              "Price": 3152
             },
             {
               "Length": 10,
-              "Price": 3147
+              "Price": 3152
             },
             {
               "Length": 9,
-              "Price": 3262
+              "Price": 3272
             },
             {
               "Length": 8,
-              "Price": 3262
+              "Price": 3272
             },
             {
               "Length": 7,
-              "Price": 3382
+              "Price": 3387
             },
             {
               "Length": 6,
-              "Price": 3382
+              "Price": 3387
             },
             {
               "Length": 5,
-              "Price": 3497
+              "Price": 3507
             },
             {
               "Length": 4,
-              "Price": 3497
+              "Price": 3507
             },
             {
               "Length": 3,
-              "Price": 3567
+              "Price": 3577
             }
           ],
           "SqFt": 1027,
@@ -2308,9 +2386,9 @@
             }
           ],
           "Special": {
-            "Active": false,
-            "Title": null,
-            "Expires": null
+            "Active": true,
+            "Title": "Get up to a half month free on new homes! Offer available to new residents only.",
+            "Expires": "8/2/2024"
           },
           "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378482-1-1-907",
           "Photos": [],
@@ -2331,48 +2409,48 @@
           "AvailableDate": "10/18/2024",
           "BestTerm": {
             "Length": 12,
-            "Price": 3015
+            "Price": 3020
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 3015
+              "Price": 3020
             },
             {
               "Length": 11,
-              "Price": 3300
+              "Price": 3305
             },
             {
               "Length": 10,
-              "Price": 3300
+              "Price": 3305
             },
             {
               "Length": 9,
-              "Price": 3445
+              "Price": 3450
             },
             {
               "Length": 8,
-              "Price": 3445
+              "Price": 3450
             },
             {
               "Length": 7,
-              "Price": 3585
+              "Price": 3590
             },
             {
               "Length": 6,
-              "Price": 3585
+              "Price": 3590
             },
             {
               "Length": 5,
-              "Price": 3730
+              "Price": 3735
             },
             {
               "Length": 4,
-              "Price": 3730
+              "Price": 3735
             },
             {
               "Length": 3,
-              "Price": 3815
+              "Price": 3820
             }
           ],
           "SqFt": 1052,
@@ -2492,9 +2570,9 @@
             }
           ],
           "Special": {
-            "Active": false,
-            "Title": null,
-            "Expires": null
+            "Active": true,
+            "Title": "Get up to a half month free on new homes! Offer available to new residents only.",
+            "Expires": "8/2/2024"
           },
           "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378480-1-2-979",
           "Photos": [
@@ -2624,48 +2702,48 @@
           "AvailableDate": "10/1/2024",
           "BestTerm": {
             "Length": 12,
-            "Price": 3070
+            "Price": 3080
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 3070
+              "Price": 3080
             },
             {
               "Length": 11,
-              "Price": 3360
+              "Price": 3370
             },
             {
               "Length": 10,
-              "Price": 3360
+              "Price": 3370
             },
             {
               "Length": 9,
-              "Price": 3500
+              "Price": 3515
             },
             {
               "Length": 8,
-              "Price": 3500
+              "Price": 3515
             },
             {
               "Length": 7,
-              "Price": 3645
+              "Price": 3660
             },
             {
               "Length": 6,
-              "Price": 3645
+              "Price": 3660
             },
             {
               "Length": 5,
-              "Price": 3790
+              "Price": 3805
             },
             {
               "Length": 4,
-              "Price": 3790
+              "Price": 3805
             },
             {
               "Length": 3,
-              "Price": 3875
+              "Price": 3890
             }
           ],
           "SqFt": 1000,
@@ -2825,48 +2903,48 @@
           "AvailableDate": "8/23/2024",
           "BestTerm": {
             "Length": 12,
-            "Price": 3170
+            "Price": 3175
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 3170
+              "Price": 3175
             },
             {
               "Length": 11,
-              "Price": 3460
+              "Price": 3465
             },
             {
               "Length": 10,
-              "Price": 3460
+              "Price": 3465
             },
             {
               "Length": 9,
-              "Price": 3600
+              "Price": 3605
             },
             {
               "Length": 8,
-              "Price": 3600
+              "Price": 3605
             },
             {
               "Length": 7,
-              "Price": 3745
+              "Price": 3750
             },
             {
               "Length": 6,
-              "Price": 3745
+              "Price": 3750
             },
             {
               "Length": 5,
-              "Price": 3890
+              "Price": 3895
             },
             {
               "Length": 4,
-              "Price": 3890
+              "Price": 3895
             },
             {
               "Length": 3,
-              "Price": 3975
+              "Price": 3980
             }
           ],
           "SqFt": 999,
@@ -2894,9 +2972,9 @@
             }
           ],
           "Special": {
-            "Active": false,
-            "Title": null,
-            "Expires": null
+            "Active": true,
+            "Title": "Get up to a half month free on new homes! Offer available to new residents only.",
+            "Expires": "8/2/2024"
           },
           "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378480-1-2-979",
           "Photos": [
@@ -3095,9 +3173,9 @@
             }
           ],
           "Special": {
-            "Active": false,
-            "Title": null,
-            "Expires": null
+            "Active": true,
+            "Title": "Get up to a half month free on new homes! Offer available to new residents only.",
+            "Expires": "8/2/2024"
           },
           "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378483-1-2-1293",
           "Photos": [
@@ -3134,48 +3212,48 @@
           "AvailableDate": "8/6/2024",
           "BestTerm": {
             "Length": 12,
-            "Price": 3465
+            "Price": 3470
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 3465
+              "Price": 3470
             },
             {
               "Length": 11,
-              "Price": 3755
+              "Price": 3760
             },
             {
               "Length": 10,
-              "Price": 3755
+              "Price": 3760
             },
             {
               "Length": 9,
-              "Price": 3900
+              "Price": 3905
             },
             {
               "Length": 8,
-              "Price": 3900
+              "Price": 3905
             },
             {
               "Length": 7,
-              "Price": 4045
+              "Price": 4050
             },
             {
               "Length": 6,
-              "Price": 4045
+              "Price": 4050
             },
             {
               "Length": 5,
-              "Price": 4190
+              "Price": 4195
             },
             {
               "Length": 4,
-              "Price": 4190
+              "Price": 4195
             },
             {
               "Length": 3,
-              "Price": 4275
+              "Price": 4280
             }
           ],
           "SqFt": 1293,
@@ -3203,9 +3281,9 @@
             }
           ],
           "Special": {
-            "Active": false,
-            "Title": null,
-            "Expires": null
+            "Active": true,
+            "Title": "Get up to a half month free on new homes! Offer available to new residents only.",
+            "Expires": "8/2/2024"
           },
           "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378483-1-2-1293",
           "Photos": [
@@ -3249,48 +3327,48 @@
           "AvailableDate": "9/18/2024",
           "BestTerm": {
             "Length": 12,
-            "Price": 3861
+            "Price": 3801
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 3861
+              "Price": 3801
             },
             {
               "Length": 11,
-              "Price": 4241
+              "Price": 4176
             },
             {
               "Length": 10,
-              "Price": 4241
+              "Price": 4176
             },
             {
               "Length": 9,
-              "Price": 4431
+              "Price": 4361
             },
             {
               "Length": 8,
-              "Price": 4431
+              "Price": 4361
             },
             {
               "Length": 7,
-              "Price": 4621
+              "Price": 4546
             },
             {
               "Length": 6,
-              "Price": 4621
+              "Price": 4546
             },
             {
               "Length": 5,
-              "Price": 4811
+              "Price": 4736
             },
             {
               "Length": 4,
-              "Price": 4811
+              "Price": 4736
             },
             {
               "Length": 3,
-              "Price": 4926
+              "Price": 4846
             }
           ],
           "SqFt": 1340,
@@ -3525,48 +3603,48 @@
           "AvailableDate": "7/20/2024",
           "BestTerm": {
             "Length": 12,
-            "Price": 3874
+            "Price": 3804
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 3874
+              "Price": 3804
             },
             {
               "Length": 11,
-              "Price": 4244
+              "Price": 4169
             },
             {
               "Length": 10,
-              "Price": 4244
+              "Price": 4169
             },
             {
               "Length": 9,
-              "Price": 4429
+              "Price": 4349
             },
             {
               "Length": 8,
-              "Price": 4429
+              "Price": 4349
             },
             {
               "Length": 7,
-              "Price": 4614
+              "Price": 4529
             },
             {
               "Length": 6,
-              "Price": 4614
+              "Price": 4529
             },
             {
               "Length": 5,
-              "Price": 4799
+              "Price": 4709
             },
             {
               "Length": 4,
-              "Price": 4799
+              "Price": 4709
             },
             {
               "Length": 3,
-              "Price": 4909
+              "Price": 4819
             }
           ],
           "SqFt": 1284,
@@ -3594,9 +3672,9 @@
             }
           ],
           "Special": {
-            "Active": false,
-            "Title": null,
-            "Expires": null
+            "Active": true,
+            "Title": "Get up to a half month free on new homes! Offer available to new residents only.",
+            "Expires": "8/2/2024"
           },
           "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002644-2-2-1284",
           "Photos": [
@@ -3642,48 +3720,48 @@
           "AvailableDate": "9/11/2024",
           "BestTerm": {
             "Length": 12,
-            "Price": 3985
+            "Price": 3925
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 3985
+              "Price": 3925
             },
             {
               "Length": 11,
-              "Price": 4365
+              "Price": 4300
             },
             {
               "Length": 10,
-              "Price": 4365
+              "Price": 4300
             },
             {
               "Length": 9,
-              "Price": 4555
+              "Price": 4485
             },
             {
               "Length": 8,
-              "Price": 4555
+              "Price": 4485
             },
             {
               "Length": 7,
-              "Price": 4745
+              "Price": 4670
             },
             {
               "Length": 6,
-              "Price": 4745
+              "Price": 4670
             },
             {
               "Length": 5,
-              "Price": 4935
+              "Price": 4860
             },
             {
               "Length": 4,
-              "Price": 4935
+              "Price": 4860
             },
             {
               "Length": 3,
-              "Price": 5050
+              "Price": 4970
             }
           ],
           "SqFt": 1284,
@@ -3759,48 +3837,48 @@
           "AvailableDate": "7/20/2024",
           "BestTerm": {
             "Length": 12,
-            "Price": 4019
+            "Price": 3949
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 4019
+              "Price": 3949
             },
             {
               "Length": 11,
-              "Price": 4389
+              "Price": 4314
             },
             {
               "Length": 10,
-              "Price": 4389
+              "Price": 4314
             },
             {
               "Length": 9,
-              "Price": 4574
+              "Price": 4494
             },
             {
               "Length": 8,
-              "Price": 4574
+              "Price": 4494
             },
             {
               "Length": 7,
-              "Price": 4759
+              "Price": 4674
             },
             {
               "Length": 6,
-              "Price": 4759
+              "Price": 4674
             },
             {
               "Length": 5,
-              "Price": 4944
+              "Price": 4854
             },
             {
               "Length": 4,
-              "Price": 4944
+              "Price": 4854
             },
             {
               "Length": 3,
-              "Price": 5054
+              "Price": 4964
             }
           ],
           "SqFt": 1416,
@@ -3828,9 +3906,9 @@
             }
           ],
           "Special": {
-            "Active": false,
-            "Title": null,
-            "Expires": null
+            "Active": true,
+            "Title": "Get up to a half month free on new homes! Offer available to new residents only.",
+            "Expires": "8/2/2024"
           },
           "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378487-2-2-1493",
           "Photos": [
@@ -3871,170 +3949,53 @@
         },
         {
           "LedgerId": "19288",
-          "UnitId": "301",
-          "BuildingId": "425",
-          "AvailableDate": "8/3/2024",
-          "BestTerm": {
-            "Length": 12,
-            "Price": 4124
-          },
-          "Terms": [
-            {
-              "Length": 12,
-              "Price": 4124
-            },
-            {
-              "Length": 11,
-              "Price": 4504
-            },
-            {
-              "Length": 10,
-              "Price": 4504
-            },
-            {
-              "Length": 9,
-              "Price": 4694
-            },
-            {
-              "Length": 8,
-              "Price": 4694
-            },
-            {
-              "Length": 7,
-              "Price": 4884
-            },
-            {
-              "Length": 6,
-              "Price": 4884
-            },
-            {
-              "Length": 5,
-              "Price": 5079
-            },
-            {
-              "Length": 4,
-              "Price": 5079
-            },
-            {
-              "Length": 3,
-              "Price": 5189
-            }
-          ],
-          "SqFt": 1416,
-          "Bed": 2,
-          "Bath": 2,
-          "FloorplanId": "378487",
-          "FloorplanName": "Two Bedroom+Den Two Bath B 1493",
-          "Floor": "Floor 3",
-          "Description": "This 1 Bed with 2 Den/ 2 Bath home offers a large living room with floor to ceiling windows and a balcony overlooking the city. The main bedroom has plenty of closet space, double sinks and a stand-in shower in the en-suite bathroom.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ",
-          "Amenities": [
-            {
-              "Name": "Balcony",
-              "Icon": "",
-              "AmenCode": "U08"
-            },
-            {
-              "Name": "Smart Home",
-              "Icon": "",
-              "AmenCode": "Z75"
-            },
-            {
-              "Name": "Southern Exposure",
-              "Icon": "",
-              "AmenCode": "EXPS"
-            }
-          ],
-          "Special": {
-            "Active": false,
-            "Title": null,
-            "Expires": null
-          },
-          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-378487-2-2-1493",
-          "Photos": [
-            {
-              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-Unit404FP-9/425-mass-apartments-404fp",
-              "Alt": "425 Mass Apartments - 401FP",
-              "CropX": 0,
-              "CropY": 0,
-              "Key": null,
-              "SeoName": null,
-              "Id": 199994,
-              "MediaTags": [
-                "In Unit"
-              ],
-              "Caption": "Views from the Balcony",
-              "DisplayOrder": 0,
-              "MediaId": 14117
-            }
-          ],
-          "Videos": [
-            {
-              "Key": "ZB7nmAygVoM",
-              "Id": 0,
-              "MediaTags": null,
-              "Caption": "425 Mass Apartments - Mt. Vernon Triangle - 2BR w Den 2BA B1493 Unit 901",
-              "DisplayOrder": 0,
-              "MediaId": 33057
-            }
-          ],
-          "Matterports": [],
-          "Zillows": [],
-          "AccordionPhoto": null,
-          "ExcludeFromOll": false,
-          "FurnishAvailable": false,
-          "BestTermFurnished": null,
-          "FurnishedTerms": [],
-          "SpecialAmount": 0
-        },
-        {
-          "LedgerId": "19288",
           "UnitId": "305",
           "BuildingId": "401",
           "AvailableDate": "7/20/2024",
           "BestTerm": {
             "Length": 12,
-            "Price": 4357
+            "Price": 4352
           },
           "Terms": [
             {
               "Length": 12,
-              "Price": 4357
+              "Price": 4352
             },
             {
               "Length": 11,
-              "Price": 4757
+              "Price": 4752
             },
             {
               "Length": 10,
-              "Price": 4757
+              "Price": 4752
             },
             {
               "Length": 9,
-              "Price": 4957
+              "Price": 4947
             },
             {
               "Length": 8,
-              "Price": 4957
+              "Price": 4947
             },
             {
               "Length": 7,
-              "Price": 5152
+              "Price": 5147
             },
             {
               "Length": 6,
-              "Price": 5152
+              "Price": 5147
             },
             {
               "Length": 5,
-              "Price": 5352
+              "Price": 5347
             },
             {
               "Length": 4,
-              "Price": 5352
+              "Price": 5347
             },
             {
               "Length": 3,
-              "Price": 5472
+              "Price": 5467
             }
           ],
           "SqFt": 1740,
@@ -4057,9 +4018,9 @@
             }
           ],
           "Special": {
-            "Active": false,
-            "Title": null,
-            "Expires": null
+            "Active": true,
+            "Title": "Get up to a half month free on new homes! Offer available to new residents only.",
+            "Expires": "8/2/2024"
           },
           "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002646-2-2-1740",
           "Photos": [
@@ -4288,9 +4249,9 @@
             }
           ],
           "Special": {
-            "Active": false,
-            "Title": null,
-            "Expires": null
+            "Active": true,
+            "Title": "Get up to a half month free on new homes! Offer available to new residents only.",
+            "Expires": "8/2/2024"
           },
           "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002646-2-2-1740",
           "Photos": [
