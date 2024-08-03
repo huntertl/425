@@ -7,6 +7,109 @@
       "AvailableUnits": [
         {
           "LedgerId": "19288",
+          "UnitId": "1013",
+          "BuildingId": "401",
+          "AvailableDate": "9/5/2024",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 2320
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 2320
+            },
+            {
+              "Length": 11,
+              "Price": 2545
+            },
+            {
+              "Length": 10,
+              "Price": 2545
+            },
+            {
+              "Length": 9,
+              "Price": 2660
+            },
+            {
+              "Length": 8,
+              "Price": 2660
+            },
+            {
+              "Length": 7,
+              "Price": 2770
+            },
+            {
+              "Length": 6,
+              "Price": 2770
+            },
+            {
+              "Length": 5,
+              "Price": 2885
+            },
+            {
+              "Length": 4,
+              "Price": 2885
+            },
+            {
+              "Length": 3,
+              "Price": 2950
+            }
+          ],
+          "SqFt": 458,
+          "Bed": 0,
+          "Bath": 1,
+          "FloorplanId": "00002653",
+          "FloorplanName": "Unit 413",
+          "Floor": "Floor 10",
+          "Description": "This Studio home features a fluid living space with two closets, a galley style kitchen, and floor to ceiling windows overlooking our private courtyard.",
+          "Amenities": [
+            {
+              "Name": "Northern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPN"
+            },
+            {
+              "Name": "Smart Home",
+              "Icon": "",
+              "AmenCode": "Z75"
+            },
+            {
+              "Name": "Western Exposure",
+              "Icon": "",
+              "AmenCode": "EXPW"
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002653-0-1-475",
+          "Photos": [],
+          "Videos": [],
+          "Matterports": [],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 0,
+          "FLOOR": null,
+          "COPYTEXT1": "",
+          "COPYTEXT2": "",
+          "COPYTEXT3": "",
+          "UNITFLOORPLAN": "https://media.equityapartments.com/image/upload/w_80,h_80/3938-FP-00002653-0-1-475.jpg",
+          "TECHPACKAGEPDF": "",
+          "AFFORDABLE": " ",
+          "OneTimeMoveInFees": [],
+          "MonthlyRecurringFees": [],
+          "AdditionalOptionsFees": [],
+          "EstimatedMonthlyCosts": []
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "511",
           "BuildingId": "401",
           "AvailableDate": "8/30/2024",
@@ -157,9 +260,9 @@
           "FurnishedTerms": [],
           "SpecialAmount": 0,
           "FLOOR": null,
-          "COPYTEXT1": null,
-          "COPYTEXT2": null,
-          "COPYTEXT3": null,
+          "COPYTEXT1": "",
+          "COPYTEXT2": "",
+          "COPYTEXT3": "",
           "UNITFLOORPLAN": "https://media.equityapartments.com/image/upload/w_80,h_80/3938-FP-00002651-0-1-506.jpg",
           "TECHPACKAGEPDF": "",
           "AFFORDABLE": null,
@@ -516,9 +619,9 @@
           "FurnishedTerms": [],
           "SpecialAmount": 0,
           "FLOOR": null,
-          "COPYTEXT1": null,
-          "COPYTEXT2": null,
-          "COPYTEXT3": null,
+          "COPYTEXT1": "",
+          "COPYTEXT2": "",
+          "COPYTEXT3": "",
           "UNITFLOORPLAN": "https://media.equityapartments.com/image/upload/w_80,h_80/3938-FP-00002653-0-1-475.jpg",
           "TECHPACKAGEPDF": "",
           "AFFORDABLE": null,
@@ -949,9 +1052,9 @@
           "FurnishedTerms": [],
           "SpecialAmount": 0,
           "FLOOR": null,
-          "COPYTEXT1": null,
-          "COPYTEXT2": null,
-          "COPYTEXT3": null,
+          "COPYTEXT1": "",
+          "COPYTEXT2": "",
+          "COPYTEXT3": "",
           "UNITFLOORPLAN": "https://media.equityapartments.com/image/upload/w_80,h_80/3938-FP-378472-0-1-504.jpg",
           "TECHPACKAGEPDF": "",
           "AFFORDABLE": null,
@@ -1378,9 +1481,9 @@
           "FurnishedTerms": [],
           "SpecialAmount": 0,
           "FLOOR": null,
-          "COPYTEXT1": null,
-          "COPYTEXT2": null,
-          "COPYTEXT3": null,
+          "COPYTEXT1": "",
+          "COPYTEXT2": "",
+          "COPYTEXT3": "",
           "UNITFLOORPLAN": "https://media.equityapartments.com/image/upload/w_80,h_80/3938-FP-378474-0-1-558.jpg",
           "TECHPACKAGEPDF": "",
           "AFFORDABLE": null,
@@ -1801,9 +1904,9 @@
           "FurnishedTerms": [],
           "SpecialAmount": 0,
           "FLOOR": null,
-          "COPYTEXT1": null,
-          "COPYTEXT2": null,
-          "COPYTEXT3": null,
+          "COPYTEXT1": "",
+          "COPYTEXT2": "",
+          "COPYTEXT3": "",
           "UNITFLOORPLAN": "https://media.equityapartments.com/image/upload/w_80,h_80/3938-FP-00002664-0-1-615.jpg",
           "TECHPACKAGEPDF": "",
           "AFFORDABLE": null,
@@ -2224,9 +2327,9 @@
           "FurnishedTerms": [],
           "SpecialAmount": 0,
           "FLOOR": null,
-          "COPYTEXT1": null,
-          "COPYTEXT2": null,
-          "COPYTEXT3": null,
+          "COPYTEXT1": "",
+          "COPYTEXT2": "",
+          "COPYTEXT3": "",
           "UNITFLOORPLAN": "https://media.equityapartments.com/image/upload/w_80,h_80/3938-FP-00002654-0-1-502.jpg",
           "TECHPACKAGEPDF": "",
           "AFFORDABLE": null,
@@ -2647,9 +2750,9 @@
           "FurnishedTerms": [],
           "SpecialAmount": 0,
           "FLOOR": null,
-          "COPYTEXT1": null,
-          "COPYTEXT2": null,
-          "COPYTEXT3": null,
+          "COPYTEXT1": "",
+          "COPYTEXT2": "",
+          "COPYTEXT3": "",
           "UNITFLOORPLAN": "https://media.equityapartments.com/image/upload/w_80,h_80/3938-FP-378473-0-1-545.jpg",
           "TECHPACKAGEPDF": "",
           "AFFORDABLE": null,
@@ -3098,9 +3201,9 @@
           "FurnishedTerms": [],
           "SpecialAmount": 0,
           "FLOOR": null,
-          "COPYTEXT1": null,
-          "COPYTEXT2": null,
-          "COPYTEXT3": null,
+          "COPYTEXT1": "",
+          "COPYTEXT2": "",
+          "COPYTEXT3": "",
           "UNITFLOORPLAN": "https://media.equityapartments.com/image/upload/w_80,h_80/3938-FP-00002655-1-1-655.jpg",
           "TECHPACKAGEPDF": "",
           "AFFORDABLE": null,
@@ -3542,9 +3645,9 @@
           "FurnishedTerms": [],
           "SpecialAmount": 0,
           "FLOOR": null,
-          "COPYTEXT1": null,
-          "COPYTEXT2": null,
-          "COPYTEXT3": null,
+          "COPYTEXT1": "",
+          "COPYTEXT2": "",
+          "COPYTEXT3": "",
           "UNITFLOORPLAN": "https://media.equityapartments.com/image/upload/w_80,h_80/3938-FP-00002655-1-1-655.jpg",
           "TECHPACKAGEPDF": "",
           "AFFORDABLE": null,
@@ -4069,9 +4172,9 @@
           "FurnishedTerms": [],
           "SpecialAmount": 0,
           "FLOOR": null,
-          "COPYTEXT1": null,
-          "COPYTEXT2": null,
-          "COPYTEXT3": null,
+          "COPYTEXT1": "",
+          "COPYTEXT2": "",
+          "COPYTEXT3": "",
           "UNITFLOORPLAN": "https://media.equityapartments.com/image/upload/w_80,h_80/3938-FP-00002647-1-1-702.jpg",
           "TECHPACKAGEPDF": "",
           "AFFORDABLE": null,
@@ -4527,9 +4630,9 @@
           "FurnishedTerms": [],
           "SpecialAmount": 0,
           "FLOOR": null,
-          "COPYTEXT1": null,
-          "COPYTEXT2": null,
-          "COPYTEXT3": null,
+          "COPYTEXT1": "",
+          "COPYTEXT2": "",
+          "COPYTEXT3": "",
           "UNITFLOORPLAN": "https://media.equityapartments.com/image/upload/w_80,h_80/3938-FP-00002287-1-1-823.jpg",
           "TECHPACKAGEPDF": "",
           "AFFORDABLE": "N",
@@ -4961,9 +5064,9 @@
           "FurnishedTerms": [],
           "SpecialAmount": 0,
           "FLOOR": null,
-          "COPYTEXT1": null,
-          "COPYTEXT2": null,
-          "COPYTEXT3": null,
+          "COPYTEXT1": "",
+          "COPYTEXT2": "",
+          "COPYTEXT3": "",
           "UNITFLOORPLAN": "https://media.equityapartments.com/image/upload/w_80,h_80/3938-FP-378478-1-1-773.jpg",
           "TECHPACKAGEPDF": "",
           "AFFORDABLE": null,
@@ -5315,9 +5418,9 @@
           "FurnishedTerms": [],
           "SpecialAmount": 0,
           "FLOOR": null,
-          "COPYTEXT1": null,
-          "COPYTEXT2": null,
-          "COPYTEXT3": null,
+          "COPYTEXT1": "",
+          "COPYTEXT2": "",
+          "COPYTEXT3": "",
           "UNITFLOORPLAN": "https://media.equityapartments.com/image/upload/w_80,h_80/3938-FP-378479-1-1-825.jpg",
           "TECHPACKAGEPDF": "",
           "AFFORDABLE": null,
@@ -5778,9 +5881,9 @@
           "FurnishedTerms": [],
           "SpecialAmount": 0,
           "FLOOR": null,
-          "COPYTEXT1": null,
-          "COPYTEXT2": null,
-          "COPYTEXT3": null,
+          "COPYTEXT1": "",
+          "COPYTEXT2": "",
+          "COPYTEXT3": "",
           "UNITFLOORPLAN": "https://media.equityapartments.com/image/upload/w_80,h_80/3938-FP-00002649-1-1-726.jpg",
           "TECHPACKAGEPDF": "",
           "AFFORDABLE": null,
@@ -6212,9 +6315,9 @@
           "FurnishedTerms": [],
           "SpecialAmount": 0,
           "FLOOR": null,
-          "COPYTEXT1": null,
-          "COPYTEXT2": null,
-          "COPYTEXT3": null,
+          "COPYTEXT1": "",
+          "COPYTEXT2": "",
+          "COPYTEXT3": "",
           "UNITFLOORPLAN": "https://media.equityapartments.com/image/upload/w_80,h_80/3938-FP-378478-1-1-773.jpg",
           "TECHPACKAGEPDF": "",
           "AFFORDABLE": null,
@@ -6670,9 +6773,9 @@
           "FurnishedTerms": [],
           "SpecialAmount": 0,
           "FLOOR": null,
-          "COPYTEXT1": null,
-          "COPYTEXT2": null,
-          "COPYTEXT3": null,
+          "COPYTEXT1": "",
+          "COPYTEXT2": "",
+          "COPYTEXT3": "",
           "UNITFLOORPLAN": "https://media.equityapartments.com/image/upload/w_80,h_80/3938-FP-00002287-1-1-823.jpg",
           "TECHPACKAGEPDF": "",
           "AFFORDABLE": "N",
@@ -7197,9 +7300,9 @@
           "FurnishedTerms": [],
           "SpecialAmount": 0,
           "FLOOR": null,
-          "COPYTEXT1": null,
-          "COPYTEXT2": null,
-          "COPYTEXT3": null,
+          "COPYTEXT1": "",
+          "COPYTEXT2": "",
+          "COPYTEXT3": "",
           "UNITFLOORPLAN": "https://media.equityapartments.com/image/upload/w_80,h_80/3938-FP-00002647-1-1-702.jpg",
           "TECHPACKAGEPDF": "",
           "AFFORDABLE": "N",
@@ -7551,9 +7654,9 @@
           "FurnishedTerms": [],
           "SpecialAmount": 0,
           "FLOOR": null,
-          "COPYTEXT1": null,
-          "COPYTEXT2": null,
-          "COPYTEXT3": null,
+          "COPYTEXT1": "",
+          "COPYTEXT2": "",
+          "COPYTEXT3": "",
           "UNITFLOORPLAN": "https://media.equityapartments.com/image/upload/w_80,h_80/3938-FP-378479-1-1-825.jpg",
           "TECHPACKAGEPDF": "",
           "AFFORDABLE": null,
@@ -7915,9 +8018,9 @@
           "FurnishedTerms": [],
           "SpecialAmount": 0,
           "FLOOR": null,
-          "COPYTEXT1": null,
-          "COPYTEXT2": null,
-          "COPYTEXT3": null,
+          "COPYTEXT1": "",
+          "COPYTEXT2": "",
+          "COPYTEXT3": "",
           "UNITFLOORPLAN": "https://media.equityapartments.com/image/upload/w_80,h_80/3938-FP-00002662-1-1-911.jpg",
           "TECHPACKAGEPDF": "",
           "AFFORDABLE": null,
@@ -8274,9 +8377,9 @@
           "FurnishedTerms": [],
           "SpecialAmount": 0,
           "FLOOR": null,
-          "COPYTEXT1": null,
-          "COPYTEXT2": null,
-          "COPYTEXT3": null,
+          "COPYTEXT1": "",
+          "COPYTEXT2": "",
+          "COPYTEXT3": "",
           "UNITFLOORPLAN": "https://media.equityapartments.com/image/upload/w_80,h_80/3938-FP-382442-1-2-1052.jpg",
           "TECHPACKAGEPDF": "",
           "AFFORDABLE": "N",
@@ -8766,9 +8869,9 @@
           "FurnishedTerms": [],
           "SpecialAmount": 0,
           "FLOOR": null,
-          "COPYTEXT1": null,
-          "COPYTEXT2": null,
-          "COPYTEXT3": null,
+          "COPYTEXT1": "",
+          "COPYTEXT2": "",
+          "COPYTEXT3": "",
           "UNITFLOORPLAN": "https://media.equityapartments.com/image/upload/w_80,h_80/3938-FP-378476-1-1-638.jpg",
           "TECHPACKAGEPDF": "",
           "AFFORDABLE": "N",
@@ -9234,9 +9337,9 @@
           "FurnishedTerms": [],
           "SpecialAmount": 0,
           "FLOOR": null,
-          "COPYTEXT1": null,
-          "COPYTEXT2": null,
-          "COPYTEXT3": null,
+          "COPYTEXT1": "",
+          "COPYTEXT2": "",
+          "COPYTEXT3": "",
           "UNITFLOORPLAN": "https://media.equityapartments.com/image/upload/w_80,h_80/3938-FP-378480-1-2-979.jpg",
           "TECHPACKAGEPDF": "",
           "AFFORDABLE": null,
@@ -9500,6 +9603,142 @@
               "AMOUNT": "$3625"
             }
           ]
+        },
+        {
+          "LedgerId": "19288",
+          "UnitId": "301",
+          "BuildingId": "401",
+          "AvailableDate": "9/13/2024",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 3502
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 3502
+            },
+            {
+              "Length": 11,
+              "Price": 3822
+            },
+            {
+              "Length": 10,
+              "Price": 3822
+            },
+            {
+              "Length": 9,
+              "Price": 3982
+            },
+            {
+              "Length": 8,
+              "Price": 3982
+            },
+            {
+              "Length": 7,
+              "Price": 4142
+            },
+            {
+              "Length": 6,
+              "Price": 4142
+            },
+            {
+              "Length": 5,
+              "Price": 4302
+            },
+            {
+              "Length": 4,
+              "Price": 4302
+            },
+            {
+              "Length": 3,
+              "Price": 4397
+            }
+          ],
+          "SqFt": 1050,
+          "Bed": 1,
+          "Bath": 1,
+          "FloorplanId": "00002642",
+          "FloorplanName": "Unit 401",
+          "Floor": "Floor 3",
+          "Description": "This 1 Bed with Den/ 2 Bath corner home offers an open style kitchen and breakfast bar, floor to ceiling windows and a balcony off of the living room. The bedroom features a large closet and en-suite bathroom with stand-in shower.",
+          "Amenities": [
+            {
+              "Name": "Balcony",
+              "Icon": "",
+              "AmenCode": "U08"
+            },
+            {
+              "Name": "Smart Home",
+              "Icon": "",
+              "AmenCode": "Z75"
+            },
+            {
+              "Name": "Southern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPS"
+            }
+          ],
+          "Special": {
+            "Active": false,
+            "Title": null,
+            "Expires": null
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002642-1-2-985",
+          "Photos": [
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-Unit404FP-9/425-mass-apartments-404fp",
+              "Alt": "425 Mass Apartments - 401FP",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 199988,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Views from the Balcony",
+              "DisplayOrder": 12,
+              "MediaId": 14117
+            }
+          ],
+          "Videos": [
+            {
+              "Key": "u1a4XMo7Ql0",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "425 Mass Apartments - Mt. Vernon Triangle - Unit 401",
+              "DisplayOrder": 0,
+              "MediaId": 33060
+            },
+            {
+              "Key": "P950peKT7lY",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "425 Mass Apartments - Mt. Vernon Triangle - Unit 401 Apt 401 401",
+              "DisplayOrder": 0,
+              "MediaId": 33061
+            }
+          ],
+          "Matterports": [],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 0,
+          "FLOOR": null,
+          "COPYTEXT1": "",
+          "COPYTEXT2": "",
+          "COPYTEXT3": "",
+          "UNITFLOORPLAN": "https://media.equityapartments.com/image/upload/w_80,h_80/3938-FP-00002642-1-1-985.jpg",
+          "TECHPACKAGEPDF": "",
+          "AFFORDABLE": "N",
+          "OneTimeMoveInFees": [],
+          "MonthlyRecurringFees": [],
+          "AdditionalOptionsFees": [],
+          "EstimatedMonthlyCosts": []
         }
       ]
     },
@@ -9784,9 +10023,9 @@
           "FurnishedTerms": [],
           "SpecialAmount": 0,
           "FLOOR": null,
-          "COPYTEXT1": null,
-          "COPYTEXT2": null,
-          "COPYTEXT3": null,
+          "COPYTEXT1": "",
+          "COPYTEXT2": "",
+          "COPYTEXT3": "",
           "UNITFLOORPLAN": "https://media.equityapartments.com/image/upload/w_80,h_80/3938-FP-378485-2-2-1340.jpg",
           "TECHPACKAGEPDF": "",
           "AFFORDABLE": null,
@@ -10168,9 +10407,9 @@
           "FurnishedTerms": [],
           "SpecialAmount": 0,
           "FLOOR": null,
-          "COPYTEXT1": null,
-          "COPYTEXT2": null,
-          "COPYTEXT3": null,
+          "COPYTEXT1": "",
+          "COPYTEXT2": "",
+          "COPYTEXT3": "",
           "UNITFLOORPLAN": "https://media.equityapartments.com/image/upload/w_80,h_80/3938-FP-00002644-2-2-1284.jpg",
           "TECHPACKAGEPDF": "",
           "AFFORDABLE": null,
@@ -10437,6 +10676,134 @@
         },
         {
           "LedgerId": "19288",
+          "UnitId": "703",
+          "BuildingId": "401",
+          "AvailableDate": "10/4/2024",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 3843
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 3843
+            },
+            {
+              "Length": 11,
+              "Price": 4213
+            },
+            {
+              "Length": 10,
+              "Price": 4213
+            },
+            {
+              "Length": 9,
+              "Price": 4393
+            },
+            {
+              "Length": 8,
+              "Price": 4393
+            },
+            {
+              "Length": 7,
+              "Price": 4578
+            },
+            {
+              "Length": 6,
+              "Price": 4578
+            },
+            {
+              "Length": 5,
+              "Price": 4763
+            },
+            {
+              "Length": 4,
+              "Price": 4763
+            },
+            {
+              "Length": 3,
+              "Price": 4873
+            }
+          ],
+          "SqFt": 1284,
+          "Bed": 2,
+          "Bath": 2,
+          "FloorplanId": "00002644",
+          "FloorplanName": "Unit 403",
+          "Floor": "Floor 7",
+          "Description": "This 2 Bed with Den/ 2.5 Bath home offers an open style kitchen and breakfast bar that is perfect for entertaining, a powder room, and plenty of closet space.",
+          "Amenities": [
+            {
+              "Name": "Balcony",
+              "Icon": "",
+              "AmenCode": "U08"
+            },
+            {
+              "Name": "Smart Home",
+              "Icon": "",
+              "AmenCode": "Z75"
+            },
+            {
+              "Name": "Southern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPS"
+            }
+          ],
+          "Special": {
+            "Active": true,
+            "Title": "Get up to a half month free on new homes! Offer available to new residents only.",
+            "Expires": "8/15/2024"
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002644-2-2-1284",
+          "Photos": [
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-401FP-6/425-mass-apartments-401fp",
+              "Alt": "425 Mass Apartments - 401FP",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 189478,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Views from the Balcony",
+              "DisplayOrder": 0,
+              "MediaId": 14116
+            }
+          ],
+          "Videos": [],
+          "Matterports": [
+            {
+              "Key": "ncbBUPbUA7j",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "3D Floorplan",
+              "DisplayOrder": 0,
+              "MediaId": 36311
+            }
+          ],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 0,
+          "FLOOR": null,
+          "COPYTEXT1": "",
+          "COPYTEXT2": "",
+          "COPYTEXT3": "",
+          "UNITFLOORPLAN": "https://media.equityapartments.com/image/upload/w_80,h_80/3938-FP-00002644-2-2-1284.jpg",
+          "TECHPACKAGEPDF": "",
+          "AFFORDABLE": " ",
+          "OneTimeMoveInFees": [],
+          "MonthlyRecurringFees": [],
+          "AdditionalOptionsFees": [],
+          "EstimatedMonthlyCosts": []
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "401",
           "BuildingId": "425",
           "AvailableDate": "8/3/2024",
@@ -10552,9 +10919,9 @@
           "FurnishedTerms": [],
           "SpecialAmount": 0,
           "FLOOR": null,
-          "COPYTEXT1": null,
-          "COPYTEXT2": null,
-          "COPYTEXT3": null,
+          "COPYTEXT1": "",
+          "COPYTEXT2": "",
+          "COPYTEXT3": "",
           "UNITFLOORPLAN": "https://media.equityapartments.com/image/upload/w_80,h_80/3938-FP-378487-2-2-1493.jpg",
           "TECHPACKAGEPDF": "",
           "AFFORDABLE": "N",
@@ -11050,9 +11417,9 @@
           "FurnishedTerms": [],
           "SpecialAmount": 0,
           "FLOOR": null,
-          "COPYTEXT1": null,
-          "COPYTEXT2": null,
-          "COPYTEXT3": null,
+          "COPYTEXT1": "",
+          "COPYTEXT2": "",
+          "COPYTEXT3": "",
           "UNITFLOORPLAN": "https://media.equityapartments.com/image/upload/w_80,h_80/3938-FP-00002646-2-2-1740.jpg",
           "TECHPACKAGEPDF": "",
           "AFFORDABLE": null,
