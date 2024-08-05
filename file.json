@@ -2006,6 +2006,429 @@
         },
         {
           "LedgerId": "19288",
+          "UnitId": "105",
+          "BuildingId": "401",
+          "AvailableDate": "8/15/2024",
+          "BestTerm": {
+            "Length": 12,
+            "Price": 2415
+          },
+          "Terms": [
+            {
+              "Length": 12,
+              "Price": 2415
+            },
+            {
+              "Length": 11,
+              "Price": 2635
+            },
+            {
+              "Length": 10,
+              "Price": 2635
+            },
+            {
+              "Length": 9,
+              "Price": 2745
+            },
+            {
+              "Length": 8,
+              "Price": 2745
+            },
+            {
+              "Length": 7,
+              "Price": 2855
+            },
+            {
+              "Length": 6,
+              "Price": 2855
+            },
+            {
+              "Length": 5,
+              "Price": 2965
+            },
+            {
+              "Length": 4,
+              "Price": 2965
+            },
+            {
+              "Length": 3,
+              "Price": 3030
+            }
+          ],
+          "SqFt": 615,
+          "Bed": 0,
+          "Bath": 1,
+          "FloorplanId": "00002664",
+          "FloorplanName": "Unit 205, 105",
+          "Floor": "Floor 1",
+          "Description": "This Studio/ 1 Bath home is the largest studio home and offers a spacious living area with a galley style kitchen, large walk in closet, stand-in shower in the bathroom and access to a private outdoor patio.",
+          "Amenities": [
+            {
+              "Name": "Eastern Exposure",
+              "Icon": "",
+              "AmenCode": "EXPE"
+            },
+            {
+              "Name": "Private Subterranean Patio",
+              "Icon": "",
+              "AmenCode": "U07"
+            },
+            {
+              "Name": "Smart Home",
+              "Icon": "",
+              "AmenCode": "Z75"
+            }
+          ],
+          "Special": {
+            "Active": true,
+            "Title": "Get up to a half month free on new homes! Offer available to new residents only.",
+            "Expires": "8/15/2024"
+          },
+          "Floorplan": "https://media.equityapartments.com/image/upload/f_auto,q_auto,b_white/3938-FP-00002664-0-1-615",
+          "Photos": [
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-207/425-mass-apartments-bathroom",
+              "Alt": "425 Mass Apartments - Bathroom",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 583238,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Bathroom and In-home Washer and Dryer",
+              "DisplayOrder": 3,
+              "MediaId": 36249
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-206/425-mass-apartments-kitchen",
+              "Alt": "425 Mass Apartments - Kitchen",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 583240,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Kitchen with Stainless Steel Appliances",
+              "DisplayOrder": 1,
+              "MediaId": 36250
+            },
+            {
+              "ImageUrl": "https://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_auto,f_auto/3938-205/425-mass-apartments-studio",
+              "Alt": "425 Mass Apartments - Studio",
+              "CropX": 0,
+              "CropY": 0,
+              "Key": null,
+              "SeoName": null,
+              "Id": 583242,
+              "MediaTags": [
+                "In Unit"
+              ],
+              "Caption": "Studio with Hard Surface Flooring",
+              "DisplayOrder": 2,
+              "MediaId": 36251
+            }
+          ],
+          "Videos": [
+            {
+              "Key": "zWkppFHqDiI",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "425 Mass Apartments - Mt Vernon Triangle - Unit 205:105 Unit 401 - 205",
+              "DisplayOrder": 0,
+              "MediaId": 36194
+            }
+          ],
+          "Matterports": [
+            {
+              "Key": "SVMni473rYX",
+              "Id": 0,
+              "MediaTags": null,
+              "Caption": "3D Floorplan",
+              "DisplayOrder": 0,
+              "MediaId": 36310
+            }
+          ],
+          "Zillows": [],
+          "AccordionPhoto": null,
+          "ExcludeFromOll": false,
+          "FurnishAvailable": false,
+          "BestTermFurnished": null,
+          "FurnishedTerms": [],
+          "SpecialAmount": 0,
+          "FLOOR": null,
+          "COPYTEXT1": null,
+          "COPYTEXT2": null,
+          "COPYTEXT3": null,
+          "UNITFLOORPLAN": "https://media.equityapartments.com/image/upload/w_80,h_80/3938-FP-00002664-0-1-615.jpg",
+          "TECHPACKAGEPDF": "",
+          "AFFORDABLE": " ",
+          "OneTimeMoveInFees": [
+            {
+              "RMPROPID": "19288 ",
+              "CHGCODE": "NRM",
+              "BLDGID": "401",
+              "UNITID": "105   ",
+              "CATEGORY": "One-time Move-in Costs",
+              "CATEGORYSORTBY": 2,
+              "SUBCATEGORY": "Costs Due at Lease Start",
+              "SUBCATEGORYSORTBY": 1,
+              "CHGDESC": "Non-refundable MI Fee",
+              "CHGDESCSORTBY": 3,
+              "CHGSUBDESC": "",
+              "AMOUNT": "$500"
+            },
+            {
+              "RMPROPID": "19288 ",
+              "CHGCODE": "   ",
+              "BLDGID": "401",
+              "UNITID": "105   ",
+              "CATEGORY": "One-time Move-In Costs",
+              "CATEGORYSORTBY": 1,
+              "SUBCATEGORY": "Costs Due at Lease Start",
+              "SUBCATEGORYSORTBY": 2,
+              "CHGDESC": "First Month's Rent",
+              "CHGDESCSORTBY": 5,
+              "CHGSUBDESC": "Amount may be prorated based on move-in date",
+              "AMOUNT": "$2415"
+            },
+            {
+              "RMPROPID": "19288 ",
+              "CHGCODE": "   ",
+              "BLDGID": "401",
+              "UNITID": "105   ",
+              "CATEGORY": "One-time Move-In Costs",
+              "CATEGORYSORTBY": 1,
+              "SUBCATEGORY": "Costs Due at Lease Start",
+              "SUBCATEGORYSORTBY": 2,
+              "CHGDESC": "Security Deposit",
+              "CHGDESCSORTBY": 2,
+              "CHGSUBDESC": "",
+              "AMOUNT": "$250"
+            },
+            {
+              "RMPROPID": "19288 ",
+              "CHGCODE": "APP",
+              "BLDGID": "401",
+              "UNITID": "105   ",
+              "CATEGORY": "One-time Move-in Costs",
+              "CATEGORYSORTBY": 1,
+              "SUBCATEGORY": "Costs Due at Application",
+              "SUBCATEGORYSORTBY": 1,
+              "CHGDESC": "Non-Refundable App Fee",
+              "CHGDESCSORTBY": 1,
+              "CHGSUBDESC": "",
+              "AMOUNT": "$50"
+            }
+          ],
+          "MonthlyRecurringFees": [
+            {
+              "RMPROPID": "19288 ",
+              "CHGCODE": "R17",
+              "BLDGID": "401",
+              "UNITID": "105   ",
+              "CATEGORY": "Monthly Recurring Costs",
+              "CATEGORYSORTBY": 2,
+              "SUBCATEGORY": "Estimated Utilities",
+              "SUBCATEGORYSORTBY": 2,
+              "CHGDESC": "Utility",
+              "CHGDESCSORTBY": 3,
+              "CHGSUBDESC": "Estimated utility amounts shown are based on 12 month trailing average and may vary based on season, household size, and other factors.",
+              "AMOUNT": null
+            },
+            {
+              "RMPROPID": "19288 ",
+              "CHGCODE": "RU1",
+              "BLDGID": "401",
+              "UNITID": "105   ",
+              "CATEGORY": "Monthly Recurring Costs",
+              "CATEGORYSORTBY": 2,
+              "SUBCATEGORY": "Estimated Utilities",
+              "SUBCATEGORYSORTBY": 2,
+              "CHGDESC": "Water",
+              "CHGDESCSORTBY": 3,
+              "CHGSUBDESC": "Estimated utility amounts shown are based on 12 month trailing average and may vary based on season, household size, and other factors.",
+              "AMOUNT": "$39"
+            },
+            {
+              "RMPROPID": "19288 ",
+              "CHGCODE": "RU2",
+              "BLDGID": "401",
+              "UNITID": "105   ",
+              "CATEGORY": "Monthly Recurring Costs",
+              "CATEGORYSORTBY": 2,
+              "SUBCATEGORY": "Estimated Utilities",
+              "SUBCATEGORYSORTBY": 2,
+              "CHGDESC": "Sewer",
+              "CHGDESCSORTBY": 3,
+              "CHGSUBDESC": "Estimated utility amounts shown are based on 12 month trailing average and may vary based on season, household size, and other factors.",
+              "AMOUNT": "$66"
+            },
+            {
+              "RMPROPID": "19288 ",
+              "CHGCODE": "RU3",
+              "BLDGID": "401",
+              "UNITID": "105   ",
+              "CATEGORY": "Monthly Recurring Costs",
+              "CATEGORYSORTBY": 2,
+              "SUBCATEGORY": "Estimated Utilities",
+              "SUBCATEGORYSORTBY": 2,
+              "CHGDESC": "Trash",
+              "CHGDESCSORTBY": 3,
+              "CHGSUBDESC": "Estimated utility amounts shown are based on 12 month trailing average and may vary based on season, household size, and other factors.",
+              "AMOUNT": "$25"
+            },
+            {
+              "RMPROPID": "19288 ",
+              "CHGCODE": "RU4",
+              "BLDGID": "401",
+              "UNITID": "105   ",
+              "CATEGORY": "Monthly Recurring Costs",
+              "CATEGORYSORTBY": 2,
+              "SUBCATEGORY": "Estimated Utilities",
+              "SUBCATEGORYSORTBY": 2,
+              "CHGDESC": "Utility Admin Fee",
+              "CHGDESCSORTBY": 3,
+              "CHGSUBDESC": "Estimated utility amounts shown are based on 12 month trailing average and may vary based on season, household size, and other factors.",
+              "AMOUNT": "$5"
+            },
+            {
+              "RMPROPID": "19288 ",
+              "CHGCODE": "RU5",
+              "BLDGID": "401",
+              "UNITID": "105   ",
+              "CATEGORY": "Monthly Recurring Costs",
+              "CATEGORYSORTBY": 2,
+              "SUBCATEGORY": "Estimated Utilities",
+              "SUBCATEGORYSORTBY": 2,
+              "CHGDESC": "Gas/Central Boiler",
+              "CHGDESCSORTBY": 3,
+              "CHGSUBDESC": "Estimated utility amounts shown are based on 12 month trailing average and may vary based on season, household size, and other factors.",
+              "AMOUNT": "$108"
+            },
+            {
+              "RMPROPID": "19288 ",
+              "CHGCODE": "RU9",
+              "BLDGID": "401",
+              "UNITID": "105   ",
+              "CATEGORY": "Monthly Recurring Costs",
+              "CATEGORYSORTBY": 2,
+              "SUBCATEGORY": "Estimated Utilities",
+              "SUBCATEGORYSORTBY": 2,
+              "CHGDESC": "Pest",
+              "CHGDESCSORTBY": 3,
+              "CHGSUBDESC": "Estimated utility amounts shown are based on 12 month trailing average and may vary based on season, household size, and other factors.",
+              "AMOUNT": "$2"
+            },
+            {
+              "RMPROPID": "19288 ",
+              "CHGCODE": "TEC",
+              "BLDGID": "401",
+              "UNITID": "105   ",
+              "CATEGORY": "Monthly Recurring Costs",
+              "CATEGORYSORTBY": 2,
+              "SUBCATEGORY": "Recurring",
+              "SUBCATEGORYSORTBY": 3,
+              "CHGDESC": "Monthly Tech Package",
+              "CHGDESCSORTBY": 3,
+              "CHGSUBDESC": "",
+              "AMOUNT": "$20"
+            },
+            {
+              "RMPROPID": "19288 ",
+              "CHGCODE": "   ",
+              "BLDGID": "401",
+              "UNITID": "105   ",
+              "CATEGORY": "Monthly Recurring Costs",
+              "CATEGORYSORTBY": 2,
+              "SUBCATEGORY": "Monthly Apartment Rent",
+              "SUBCATEGORYSORTBY": 1,
+              "CHGDESC": "Monthly Apartment Rent",
+              "CHGDESCSORTBY": 0,
+              "CHGSUBDESC": "",
+              "AMOUNT": "$2415"
+            }
+          ],
+          "AdditionalOptionsFees": [
+            {
+              "RMPROPID": "19288 ",
+              "CHGCODE": "ST1",
+              "BLDGID": "401",
+              "UNITID": "105   ",
+              "CATEGORY": "Additional Options",
+              "CATEGORYSORTBY": 3,
+              "SUBCATEGORY": "",
+              "SUBCATEGORYSORTBY": 4,
+              "CHGDESC": "Storage",
+              "CHGDESCSORTBY": 5,
+              "CHGSUBDESC": "",
+              "AMOUNT": "$35 - $175"
+            },
+            {
+              "RMPROPID": "19288 ",
+              "CHGCODE": "PA ",
+              "BLDGID": "401",
+              "UNITID": "105   ",
+              "CATEGORY": "Additional Options",
+              "CATEGORYSORTBY": 3,
+              "SUBCATEGORY": "",
+              "SUBCATEGORYSORTBY": 4,
+              "CHGDESC": "Parking",
+              "CHGDESCSORTBY": 4,
+              "CHGSUBDESC": "",
+              "AMOUNT": "$225 - $310"
+            },
+            {
+              "RMPROPID": "19288 ",
+              "CHGCODE": "PET",
+              "BLDGID": "401",
+              "UNITID": "105   ",
+              "CATEGORY": "Additional Options",
+              "CATEGORYSORTBY": 2,
+              "SUBCATEGORY": "",
+              "SUBCATEGORYSORTBY": 3,
+              "CHGDESC": "Pet - Cat",
+              "CHGDESCSORTBY": 3,
+              "CHGSUBDESC": "",
+              "AMOUNT": "$50"
+            },
+            {
+              "RMPROPID": "19288 ",
+              "CHGCODE": "PT1",
+              "BLDGID": "401",
+              "UNITID": "105   ",
+              "CATEGORY": "Additional Options",
+              "CATEGORYSORTBY": 2,
+              "SUBCATEGORY": "",
+              "SUBCATEGORYSORTBY": 3,
+              "CHGDESC": "Pet - Dog",
+              "CHGDESCSORTBY": 3,
+              "CHGSUBDESC": "",
+              "AMOUNT": "$65"
+            }
+          ],
+          "EstimatedMonthlyCosts": [
+            {
+              "RMPROPID": "19288 ",
+              "CHGCODE": "   ",
+              "BLDGID": "401",
+              "UNITID": "105   ",
+              "CATEGORY": "Estimated Monthly Costs",
+              "CATEGORYSORTBY": 2,
+              "SUBCATEGORY": "",
+              "SUBCATEGORYSORTBY": 0,
+              "CHGDESC": "",
+              "CHGDESCSORTBY": 0,
+              "CHGSUBDESC": "Estimated monthly total does not include additional options.",
+              "AMOUNT": "$2680"
+            }
+          ]
+        },
+        {
+          "LedgerId": "19288",
           "UnitId": "PH214",
           "BuildingId": "401",
           "AvailableDate": "9/6/2024",
